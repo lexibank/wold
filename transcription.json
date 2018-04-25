@@ -1,286 +1,286 @@
 {
     "by_language": {
-        "wold-archi": {
+        "1": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-bezhta": {
+        "10": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-ceqwong": {
+        "11": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-dutch": {
+        "12": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-english": {
+        "13": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-gawwada": {
+        "14": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-gurindji": {
+        "15": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-hausa": {
+        "16": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-hawaiian": {
+        "17": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-hup": {
+        "18": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-imbaburaquechua": {
+        "19": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-indonesian": {
+        "2": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-iraqw": {
+        "20": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-japanese": {
+        "21": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-kalina": {
+        "22": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-kanuri": {
+        "23": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-ket": {
+        "24": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-kildinsaami": {
+        "25": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-lowersorbian": {
+        "26": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-malagasy": {
+        "27": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-manange": {
+        "28": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-mandarinchinese": {
+        "29": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-mapudungun": {
+        "3": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-oldhighgerman": {
+        "30": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-oroqen": {
+        "31": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-otomi": {
+        "32": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-qeqchi": {
+        "33": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-romanian": {
+        "34": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-sakha": {
+        "35": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-saramaccan": {
+        "36": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-seliceromani": {
+        "37": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-seychellescreole": {
+        "38": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-swahili": {
+        "39": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-takia": {
+        "4": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-tarifiytberber": {
+        "40": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-thai": {
+        "41": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-vietnamese": {
+        "5": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-whitehmong": {
+        "6": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-wichi": {
+        "7": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-yaqui": {
+        "8": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
             "replacements": {},
             "segments": {}
         },
-        "wold-zinacantantzotzil": {
+        "9": {
             "clpa_errors": [],
             "general_errors": 0,
             "lingpy_errors": [],
@@ -295,607 +295,607 @@
         "general_errors": 0,
         "invalid_words": [
             [
-                "wold-1",
-                "wold-iraqw",
-                "wold-11",
+                "1",
+                "1",
+                "1-1",
+                "dunia"
+            ],
+            [
+                "10",
+                "9",
+                "1-1",
+                "vil\u00e1go"
+            ],
+            [
+                "100",
+                "2",
+                "1-212",
+                "hhapee"
+            ],
+            [
+                "11",
+                "10",
+                "1-1",
+                "sw\u011bt"
+            ],
+            [
+                "12",
+                "11",
+                "1-1",
+                "weralt"
+            ],
+            [
+                "13",
+                "12",
+                "1-1",
+                "wereld"
+            ],
+            [
+                "14",
+                "13",
+                "1-1",
+                "world"
+            ],
+            [
+                "15",
+                "14",
+                "1-1",
+                "\u0113llmannt"
+            ],
+            [
+                "16",
+                "14",
+                "1-1",
+                "m\u0268rr"
+            ],
+            [
+                "17",
+                "15",
+                "1-1",
+                "dunnal"
+            ],
+            [
+                "18",
+                "16",
+                "1-1",
+                "dunil"
+            ],
+            [
+                "19",
+                "17",
+                "1-1",
+                "tzomli\u014b"
+            ],
+            [
+                "2",
+                "1",
+                "1-1",
+                "ulimwengu"
+            ],
+            [
+                "20",
+                "19",
+                "1-1",
+                "a\u02d0n doydu"
+            ],
+            [
+                "21",
+                "20",
+                "1-1",
+                "b\u028a\u0263a\u014bi \u0259lginin"
+            ],
+            [
+                "22",
+                "21",
+                "1-1",
+                "sekai"
+            ],
+            [
+                "23",
+                "21",
+                "1-1",
+                "yo"
+            ],
+            [
+                "24",
+                "22",
+                "1-1",
+                "shi4jie4"
+            ],
+            [
+                "25",
+                "23",
+                "1-1",
+                "l\u00f4ok"
+            ],
+            [
+                "26",
+                "23",
+                "1-1",
+                "l\u00e2a"
+            ],
+            [
+                "27",
+                "23",
+                "1-1",
+                "ph\u0289\u0301\u0289n"
+            ],
+            [
+                "28",
+                "23",
+                "1-1",
+                "ph\u00edph\u00f3p"
+            ],
+            [
+                "29",
+                "23",
+                "1-1",
+                "ph\u00f3p"
+            ],
+            [
+                "3",
+                "2",
+                "1-1",
                 "yaamu"
             ],
             [
-                "wold-10",
-                "wold-iraqw",
-                "wold-123",
-                "xatsa"
+                "30",
+                "24",
+                "1-1",
+                "th\u1ebf gi\u1edbi"
             ],
             [
-                "wold-100",
-                "wold-iraqw",
-                "wold-245",
-                "hho'oo"
+                "31",
+                "25",
+                "1-1",
+                "ntiaj teb"
             ],
             [
-                "wold-11",
-                "wold-iraqw",
-                "wold-124",
-                "duxa"
+                "32",
+                "27",
+                "1-1",
+                "dunia"
             ],
             [
-                "wold-12",
-                "wold-iraqw",
-                "wold-125",
-                "kisiwa"
+                "33",
+                "27",
+                "1-1",
+                "alam"
             ],
             [
-                "wold-13",
-                "wold-iraqw",
-                "wold-126",
-                "bara"
+                "34",
+                "27",
+                "1-1",
+                "jagat"
             ],
             [
-                "wold-14",
-                "wold-iraqw",
-                "wold-127",
-                "afa tlawi"
+                "35",
+                "27",
+                "1-1",
+                "buana"
             ],
             [
-                "wold-15",
-                "wold-iraqw",
-                "wold-128",
-                "mar'i"
+                "36",
+                "28",
+                "1-1",
+                "iz\u00e0o tont\u00f2lo iz\u00e0o"
             ],
             [
-                "wold-16",
-                "wold-iraqw",
-                "wold-131",
-                "ma'ay"
+                "37",
+                "29",
+                "1-1",
+                "tan tlyane-k"
             ],
             [
-                "wold-17",
-                "wold-iraqw",
-                "wold-132",
-                "bahari"
+                "38",
+                "30",
+                "1-1",
+                "honua"
             ],
             [
-                "wold-18",
-                "wold-iraqw",
-                "wold-1324",
-                "slooroo"
+                "39",
+                "32",
+                "1-1",
+                "ania"
             ],
             [
-                "wold-19",
-                "wold-iraqw",
-                "wold-133",
-                "tlawi"
+                "4",
+                "3",
+                "1-1",
+                "\u0294alame"
             ],
             [
-                "wold-2",
-                "wold-iraqw",
-                "wold-121",
+                "40",
+                "33",
+                "1-1",
+                "balamil"
+            ],
+            [
+                "41",
+                "34",
+                "1-1",
+                "ru chi ch\u2019och\u2019"
+            ],
+            [
+                "42",
+                "35",
+                "1-1",
+                "ximha\u0332i"
+            ],
+            [
+                "43",
+                "36",
+                "1-1",
+                "go\u00f3nl\u00edba"
+            ],
+            [
+                "44",
+                "37",
+                "1-1",
+                "pacha mama"
+            ],
+            [
+                "45",
+                "38",
+                "1-1",
+                "nono"
+            ],
+            [
+                "46",
+                "39",
+                "1-1",
+                "j\u2019\u00e1h"
+            ],
+            [
+                "47",
+                "40",
+                "1-1",
+                "hunhat"
+            ],
+            [
+                "48",
+                "41",
+                "1-1",
+                "mapu"
+            ],
+            [
+                "49",
+                "1",
+                "1-21",
+                "nchi kavu"
+            ],
+            [
+                "5",
+                "4",
+                "1-1",
+                "d\u00faun\u00edy\u00e0a"
+            ],
+            [
+                "50",
+                "2",
+                "1-21",
                 "hhapee"
             ],
             [
-                "wold-20",
-                "wold-iraqw",
-                "wold-135",
-                "gwaanda"
+                "51",
+                "3",
+                "1-21",
+                "piye"
             ],
             [
-                "wold-21",
-                "wold-iraqw",
-                "wold-136",
-                "ya'ee"
+                "52",
+                "4",
+                "1-21",
+                "\u0199\u00e1s\u00e1a"
             ],
             [
-                "wold-22",
-                "wold-iraqw",
-                "wold-1362",
-                "dahhsani"
+                "53",
+                "5",
+                "1-21",
+                "c\u00edd\u00ed"
             ],
             [
-                "wold-23",
-                "wold-iraqw",
-                "wold-137",
-                "tsinqa"
+                "54",
+                "5",
+                "1-21",
+                "l\u00e1rd\u0259\u0300"
             ],
             [
-                "wold-24",
-                "wold-iraqw",
-                "wold-137",
-                "hhalangw"
+                "55",
+                "6",
+                "1-21",
+                "\u0167ammua\u2019\u0167"
             ],
             [
-                "wold-25",
-                "wold-iraqw",
-                "wold-138",
-                "naa"
+                "56",
+                "7",
+                "1-21",
+                "later"
             ],
             [
-                "wold-26",
-                "wold-iraqw",
-                "wold-138",
-                "ari"
+                "57",
+                "8",
+                "1-21",
+                "\u0163ar\u0103"
             ],
             [
-                "wold-27",
-                "wold-iraqw",
-                "wold-138",
-                "xatsa"
+                "58",
+                "9",
+                "1-21",
+                "ph\u00fa"
             ],
             [
-                "wold-28",
-                "wold-iraqw",
-                "wold-139",
-                "hhahh\u00e1y"
+                "59",
+                "10",
+                "1-21",
+                "land"
             ],
             [
-                "wold-29",
-                "wold-iraqw",
-                "wold-141",
-                "gara"
+                "6",
+                "5",
+                "1-1",
+                "d\u00fany\u00e2"
             ],
             [
-                "wold-3",
-                "wold-iraqw",
-                "wold-1212",
-                "hhapee"
+                "60",
+                "10",
+                "1-21",
+                "kraj"
             ],
             [
-                "wold-30",
-                "wold-iraqw",
-                "wold-143",
-                "xa'noo"
+                "61",
+                "11",
+                "1-21",
+                "lant"
             ],
             [
-                "wold-31",
-                "wold-iraqw",
-                "wold-144",
-                "tlaa"
+                "62",
+                "12",
+                "1-21",
+                "land"
             ],
             [
-                "wold-32",
-                "wold-iraqw",
-                "wold-144",
-                "a"
+                "63",
+                "13",
+                "1-21",
+                "land"
             ],
             [
-                "wold-33",
-                "wold-iraqw",
-                "wold-145",
-                "kuunseeli"
+                "64",
+                "14",
+                "1-21",
+                "j\u0113mm\u2019n\u2019e"
             ],
             [
-                "wold-34",
-                "wold-iraqw",
-                "wold-151",
-                "doori"
+                "65",
+                "15",
+                "1-21",
+                "ra\u019b\u2019"
             ],
             [
-                "wold-35",
-                "wold-iraqw",
-                "wold-152",
-                "loo'aa"
+                "66",
+                "15",
+                "1-21",
+                "ulka"
             ],
             [
-                "wold-36",
-                "wold-iraqw",
-                "wold-153",
-                "slahhaangw"
+                "67",
+                "16",
+                "1-21",
+                "naq'\u02b7"
             ],
             [
-                "wold-37",
-                "wold-iraqw",
-                "wold-154",
-                "tsatsa"
+                "68",
+                "17",
+                "1-21",
+                "1s\u028c"
             ],
             [
-                "wold-38",
-                "wold-iraqw",
-                "wold-155",
-                "mankari"
+                "69",
+                "18",
+                "1-21",
+                "ba\u02c0\u014b"
             ],
             [
-                "wold-39",
-                "wold-iraqw",
-                "wold-156",
-                "kwara"
+                "7",
+                "6",
+                "1-1",
+                "dd\u0259nya"
             ],
             [
-                "wold-4",
-                "wold-iraqw",
-                "wold-1213",
-                "teeri"
+                "70",
+                "19",
+                "1-21",
+                "sir"
             ],
             [
-                "wold-40",
-                "wold-iraqw",
-                "wold-156",
-                "a"
+                "71",
+                "20",
+                "1-21",
+                "tur"
             ],
             [
-                "wold-41",
-                "wold-iraqw",
-                "wold-157",
-                "mankari"
+                "72",
+                "21",
+                "1-21",
+                "tairiku"
             ],
             [
-                "wold-42",
-                "wold-iraqw",
-                "wold-158",
-                "bambaa'o"
+                "73",
+                "21",
+                "1-21",
+                "rikuchi"
             ],
             [
-                "wold-43",
-                "wold-iraqw",
-                "wold-159",
-                "ga"
+                "74",
+                "21",
+                "1-21",
+                "riku"
             ],
             [
-                "wold-44",
-                "wold-iraqw",
-                "wold-159",
-                "al\u00e9r tluway"
+                "75",
+                "22",
+                "1-21",
+                "tu3di4"
             ],
             [
-                "wold-45",
-                "wold-iraqw",
-                "wold-161",
-                "gwa"
+                "76",
+                "22",
+                "1-21",
+                "lu4di4"
             ],
             [
-                "wold-46",
-                "wold-iraqw",
-                "wold-161",
-                "atamaye"
+                "77",
+                "23",
+                "1-21",
+                "b\u00f2k"
             ],
             [
-                "wold-47",
-                "wold-iraqw",
-                "wold-162",
-                "giwti"
+                "78",
+                "24",
+                "1-21",
+                "\u0111\u1ea5t"
             ],
             [
-                "wold-48",
-                "wold-iraqw",
-                "wold-163",
-                "mahh\u00e1t"
+                "79",
+                "25",
+                "1-21",
+                "teb"
             ],
             [
-                "wold-49",
-                "wold-iraqw",
-                "wold-164",
-                "hara'"
+                "8",
+                "7",
+                "1-1",
+                "lemonn"
             ],
             [
-                "wold-5",
-                "wold-iraqw",
-                "wold-1214",
-                "baa"
+                "80",
+                "26",
+                "1-21",
+                "t\u025b\u0294"
             ],
             [
-                "wold-50",
-                "wold-iraqw",
-                "wold-171",
-                "doori"
+                "81",
+                "27",
+                "1-21",
+                "darat"
             ],
             [
-                "wold-51",
-                "wold-iraqw",
-                "wold-172",
-                "fur'aa"
+                "82",
+                "27",
+                "1-21",
+                "tanah"
             ],
             [
-                "wold-52",
-                "wold-iraqw",
-                "wold-173",
-                "huunk\u00e1y"
+                "83",
+                "27",
+                "1-21",
+                "bumi"
             ],
             [
-                "wold-53",
-                "wold-iraqw",
-                "wold-174",
-                "tlang\u00ed"
+                "84",
+                "28",
+                "1-21",
+                "t\u00e0ny"
             ],
             [
-                "wold-54",
-                "wold-iraqw",
-                "wold-175",
-                "tluway"
+                "85",
+                "29",
+                "1-21",
+                "tan"
             ],
             [
-                "wold-55",
-                "wold-iraqw",
-                "wold-177",
-                "barafu"
+                "86",
+                "30",
+                "1-21",
+                "`\u0101ina"
             ],
             [
-                "wold-56",
-                "wold-iraqw",
-                "wold-177",
-                "daqtam\u00f3"
+                "87",
+                "31",
+                "1-21",
+                "ngurra"
             ],
             [
-                "wold-57",
-                "wold-iraqw",
-                "wold-178",
-                "hali ya hewa"
+                "88",
+                "32",
+                "1-21",
+                "bwia"
             ],
             [
-                "wold-58",
-                "wold-iraqw",
-                "wold-181",
-                "asla"
+                "89",
+                "33",
+                "1-21",
+                "balamil"
             ],
             [
-                "wold-59",
-                "wold-iraqw",
-                "wold-182",
-                "tsaangw"
+                "9",
+                "8",
+                "1-1",
+                "lume"
             ],
             [
-                "wold-6",
-                "wold-iraqw",
-                "wold-1214",
-                "i"
+                "90",
+                "33",
+                "1-21",
+                "7osil"
             ],
             [
-                "wold-60",
-                "wold-iraqw",
-                "wold-183",
-                "quu\u2019i"
+                "91",
+                "34",
+                "1-21",
+                "ch\u2019och\u2019"
             ],
             [
-                "wold-61",
-                "wold-iraqw",
-                "wold-184",
-                "da"
+                "92",
+                "35",
+                "1-21",
+                "hai"
             ],
             [
-                "wold-62",
-                "wold-iraqw",
-                "wold-184",
-                "ara"
+                "93",
+                "36",
+                "1-21",
+                "t\u00e9la"
             ],
             [
-                "wold-63",
-                "wold-iraqw",
-                "wold-1841",
-                "gil'oo"
+                "94",
+                "37",
+                "1-21",
+                "allpa"
             ],
             [
-                "wold-64",
-                "wold-iraqw",
-                "wold-1851",
-                "daa"
+                "95",
+                "38",
+                "1-21",
+                "nono"
             ],
             [
-                "wold-65",
-                "wold-iraqw",
-                "wold-1852",
-                "ooh"
+                "96",
+                "39",
+                "1-21",
+                "j\u2019\u00e1h"
             ],
             [
-                "wold-66",
-                "wold-iraqw",
-                "wold-186",
-                "oohiis"
+                "97",
+                "40",
+                "1-21",
+                "hunhat"
             ],
             [
-                "wold-67",
-                "wold-iraqw",
-                "wold-1861",
-                "gaas"
+                "98",
+                "41",
+                "1-21",
+                "mapu"
             ],
             [
-                "wold-68",
-                "wold-iraqw",
-                "wold-187",
-                "kibriiti"
-            ],
-            [
-                "wold-69",
-                "wold-iraqw",
-                "wold-188",
-                "migir"
-            ],
-            [
-                "wold-7",
-                "wold-iraqw",
-                "wold-1215",
-                "hhasaangw"
-            ],
-            [
-                "wold-70",
-                "wold-iraqw",
-                "wold-189",
-                "xaawi"
-            ],
-            [
-                "wold-71",
-                "wold-iraqw",
-                "wold-21",
-                "hee"
-            ],
-            [
-                "wold-72",
-                "wold-iraqw",
-                "wold-221",
-                "hhawata"
-            ],
-            [
-                "wold-73",
-                "wold-iraqw",
-                "wold-222",
-                "ameeni"
-            ],
-            [
-                "wold-74",
-                "wold-iraqw",
-                "wold-223",
-                "hhawata"
-            ],
-            [
-                "wold-75",
-                "wold-iraqw",
-                "wold-224",
-                "ameeni"
-            ],
-            [
-                "wold-76",
-                "wold-iraqw",
-                "wold-225",
-                "garma"
-            ],
-            [
-                "wold-77",
-                "wold-iraqw",
-                "wold-2251",
-                "masoomba"
-            ],
-            [
-                "wold-78",
-                "wold-iraqw",
-                "wold-226",
-                "dasi"
-            ],
-            [
-                "wold-79",
-                "wold-iraqw",
-                "wold-2261",
-                "deena"
-            ],
-            [
-                "wold-8",
-                "wold-iraqw",
-                "wold-122",
-                "tlooma"
-            ],
-            [
-                "wold-80",
-                "wold-iraqw",
-                "wold-227",
-                "na"
-            ],
-            [
-                "wold-81",
-                "wold-iraqw",
-                "wold-227",
-                "aay"
-            ],
-            [
-                "wold-82",
-                "wold-iraqw",
-                "wold-228",
-                "qawri"
-            ],
-            [
-                "wold-83",
-                "wold-iraqw",
-                "wold-231",
-                "hhawata"
-            ],
-            [
-                "wold-84",
-                "wold-iraqw",
-                "wold-232",
-                "haree"
-            ],
-            [
-                "wold-85",
-                "wold-iraqw",
-                "wold-233",
-                "duux"
-            ],
-            [
-                "wold-86",
-                "wold-iraqw",
-                "wold-234",
-                "duuxoo"
-            ],
-            [
-                "wold-87",
-                "wold-iraqw",
-                "wold-2341",
-                "talaka"
-            ],
-            [
-                "wold-88",
-                "wold-iraqw",
-                "wold-235",
-                "baab\u00e1"
-            ],
-            [
-                "wold-89",
-                "wold-iraqw",
-                "wold-236",
-                "aayo"
-            ],
-            [
-                "wold-9",
-                "wold-iraqw",
-                "wold-1222",
-                "bela"
-            ],
-            [
-                "wold-90",
-                "wold-iraqw",
-                "wold-237",
-                "xwaylitee"
-            ],
-            [
-                "wold-91",
-                "wold-iraqw",
-                "wold-238",
-                "hhawata"
-            ],
-            [
-                "wold-92",
-                "wold-iraqw",
-                "wold-239",
-                "haree"
-            ],
-            [
-                "wold-93",
-                "wold-iraqw",
-                "wold-241",
-                "naangw"
-            ],
-            [
-                "wold-94",
-                "wold-iraqw",
-                "wold-242",
-                "hat"
-            ],
-            [
-                "wold-95",
-                "wold-iraqw",
-                "wold-243",
-                "na"
-            ],
-            [
-                "wold-96",
-                "wold-iraqw",
-                "wold-243",
-                "aay"
-            ],
-            [
-                "wold-97",
-                "wold-iraqw",
-                "wold-244",
-                "hhiya'"
-            ],
-            [
-                "wold-98",
-                "wold-iraqw",
-                "wold-2444",
-                "naanaa"
-            ],
-            [
-                "wold-99",
-                "wold-iraqw",
-                "wold-2445",
-                "hhiyo niina"
+                "99",
+                "1",
+                "1-212",
+                "udongo"
             ]
         ],
-        "invalid_words_count": 64543,
+        "invalid_words_count": 64957,
         "inventory_size": 0.0,
         "lingpy_errors": [],
         "replacements": {},

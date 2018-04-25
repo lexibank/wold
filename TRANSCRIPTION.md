@@ -13,107 +13,107 @@
 ## Unsegmentable lexemes (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM |
-|:---------|:-----------|:----------|:-------------|
-| wold-1 | wold-iraqw | wold-11 | yaamu |
-| wold-10 | wold-iraqw | wold-123 | xatsa |
-| wold-100 | wold-iraqw | wold-245 | hho'oo |
-| wold-11 | wold-iraqw | wold-124 | duxa |
-| wold-12 | wold-iraqw | wold-125 | kisiwa |
-| wold-13 | wold-iraqw | wold-126 | bara |
-| wold-14 | wold-iraqw | wold-127 | afa tlawi |
-| wold-15 | wold-iraqw | wold-128 | mar'i |
-| wold-16 | wold-iraqw | wold-131 | ma'ay |
-| wold-17 | wold-iraqw | wold-132 | bahari |
-| wold-18 | wold-iraqw | wold-1324 | slooroo |
-| wold-19 | wold-iraqw | wold-133 | tlawi |
-| wold-2 | wold-iraqw | wold-121 | hhapee |
-| wold-20 | wold-iraqw | wold-135 | gwaanda |
-| wold-21 | wold-iraqw | wold-136 | ya'ee |
-| wold-22 | wold-iraqw | wold-1362 | dahhsani |
-| wold-23 | wold-iraqw | wold-137 | tsinqa |
-| wold-24 | wold-iraqw | wold-137 | hhalangw |
-| wold-25 | wold-iraqw | wold-138 | naa |
-| wold-26 | wold-iraqw | wold-138 | ari |
-| wold-27 | wold-iraqw | wold-138 | xatsa |
-| wold-28 | wold-iraqw | wold-139 | hhahháy |
-| wold-29 | wold-iraqw | wold-141 | gara |
-| wold-3 | wold-iraqw | wold-1212 | hhapee |
-| wold-30 | wold-iraqw | wold-143 | xa'noo |
-| wold-31 | wold-iraqw | wold-144 | tlaa |
-| wold-32 | wold-iraqw | wold-144 | a |
-| wold-33 | wold-iraqw | wold-145 | kuunseeli |
-| wold-34 | wold-iraqw | wold-151 | doori |
-| wold-35 | wold-iraqw | wold-152 | loo'aa |
-| wold-36 | wold-iraqw | wold-153 | slahhaangw |
-| wold-37 | wold-iraqw | wold-154 | tsatsa |
-| wold-38 | wold-iraqw | wold-155 | mankari |
-| wold-39 | wold-iraqw | wold-156 | kwara |
-| wold-4 | wold-iraqw | wold-1213 | teeri |
-| wold-40 | wold-iraqw | wold-156 | a |
-| wold-41 | wold-iraqw | wold-157 | mankari |
-| wold-42 | wold-iraqw | wold-158 | bambaa'o |
-| wold-43 | wold-iraqw | wold-159 | ga |
-| wold-44 | wold-iraqw | wold-159 | alér tluway |
-| wold-45 | wold-iraqw | wold-161 | gwa |
-| wold-46 | wold-iraqw | wold-161 | atamaye |
-| wold-47 | wold-iraqw | wold-162 | giwti |
-| wold-48 | wold-iraqw | wold-163 | mahhát |
-| wold-49 | wold-iraqw | wold-164 | hara' |
-| wold-5 | wold-iraqw | wold-1214 | baa |
-| wold-50 | wold-iraqw | wold-171 | doori |
-| wold-51 | wold-iraqw | wold-172 | fur'aa |
-| wold-52 | wold-iraqw | wold-173 | huunkáy |
-| wold-53 | wold-iraqw | wold-174 | tlangí |
-| wold-54 | wold-iraqw | wold-175 | tluway |
-| wold-55 | wold-iraqw | wold-177 | barafu |
-| wold-56 | wold-iraqw | wold-177 | daqtamó |
-| wold-57 | wold-iraqw | wold-178 | hali ya hewa |
-| wold-58 | wold-iraqw | wold-181 | asla |
-| wold-59 | wold-iraqw | wold-182 | tsaangw |
-| wold-6 | wold-iraqw | wold-1214 | i |
-| wold-60 | wold-iraqw | wold-183 | quu’i |
-| wold-61 | wold-iraqw | wold-184 | da |
-| wold-62 | wold-iraqw | wold-184 | ara |
-| wold-63 | wold-iraqw | wold-1841 | gil'oo |
-| wold-64 | wold-iraqw | wold-1851 | daa |
-| wold-65 | wold-iraqw | wold-1852 | ooh |
-| wold-66 | wold-iraqw | wold-186 | oohiis |
-| wold-67 | wold-iraqw | wold-1861 | gaas |
-| wold-68 | wold-iraqw | wold-187 | kibriiti |
-| wold-69 | wold-iraqw | wold-188 | migir |
-| wold-7 | wold-iraqw | wold-1215 | hhasaangw |
-| wold-70 | wold-iraqw | wold-189 | xaawi |
-| wold-71 | wold-iraqw | wold-21 | hee |
-| wold-72 | wold-iraqw | wold-221 | hhawata |
-| wold-73 | wold-iraqw | wold-222 | ameeni |
-| wold-74 | wold-iraqw | wold-223 | hhawata |
-| wold-75 | wold-iraqw | wold-224 | ameeni |
-| wold-76 | wold-iraqw | wold-225 | garma |
-| wold-77 | wold-iraqw | wold-2251 | masoomba |
-| wold-78 | wold-iraqw | wold-226 | dasi |
-| wold-79 | wold-iraqw | wold-2261 | deena |
-| wold-8 | wold-iraqw | wold-122 | tlooma |
-| wold-80 | wold-iraqw | wold-227 | na |
-| wold-81 | wold-iraqw | wold-227 | aay |
-| wold-82 | wold-iraqw | wold-228 | qawri |
-| wold-83 | wold-iraqw | wold-231 | hhawata |
-| wold-84 | wold-iraqw | wold-232 | haree |
-| wold-85 | wold-iraqw | wold-233 | duux |
-| wold-86 | wold-iraqw | wold-234 | duuxoo |
-| wold-87 | wold-iraqw | wold-2341 | talaka |
-| wold-88 | wold-iraqw | wold-235 | baabá |
-| wold-89 | wold-iraqw | wold-236 | aayo |
-| wold-9 | wold-iraqw | wold-1222 | bela |
-| wold-90 | wold-iraqw | wold-237 | xwaylitee |
-| wold-91 | wold-iraqw | wold-238 | hhawata |
-| wold-92 | wold-iraqw | wold-239 | haree |
-| wold-93 | wold-iraqw | wold-241 | naangw |
-| wold-94 | wold-iraqw | wold-242 | hat |
-| wold-95 | wold-iraqw | wold-243 | na |
-| wold-96 | wold-iraqw | wold-243 | aay |
-| wold-97 | wold-iraqw | wold-244 | hhiya' |
-| wold-98 | wold-iraqw | wold-2444 | naanaa |
-| wold-99 | wold-iraqw | wold-2445 | hhiyo niina |
+|-----:|-----------:|:----------|:------------------|
+| 1 | 1 | 1-1 | dunia |
+| 10 | 9 | 1-1 | világo |
+| 100 | 2 | 1-212 | hhapee |
+| 11 | 10 | 1-1 | swět |
+| 12 | 11 | 1-1 | weralt |
+| 13 | 12 | 1-1 | wereld |
+| 14 | 13 | 1-1 | world |
+| 15 | 14 | 1-1 | ēllmannt |
+| 16 | 14 | 1-1 | mɨrr |
+| 17 | 15 | 1-1 | dunnal |
+| 18 | 16 | 1-1 | dunil |
+| 19 | 17 | 1-1 | tzomliŋ |
+| 2 | 1 | 1-1 | ulimwengu |
+| 20 | 19 | 1-1 | aːn doydu |
+| 21 | 20 | 1-1 | bʊɣaŋi əlginin |
+| 22 | 21 | 1-1 | sekai |
+| 23 | 21 | 1-1 | yo |
+| 24 | 22 | 1-1 | shi4jie4 |
+| 25 | 23 | 1-1 | lôok |
+| 26 | 23 | 1-1 | lâa |
+| 27 | 23 | 1-1 | phʉ́ʉn |
+| 28 | 23 | 1-1 | phíphóp |
+| 29 | 23 | 1-1 | phóp |
+| 3 | 2 | 1-1 | yaamu |
+| 30 | 24 | 1-1 | thế giới |
+| 31 | 25 | 1-1 | ntiaj teb |
+| 32 | 27 | 1-1 | dunia |
+| 33 | 27 | 1-1 | alam |
+| 34 | 27 | 1-1 | jagat |
+| 35 | 27 | 1-1 | buana |
+| 36 | 28 | 1-1 | izào tontòlo izào |
+| 37 | 29 | 1-1 | tan tlyane-k |
+| 38 | 30 | 1-1 | honua |
+| 39 | 32 | 1-1 | ania |
+| 4 | 3 | 1-1 | ʔalame |
+| 40 | 33 | 1-1 | balamil |
+| 41 | 34 | 1-1 | ru chi ch’och’ |
+| 42 | 35 | 1-1 | ximha̲i |
+| 43 | 36 | 1-1 | goónlíba |
+| 44 | 37 | 1-1 | pacha mama |
+| 45 | 38 | 1-1 | nono |
+| 46 | 39 | 1-1 | j’áh |
+| 47 | 40 | 1-1 | hunhat |
+| 48 | 41 | 1-1 | mapu |
+| 49 | 1 | 1-21 | nchi kavu |
+| 5 | 4 | 1-1 | dúuníyàa |
+| 50 | 2 | 1-21 | hhapee |
+| 51 | 3 | 1-21 | piye |
+| 52 | 4 | 1-21 | ƙásáa |
+| 53 | 5 | 1-21 | cídí |
+| 54 | 5 | 1-21 | lárdə̀ |
+| 55 | 6 | 1-21 | ŧammua’ŧ |
+| 56 | 7 | 1-21 | later |
+| 57 | 8 | 1-21 | ţară |
+| 58 | 9 | 1-21 | phú |
+| 59 | 10 | 1-21 | land |
+| 6 | 5 | 1-1 | dúnyâ |
+| 60 | 10 | 1-21 | kraj |
+| 61 | 11 | 1-21 | lant |
+| 62 | 12 | 1-21 | land |
+| 63 | 13 | 1-21 | land |
+| 64 | 14 | 1-21 | jēmm’n’e |
+| 65 | 15 | 1-21 | raƛ’ |
+| 66 | 15 | 1-21 | ulka |
+| 67 | 16 | 1-21 | naq'ʷ |
+| 68 | 17 | 1-21 | 1sʌ |
+| 69 | 18 | 1-21 | baˀŋ |
+| 7 | 6 | 1-1 | ddənya |
+| 70 | 19 | 1-21 | sir |
+| 71 | 20 | 1-21 | tur |
+| 72 | 21 | 1-21 | tairiku |
+| 73 | 21 | 1-21 | rikuchi |
+| 74 | 21 | 1-21 | riku |
+| 75 | 22 | 1-21 | tu3di4 |
+| 76 | 22 | 1-21 | lu4di4 |
+| 77 | 23 | 1-21 | bòk |
+| 78 | 24 | 1-21 | đất |
+| 79 | 25 | 1-21 | teb |
+| 8 | 7 | 1-1 | lemonn |
+| 80 | 26 | 1-21 | tɛʔ |
+| 81 | 27 | 1-21 | darat |
+| 82 | 27 | 1-21 | tanah |
+| 83 | 27 | 1-21 | bumi |
+| 84 | 28 | 1-21 | tàny |
+| 85 | 29 | 1-21 | tan |
+| 86 | 30 | 1-21 | `āina |
+| 87 | 31 | 1-21 | ngurra |
+| 88 | 32 | 1-21 | bwia |
+| 89 | 33 | 1-21 | balamil |
+| 9 | 8 | 1-1 | lume |
+| 90 | 33 | 1-21 | 7osil |
+| 91 | 34 | 1-21 | ch’och’ |
+| 92 | 35 | 1-21 | hai |
+| 93 | 36 | 1-21 | téla |
+| 94 | 37 | 1-21 | allpa |
+| 95 | 38 | 1-21 | nono |
+| 96 | 39 | 1-21 | j’áh |
+| 97 | 40 | 1-21 | hunhat |
+| 98 | 41 | 1-21 | mapu |
+| 99 | 1 | 1-212 | udongo |
 
 (100 rows)
 
