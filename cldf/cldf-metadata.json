@@ -20,15 +20,15 @@
         {
             "dc:title": "environment",
             "properties": {
-                "concepticon_version": "pyconcepticon-1.3-45-g85ba61d",
-                "glottolog_version": "v3.2-55-gef2031a"
+                "concepticon_version": "v1.1.0-48-ga51f8de",
+                "glottolog_version": "v3.2-76-g1a93b39"
             }
         }
     ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 64957,
+            "dc:extent": 64959,
             "tableSchema": {
                 "columns": [
                     {

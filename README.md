@@ -20,10 +20,10 @@ Conceptlist in Concepticon: [Haspelmath-2009-1460](http://concepticon.clld.org/c
 
 - **Varieties:** 41
 - **Concepts:** 1,814
-- **Lexemes:** 64,957
+- **Lexemes:** 64,959
 - **Synonymy:** 1.21
 - **Cognacy:** 0 cognates in 0 cognate sets
-- **Invalid lexemes:** 64,957
+- **Invalid lexemes:** 0
 - **Tokens:** 0
 - **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)
 - **Inventory size (avg):** 0.00
@@ -32,6 +32,4 @@ Conceptlist in Concepticon: [Haspelmath-2009-1460](http://concepticon.clld.org/c
 
 - Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
   - Zinacantán Tzotzil [tzot1264](http://glottolog.org/resource/languoid/id/tzot1264)
-
-
 
