@@ -43,11 +43,15 @@ class Dataset(clld.CLLD):
             self.add_sources(ds)
 
             for row in self.original_cldf['LanguageTable']:
+                gc, iso = row['Glottocode'], row['ISO639P3code']
+                if gc == 'tzot1264':
+                    gc, iso = 'tzot1259', 'tzo'
                 if row['ID'] in vocab_ids:
                     ds.add_language(
                         ID=row['ID'],
                         Name=row['Name'],
-                        Glottocode=row['Glottocode'])
+                        Glottocode=gc,
+                        ISO639P3code=iso)
 
             for row in self.original_cldf['ParameterTable']:
                 ds.add_concept(

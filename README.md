@@ -27,9 +27,3 @@ Conceptlist in Concepticon: [Haspelmath-2009-1460](http://concepticon.clld.org/c
 - **Tokens:** 0
 - **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)
 - **Inventory size (avg):** 0.00
-
-## Possible Improvements:
-
-- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - Zinacantán Tzotzil [tzot1264](http://glottolog.org/resource/languoid/id/tzot1264)
-
