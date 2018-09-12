@@ -419,7 +419,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 5-35,the cup,476,CUP
 5-36,the saucer,271,SAUCER
 5-37,the spoon,1378,SPOON
-5-38,the knife(1),1352,KNIFE
+5-38,the knife(1),3210,KNIFE (FOR EATING)
 5-39,the fork,1302,FORK
 5-391,the tongs,272,TONGS
 5-41,the meal,1526,MEAL
@@ -603,7 +603,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 8-53,the plant,653,PLANT (VEGETATION)
 8-531,to plant,1486,PLANT (SOMETHING)
 8-54,the root,670,ROOT
-8-55,the branch,1531,BRANCH
+8-55,the branch,3223,BRANCH OR TWIG
 8-56,the leaf,628,LEAF
 8-57,the flower,239,FLOWER
 8-6,the tree,906,TREE
@@ -651,13 +651,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 9-22,to cut,1432,CUT
 9-221,to cut down,355,CUT DOWN
 9-222,to chop,155,CHOP
-9-223,to stab,1434,STAB
+9-223,to stab,3189,STAB TO DEATH
 9-23,the knife(2),1352,KNIFE
 9-24,the scissors or shears,356,SHEARS
 9-25,the axe/ax,677,AXE
 9-251,the adze,290,ADZE
 9-26,to break,680,BREAK (DESTROY OR GET DESTROYED)
-9-261,broken,588,BROKEN
+9-261,broken,3190,BROKEN (NOT WORKING)
 9-27,to split,1437,SPLIT
 9-28,to tear,1735,TEAR (SHRED)
 9-83,the statue,1002,STATUE
@@ -691,7 +691,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 9-66,the copper,1825,COPPER
 9-67,the iron,621,IRON
 9-68,the lead,627,LEAD (CHEMICAL ELEMENT)
-9-69,the tin or tinplate,358,TINPLATE
+9-69,the tin or tinplate,3217,TIN OR TINPLATE
 9-71,the potter,359,POTTER
 9-72,to mould/mold,289,MOLD
 9-73,the clay,1399,CLAY
@@ -714,8 +714,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 10-13,to turn around,1445,TURN (SOMETHING)
 10-14,to wrap,1113,WRAP
 10-15,to roll,827,ROLL
-10-16,to drop,808,DRIP (FALL IN GLOBULES)
-10-17,to twist,430,TWIST
+10-16,to drop,2866,DROP (SOMETHING)
+10-17,to twist,3199,TWIST (AROUND)
 10-21,to rise,568,RISE (MOVE UPWARDS)
 10-22,to raise or lift,501,LIFT
 10-23,to fall,1280,FALL
@@ -792,7 +792,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 11-11,to have,773,HAVE
 11-12,to own,684,OWN
 11-13,to take,1749,TAKE
-11-14,to grasp,2021,GRASP
+11-14,to grasp,855,SEIZE
 11-15,to hold,1448,HOLD
 11-16,to get,694,GET
 11-17,to keep,1477,KEEP
@@ -1079,7 +1079,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 16-54,the danger,1810,DANGER
 16-62,to want,1784,WANT
 16-622,to choose,1750,CHOOSE
-16-63,to hope,1092,HOPE
+16-63,to hope,3212,HOPE (SOMETHING)
 16-65,faithful,100,FAITHFUL
 16-66,true,1657,TRUE
 16-67,to lie(2),601,LIE (MISLEAD)
@@ -1291,7 +1291,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 21-51,to steal,713,STEAL
 21-52,the thief,1160,THIEF
 22-11,the religion,661,RELIGION
-22-12,the god,1944,GOD
+22-12,the god,3231,DEITY
 22-13,the temple,911,TEMPLE
 22-14,the altar,853,ALTAR
 22-15,the sacrifice,1103,SACRIFICE
@@ -1309,7 +1309,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 22-37,the idol,1945,IDOL
 22-42,the magic,392,MAGIC
 22-43,the sorcerer or witch,2137,MAGICIAN
-22-44,the fairy or elf,2138,LEGENDARY CREATURE
+22-44,the fairy or elf,3206,ELF OR FAIRY
 22-45,the ghost,1175,GHOST
 22-47,the omen,107,OMEN
 23-1,the radio,1315,RADIO

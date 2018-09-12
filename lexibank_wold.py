@@ -30,6 +30,7 @@ class WOLDLexeme(Lexeme):
 class Dataset(clld.CLLD):
     __cldf_url__ = "http://cdstar.shh.mpg.de/bitstreams/EAEA0-92F4-126F-089F-0/wold_dataset.cldf.zip"
     dir = Path(__file__).parent
+    id = 'wold'
     lexeme_class = WOLDLexeme
 
     def cmd_install(self, **kw):
