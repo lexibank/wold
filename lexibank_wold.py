@@ -25,6 +25,7 @@ class WOLDLexeme(Lexeme):
     salience = attr.ib(default=None)
     effect = attr.ib(default=None)
     contact_situation = attr.ib(default=None)
+    original_script = attr.ib(default=None)
 
 
 class Dataset(clld.CLLD):

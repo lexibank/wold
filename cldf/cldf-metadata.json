@@ -18,7 +18,7 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.3.2",
+                "glottolog_version": "pyglottolog-1.2.1-9-gee58abb",
                 "concepticon_version": "pyconcepticon-1.4.0-42-g46b0e60"
             }
         }
@@ -147,6 +147,10 @@
                     {
                         "datatype": "string",
                         "name": "contact_situation"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "original_script"
                     }
                 ],
                 "foreignKeys": [
