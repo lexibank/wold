@@ -2,7 +2,7 @@
 
 Cite the source dataset as
 
-> Haspelmath, Martin & Tadmor, Uri (eds.) 2009. World Loanword Database. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at http://wold.clld.org
+> Haspelmath, Martin & Tadmor, Uri (eds.) 2009. World Loanword Database. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at http://wold.clld.org)
 
 This dataset is licensed under a http://creativecommons.org/licenses/by/3.0/de/ license
 
