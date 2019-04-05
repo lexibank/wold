@@ -523,7 +523,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 6-82,the towel,1021,TOWEL
 6-91,the comb,1475,COMB
 6-92,the brush,1821,BRUSH
-6-921,the plait/braid,333,PLAIT
+6-921,the plait/braid,1043,BRAID
 6-93,the razor,151,RAZOR
 6-94,the ointment,1926,OINTMENT
 6-95,the soap,788,SOAP
@@ -696,7 +696,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 9-72,to mould/mold,289,MOLD
 9-73,the clay,1399,CLAY
 9-74,the glass,604,GLASS
-9-75,to weave or plait/braid,1729,PLAIT OR BRAID OR WEAVE
+9-75,to weave or plait/braid,3294,BRAID (VERB) OR WEAVE (BASKET)
 9-76,the basket,1539,BASKET
 9-77,the mat,195,MAT
 9-771,the rug,292,RUG
@@ -1049,7 +1049,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 15-86,cold,1287,COLD
 15-87,clean,704,CLEAN
 15-88,dirty,1230,DIRTY
-16-11,the soul or spirit,53,SPIRIT
+16-11,the soul or spirit,811,SOUL
 16-15,surprised or astonished,1572,SURPRISED
 16-18,the good luck,720,GOOD LUCK
 16-19,the bad luck,56,BAD LUCK
