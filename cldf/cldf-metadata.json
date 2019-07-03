@@ -3,14 +3,16 @@
     "aboutUrl": "http://wold.clld.org/word/{ID}",
     "dc:bibliographicCitation": "Haspelmath, Martin & Tadmor, Uri (eds.) 2009. World Loanword Database. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at http://wold.clld.org)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": null,
     "dc:format": [
         "http://concepticon.clld.org/contributions/Haspelmath-2009-1460"
     ],
     "dc:identifier": "http://wold.clld.org",
+    "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/3.0/",
+    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "The World Loanword Database",
-    "dcat:accessURL": "https://github.com/lexibank/wold",
     "rdf:ID": "wold",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -20,7 +22,7 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4",
+                "glottolog_version": "v4.0",
                 "concepticon_version": "v2.0"
             }
         }
