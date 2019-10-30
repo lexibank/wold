@@ -14,6 +14,10 @@ class WOLDLexeme(Lexeme):
     Borrowed = attr.ib(default=None)
     Borrowed_score = attr.ib(default=None)
     comment_on_borrowed = attr.ib(default=None)
+    comment_on_word_form = attr.ib(default=None)
+    borrowed_base = attr.ib(default=None)
+    other_comments = attr.ib(default=None)
+    loan_history = attr.ib(default=None)
     Analyzability = attr.ib(default=None)
     Simplicity_score = attr.ib(default=None)
     reference = attr.ib(default=None)
@@ -79,6 +83,13 @@ class Dataset(BaseDataset):
         # read raw form data
         lexemes_rows = self.raw_dir.read_csv("forms.csv", dicts=True)
         for row in progressbar(lexemes_rows):
+            for k, v in row.items():
+                if k in ["comment_on_borrowed", "gloss", "comment_on_word_form",
+                        "other_comments", "loan_history", "borrowed_base"]:
+                    continue
+                if "\n" in v:
+                    print([k, v])
+
             # This is long, but better to keep it explicit
             # TODO: original script as value? sources?
             args.writer.add_form(
@@ -97,10 +108,14 @@ class Dataset(BaseDataset):
                 Simplicity_score=row["SimplicityScore"],
                 reference=row["reference"],
                 age_label=row["age_label"],
-                gloss=row["gloss"],  # needed?
+                gloss=_replace_newlines(row["gloss"]),
                 integration=row["integration"],
                 salience=row["salience"],
                 effect=row["effect"],
                 contact_situation=row["ContactSituation"],
                 original_script=row["original_script"],
+                comment_on_word_form=_replace_newlines(row["comment_on_word_form"]),
+                other_comments=_replace_newlines(row["other_comments"]),
+                loan_history=_replace_newlines(row["loan_history"]),
+                borrowed_base=_replace_newlines(row["borrowed_base"]),
             )

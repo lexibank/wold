@@ -18,13 +18,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/wold",
-            "dc:created": "v2.0.1-3-g8dbf6dd"
+            "dc:created": "v2.0.1-4-ga9b8ab4"
         },
         {
             "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.0-56-g185d304"
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts",
+            "dc:created": "v1.4"
         },
         {
             "rdf:type": "prov:Entity",
@@ -34,9 +34,9 @@
         },
         {
             "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4"
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.0-56-g185d304"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -138,6 +138,22 @@
                     {
                         "datatype": "string",
                         "name": "comment_on_borrowed"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "comment_on_word_form"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "borrowed_base"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "other_comments"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "loan_history"
                     },
                     {
                         "datatype": "string",
