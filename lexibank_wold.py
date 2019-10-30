@@ -71,50 +71,28 @@ class Dataset(BaseDataset):
         # read raw form data
         lexemes_rows = self.raw_dir.read_csv("forms.csv", dicts=True)
         for row in progressbar(lexemes_rows):
-            lex = args.writer.add_form(
+            # This is long, but better to keep it explicit
+            # TODO: original script as value? sources?
+            args.writer.add_form(
                 Language_ID=row["Language_ID"],
                 Parameter_ID=row["Parameter_ID"],
                 Form=row["Form"],
                 Value=row["Form"],
                 Source=row["Source"].split(";"),
-                # NOTE: we count words marked as "probably borrowed" as
-                # loans
                 Loan=float(row["BorrowedScore"]) > 0.6,
+                word_source=row["word_source"],
+                Word_ID=row["Word_ID"],
+                Borrowed=row["Borrowed"],
+                Borrowed_score=row["BorrowedScore"],
+                comment_on_borrowed=row["comment_on_borrowed"],
+                Analyzability=row["Analyzability"],
+                Simplicity_score=row["SimplicityScore"],
+                reference=row["reference"],
+                age_label=row["age_label"],
+                gloss=row["gloss"],  # needed?
+                integration=row["integration"],
+                salience=row["salience"],
+                effect=row["effect"],
+                contact_situation=row["ContactSituation"],
+                original_script=row["original_script"],
             )
-
-        return
-
-        ccode = {
-            x.attributes["wold_id"]: x.concepticon_id
-            for x in self.conceptlist.concepts.values()
-        }
-
-        fields = self.lexeme_class.fieldnames()
-        with self.cldf as ds:
-            vocab_ids = [v["ID"] for v in self.original_cldf["contributions.csv"]]
-
-            self.add_sources(ds)
-
-            for row in self.original_cldf["LanguageTable"]:
-                gc, iso = row["Glottocode"], row["ISO639P3code"]
-                if gc == "tzot1264":
-                    gc, iso = "tzot1259", "tzo"
-                if row["ID"] in vocab_ids:
-                    ds.add_language(
-                        ID=row["ID"], Name=row["Name"], Glottocode=gc, ISO639P3code=iso
-                    )
-
-            for row in self.original_cldf["ParameterTable"]:
-                ds.add_concept(
-                    ID=row["ID"],
-                    Name=row.pop("Name"),
-                    Concepticon_ID=ccode.get(row["ID"]),
-                )
-
-            for row in self.original_cldf["FormTable"]:
-                if row["Language_ID"] in vocab_ids:
-                    del row["ID"]
-                    row["Value"] = row.pop("Form")
-                    # Note: We count words marked as "probably borrowed" as loans.
-                    row["Loan"] = float(row["BorrowedScore"]) > 0.6
-                    ds.add_lexemes(**{k: v for k, v in row.items() if k in fields})
