@@ -1,5 +1,6 @@
 import attr
 from pathlib import Path
+import re
 
 from pylexibank import Lexeme
 from pylexibank.dataset import Dataset as BaseDataset
@@ -24,6 +25,13 @@ class WOLDLexeme(Lexeme):
     effect = attr.ib(default=None)
     contact_situation = attr.ib(default=None)
     original_script = attr.ib(default=None)
+
+
+def _replace_newlines(text):
+    text = text.replace("\n", " // ")
+    text = re.sub("\s+", " ", text)
+
+    return text
 
 
 class Dataset(BaseDataset):
@@ -84,7 +92,7 @@ class Dataset(BaseDataset):
                 Word_ID=row["Word_ID"],
                 Borrowed=row["Borrowed"],
                 Borrowed_score=row["BorrowedScore"],
-                comment_on_borrowed=row["comment_on_borrowed"],
+                comment_on_borrowed=_replace_newlines(row["comment_on_borrowed"]),
                 Analyzability=row["Analyzability"],
                 Simplicity_score=row["SimplicityScore"],
                 reference=row["reference"],

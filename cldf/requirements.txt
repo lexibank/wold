@@ -14,7 +14,7 @@ jdcal==1.4.1
 -e git+https://github.com/lexibank/kitchensemitic.git@b411316bbaa0748700db7c88e9bf9bb19d0bbfa3#egg=lexibank_kitchensemitic
 -e git+https://github.com/lexibank/naganorgyalrongic.git@950b5e616b096445fea545a7106627a81c0ce666#egg=lexibank_naganorgyalrongic
 -e git+https://github.com/lexibank/northeuralex.git@de1bd25866a5bf070f95b05fc743cbb1f3964736#egg=lexibank_northeuralex
--e git+https://github.com/lexibank/wold.git@8c039a45804ddae39bfaf99f93d9d3e89d506bb4#egg=lexibank_wold
+-e git+https://github.com/lexibank/wold.git@8dbf6ddcc907f2b7a4ea11b115e75e9317985dc6#egg=lexibank_wold
 lingpy==2.6.5
 Markdown==3.1.1
 networkx==2.1
