@@ -1,10 +1,13 @@
 import attr
 from pathlib import Path
 import re
+import unicodedata
 
 from pylexibank import Lexeme
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import progressbar
+from segments import Tokenizer, Profile
+from segments.tree import Tree
 
 
 @attr.s
@@ -44,11 +47,33 @@ class Dataset(BaseDataset):
     id = "wold"
     lexeme_class = WOLDLexeme
 
+    def _build_tokenizer(self, language):
+        # build a tokenizer for a given profile
+        profile_file = "%s.profile.tsv" % language
+        profile_path = str(self.dir / "etc" / profile_file)
+        profile = Profile.from_file(profile_path, form="NFC")
+        default_spec = list(next(iter(profile.graphemes.values())).keys())
+        profile.tree = Tree(list(profile.graphemes.keys()))
+        tokenizer = Tokenizer(
+            profile=profile, errors_replace=lambda c: "<{0}>".format(c)
+        )
+
+        def _tokenizer(item, string, **kw):
+            kw.setdefault("column", "IPA")
+            kw.setdefault("separator", " + ")
+            return tokenizer(
+                unicodedata.normalize("NFC", "^%s$" % string), **kw
+            ).split()
+
+        return _tokenizer
+
     def cmd_makecldf(self, args):
         # add the bibliographic sources
         args.writer.add_sources()
 
         # add the languages from the language file
+        # NOTE: the source lists all languages, including proto-languages,
+        # but the `forms` only include the first 41 in the list
         languages = self.raw_dir.read_csv("languages.csv", dicts=True)
         for language in languages:
             args.writer.add_language(
@@ -56,6 +81,14 @@ class Dataset(BaseDataset):
                 Name=language["Name"],
                 Glottocode=language["Glottocode"],
             )
+
+        # Build the tokenizers for each language, mapping from the
+        # language["ID"] to the tokenizer (which is built using the glottocode
+        # for the language)
+        tokenizer = {
+            language["ID"]: self._build_tokenizer(language["Glottocode"])
+            for language in languages[:41]
+        }
 
         # add concepts
         # NOTE: need to read the data from parameters.csv as well,
@@ -85,12 +118,13 @@ class Dataset(BaseDataset):
         for row in progressbar(lexemes_rows):
             # This is long, but better to keep it explicit
             # TODO: original script as value? sources?
-            args.writer.add_form(
+            args.writer.add_form_with_segments(
                 Language_ID=row["Language_ID"],
                 Parameter_ID=row["Parameter_ID"],
                 Form=row["Form"],
                 Value=row["Form"],
                 Source=row["Source"].split(";"),
+                Segments=tokenizer[row["Language_ID"]]({}, row["Form"]),
                 Loan=float(row["BorrowedScore"]) > 0.6,
                 word_source=row["word_source"],
                 Word_ID=row["Word_ID"],

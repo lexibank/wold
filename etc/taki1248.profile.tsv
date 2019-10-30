@@ -1,0 +1,129 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+$	NULL				$
+^	NULL				^
+-	+	-abi, tei-	Takia	789	-
+=	+	-bol=oŋ, gabulo=p	Takia	5	=
+^=	+	Err:509	Takia	2	^ =
+dd	dː	-ra-ddari, -sa-ddni	Takia	3	d d
+ff	fː	mala-n fflu-n, gnaffur	Takia	2	f f
+ll	lː	bllek, klloy	Takia	9	l l
+mm	mː	tdom-mi	Takia	1	m m
+nn	nː	you wanna-n san ur, tnan-n-taman-n	Takia	2	n n
+pp	pː	-su-ppi, su -ppi	Takia	2	p p
+rr	rː	sarrei, you brruk	Takia	2	r r
+^bb	bː	-bbli, bbaŋa-n tbu-n	Takia	6	^ b b
+^dd	dː	ddi, ddi-	Takia	3	^ d d
+^ff	fː	fflu-, ffo na	Takia	4	^ f f
+^gg	gː	ggreŋ, ggoy	Takia	7	^ g g
+^kk	kː	kkdo-, kkdo- awe-n	Takia	3	^ k k
+^ll	lː	llaman, llit	Takia	3	^ l l
+^mm	mː	mmre-, mmur	Takia	3	^ m m
+^nn	nː	nnae-ŋ ab, nni	Takia	2	^ n n
+^pp	pː	ppae-, -ppi	Takia	2	^ p p
+^rr	rː	-rri, rre-k	Takia	3	^ r r
+^ss	sː	ssanu-, ssei	Takia	2	^ s s
+^tt	tː	ttyane-k, -tte	Takia	6	^ t t
+ŋ	ŋ	krŋe-, tŋ-tŋae-mi	Takia	61	\u014b
+ŋ$	ŋ	-loŋ, ggreŋ	Takia	51	\u014b $
+^ŋ	ŋ	ŋe-, -ŋa	Takia	25	^ \u014b
+_	_	graian san anaŋ, you wanna-n san ur	Takia	231	_
+a	a	graian san anaŋ, makao	Takia	924	a
+^a	a	-abi, -aw	Takia	81	^ a
+a$	a	-ga, wada-	Takia	143	a $
+^a$	a	a	Takia	1	^ a $
+B	B/b	holim Baibel	Takia	1	B
+b	b	-abi, rebit	Takia	118	b
+^b	b	bllek, -bol	Takia	92	^ b
+b$	b	gib, galab	Takia	24	b $
+^c	c	compleina, cot	Takia	2	^ c
+d	d	wada-, ad i-du da-k lo	Takia	103	d
+^d	d	-du, -dad	Takia	56	^ d
+d$	d	-dad, bod	Takia	24	d $
+e	e	tei-, bllek	Takia	305	e
+^e	e	-en, -en-si	Takia	9	^ e
+e$	e	-gane, sae-	Takia	88	e $
+f	f	patu-n fo, kofi	Takia	28	f
+^f	f	-fni, fok	Takia	46	^ f
+f$	f	faif, raf	Takia	4	f $
+g	g	mat-gigen, ager	Takia	74	g
+^g	g	-gane, -ga	Takia	84	^ g
+g$	g	beig, damag	Takia	30	g $
+^h	h	holim Baibel, haia	Takia	8	^ h
+i	i	nanu-n ir-tarsin-ek, pein	Takia	263	i
+^i	i	irao-, iwo-	Takia	43	^ i
+i$	i	-abi, tei-	Takia	232	i $
+^i$	i	i	Takia	1	^ i $
+y	j	uya-, myanu-k	Takia	48	y
+^j	j	jas, jag	Takia	2	^ j
+^y	j	you, you i-tlanti	Takia	33	^ y
+y$	j	klloy, srawoy	Takia	13	y $
+k	k	makao, -puk -klakil	Takia	86	k
+^k	k	krek, kmae-	Takia	101	^ k
+k$	k	bllek, krek	Takia	95	k $
+l	l	-flale, fflu-	Takia	223	l
+^l	l	-la-sa, -loŋ	Takia	46	^ l
+l$	l	-mul, -bol	Takia	72	l $
+m	m	gmagam tamol, tamol	Takia	106	m
+^m	m	makao, -mul	Takia	108	^ m
+m$	m	im, kalam	Takia	30	m $
+n	n	-fni, graian san anaŋ	Takia	299	n
+^n	n	nanu-k, nao-	Takia	53	^ n
+n$	n	pein, awa-n to-n	Takia	149	n $
+o	o	-loŋ, wos	Takia	272	o
+^o	o	oŋ, oul	Takia	3	^ o
+o$	o	irao-, makao	Takia	53	o $
+^o$	o	o	Takia	1	^ o $
+p	p	pen -pani, niuspepa	Takia	55	p
+^p	p	pein, -pani	Takia	88	^ p
+p$	p	stop, sup	Takia	20	p $
+r	r	irao-, krek	Takia	187	r
+^r	r	rebit, ru	Takia	32	^ r
+r$	r	-sror, -bar	Takia	51	r $
+s	s	-la-sa, yaes -bal	Takia	94	s
+^s	s	-sda, sae-	Takia	132	^ s
+bs	bs	tamol bsmak, pein bsmak	Takia	2	b s
+gs	gs	mala-n sgsig, sgsog	Takia	2	g s
+s$	s	wos, galas	Takia	53	s $
+ŋs$	ŋs	toŋs	Takia	1	\u014b s $
+^ŋs	ŋs	ŋsa-ŋes	Takia	1	^ \u014b s
+^bs	bs	bso-, -bsei- -aw	Takia	2	^ b s
+^ls	ls	-lsu	Takia	1	^ l s
+^ms	ms	-mslani, msuk -pani	Takia	2	^ m s
+^ts	ts	tsa-	Takia	1	^ t s
+ks$	ks	siks	Takia	1	k s $
+t	t	you i-tlanti, ut patu-n	Takia	148	t
+^t	t	tei-, tamol	Takia	105	^ t
+t$	t	rebit, pat	Takia	58	t $
+u	u	-mul, nanu-k	Takia	159	u
+^u	u	uya-, uru	Takia	24	^ u
+u$	u	-du, fflu-	Takia	80	u $
+v	v	gavman, draiva laisens	Takia	3	v
+v$	v	oliv	Takia	1	v $
+w	w	iwaiwo, ŋewŋew i-fni	Takia	50	w
+^w	w	wada-, wos	Takia	47	^ w
+kw	kʷ	skwe	Takia	1	k w
+lw	lʷ	wilwil, -glwao	Takia	6	l w
+nw	nʷ	anwil	Takia	1	n w
+rw	rʷ	mrwa-, ilo-mrwa-n	Takia	3	r w
+sw	sʷ	mala-n -swe, tru- tan i-swe	Takia	4	s w
+tw	tʷ	-abi-twani	Takia	1	t w
+w$	w	-aw, klmo-kaw	Takia	21	w $
+^bw	bʷ	bwab	Takia	1	^ b w
+^dw	dʷ	dwadaw	Takia	1	^ d w
+^kw	kʷ	kwai te -bol, kwai te -gane	Takia	4	^ k w
+^lw	lʷ	lwa-n an da ya, lwaliu	Takia	5	^ l w
+^nw	nʷ	nwi	Takia	1	^ n w
+^sw	sʷ	-swe, -swi	Takia	6	^ s w
+^tw	tʷ	-twani, twenti	Takia	3	^ t w
+ks	k s	eleksin, piksakad	Takia	4	k s
+^ks	k s	ksaek, ksalom	Takia	2	^ k s
+ls	l s	salso, salso=p	Takia	4	l s
+ls$	l s	tuls	Takia	1	l s $
+ns$	n s	lans, draiva laisens	Takia	2	n s $
+rs	r s	nanu-n ir-tarsin-ek, tama-n ir-tarsin-ek	Takia	4	r s
+^-fffu$	+ fː u	-fffu	Takia	1	^ - f f f u $
+kk	k + k	nal kaek-kaek	Takia	1	k k
+nn$	n + n	tnan-n-taman-n	Takia	1	n n $
+ss	s + s	-bal-s-sni, -sel-ssi	Takia	4	s s
+^kss	ks + s	kssik -bol	Takia	1	^ k s s
+tt	t + t	-mat-tkali	Takia	1	t t

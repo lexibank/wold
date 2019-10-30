@@ -1,0 +1,109 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+$	NULL				$
+^	NULL				^
+-	+	-pi, -lla	Imbabura Quechua	9	-
+f	ɸ	uchufa, kafé	Imbabura Quechua	15	f
+^f	ɸ	fakina, fuyu	Imbabura Quechua	19	^ f
+n$	ŋ	jatun, ñan	Imbabura Quechua	39	n $
+ch	tʃ	wañuchina, punchalla	Imbabura Quechua	151	c h
+sh	ʃ	wañushka, kushni	Imbabura Quechua	84	s h
+^ch	tʃ	chita, changa	Imbabura Quechua	55	^ c h
+^sh	ʃ	shimi, shuwak	Imbabura Quechua	24	^ s h
+sh$	ʃ	ñapash, -pash	Imbabura Quechua	3	s h $
+ll	ʒ	punchalla, allpa	Imbabura Quechua	110	l l
+zh	ʒ	jwizhu	Imbabura Quechua	1	z h
+^ll	ʒ	llaki, llama	Imbabura Quechua	33	^ l l
+lll	ʒ	kailllalla	Imbabura Quechua	1	l l l
+_	_	kayna chay shuk puncha, mana ali rimak	Imbabura Quechua	124	_
+a	a	sachaguagra, mama llakta	Imbabura Quechua	920	a
+á	á/a	alakrán	Imbabura Quechua	1	\xe1
+^a	a	allpa, apuk	Imbabura Quechua	103	^ a
+a$	a	punchalla, wagra	Imbabura Quechua	624	a $
+b	b	pamba, tabaku	Imbabura Quechua	79	b
+^b	b	bitsijana, biga	Imbabura Quechua	43	^ b
+^v	β	vira	Imbabura Quechua	2	^ v
+c	c	mircules, pascana	Imbabura Quechua	3	c
+d	d	didu, azadun	Imbabura Quechua	64	d
+^d	d	didu, dirichu	Imbabura Quechua	10	^ d
+e	e	tenedur, serbisa	Imbabura Quechua	20	e
+^e	e	elefanti	Imbabura Quechua	1	^ e
+e$	e	nigusyante, te	Imbabura Quechua	2	e $
+é$	é/e	kafé	Imbabura Quechua	1	\xe9 $
+g	g	sachaguagra, wagra	Imbabura Quechua	80	g
+^g	g	garsa, gushtana	Imbabura Quechua	7	^ g
+i	i	mutijina, bitsijana	Imbabura Quechua	594	i
+í	í/i	pilíkula	Imbabura Quechua	1	\xed
+^i	i	iglizya, ima pacha	Imbabura Quechua	34	^ i
+i$	i	shimi, llaki	Imbabura Quechua	134	i $
+y	j	tiya, kayllayana	Imbabura Quechua	116	y
+^y	j	yachajuna, yaku wambuy	Imbabura Quechua	48	^ y
+y$	j	pay, yaku wambuy	Imbabura Quechua	37	y $
+k	k	llaki, wañushka	Imbabura Quechua	261	k
+^k	k	kaspi, kara	Imbabura Quechua	154	^ k
+k$	k	apuk, ñukanchik	Imbabura Quechua	30	k $
+l	l	kulki, pilchi	Imbabura Quechua	112	l
+^l	l	lulun, lichi	Imbabura Quechua	19	^ l
+l$	l	animal, karsil	Imbabura Quechua	9	l $
+m	m	shimi, ñawi milma	Imbabura Quechua	144	m
+^m	m	mutijina, mikuna	Imbabura Quechua	96	^ m
+n	n	shungunchina, punchalla	Imbabura Quechua	542	n
+ñ	ɲ	wañuchina, wañushka	Imbabura Quechua	27	\xf1
+^n	n	nina, nanaima	Imbabura Quechua	10	^ n
+^ñ	ɲ	ñan, ñawi milma	Imbabura Quechua	23	^ \xf1
+o	o	koku, umbrospi markana	Imbabura Quechua	4	o
+ó	ó/o	liyón	Imbabura Quechua	1	\xf3
+o$	o	impwesto, dumingo	Imbabura Quechua	2	o $
+^o$	o	o	Imbabura Quechua	1	^ o $
+p	p	ñaupashpa apana, allpa	Imbabura Quechua	119	p
+^p	p	pay, pamba	Imbabura Quechua	100	^ p
+q	q	piqui, kuriquinga	Imbabura Quechua	3	q
+r	ɾ	wagra, kara	Imbabura Quechua	237	r
+r$	ɾ	tilar, tambur	Imbabura Quechua	9	r $
+s	s	kaspi, aspina	Imbabura Quechua	94	s
+^s	s	sina, sillu	Imbabura Quechua	67	^ s
+s$	s	añas, alas	Imbabura Quechua	28	s $
+ts	ts	bitsijana, kintsilgu	Imbabura Quechua	11	t s
+^ts	ts	tsiya, tsini	Imbabura Quechua	3	^ t s
+t	t	jatun, mutijina	Imbabura Quechua	181	t
+^t	t	tiya, tabaku	Imbabura Quechua	74	^ t
+u	u	kutuk rumi, kuchuna	Imbabura Quechua	526	u
+ú	ú/u	fúsfuru, tilibisyún	Imbabura Quechua	4	\xfa
+^u	u	uchilla, utuju	Imbabura Quechua	49	^ u
+u$	u	kiru, rasu	Imbabura Quechua	198	u $
+w	w	wawachina, ruku wawki	Imbabura Quechua	50	w
+^w	w	wagra, wañuchina	Imbabura Quechua	50	^ w
+j	x	mutijina, bitsijana	Imbabura Quechua	59	j
+^j	x	jatun, jirru	Imbabura Quechua	46	^ j
+j$	x	yuraj, chushij	Imbabura Quechua	7	j $
+z	z	iglizya, azadun	Imbabura Quechua	22	z
+^r	ʐ	raka, rasu	Imbabura Quechua	37	^ r
+^z	z	zunfa, zambu	Imbabura Quechua	4	^ z
+rr	ʐ	jirru, sirruchu	Imbabura Quechua	9	r r
+fs	ɸ s	chafsina	Imbabura Quechua	1	f s
+ng	ŋ g				n g
+nk	ŋ g				n k
+nr	ŋ ɾ				n r
+^shw	ʃ w	shwiter	Imbabura Quechua	1	^ s h w
+^dw	d w	dwindi	Imbabura Quechua	1	^ d w
+ks	k s	tuksina, wiksa	Imbabura Quechua	2	k s
+^kw	k w	kwinta, kwadradu	Imbabura Quechua	2	^ k w
+ls	l s	bulsiku	Imbabura Quechua	1	l s
+mp	m b				m p
+np	m b				n p
+ms	m s	kimsa, kimsaniki	Imbabura Quechua	3	m s
+nch	n dʒ				n c h
+nt	n d				n t
+ns	n s	sinsil, gansu	Imbabura Quechua	2	n s
+nts	n dz				n t s
+ps	p s	tipsina	Imbabura Quechua	1	p s
+pw	p w	impwesto	Imbabura Quechua	1	p w
+rs	ɾ s	garsa, sarsillu	Imbabura Quechua	4	r s
+rw	r w	trwinu	Imbabura Quechua	1	r w
+sw	s w	aswila	Imbabura Quechua	1	s w
+^sw	s w	swidrus, swiltu	Imbabura Quechua	2	^ s w
+^tw	t w	twalla	Imbabura Quechua	1	^ t w
+ws	w s	kawsana, kawsay	Imbabura Quechua	4	w s
+jsh	x ʃ	ujsha wasi, ujsha	Imbabura Quechua	6	j s h
+js	x s	bijsayuk, sijsi	Imbabura Quechua	3	j s
+^jw	x w	jwis, jwibes	Imbabura Quechua	3	^ j w
+^rw	ʐ w	rwida, rwana	Imbabura Quechua	2	^ r w

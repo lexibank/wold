@@ -1,0 +1,95 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+$	NULL				$
+^	NULL				^
+-	+	-po, -ko	Yaqui	4	-
+aa	aː	bwaana, waakas	Yaqui	137	a a
+ee	eː	beea, meecha	Yaqui	72	e e
+ii	iː	wii’i, biika	Yaqui	55	i i
+oo	oː	jooa, joona	Yaqui	70	o o
+uu	uː	kuuna, juube	Yaqui	38	u u
+yy	jː	koyyoi	Yaqui	1	y y
+^aa	aː	aapo, aache	Yaqui	9	^ a a
+^ee	eː	eecha, eeri	Yaqui	6	^ e e
+^oo	oː	ooso, ooro	Yaqui	5	^ o o
+^uu	uː	uusi, uuba	Yaqui	7	^ u u
+aa$	aː	kabaa, kutanaa	Yaqui	18	a a $
+ee$	eː	kapee	Yaqui	1	e e $
+ii$	iː	jitebii	Yaqui	1	i i $
+oo$	oː	bichoo	Yaqui	1	o o $
+’	ʔ	ji’ika, na’ikimte	Yaqui	362	\u2019
+ch	tʃ	kuchichi’iti nooka, eecha	Yaqui	126	c h
+^ch	tʃ	chukta, chi’ila	Yaqui	55	^ c h
+_	_	kaa a mabeta, usi ju’ubwa yo’otume	Yaqui	213	_
+a	a	jakara, bepa’aria	Yaqui	1003	a
+^a	a	ako, apa	Yaqui	62	^ a
+a$	a	jakara, beea	Yaqui	601	a $
+b	b	inie betchi’ibo, jabire	Yaqui	175	b
+^b	b	beea, bepa’aria	Yaqui	162	^ b
+d	d	seeda, kandao	Yaqui	3	d
+^d	d	dies, dose	Yaqui	2	^ d
+e	e	mambebeme’eku, rebei	Yaqui	469	e
+^e	e	ete, emo eiya	Yaqui	41	^ e
+e$	e	na’ikimte, jippue	Yaqui	250	e $
+^g	g	geer	Yaqui	1	^ g
+i	i	na’ikimte, kuchichi’iti nooka	Yaqui	670	i
+^i	i	itepo, inie betchi’ibo	Yaqui	26	^ i
+i$	i	kopalai, jiapsi	Yaqui	207	i $
+j	j	bajut, su’utoja	Yaqui	183	j
+y	j	juya, taya	Yaqui	69	y
+^j	j	jakara, jita	Yaqui	186	^ j
+^y	j	yoemia, yo’o	Yaqui	57	^ y
+k	k	jakara, ako	Yaqui	370	k
+^k	k	kopalai, kusia	Yaqui	195	^ k
+k$	k	lu’utek, meechak	Yaqui	21	k $
+l	l	kopalai, saila	Yaqui	160	l
+^l	l	lu’utek, lionoka	Yaqui	38	^ l
+l$	l	tribunaal, ojpital	Yaqui	11	l $
+m	m	wojmamni ama mamni, na’ikimte	Yaqui	278	m
+^m	m	mo’one, meecha	Yaqui	95	^ m
+m$	m	nakam, masam	Yaqui	175	m $
+n	n	konrenaroa, nana’ana	Yaqui	237	n
+^n	n	na’ikimte, nautoja	Yaqui	63	^ n
+n$	n	relpin, relijion	Yaqui	14	n $
+o	o	mo’one, ko’okoe	Yaqui	597	o
+^o	o	o’ou, oko	Yaqui	32	^ o
+o$	o	ako, aapo	Yaqui	161	o $
+^o$	o	o	Yaqui	1	^ o $
+p	p	bepa’aria, kopalai	Yaqui	137	p
+^p	p	puepplo, pajti	Yaqui	86	^ p
+r	r	jakara, konrenaroa	Yaqui	266	r
+^r	r	rajtiom, ramaa	Yaqui	33	^ r
+r$	r	propesor, motor	Yaqui	8	r $
+s	s	bwise, wikosa	Yaqui	176	s
+^s	s	su’utoja, sai	Yaqui	107	^ s
+s$	s	waakas, seis	Yaqui	24	s $
+t	t	chitabetalai, na’ikimte	Yaqui	411	t
+^t	t	tejwa, tomi	Yaqui	162	^ t
+t$	t	bajut, jamut	Yaqui	19	t $
+u	u	su’utoja, usi ju’ubwa yo’otume	Yaqui	447	u
+^u	u	usi ju’ubwa yo’otume, utte’ak	Yaqui	9	^ u
+u$	u	o’ou, ja’amu	Yaqui	56	u $
+w	w	naawa, teuwa	Yaqui	110	w
+^w	w	wikosa, waakas	Yaqui	81	^ w
+bw	bʷ	usi ju’ubwa yo’otume, ase’ebwa	Yaqui	23	b w
+^bw	bʷ	bwaana, bwa’ame	Yaqui	48	^ b w
+bb	b b	ubba	Yaqui	1	b b
+jw	j w	tejwa, tetejwa	Yaqui	5	j w
+kk	k k	jikkaja, jekka	Yaqui	12	k k
+ks	k s	baksia, inyeksionim	Yaqui	6	k s
+kw	k w	chikwatte, tamtekwa	Yaqui	4	k w
+ll	l l	allea	Yaqui	1	l l
+ls	l s	pulseera, bolsiom	Yaqui	3	l s
+lw	l w	jinilwachi	Yaqui	1	l w
+mm	m m	tonommea japte, mammatte	Yaqui	3	m m
+ms	m s	bamse, kumsakam	Yaqui	2	m s
+mw	m w	ta’ata aman komwechebetana, ba’akomwechia	Yaqui	2	m w
+nn	n n	tenne	Yaqui	1	n n
+ns	n s	lisensia, insekto	Yaqui	11	n s
+nw	n w	joronwom, ama yeyenwame	Yaqui	3	n w
+pp	p p	jippue, puepplo	Yaqui	10	p p
+ps	p s	jiapsi, jiapsa	Yaqui	5	p s
+pw	p w	jujupwame	Yaqui	1	p w
+rw	r w	sorwo	Yaqui	1	r w
+ss	s s	bwassuma, nassua	Yaqui	6	s s
+tt	t t	totta, bittua	Yaqui	26	t t
+tw	t w	kutwaate, ketwo	Yaqui	6	t w

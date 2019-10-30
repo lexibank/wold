@@ -1,0 +1,130 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+$	NULL				$
+^	NULL				^
+ü	ü	dʒüy ʊna:dʒɪ, dʒünʃi	Oroqen	4	\xfc
+-	+	ɔ:-, ga-	Oroqen	310	-
+ə:	əː	kurə:kə:n, dʒə:ktə	Oroqen	35	\u0259 :
+ɪ:	ɪː	ʃɪ:la	Oroqen	1	\u026a :
+ŋŋ	ŋː	tʊŋŋa, ʃaŋŋan	Oroqen	9	\u014b \u014b
+ʃʃ	ʃː	ɪʃʃa	Oroqen	1	\u0283 \u0283
+ʊ:	ʊː	arʊ:n, dʒʊ:rki	Oroqen	7	\u028a :
+a:	aː	ʃa:wukanan, ŋa:la	Oroqen	53	a :
+e:	eː	gawle:n, be:wyaŋ	Oroqen	4	e :
+ɛ:	ɛː	gɛ:yin, yɛ:da	Oroqen	20	\u025b :
+i:	iː	ʃi:p, ʃi:rə	Oroqen	10	i :
+kk	kː	ətirkkətʃən, atirkka:tʃan	Oroqen	2	k k
+ll	lː	tullə, dʒu:llə	Oroqen	2	l l
+o:	oː	ko:rgə, ko:məkə	Oroqen	7	o :
+ɔ:	ɔː	dɔ:ldi-, nɔ:nin	Oroqen	26	\u0254 :
+rr	rː	dʒu:rrə	Oroqen	1	r r
+u:	uː	dʒu:gduŋi dʒu:n, dʒu:gdu	Oroqen	22	u :
+ə:$	əː	kuŋkə:, ulə:-	Oroqen	35	\u0259 : $
+ɪ:$	ɪː	aʃakɪ:, adɪ:	Oroqen	4	\u026a : $
+ʊ:$	ʊː	nalɛmʊ:, ʊrʊ:-	Oroqen	2	\u028a : $
+^ə:	əː	ə:m, ə:ri-	Oroqen	3	^ \u0259 :
+^ʊ:	ʊː	ʊ:ŋkan, ʊ:ŋnɪ-	Oroqen	2	^ \u028a :
+^a:	aː	a:lan, a:ʃɪn-	Oroqen	5	^ a :
+^i:	iː	i:kə, i:rakta	Oroqen	8	^ i :
+^o:	oː	o:n, o:tilə	Oroqen	4	^ o :
+^ɔ:	ɔː	ɔ:ki, ɔ:də:-	Oroqen	6	^ \u0254 :
+^u:	uː	u:n, u:yi-	Oroqen	2	^ u :
+a:$	aː	nɔ:da:-, ʊtaldʒa:-	Oroqen	15	a : $
+ɛ:$	ɛː	bəbɛ:, ərəxəltɛ:-	Oroqen	9	\u025b : $
+i:$	iː	uni:-, ʃuʃi:	Oroqen	11	i : $
+o:$	oː	ulo:-, oŋko:	Oroqen	2	o : $
+ɔ:$	ɔː	mɔ:, dʒɔ:-	Oroqen	8	\u0254 : $
+u:$	uː	dʒu:, gu:	Oroqen	14	u : $
+^ə:$	əː	ə:-	Oroqen	1	^ \u0259 : $
+^i:$	iː	i:-	Oroqen	1	^ i : $
+^ɔ:$	ɔː	ɔ:-	Oroqen	4	^ \u0254 : $
+^u:$	uː	u:-	Oroqen	1	^ u : $
+ə	ə	ulkəkən, ətəkən-	Oroqen	276	\u0259
+ə$	ə	itʃə-, iɲə-	Oroqen	161	\u0259 $
+^ə	ə	ətəkən-, əɲəkə	Oroqen	80	^ \u0259
+^ə$	ə	ə-	Oroqen	2	^ \u0259 $
+ɸ	ɸ	daiɸu	Oroqen	1	\u0278
+^ɸ	ɸ	ɸəytin	Oroqen	1	^ \u0278
+ɪ	ɪ	ʊmʊktaŋi ʃɪŋarɪnɪn, ɲɪrayɪkan	Oroqen	126	\u026a
+ɪ$	ɪ	tarɪ, tʃʊrgɪ-	Oroqen	53	\u026a $
+^ɪ	ɪ	ɪlara, ɪltʃa-	Oroqen	19	^ \u026a
+ŋ	ŋ	ɔŋɔktɔŋi dɔ:n, kuŋkə:	Oroqen	116	\u014b
+ŋ$	ŋ	inəŋ, dahwitaŋ	Oroqen	14	\u014b $
+^ŋ	ŋ	ŋa:la, ŋʊnʊm	Oroqen	13	^ \u014b
+ʃ	ʃ	ʊʃɪkta, əʃikin	Oroqen	58	\u0283
+ʃ$	ʃ	pɔrɔkɔʃ, aramuʃ	Oroqen	3	\u0283 $
+^ʃ	ʃ	ʃarbakta, ʃa:wukanan	Oroqen	97	^ \u0283
+kʃ	kʃ	yakʃiŋki, tʊkʃakɪ	Oroqen	27	k \u0283
+tʃ	tʃ	itʃə-, palatʃɛntʃa	Oroqen	98	t \u0283
+^tʃ	tʃ	tʃʊrgɪ-, tʃʊlɪka	Oroqen	39	^ t \u0283
+ʊ	ʊ	kʊrdʊr, tʃʊkʊmʊkta	Oroqen	156	\u028a
+ʊ$	ʊ	tʃadʒʊŋkʊ, bʊdʊ-	Oroqen	26	\u028a $
+^ʊ	ʊ	ʊʃɪkta, ʊktʃa:-	Oroqen	23	^ \u028a
+dʒ	dʒ	tʃadʒʊŋkʊ, amʊdʒi	Oroqen	40	d \u0292
+^dʒ	dʒ	dʒu:, dʒəg	Oroqen	62	^ d \u0292
+_	_	aʃɪ taktɪ bəyə, inəŋ dulin nuktʃitʃə	Oroqen	68	_
+a	a	ʃarbakta, ʃa:wukanan	Oroqen	408	a
+^a	a	amalan, algan	Oroqen	95	^ a
+a$	a	ʃarbakta, ga-	Oroqen	173	a $
+b	b	ʃarbakta, tubiɣə	Oroqen	52	b
+β	β	ʃaβi, kaβila	Oroqen	2	\u03b2
+^b	b	bi-, bʊwa	Oroqen	74	^ b
+b$	b	dʒəb-, tib-	Oroqen	2	b $
+d	d	ʃɔgdɔnɔ, kʊrdʊr	Oroqen	132	d
+^d	d	damga, dɔ:ldi-	Oroqen	65	^ d
+ɛ	ɛ	nɛdɛr, kɛrəndɛr	Oroqen	27	\u025b
+ɛ$	ɛ	kəŋgugdɛ, tutuyɛ	Oroqen	12	\u025b $
+g	g	ulgur, ʃɔgdɔnɔ	Oroqen	138	g
+ɣ	ɣ	tubiɣə, dʒaʃiɣan	Oroqen	8	\u0263
+^g	g	ga-, gu:	Oroqen	58	^ g
+g$	g	dʒəg, tɔ:rag	Oroqen	6	g $
+^h	h	hudʒau	Oroqen	1	^ h
+i	i	əʃikin, bʊɣaŋi əlginin	Oroqen	233	i
+^i	i	inəŋ, itʃə-	Oroqen	54	^ i
+i$	i	yakʃiŋki, bi-	Oroqen	111	i $
+k	k	ulkəkən, dɪlatʃa tiktəkəki	Oroqen	354	k
+^k	k	kurə:kə:n, kɔtɔ	Oroqen	90	^ k
+k$	k	tik-, ɔrbɔnik	Oroqen	14	k $
+l	l	ulgur, inəŋdulin bɪlga	Oroqen	252	l
+^l	l	lʊpkʊptɪn, laŋɪ-	Oroqen	12	^ l
+l$	l	ʃirkul, ukul-	Oroqen	21	l $
+m	m	amalan, tama-	Oroqen	133	m
+^m	m	mɔ:, mayman	Oroqen	56	^ m
+m$	m	ə:m, um-	Oroqen	12	m $
+n	n	inəŋ dulin nuktʃitʃə, umun nandar	Oroqen	148	n
+ɲ	ɲ	əɲəkə, iɲə-	Oroqen	18	\u0272
+^n	n	nəkə-, nɔ:nin	Oroqen	40	^ n
+^ɲ	ɲ	ɲɪray, ɲɪrayɪkan	Oroqen	23	^ \u0272
+n$	n	ukun, ʃa:wukanan	Oroqen	322	n $
+o	o	toŋgorin, moŋwon	Oroqen	10	o
+ɔ	ɔ	ʃɔgdɔnɔ, dɔkɔlɔn-	Oroqen	86	\u0254
+^o	o	olbot-, oŋko:	Oroqen	4	^ o
+^ɔ	ɔ	ɔrbɔnik, ɔgtɔ	Oroqen	17	^ \u0254
+o$	o	tʃuto, mo:ro-	Oroqen	5	o $
+ɔ$	ɔ	kɔtɔ, ʃɔgdɔnɔ	Oroqen	38	\u0254 $
+p	p	lʊpkʊptɪn, guruptən	Oroqen	47	p
+^p	p	pəykələ:-, pʊtʃa-	Oroqen	9	^ p
+p$	p	ʃi:p, ʃɪrʊp	Oroqen	3	p $
+r	r	tur urtərgətʃə, ʃarbakta	Oroqen	263	r
+r$	r	ulgur, tar-	Oroqen	41	r $
+s	s	dɔ:sun	Oroqen	1	s
+^s	s	suytan, sʊlakɪ	Oroqen	4	^ s
+t	t	ʃarbakta, dɪlatʃa tiktəkəki	Oroqen	155	t
+^t	t	tama-, tʊkʃakɪ	Oroqen	107	^ t
+t$	t	tat-, tət-	Oroqen	9	t $
+u	u	wurumkun, umun duru-tʃi	Oroqen	265	u
+^u	u	ulgur, ukun	Oroqen	85	^ u
+u$	u	ənuku, guntʃulu	Oroqen	56	u $
+w	w	ʃa:wukanan, kawukɛ:wuptɪla bəyə	Oroqen	70	w
+^w	w	wurumkun, wa:-	Oroqen	11	^ w
+w$	w	dʒalaw, tu:dəw	Oroqen	3	w $
+x	x	ərəxəltɛ:-, uyəpdilə axɪ	Oroqen	4	x
+y	y	mayman, dʒu:layi yabʊran	Oroqen	87	y
+^y	y	yakʃiŋki, yɔ:ʃi	Oroqen	21	^ y
+y$	y	ɲɪray, uyəpdilə ɲɪray	Oroqen	6	y $
+z	z	toŋzər	Oroqen	1	z
+ŋʃ	ŋ ʃ	dəŋʃələ:-	Oroqen	1	\u014b \u0283
+ŋw	ŋ w	moŋwon	Oroqen	1	\u014b w
+gw	g w	wɔgwɔ	Oroqen	1	g w
+hw	h w	dahwitaŋ	Oroqen	1	h w
+^kw	k w	kwaŋ	Oroqen	1	^ k w
+nʃ	n ʃ	dʒünʃi	Oroqen	1	n \u0283

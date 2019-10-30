@@ -1,0 +1,148 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+$	NULL				$
+^	NULL				^
+an	ã				a n
+en	ɛ̃				e n
+ny	j̃				n y
+on	ɔ̃				o n
+^an	ã				^ a n
+^en	ɛ̃				^ e n
+^ny	j̃				^ n y
+^on	ɔ̃				^ o n
+an$	ã				a n $
+en$	ɛ̃				e n $
+on$	ɔ̃				o n $
+-	+	tranbleman-d-ter, anvwa-d-famiy	Seychelles Creole	16	-
+aa	aː	laas, laans	Seychelles Creole	2	a a
+ar	aː				a r
+ee	eː	speech	Seychelles Creole	1	e e
+er	ɛː				e r
+or	ɔː				o r
+^ar	aː				^ a r
+^er	ɛː				^ e r
+^or	ɔː				^ o r
+ar$	aː				a r $
+er$	ɛː				e r $
+ir$	iː				i r $
+or$	ɔː				o r $
+our	uː				o u r
+our$	uː				o u r $
+ng	ŋ				n g
+ng$	ŋ				n g $
+ch	tʃ	poncho	Seychelles Creole	1	c h
+^sh	ʃ	shelf	Seychelles Creole	1	^ s h
+ch$	tʃ	speech	Seychelles Creole	1	c h $
+_	_	kan kok maron, pti frer	Seychelles Creole	125	_
+a	a	larzan, madanm	Seychelles Creole	1162	a
+^a	a	anmennen, avek	Seychelles Creole	106	^ a
+a$	a	anba, lestoma	Seychelles Creole	87	a $
+b	b	laboure, anba anba	Seychelles Creole	111	b
+^b	b	belfiy, boper	Seychelles Creole	159	^ b
+b$	b	bib, letab	Seychelles Creole	17	b $
+c	c	mice	Seychelles Creole	1	c
+^c	c	countryside	Seychelles Creole	1	^ c
+d	d	madanm, ride	Seychelles Creole	126	d
+^d	d	dizef, dan	Seychelles Creole	122	^ d
+d$	d	rid, koud	Seychelles Creole	23	d $
+e	e	leker, anmennen	Seychelles Creole	889	e
+^e	e	ek, entelizan	Seychelles Creole	31	^ e
+e$	e	laboure, krose	Seychelles Creole	446	e $
+^e$	e	e	Seychelles Creole	1	^ e $
+f	f	belfiy, bofis	Seychelles Creole	88	f
+^f	f	four, for	Seychelles Creole	103	^ f
+f$	f	dizef, serf	Seychelles Creole	22	f $
+g	g	sagren, lager	Seychelles Creole	70	g
+r	ɣ	gran frer, laboure	Seychelles Creole	543	r
+^g	g	grate, gele	Seychelles Creole	66	^ g
+^r	ɣ	rennyen, roule	Seychelles Creole	69	^ r
+g$	g	malang, zong	Seychelles Creole	30	g $
+r$	ɣ	boper, kler	Seychelles Creole	202	r $
+i	i	pti gin, belfiy	Seychelles Creole	532	i
+^i	i	irle, is karang	Seychelles Creole	12	^ i
+i$	i	santi, piti	Seychelles Creole	124	i $
+iy	i				i y
+^i$	i	i	Seychelles Creole	4	^ i $
+iy$	i				i y $
+y	j	lesyel, riy riye	Seychelles Creole	248	y
+^j	j	jug	Seychelles Creole	1	^ j
+^y	j	yer	Seychelles Creole	1	^ y
+y$	j	belfiy, marmay	Seychelles Creole	62	y $
+k	k	lekel ki, leker	Seychelles Creole	172	k
+^K	K/k	Kaka zorey	Seychelles Creole	1	^ K
+^k	k	krose, kler	Seychelles Creole	189	^ k
+k$	k	ek, avek	Seychelles Creole	61	k $
+l	l	belfiy, laplim	Seychelles Creole	300	l
+^l	l	laboure, laplim	Seychelles Creole	359	^ l
+l$	l	mal, poul	Seychelles Creole	90	l $
+ll$	l	waterfall	Seychelles Creole	1	l l $
+m	m	anmennen, belmer	Seychelles Creole	180	m
+^M	M/m	Mous fe	Seychelles Creole	1	^ M
+^m	m	madanm, mal	Seychelles Creole	138	^ m
+m$	m	madanm, laplim	Seychelles Creole	52	m $
+n	n	madanm, anmennen	Seychelles Creole	438	n
+^n	n	nou, nanm	Seychelles Creole	37	^ n
+n$	n	anmennen, larzan	Seychelles Creole	332	n $
+o	o	mouton, tonton	Seychelles Creole	770	o
+^o	o	ou, oule	Seychelles Creole	18	^ o
+o$	o	baro, sizo	Seychelles Creole	84	o $
+^o$	o	o	Seychelles Creole	1	^ o $
+p	p	boper, laplim	Seychelles Creole	168	p
+^p	p	piti, perl	Seychelles Creole	188	^ p
+p$	p	kap, latroup	Seychelles Creole	19	p $
+s	s	krose, lesyel	Seychelles Creole	208	s
+^s	s	santi, sizo	Seychelles Creole	158	^ s
+s$	s	bofis, nyes	Seychelles Creole	74	s $
+t	t	bate, santi	Seychelles Creole	321	t
+^t	t	trou, tape	Seychelles Creole	121	^ t
+t$	t	fot, bet	Seychelles Creole	131	t $
+u	u				u
+ou	u	laboure, lakour	Seychelles Creole	216	o u
+ou$	u	nou, trou	Seychelles Creole	35	o u $
+^ou$	u				^ o u $
+v	v	avek, move	Seychelles Creole	100	v
+^v	v	viv, volay	Seychelles Creole	42	^ v
+v$	v	viv, pov	Seychelles Creole	24	v $
+w	w				w
+^w	w	war, wit	Seychelles Creole	6	^ w
+w$	w	daw	Seychelles Creole	1	w $
+z	z	larzan, sizo	Seychelles Creole	139	z
+^z	z	zann, zekler	Seychelles Creole	82	^ z
+z$	z	akoz, legliz	Seychelles Creole	54	z $
+bs	b s	lobskirite	Seychelles Creole	1	b s
+bw	b w	bonnonm dibwa, labwet	Seychelles Creole	4	b w
+^bw	b w	bwete, bwa	Seychelles Creole	10	^ b w
+dw	d w	ledwa, kondwir	Seychelles Creole	4	d w
+^dw	d w	dwa	Seychelles Creole	1	^ d w
+fw	f w	annandefwa, kekfwa	Seychelles Creole	6	f w
+rs	ɣ s	fourset, serse	Seychelles Creole	23	r s
+ɣ s$	ɣ s	lars, ners	Seychelles Creole	7	\u0263   s $
+gw	g w	zegwiy, langwas	Seychelles Creole	5	g w
+rw	ɣ w	trwi, landrwa	Seychelles Creole	14	r w
+ks	k s	eksplike, leleksyon	Seychelles Creole	4	k s
+ks$	k s	laks, taks	Seychelles Creole	3	k s $
+kw	k w	lakwis, lakwizin	Seychelles Creole	4	k w
+^kw	k w	kwar, kwi	Seychelles Creole	13	^ k w
+ls	l s	belser	Seychelles Creole	1	l s
+lw	l w	delwil, boulwar	Seychelles Creole	4	l w
+^lw	l w	lwen, lwe	Seychelles Creole	2	^ l w
+ms	m s	lanmson	Seychelles Creole	1	m s
+mw	m w	temwen, lanmwotye	Seychelles Creole	2	m w
+^mw	m w	mwan	Seychelles Creole	2	^ m w
+nn	n n	anmennen, kondannen	Seychelles Creole	79	n n
+nn$	n n	zann, lapenn	Seychelles Creole	69	n n $
+ns	n s	panse, piti ansanm	Seychelles Creole	30	n s
+ns$	n s	gran zans, dimans	Seychelles Creole	17	n s $
+nw	n w	lannwit, grenwiy	Seychelles Creole	4	n w
+^nw	n w	nwar	Seychelles Creole	2	^ n w
+ps	p s	soupsonnen	Seychelles Creole	1	p s
+pw	p w	lapwent, lespwar	Seychelles Creole	7	p w
+^pw	p w	pwason, pwenti	Seychelles Creole	9	^ p w
+sw	s w	aswar, lanmaswar	Seychelles Creole	9	s w
+^sw	s w	swazir, swiye	Seychelles Creole	6	^ s w
+tw	t w	tatwaz, sitwayen	Seychelles Creole	5	t w
+^tw	t w	twalet, twa fey	Seychelles Creole	3	^ t w
+vw	v w	avwe, konsevwar	Seychelles Creole	5	v w
+^vw	v w	vwazen, vwal	Seychelles Creole	2	^ v w
+zw	z w	razwar, nazwar	Seychelles Creole	4	z w
+^zw	z w	zwe, zwazo	Seychelles Creole	6	^ z w
+rsw	ɣ s w	pourswiv, marswen	Seychelles Creole	2	r s w

@@ -1,0 +1,200 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+$	NULL				$
+^	NULL				^
+b$	NULL	nyob, tub	White Hmong	270	b $
+g$	NULL	yog, lig	White Hmong	163	g $
+j$	NULL	phaj, kaj	White Hmong	168	j $
+m$	NULL	niam, saum	White Hmong	164	m $
+s$	NULL	mis, ntaus	White Hmong	173	s $
+v$	NULL	ntawv, yuav	White Hmong	221	v $
+b{}	NULL				b { }
+g{}	NULL				g { }
+j{}	NULL				j { }
+m{}	NULL				m { }
+s{}	NULL				s { }
+v{}	NULL				v { }
+aa	ã	naas mom, naam	White Hmong	4	a a
+ee	ẽ	nees, luam yeeb	White Hmong	82	e e
+hm	m̥				h m
+hn	n̥				h n
+oo	õ	foom koob hmoov, pog koob yawg koob	White Hmong	98	o o
+^hm	m̥				^ h m
+^hn	n̥				^ h n
+-	+	qhov-txos, xeeb-ntxwv	White Hmong	104	-
+ia	iə				i a
+ua	uə				u a
+^ia	iə				^ i a
+^ua	uə				^ u a
+ia$	iə				i a $
+ua$	uə				u a $
+g	ŋ	cog lus, pog koob yawg koob	White Hmong	57	g
+^g	ŋ	gus, gaib	White Hmong	2	^ g
+ts	tʃ	ntse, ntsuas phoo	White Hmong	76	t s
+^ts	tʃ	tso, tsaug	White Hmong	47	^ t s
+w	ɯ	ntawv, chaw mos	White Hmong	104	w
+^w	ɯ	wm	White Hmong	1	^ w
+w$	ɯ	saw, caw	White Hmong	9	w $
+^w$	ɯ	w	White Hmong	1	^ w $
+_	_	nrog tu siab, ua li cas	White Hmong	736	_
+a	a	niam tais, puab-tsaig	White Hmong	1035	a
+^a	a	av nplaum, aws	White Hmong	7	^ a
+a$	a	tua, hnia	White Hmong	48	a $
+b	b	sab qab teb, sab hnub poob	White Hmong	189	b
+np	ⁿb				n p
+^np	ⁿb				^ n p
+c	c	ncaj ncees, qhov-cub	White Hmong	64	c
+^c	c	cog lus, ci	White Hmong	52	^ c
+xy	ɕ				x y
+^xy	ɕ				^ x y
+d	d	cua daj cua dub, phuam da dej	White Hmong	25	d
+^d	d	dej, dag	White Hmong	42	^ d
+d$	d	ntawd	White Hmong	2	d $
+nr	ⁿɖ				n r
+nt	ⁿd				n t
+^nr	ⁿɖ				^ n r
+^nt	ⁿd				^ n t
+e	e	dej, kev	White Hmong	179	e
+^e	e	ev	White Hmong	1	^ e
+e$	e	ntse, nce	White Hmong	20	e $
+f	f	kas fes, sib-faib	White Hmong	6	f
+^f	f	faus, foob pob	White Hmong	9	^ f
+nk	ⁿg				n k
+nq	ⁿɢ				n q
+^nk	ⁿg				^ n k
+^nq	ⁿɢ				^ n q
+h	h	noj hmo, hneev roj hmab	White Hmong	42	h
+^h	h	hnov, hnia	White Hmong	101	^ h
+ch	cʰ	ncha moo, ncho pa	White Hmong	4	c h
+dh	dʱ	ras dheev, tsim dheev	White Hmong	2	d h
+kh	kʰ	nkhaus, kws kho mob	White Hmong	16	k h
+ph	pʰ	ntsuas phoo, tsw phem	White Hmong	11	p h
+qh	qʰ	ib-qho, nyom qhuav	White Hmong	9	q h
+rh	ʈʰ	nrhiav, khaub rhuab	White Hmong	3	r h
+th	tʰ	tiv thaiv, thoom thaub	White Hmong	18	t h
+^ch	cʰ	chaw mos, chaw nyob	White Hmong	12	^ c h
+^dh	dʱ	dhia, dhau	White Hmong	2	^ d h
+^kh	kʰ	khav, khawb	White Hmong	30	^ k h
+^ph	pʰ	phaj, phaw tshis	White Hmong	20	^ p h
+^qh	qʰ	qhov, qhov-txos	White Hmong	35	^ q h
+^rh	ʈʰ	rhaus	White Hmong	1	^ r h
+^th	tʰ	thee, thawv cib	White Hmong	24	^ t h
+tsh	tʃʰ	qe ntshauv, ris tsho	White Hmong	19	t s h
+txh	tsʰ				t x h
+^nch	ⁿɟʰ				^ n c h
+^nkh	ⁿgʱ				^ n k h
+^nqh	ⁿɢʱ				^ n q h
+^nrh	ⁿɖʱ				^ n r h
+^nth	ⁿdʱ				^ n t h
+^tsh	tʃʰ	tshis, tshuaj lom	White Hmong	22	^ t s h
+^txh	tsʰ				^ t x h
+ntsh	ⁿɖʐʱ				n t s h
+ntxh	ⁿdzʱ				n t x h
+^ntsh	ⁿɖʐʱ				^ n t s h
+^ntxh	ⁿdzʱ				^ n t x h
+i	i	niam tais, niam txiv	White Hmong	389	i
+^i	i	iav, ib-qho	White Hmong	9	^ i
+i$	i	ci, hli	White Hmong	24	i $
+j	j	pojniam, caij nplooj ntoo hlav	White Hmong	135	j
+y	ʝ	nyob, nyiaj	White Hmong	79	y
+^Y	Y/ʝ	Yawm Saub	White Hmong	1	^ Y
+^y	ʝ	yuav, yog	White Hmong	40	^ y
+nc	ⁿɟ				n c
+^nc	ⁿɟ				^ n c
+k	k	pog koob yawg koob, nkag	White Hmong	60	k
+^k	k	kaj, kev	White Hmong	59	^ k
+l	l	mlom, hlau	White Hmong	120	l
+^l	l	lus, luam yeeb	White Hmong	55	^ l
+hl	ɬ				h l
+pl	pˡ				p l
+^hl	ɬ				^ h l
+^ml	mˡ				^ m l
+^pl	pˡ				^ p l
+npl	ⁿbˡ				n p l
+^npl	ⁿbˡ				^ n p l
+^plh	pʰˡ				^ p l h
+^nplh	ⁿbʰˡ				^ n p l h
+m	m	chaw mos, niam tais	White Hmong	135	m
+^m	m	mis, mlom	White Hmong	45	^ m
+n	n	pojniam, hnov	White Hmong	220	n
+^n	n	niam, nyob	White Hmong	293	^ n
+ny	ɲ				n y
+^ny	ɲ				^ n y
+o	o	qhov-txos, nyob	White Hmong	255	o
+^o	o	o txia, ob-zaug	White Hmong	4	^ o
+o$	o	no, tso	White Hmong	26	o $
+^o$	o	o	White Hmong	1	^ o $
+p	p	npuj-npaim, tshaib plab	White Hmong	80	p
+^p	p	pojniam, puag	White Hmong	88	^ p
+q	q	raws qab, nqaj qaum	White Hmong	59	q
+^q	q	qiv, qos liab	White Hmong	28	^ q
+S	S/ʂ	Yawm Saub	White Hmong	1	S
+s	ʂ	maus taus xais, zes kab laug sab	White Hmong	129	s
+x	s	qhov-txos, niam txiv	White Hmong	96	x
+^s	ʂ	saum, siav	White Hmong	45	^ s
+^x	s	xib fwb, xeeb tub	White Hmong	46	^ x
+tx	ts				t x
+^tx	ts				^ t x
+r	ʈ	nruab nrab, nrub nrab	White Hmong	44	r
+t	t	ntawv, ntuj-tawg teb txias	White Hmong	221	t
+^r	ʈ	ruam, rub	White Hmong	26	^ r
+^t	t	txhaum, tua	White Hmong	136	^ t
+u	u	plaub muag, tua	White Hmong	548	u
+^u	u	ua, ua li cas	White Hmong	19	^ u
+u$	u	hlau, du	White Hmong	40	u $
+V	V/v	thov Vaj Tswv	White Hmong	1	V
+v	v	qhov-txos, kev xaiv tsa	White Hmong	180	v
+^V	V/v	Vaj Tswv	White Hmong	1	^ V
+^v	v	vauv, vaj	White Hmong	14	^ v
+z	ʐ	neeg zej-zog, rooj zaum	White Hmong	22	z
+^z	ʐ	zuag, zom	White Hmong	27	^ z
+nts	ⁿɖʐ				n t s
+ntx	ⁿdz				n t x
+^nts	ⁿɖʐ				^ n t s
+^ntx	ⁿdz				^ n t x
+Tsw	Ts/tʃ ɯ	thov Vaj Tswv, Vaj Tswv	White Hmong	2	T s w
+tsw	tʃ ɯ	qhov-ntswg, nom tswv	White Hmong	7	t s w
+^tsw	tʃ ɯ	tswv yim, tswm	White Hmong	7	^ t s w
+^tsw$	tʃ ɯ	tsw	White Hmong	1	^ t s w $
+ws	ɯ ʂ	raws qab, plhaws taub-hau	White Hmong	8	w s
+ws$	ɯ ʂ	khaws, taws	White Hmong	25	w s $
+^cw	c ɯ	cwj mem, cwj nrig	White Hmong	3	^ c w
+^cw$	c ɯ	cw	White Hmong	1	^ c w $
+ee$	e ŋ	qee, tshee	White Hmong	5	e e $
+fw	f ɯ	xib fwb	White Hmong	2	f w
+^fw	f ɯ	fwj kais, fwj	White Hmong	2	^ f w
+hw	h ɯ	xib hwb	White Hmong	2	h w
+^hw	h ɯ	hwj, hwj kais	White Hmong	4	^ h w
+khw	kʰ ɯ	thom khwm	White Hmong	1	k h w
+^qhw	qʰ ɯ	qhwv	White Hmong	1	^ q h w
+^thw	tʰ ɯ	thwj, thwv cib	White Hmong	2	^ t h w
+^khw$	kʰ ɯ	khw	White Hmong	2	^ k h w $
+^kw	k ɯ	kwv tij, kwv tij neej tsa	White Hmong	5	^ k w
+lw	l ɯ	hlwb, hauj lwm	White Hmong	6	l w
+^lw	l ɯ	lwm, lwj	White Hmong	4	^ l w
+ms	m ʂ	tamsim	White Hmong	1	m s
+oo$	o ŋ	ntsuas phoo, ntoo	White Hmong	19	o o $
+pw	p ɯ	xub pwg, cwj pwm	White Hmong	3	p w
+^pw$	p ɯ	pw	White Hmong	1	^ p w $
+^qw	q ɯ	qw nrov, qwj	White Hmong	2	^ q w
+^qw$	q ɯ	qw	White Hmong	1	^ q w $
+xw	s ɯ	xeeb-ntxwv, pov-txwv	White Hmong	14	x w
+^xw	s ɯ	xwb, xwb kuab	White Hmong	2	^ x w
+rw	ʈ ɯ	ntsaum kab-rwg, paj rwb	White Hmong	2	r w
+tw	t ɯ	qhov twg, thaum twg	White Hmong	3	t w
+^rw	ʈ ɯ	rwj	White Hmong	1	^ r w
+^tw	t ɯ	twg, twj ywm	White Hmong	3	^ t w
+tw$	t ɯ	pob-tw	White Hmong	1	t w $
+^tw$	t ɯ	tw	White Hmong	1	^ t w $
+^vw	v ɯ	vwm	White Hmong	1	^ v w
+fws$	f ɯ ʂ	tawm fws	White Hmong	1	f w s $
+hws$	h ɯ ʂ	tawm hws	White Hmong	1	h w s $
+^hws$	h ɯ ʂ	hws	White Hmong	1	^ h w s $
+^qhws	qʰ ɯ ʂ	qhws ntsej	White Hmong	1	^ q h w s
+^kws	k ɯ s	kws kho mob, kws ntaus hlau	White Hmong	2	^ k w s
+kws$	k ɯ ʂ	pobkws	White Hmong	1	k w s $
+^nws$	n ɯ ʂ	nws	White Hmong	4	^ n w s $
+^qws	q ɯ ʂ	qws txob	White Hmong	1	^ q w s
+^qws$	q ɯ ʂ	qws	White Hmong	1	^ q w s $
+xhw$	s h ɯ	ntxhw	White Hmong	1	x h w $
+tws$	t ɯ s	ntws, yiv tws	White Hmong	2	t w s $
+vv	v + v	txaj viav-vias	White Hmong	1	v v

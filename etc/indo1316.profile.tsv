@@ -1,0 +1,122 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+$	NULL				$
+^	NULL				^
+-	+	mencaci-maki, laki-laki	Indonesian	33	-
+aa	aː	pemerkosaan, kegelitaan	Indonesian	9	a a
+^oo	oː	oom	Indonesian	1	^ o o
+k$	ʔ	naik, masak	Indonesian	170	k $
+k{}	ʔ				k { }
+ai$	aɪ				a i $
+ng	ŋ				n g
+^ng	ŋ				^ n g
+ng$	ŋ				n g $
+c	tʃ	mencaci-maki, kelinci	Indonesian	97	c
+^c	tʃ	cabang, cepat	Indonesian	47	^ c
+sy	ʃ				s y
+^sy	ʃ				^ s y
+au$	aʊ				a u $
+au{}	aʊ				a u { }
+j	dʒ	menjunjung, biji	Indonesian	99	j
+^J	J/dʒ	Jum'at	Indonesian	1	^ J
+^j	dʒ	jalan, jelék	Indonesian	46	^ j
+_	_	musim gugur, emak tiri	Indonesian	124	_
+A	A/a				A
+a	a	kesalahan, lembaga pemasyarakatan	Indonesian	1904	a
+^a	a	angin, ada	Indonesian	70	^ a
+a$	a	membawa, meraba	Indonesian	294	a $
+b	b	membawa, terlambat	Indonesian	238	b
+^b	b	bulan, biji	Indonesian	234	^ b
+b$	b	sebab, arnab	Indonesian	8	b $
+d	d	tidur, bidadari	Indonesian	193	d
+^d	d	di, dalam	Indonesian	61	^ d
+d$	d	masjid, murid	Indonesian	5	d $
+e	e	memegang, segera	Indonesian	1079	e
+é	é/e	kakék-nénék, écék-écék	Indonesian	143	\xe9
+^e	e	enggak, engkau	Indonesian	10	^ e
+^é	é/e	énténg, écék-écék	Indonesian	4	^ \xe9
+e$	e	olive, wine	Indonesian	3	e $
+é$	é/e	idé, soré	Indonesian	6	\xe9 $
+f	f	telfon, bernafas	Indonesian	5	f
+^f	f	famili, flu	Indonesian	4	^ f
+g	g	pergelangan tangan, memegang	Indonesian	312	g
+^g	g	garpu, gadis	Indonesian	56	^ g
+g$	g	memegang, memanggang	Indonesian	217	g $
+h	h	kesalahan, melihat	Indonesian	106	h
+^h	h	hidup, hawa	Indonesian	37	^ h
+h$	h	mentah, tanah	Indonesian	108	h $
+^kh	kʰ	khitan	Indonesian	1	^ k h
+i	i	lilin, pikir	Indonesian	618	i
+I$	i	menghalangI	Indonesian	1	I $
+^i	i	injéksi, ikat	Indonesian	32	^ i
+i$	i	lelaki, mati	Indonesian	225	i $
+y	j	dayung, menyembunyikan	Indonesian	109	y
+^y	j	yatim-piatu, yakin	Indonesian	3	^ y
+k	k	laki-laki, percékcokan	Indonesian	324	k
+^K	K/k	Kamis	Indonesian	1	^ K
+^k	k	kesalahan, kutu	Indonesian	228	^ k
+l	l	tulang belulang, jalan	Indonesian	365	l
+^l	l	lilin, lelaki	Indonesian	88	^ l
+l$	l	mengambil, tinggal	Indonesian	65	l $
+M	M/m				M
+m	m	tanaman merambat, membawa	Indonesian	351	m
+^m	m	memegang, membawa	Indonesian	442	^ m
+m$	m	tenggelam, menggenggam	Indonesian	59	m $
+n	n	pincang, kunang-kunang	Indonesian	997	n
+^n	n	naik, nampak	Indonesian	27	^ n
+n$	n	jalan, kesalahan	Indonesian	319	n $
+nc	ɲ				n c
+nj	ɲ				n j
+ny	ɲ				n y
+^ny	ɲ				^ n y
+o	o	pohon, kosong	Indonesian	215	o
+^o	o	onta, om	Indonesian	14	^ o
+o$	o	romo, separo	Indonesian	15	o $
+p	p	sepupu, dapur	Indonesian	204	p
+^p	p	pincang, pria	Indonesian	199	^ p
+p$	p	hidup, menggarap	Indonesian	36	p $
+r	r	terburu-buru, berlari	Indonesian	489	r
+^R	R/r	Rabu	Indonesian	1	^ R
+^r	r	rakus, rasa malu	Indonesian	50	^ r
+r$	r	tidur, dapur	Indonesian	151	r $
+s	s	kesalahan, masak	Indonesian	167	s
+^S	S/s	Senin, Sabtu	Indonesian	4	^ S
+^s	s	sebab, sembahyang	Indonesian	172	^ s
+ks	ks	maksud, sanksi	Indonesian	8	k s
+s$	s	gadis, keras	Indonesian	73	s $
+ss	ss/s	massa	Indonesian	1	s s
+^sh	s	sholat	Indonesian	1	^ s h
+t	t	kutu, tempat tidur	Indonesian	326	t
+^t	t	terlambat, tidur	Indonesian	177	^ t
+t$	t	terlambat, telat	Indonesian	163	t $
+u	u	menumbuk, pisau cukur	Indonesian	695	u
+^u	u	urat, udara	Indonesian	23	^ u
+u$	u	kutu, terwélu	Indonesian	127	u $
+v	v	olive, léver	Indonesian	5	v
+^v	v	vonis, vagina	Indonesian	2	^ v
+w	w	membawa, tawon	Indonesian	36	w
+^w	w	wanita, wol	Indonesian	11	^ w
+kw	kʷ	mendakwa, terdakwa	Indonesian	2	k w
+kh	x	terakhir, berkhotbah	Indonesian	6	k h
+z	z	jenazah, mengizinkan	Indonesian	2	z
+'a	ʔ a	Jum'at	Indonesian	1	' a
+éh	é/e h	léhér, memperboléhkan	Indonesian	3	\xe9 h
+éh$	é/e h	téh	Indonesian	1	\xe9 h $
+és	é/e s	melését, menggésék	Indonesian	8	\xe9 s
+^és	é/e s	ésok	Indonesian	1	^ \xe9 s
+és$	é/e s	menétés	Indonesian	1	\xe9 s $
+^és$	é/e s	és	Indonesian	1	^ \xe9 s $
+éw	é/e w	bréwok, céwék	Indonesian	5	\xe9 w
+gg	g g	menggenggam, tenggelam	Indonesian	64	g g
+gh	g h	menghancurkan, menghilang	Indonesian	12	g h
+gs	g s	berlangsung, angsa	Indonesian	7	g s
+kk	k k	memercikkan, menunjukkan	Indonesian	11	k k
+ls	l s	sumpah palsu	Indonesian	1	l s
+ns	n s	konspirasi, insang	Indonesian	4	n s
+rh	r h	berhenti, berhala	Indonesian	5	r h
+rs	r s	kursi, bersih	Indonesian	14	r s
+rw	r w	terwélu, arwah	Indonesian	3	r w
+^SIM$	s i m	SIM	Indonesian	1	^ S I M $
+^TV$	t i f i	TV	Indonesian	1	^ T V $
+^WC$	w e s e	WC	Indonesian	1	^ W C $
+^PSK$	p eː s k a	PSK	Indonesian	1	^ P S K $
+^WTS$	w é/e t éé/eː s	WTS	Indonesian	1	^ W T S $

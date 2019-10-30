@@ -18,12 +18,18 @@ Conceptlists in Concepticon:
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-brightgreen.svg "Concepticon: 99%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![BIPA: 92%](https://img.shields.io/badge/BIPA-92%25-green.svg "BIPA: 92%")
+![CLTS SoundClass: 92%](https://img.shields.io/badge/CLTS%20SoundClass-92%25-green.svg "CLTS SoundClass: 92%")
 
 - **Varieties:** 41
 - **Concepts:** 1,814
 - **Lexemes:** 64,289
 - **Sources:** 41
 - **Synonymy:** 1.20
+- **Invalid lexemes:** 0
+- **Tokens:** 373,963
+- **Segments:** 800 (66 BIPA errors, 66 CTLS sound class errors, 731 CLTS modified)
+- **Inventory size (avg):** 65.37
 
 ## Possible Improvements:
 

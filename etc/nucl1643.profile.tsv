@@ -1,0 +1,104 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+$	NULL				$
+^	NULL				^
+’	+	saban’na, jo’ō	Japanese	10	\u2019
+-	+	koshimino-sukāto, aka-chan	Japanese	2	-
+ā	aː	gādoman, kāpetto	Japanese	5	\u0101
+ē	eː	tēburu, nanbāpurēto	Japanese	5	\u0113
+ō	oː	chōri, mōkeru	Japanese	102	\u014d
+ū	ɯː	shūtome, shūto	Japanese	56	\u016b
+^ā	aː	āchi	Japanese	1	^ \u0101
+^ō	oː	ōgi, ōi	Japanese	15	^ \u014d
+^ū	ɯː	ūru	Japanese	1	^ \u016b
+ā$	aː	jagā, autoriggā	Japanese	6	\u0101 $
+ē$	eː	kyandē	Japanese	1	\u0113 $
+ff	ɸː	baffarō	Japanese	1	f f
+ii	iː	ojiisan, supiichi	Japanese	16	i i
+ō$	oː	zō, benkyō	Japanese	103	\u014d $
+pp	pː	oppai, hipparu	Japanese	15	p p
+ū$	ɯː	kutsū, suigyū	Japanese	19	\u016b $
+^ē$	eː	ē	Japanese	1	^ \u0113 $
+^ii	iː	iie, iiarasoi	Japanese	2	^ i i
+^ō$	oː	ō	Japanese	1	^ \u014d $
+ii$	iː	hoshii, kōhii	Japanese	17	i i $
+^ii$	iː	ii	Japanese	1	^ i i $
+^f	ɸ	fune, feruto	Japanese	40	^ f
+^u	ɯ	utsu, ue	Japanese	45	^ u
+u$	ɯ	motsu, kaku	Japanese	617	u $
+^u$	ɯ	u	Japanese	1	^ u $
+_	_	hi o tōsu, ashi ga fujiyū da	Japanese	78	_
+a	a	tagayasu, takai	Japanese	1076	a
+^a	a	akarui, ago	Japanese	91	^ a
+a$	a	oba, kyassaba	Japanese	213	a $
+b	b	oba, subesube	Japanese	186	b
+^b	b	benkyō, byōki	Japanese	62	^ b
+ch	tɕ	ichinichi, mamachichi	Japanese	85	c h
+sh	ɕ	mushi, toshishita no kyōdai	Japanese	137	s h
+^ch	tɕ	chōri, chawan	Japanese	32	^ c h
+^sh	ɕ	shujin, shiri	Japanese	100	^ s h
+d	d	kodomo, jida	Japanese	80	d
+^d	d	dansei, denbu	Japanese	61	^ d
+e	e	neru, wakeru	Japanese	391	e
+^e	e	era, ei	Japanese	21	^ e
+e$	e	sore, kare	Japanese	126	e $
+f	f	naifu, kafu	Japanese	23	f
+g	g	mugi, nagai	Japanese	182	g
+^g	g	gai, gohan	Japanese	44	^ g
+h	h	mamahaha, gohan	Japanese	33	h
+^h	h	hosoi, hi o tōsu	Japanese	165	^ h
+i	i	sekinin, tairiku	Japanese	675	i
+^i	i	imo, inoshishi	Japanese	61	^ i
+i$	i	mugi, oji	Japanese	511	i $
+^i$	i	i	Japanese	1	^ i $
+y	j	kyassaba, gyūnyū	Japanese	124	y
+^y	j	yurusu, yome	Japanese	75	^ y
+k	k	kaku, ibiki o kaku	Japanese	551	k
+^k	k	kokoro, kaku	Japanese	327	^ k
+m	m	mamamusume, kaminari	Japanese	298	m
+^m	m	mugi, motsu	Japanese	180	^ m
+n	n	kaminari, tonari no hito	Japanese	303	n
+^n	n	neru, niku	Japanese	128	^ n
+n$	n	shujin, sekinin	Japanese	156	n $
+o	o	kokoro, potopoto ochiru	Japanese	567	o
+^o	o	oba, oji	Japanese	92	^ o
+o$	o	kokoro, to	Japanese	198	o $
+^o$	o	o	Japanese	1	^ o $
+p	p	furaipan, supiichi	Japanese	18	p
+^p	p	purasuchikku, poketto	Japanese	13	^ p
+r	r	toraeru, kariru	Japanese	546	r
+^r	r	rakuda, raimugi	Japanese	37	^ r
+s	s	hosoi, sasu	Japanese	165	s
+^s	s	suu, suji	Japanese	148	^ s
+ts	ts	motsu, gatsugatsu	Japanese	115	t s
+^ts	ts	tsume, tsuki	Japanese	40	^ t s
+t	t	hi o tōsu, shūtome	Japanese	209	t
+^t	t	takai, toru	Japanese	121	^ t
+u	u	yurusu, kuruma	Japanese	549	u
+w	w	kowasu, niwa	Japanese	46	w
+^w	w	wakeru, wan	Japanese	23	^ w
+j	ʑ	shujin, oji	Japanese	96	j
+z	z	hizamazuku, nozomu	Japanese	85	z
+^j	ʑ	jida, jikan	Japanese	37	^ j
+^z	z	zō, zero	Japanese	11	^ z
+ēsh	eː ɕ	inishiēshon	Japanese	1	\u0113 s h
+ōsh	oː ɕ	dōshite, bōshi	Japanese	10	\u014d s h
+ōh	oː h	kyōhaku, kosekishōhon	Japanese	5	\u014d h
+^ōh	oː h	ōhashi	Japanese	1	^ \u014d h
+ās	aː s	obāsan, okāsan	Japanese	3	\u0101 s
+ēs	eː s	onēsan	Japanese	1	\u0113 s
+ōs	oː s	hi o tōsu, yōsei	Japanese	13	\u014d s
+uu	ɯ ɯ	mizuumi, akuun	Japanese	2	u u
+uu$	ɯ ɯ	suu, furuu	Japanese	7	u u $
+aa	a a	horaana	Japanese	1	a a
+dd	d d	beddo	Japanese	1	d d
+gg	g g	autoriggā, nettobaggu	Japanese	2	g g
+kk	k k	hanmokku, oshikko	Japanese	34	k k
+nsh	n ɕ	jitensha, saibansho	Japanese	10	n s h
+nn	n n	onna, danna	Japanese	10	n n
+ns	n s	dansei, hansō	Japanese	9	n s
+nw	n w	denwa	Japanese	1	n w
+^oo	o o	oou	Japanese	1	^ o o
+oo$	o o	honoo	Japanese	1	o o $
+ssh	s ɕ	zesshoku, kesshite	Japanese	2	s s h
+ss	s s	kyassaba, bassai	Japanese	7	s s
+tt	t t	poketto, shitto	Japanese	15	t t

@@ -1,0 +1,143 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+$	NULL				$
+1	NULL	2kju 1a-tsaŋ-pʌ 1mo 1mu, 1apo 1amo 1a-rʌ-pʌ 1kola	Manange	114	1
+2	NULL	1tʌntsʌ 2tsʌtsʌ, 2mi 2mitsʰe	Manange	58	2
+3	NULL	2ta 3pi-tse 3pi, 2ʃiŋ 3tuŋ 4tʰuŋ	Manange	34	3
+4	NULL	3mi 4pʰro-pʌ 4kʰjẽ, 2ʃiŋ 3tuŋ 4tʰuŋ	Manange	24	4
+^	NULL				^
+^1	NULL	1aku, 1kje	Manange	261	^ 1
+^2	NULL	2naka, 2tʰa	Manange	196	^ 2
+^3	NULL	3jul, 3naŋ=ri	Manange	151	^ 3
+^4	NULL	4tsʰʌɾ, 4nu	Manange	116	^ 4
+ẽ	ẽ	4mẽ kʰuju, 1pʰo thẽ 1ʈu	Manange	3	\u1ebd
+ĩ	ĩ	4tʰĩ 2prĩ, pʌĩ 2ʃiŋ	Manange	2	\u0129
+ã$	ã	tʃã, 1tʃã	Manange	2	\xe3 $
+ẽ$	ẽ	4kʰjẽ, 1mẽ	Manange	33	\u1ebd $
+ĩ$	ĩ	2tʃʰĩ, 2prĩ	Manange	25	\u0129 $
+õ$	õ	1kõ	Manange	1	\xf5 $
+ũ$	ũ	2kũ	Manange	1	\u0169 $
+ĩ$	ĩ				i \u0303 $
+-	+	1pʰʌ 1a-rʌ-pʌ, ŋo 2a-ʃi-pʌ 3mi	Manange	79	-
+=	+	3naŋ=ri, 2pʰi=ri	Manange	27	=
+=	+				=
+^=	+	=ri, =juŋ	Manange	3	^ =
+ʔ$	ʔ	2peʔ	Manange	1	\u0294 $
+ə	ə				\u0259
+^ɫ	lˠ	ɫʌkʰaŋ	Manange	1	^ \u026b
+ŋ	ŋ	2ʃiŋ 3tuŋ 4tʰuŋ, 1aŋi	Manange	159	\u014b
+ŋ$	ŋ	2ʃiŋ 3tuŋ 4tʰuŋ, 1jaŋ	Manange	136	\u014b $
+^ŋ	ŋ	ŋjetse 1ŋima, ŋjʌle	Manange	5	^ \u014b
+ʃ	ʃ	2ʃoʃo, 2ʃiŋ 3tuŋ 4tʰuŋ	Manange	60	\u0283
+^ʃ	ʃ	ʃoŋto, ʃukri	Manange	14	^ \u0283
+tʃ	tʃ	1atʃuŋ, 3mi tʃotʃe to-pʌ	Manange	36	t \u0283
+^tʃ	tʃ	tʃã, tʃuɾpe	Manange	9	^ t \u0283
+dʒ	dʒ	moʈʌr dʒip	Manange	1	d \u0292
+ʌ	ʌ	1tʌntsʌ 2tsʌtsʌ, 4tsʰʌɾ	Manange	235	\u028c
+ʌ$	ʌ	1tʌ, 3te 4tʰaŋ 1kʰʌ	Manange	184	\u028c $
+^ʌ	ʌ	ʌŋkur	Manange	1	^ \u028c
+_	_	2ʃiŋ 3tuŋ 4tʰuŋ, 3te 4tʰaŋ 1kʰʌ	Manange	319	_
+a	a	1aku, 1aŋi	Manange	277	a
+^a	a	alo suntala, ajĩ	Manange	7	^ a
+a$	a	2naka, 2tʰa	Manange	100	a $
+aʰ	aʰ/a	1taʰŋ	Manange	1	a \u02b0
+^a$	a	a-	Manange	1	^ a $
+b	b	labul 1kʰʌ-tsi	Manange	1	b
+β	β	gʌβʌrmʌnt	Manange	1	\u03b2
+^b	b	bijuli, boʈʌl	Manange	3	^ b
+c	c	2picaŋ, ha coŋpʌ	Manange	2	c
+d	d	dzadu, samundra	Manange	2	d
+^d	d	dzadu, dɦarmʌ	Manange	2	^ d
+e	e	tete tete 2tʰa, 3te 4tʰaŋ 1kʰʌ	Manange	133	e
+^e	e	eskul	Manange	1	^ e
+e$	e	1kje, 1ʂe	Manange	126	e $
+^f	f	filʌm, fon	Manange	2	^ f
+g	g	1gohi	Manange	1	g
+^g	g	gʌβʌrmʌnt	Manange	1	^ g
+h	h	tsihan, sʌ hlakpʌ	Manange	11	h
+ɦ	ɦ	dɦarmʌ	Manange	1	\u0266
+^h	h	ho, huɲi	Manange	6	^ h
+kh	kʰ	1khjentse	Manange	1	k h
+kʰ	kʰ	4kʰjẽ, 4tʰaŋ 1kʰʌ	Manange	84	k \u02b0
+ph	pʰ	1pho, kophi	Manange	2	p h
+pʰ	pʰ	4pʰɾa, 1pʰja	Manange	65	p \u02b0
+th	tʰ	1pʰo thẽ 1ʈu	Manange	1	t h
+tʰ	tʰ	2tʰa, 2ʃiŋ 3tuŋ 4tʰuŋ	Manange	50	t \u02b0
+ʈʰ	ʈʰ	1ʈʰaʈe, koʈʰa	Manange	3	\u0288 \u02b0
+^kh	kʰ	khanʌ	Manange	1	^ k h
+^kʰ	kʰ	kʰʌnʈi, kʰuku nantʃuŋ	Manange	14	^ k \u02b0
+^pʰ	pʰ	pʰesʌr, pʰja	Manange	11	^ p \u02b0
+^tʰ	tʰ	tʰi, tʰʌ-tse jʌ	Manange	10	^ t \u02b0
+^ʈʰ	ʈʰ	ʈʰoto 1kʰʌ	Manange	1	^ \u0288 \u02b0
+kʷʰ	kʷʰ	4kʷʰe 2pɾĩ, 4kʷʰe 2napraŋ 3tsaŋ	Manange	3	k \u02b7 \u02b0
+pʷʰ	pʷʰ	4pʷʰo	Manange	1	p \u02b7 \u02b0
+tʃʰ	tʃʰ	2tʃʰe, 3tʃʰupi	Manange	24	t \u0283 \u02b0
+tsʰ	tsʰ	4tsʰʌɾ, 2tsʰe 2tsʰe	Manange	27	t s \u02b0
+^tʃʰ	tʃʰ	tʃʰortẽ, tʃʰor ko	Manange	6	^ t \u0283 \u02b0
+^tsʰ	tsʰ	tsʰu-pʌ ʃe 1mo, tsʰimpʌ	Manange	4	^ t s \u02b0
+i	i	2mi 2mitsʰe, tʃipli tʃipli	Manange	173	i
+^i	i	inʌr	Manange	1	^ i
+i$	i	1aŋi, 3naŋ=ri	Manange	154	i $
+j	j	4mjekje, 1kje	Manange	199	j
+y	j	kosyo	Manange	1	y
+^j	j	ja kʰupʌ, jʌlka	Manange	7	^ j
+k	k	1aku, 1kje	Manange	217	k
+^k	k	kuɾu, kopʃi	Manange	41	^ k
+k$	k	ʃilik, 3tsok	Manange	4	k $
+l	l	3kul kul 1lʌ-tse 4pʰro, pʰul 1lʌ	Manange	164	l
+^l	l	labul 1kʰʌ-tsi, laŋtẽ	Manange	11	^ l
+l$	l	3jul, 1tʰoŋ 4sol	Manange	30	l $
+m	m	2mi 2mitsʰe, 2mome	Manange	155	m
+^m	m	ma, mukpʌ	Manange	23	^ m
+m$	m	3molʌm, tim	Manange	5	m $
+n	n	3naŋ=ri, 4nu	Manange	98	n
+ɲ	ɲ	1ɲe, 2ɲaŋ	Manange	4	\u0272
+^n	n	na na, niʈi	Manange	16	^ n
+^ɲ	ɲ	ɲuku	Manange	1	^ \u0272
+n$	n	tsihan, fon	Manange	2	n $
+o	o	1tʰoŋ 4sol, 1kʰoktoŋ	Manange	184	o
+^o	o	oi	Manange	1	^ o
+o$	o	2no, ʃoŋto	Manange	87	o $
+p	p	2tʰim 1pim-pʌ, 2ta 3pi-tse 3pi	Manange	192	p
+^p	p	pʌte 1kʰʌ, pʌriwʌr	Manange	24	^ p
+p$	p	moʈʌr dʒip, paip	Manange	7	p $
+r	r	3naŋ=ri, =ri	Manange	142	r
+ɾ	ɾ	kuɾu, 4pʰɾa	Manange	21	\u027e
+^r	r	rok 2ti, rel	Manange	7	^ r
+r$	r	2kor, pʌriwʌr	Manange	37	r $
+ɾ$	ɾ	4tsʰʌɾ, 2sʌɾ	Manange	6	\u027e $
+s	s	2siŋ hoktoŋ 3sʌ, 1tʰoŋ 4sol	Manange	54	s
+ʂ	ʂ	1ʂe, 2ʂi-pʌ	Manange	17	\u0282
+^s	s	sjʌu, sʌ pʌlsʌŋ	Manange	14	^ s
+^ʂ	ʂ	ʂuŋ, ʂupʌl	Manange	4	^ \u0282
+s$	s	pʌlis, bʌs	Manange	2	s $
+ts	ts	1tʌntsʌ 2tsʌtsʌ, 2tʌ 1tsʌtsʌ	Manange	77	t s
+^ts	ts	tsʌ, tsihan	Manange	7	^ t s
+t	t	1tʌ, tete tete 2tʰa	Manange	168	t
+ʈ	ʈ	1ʈu, 2ʈu 2ʈu	Manange	37	\u0288
+^t	t	tuk 1tʌ-pʌ 1kʰʌ, tela	Manange	25	^ t
+t$	t	plet, atsiŋkʌt	Manange	4	t $
+u	u	2ʃiŋ 3tuŋ 4tʰuŋ, kuruŋ	Manange	204	u
+^u	u	ukpʌ	Manange	1	^ u
+u$	u	1aku, 1ʈu	Manange	75	u $
+w	w	hawa tʃansa, pʌriwʌr	Manange	4	w
+ŋʷ	ŋʷ	2ŋʷo	Manange	1	\u014b \u02b7
+^w	w	wo 1lʌ, we 1kʰʌ	Manange	2	^ w
+kʷ	kʷ	4kakor 2kʷol, 2kʷe	Manange	3	k \u02b7
+mʷ	mʷ	4mʷi 1nje-pʌ, 3pʌle 2mʷe	Manange	14	m \u02b7
+tʷ	tʷ	1tʷo	Manange	1	t \u02b7
+^kʷ	kʷ	kʷemi, kʷopʌ	Manange	6	^ k \u02b7
+^mʷ	mʷ	mʷʌ, mʷo	Manange	3	^ m \u02b7
+^pʷ	pʷ	pʷo	Manange	1	^ p \u02b7
+z	z	tzomliŋ, 2sez 1lʌ	Manange	3	z
+ŋʃ	ŋ ʃ	laŋʃe	Manange	1	\u014b \u0283
+kk	k k	tʰikka	Manange	1	k k
+lh	l h	4lho	Manange	1	l h
+^lh	l h	lho	Manange	1	^ l h
+ls	l s	sʌ pʌlsʌŋ	Manange	1	l s
+nʃ	n ʃ	tenʃi	Manange	1	n \u0283
+ns	n s	hawa tʃansa	Manange	1	n s
+pʃ	p ʃ	kopʃi	Manange	2	p \u0283
+rʃ	r ʃ	korʃo, kurʃiŋ	Manange	2	r \u0283
+rw	r w	tarwʌl	Manange	1	r w
+tt	t t	2pʰuŋ 2kʌtti, 2kʌtti 1lʌ	Manange	3	t t
+ws	w s	mewsʌm	Manange	1	w s
