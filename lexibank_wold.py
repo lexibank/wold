@@ -83,13 +83,6 @@ class Dataset(BaseDataset):
         # read raw form data
         lexemes_rows = self.raw_dir.read_csv("forms.csv", dicts=True)
         for row in progressbar(lexemes_rows):
-            for k, v in row.items():
-                if k in ["comment_on_borrowed", "gloss", "comment_on_word_form",
-                        "other_comments", "loan_history", "borrowed_base"]:
-                    continue
-                if "\n" in v:
-                    print([k, v])
-
             # This is long, but better to keep it explicit
             # TODO: original script as value? sources?
             args.writer.add_form(
