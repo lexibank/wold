@@ -73,7 +73,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2-1,the person,683,PERSON
 2-21,the man,1554,MAN
 2-22,the woman,962,WOMAN
-2-23,male(1),2263,MALE (OF ANIMAL)
+2-23,male(1),2261,MALE (OF PERSON)
 2-24,female(1),2260,FEMALE (OF PERSON)
 2-25,the boy,1366,BOY
 2-251,the young man,76,YOUNG MAN
@@ -122,8 +122,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2-57,the descendants,490,DESCENDANTS
 2-61,the father-in-law (of a man),2255,FATHER-IN-LAW (OF MAN)
 2-611,the father-in-law (of a woman),2254,FATHER-IN-LAW (OF WOMAN)
-2-62,the mother-in-law (of a man),2256,MOTHER-IN-LAW (OF WOMAN)
-2-621,the mother-in-law (of a woman),2257,MOTHER-IN-LAW (OF MAN)
+2-62,the mother-in-law (of a man),2257,MOTHER-IN-LAW (OF MAN)
+2-621,the mother-in-law (of a woman),2256,MOTHER-IN-LAW (OF WOMAN)
 2-63,the son-in-law (of a man),2267,SON-IN-LAW (OF MAN)
 2-631,the son-in-law (of a woman),2266,SON-IN-LAW (OF WOMAN)
 2-64,the daughter-in-law (of a man),2265,DAUGHTER-IN-LAW (OF MAN)
@@ -146,7 +146,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 2-95,you (plural),1213,YOU
 2-96,they,817,THEY
 3-11,the animal,619,ANIMAL
-3-12,male(2),2261,MALE (OF PERSON)
+3-12,male(2),2263,MALE (OF ANIMAL)
 3-13,female(2),2262,FEMALE (OF ANIMAL)
 3-15,the livestock,631,LIVESTOCK
 3-16,the pasture,649,PASTURE
@@ -399,7 +399,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 5-13,to drink,1401,DRINK
 5-14,to be hungry,1533,BE HUNGRY
 5-141,the famine,199,FAMINE
-5-15,to be thirsty,847,THIRSTY
+5-15,to be thirsty,3474,BE THIRSTY
 5-16,to suck,1421,SUCK
 5-18,to chew,321,CHEW
 5-181,to swallow,897,SWALLOW
@@ -428,7 +428,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 5-44,the dinner,1833,DINNER (SUPPER)
 5-45,the supper,1833,DINNER (SUPPER)
 5-46,to peel,275,PEEL
-5-47,to sieve or to strain,86,SIEVE
+5-47,to sieve or to strain,3448,SIEVE OR STRAIN
 5-48,to scrape,1767,SCRAPE
 5-49,to stir or to mix,2017,MIX
 5-51,the bread,1368,BREAD
@@ -517,7 +517,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 6-75,the necklace,1961,NECKLACE
 6-76,the bead,1860,BEAD
 6-77,the earring,770,EARRING
-6-78,the headband or headdress,330,HEADBAND
+6-78,the headband or headdress,3457,HEADBAND OR HEADDRESS
 6-79,the tattoo,68,TATTOO
 6-81,the handkerchief or rag,332,RAG
 6-82,the towel,1021,TOWEL
@@ -590,7 +590,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 8-33,the sickle or scythe,2132,SICKLE OR SCYTHE
 8-34,to thresh,285,THRESH
 8-35,the threshing-floor,223,THRESHING-FLOOR
-8-41,the harvest,611,HARVEST
+8-41,the harvest,3541,HARVEST OR HARVEST SEASON
 8-42,the grain,605,GRAIN
 8-43,the wheat,1077,WHEAT
 8-44,the barley,932,BARLEY
@@ -710,8 +710,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 9-88,the paint,647,PAINT (PIGMENTS)
 9-89,to paint,2001,PAINTING
 10-11,to move,765,MOVE
-10-12,to turn,1588,TURN
-10-13,to turn around,1445,TURN (SOMETHING)
+10-12,to turn,,
+10-13,to turn around,1444,TURN AROUND
 10-14,to wrap,1113,WRAP
 10-15,to roll,827,ROLL
 10-16,to drop,2866,DROP (SOMETHING)
@@ -732,7 +732,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 10-36,to sail,787,SAIL
 10-37,to fly,1441,FLY (MOVE THROUGH AIR)
 10-38,to blow,175,BLOW (OF WIND)
-10-41,to crawl,96,CRAWL
+10-41,to crawl,3456,CRAWL OR CREEP
 10-412,to kneel,66,KNEEL
 10-413,to crouch,296,CROUCH
 10-42,to slide or slip,1324,SLIP
@@ -780,7 +780,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 10-831,the canoe,1970,CANOE
 10-832,the outrigger,416,OUTRIGGER
 10-84,the raft,1664,RAFT
-10-85,the oar,108,RUDDER
+10-85,the oar,3137,OAR
 10-851,the paddle,234,PADDLE
 10-852,to row,1849,ROW
 10-86,the rudder,108,RUDDER
@@ -806,7 +806,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 11-28,to injure,44,INJURE
 11-31,to look for,1468,LOOK FOR
 11-32,to find,719,FIND
-11-33,to lose,1660,LOSE
+11-33,to lose,3072,MISPLACE
 11-34,to let go,1095,LET GO OR SET FREE
 11-43,the money,1559,MONEY
 11-44,the coin,1867,COIN
@@ -1140,7 +1140,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 17-55,yes,1268,YES
 17-56,no,1269,NO
 17-61,how?,1239,HOW
-17-62,how many?,822,HOW MANY
+17-62,how many?,3450,HOW MANY PIECES
 17-63,how much?,531,HOW MUCH
 17-64,what?,1236,WHAT
 17-65,when?,1238,WHEN
@@ -1207,7 +1207,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 19-42,the slave,812,SLAVE
 19-43,the servant,255,SERVANT
 19-44,the freeman,384,FREEMAN
-19-45,to command or order,1128,ORDER
+19-45,to command or order,1998,COMMAND
 19-46,to obey,1635,OBEY
 19-47,to permit,1003,PERMIT
 19-51,the friend,1325,FRIEND
@@ -1411,7 +1411,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 7-65,the camp,1105,CAMP
 8-28,the digging stick (=yamstick),339,DIGGING STICK
 3-597,the cormorant,840,CORMORANT
-3-833,the prawns or shrimp,238,PRAWNS
+3-833,the prawns or shrimp,2686,CRUSTACEANS (PRAWNS OR SHRIMP)
 3-834,the termites,883,TERMITE
 3-835,the tick,1527,TICK
 9-87,the boomerang,135,BOOMERANG
