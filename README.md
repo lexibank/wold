@@ -24,9 +24,3 @@ Conceptlists in Concepticon:
 - **Lexemes:** 64,289
 - **Sources:** 41
 - **Synonymy:** 1.20
-
-## Possible Improvements:
-
-- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - Zinacantán Tzotzil [tzot1264](http://glottolog.org/resource/languoid/id/tzot1264)
-

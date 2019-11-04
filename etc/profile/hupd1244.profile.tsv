@@ -1,0 +1,183 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+$	NULL				$
+ˇ	NULL	hũˇyʔah, hũˇt	Hup	10	\u02c7
+^	NULL				^
+-		d’oʔ-, hipãh-	Hup	389	-
+ã	ã	hipãh-, tãʔã´y yud	Hup	62	\xe3
+ç	ç	pǎç mɔy, paç náŋ	Hup	2	\xe7
+ẽ	ẽ	cẽ´	Hup	1	\u1ebd
+ĩ	ĩ	b’ǒyopʔĩh, kĩkĩn-	Hup	27	\u0129
+õ	õ	ʔõ´ci	Hup	1	\xf5
+ũ	ũ	d’apũh nihũ´ʔ, tũhũ´ʔ ni-	Hup	49	\u0169
+ã$	ã	macã-	Hup	1	\xe3 $
+ã´	ã´/ã	hã´wɨg, hɔ̃´w’	Hup	3	\xe3 \xb4
+æ̃	æ̃	yæ̃wæ̃c-, tæ̃´h	Hup	50	\xe6 \u0303
+ç$	ç	g’ǎç, pə̌ç	Hup	18	\xe7 $
+ɨ̃	ɨ̃	hɨ̃m’ǽ, j’ɨ̃j’ɨ̃´p	Hup	15	\u0268 \u0303
+ĩ´	ĩ´/ĩ				\u0129 \xb4
+ɔ̃	ɔ̃	pɔ̃pɔ̃´h, tɔ̃´h	Hup	45	\u0254 \u0303
+õ´	õ´/õ				\xf5 \xb4
+ũ$	ũ	hicũ-	Hup	1	\u0169 $
+ũ´	ũ´/ũ				\u0169 \xb4
+ãˇ$	ãˇ/ã	pãˇ	Hup	1	\xe3 \u02c7 $
+æ̃´	æ̃´/æ̃	tæ̃´h, tɔ̃´h	Hup	12	\xe6 \u0303 \xb4
+ẽ´$	ẽ´/ẽ				\u1ebd \xb4 $
+ɨ̃´	ɨ̃´/ɨ̃				\u0268 \u0303 \xb4
+ɔ̃$	ɔ̃	teg hɔ̃, teghɔ̃-	Hup	4	\u0254 \u0303 $
+ɔ̃´	ɔ̃´/ɔ̃				\u0254 \u0303 \xb4
+ɔ̃ˇ	ɔ̃ˇ/ɔ̃	yɔ̃ˇhwɨg	Hup	1	\u0254 \u0303 \u02c7
+ũ´$	ũ´/ũ	hũ´, teghɔ̃´	Hup	3	\u0169 \xb4 $
+ɔ̃´$	ɔ̃´/ɔ̃				\u0254 \u0303 \xb4 $
+b’	b’				b \u2019
+c’	cʼ				c \u2019
+d’	d’				d \u2019
+g’	g’				g \u2019
+j’	ɟ’				j \u2019
+m’	m’				m \u2019
+n’	n’				n \u2019
+w’	w’				w \u2019
+y’	j’				y \u2019
+^b’	b’				^ b \u2019
+^c’	cʼ				^ c \u2019
+^d’	d’				^ d \u2019
+^g’	g’				^ g \u2019
+^j’	ɟ’				^ j \u2019
+^m’	m’				^ m \u2019
+^n’	n’				^ n \u2019
+^p’	pʼ				^ p \u2019
+^w’	w’				^ w \u2019
+^y’	j’				^ y \u2019
+b’$	b’				b \u2019 $
+n’$	n’				n \u2019 $
+w’$	w’				w \u2019 $
+ʔ	ʔ	pæ̃ʔǽy’, tãʔáy	Hup	106	\u0294
+ʔ$	ʔ	d’oʔ-, bɨʔ-	Hup	149	\u0294 $
+^ʔ	ʔ	ʔɨ́d, ʔɨ́n	Hup	78	^ \u0294
+ǝ	ə	pǝpə́dteg, báb’d’ǝh	Hup	85	\u01dd
+ə́	ə́/ə	pǝpə́dteg, cə́g	Hup	31	\u0259 \u0301
+ə̌	ə̌/ə	w’ə̌t, pə̌ç	Hup	21	\u0259 \u030c
+ŋ	ŋ	haŋcɔw-, hæ̌ŋyɨʔ	Hup	7	\u014b
+ŋ$	ŋ	náŋ, mɨnɨ́ŋ	Hup	18	\u014b $
+_	_	teg hɔ̃, páy bɨʔ-	Hup	139	_
+a	a	cadakǎʔ, kawádu	Hup	197	a
+á	á/a	kawádu, báb’	Hup	115	\xe1
+ǎ	ǎ/a	cadakǎʔ, g’ǎç	Hup	44	\u01ce
+a$	a	d’oʔkawa-, ʔóra	Hup	32	a $
+á$	á/a	pá, kadawá	Hup	8	\xe1 $
+æ	æ	wædhɔ́, kæmæm-	Hup	65	\xe6
+ǽ	ǽ/æ	pæ̃ʔǽy’, tæ̃hʔǽm	Hup	12	\u01fd
+ǽ	ǽ/æ				\xe6 \u0301
+æ̌	æ̌/æ	wæ̌db’ɔk, næ̌m	Hup	36	\xe6 \u030c
+æ$	æ	bɨʔnæ-, tɨhdóʔ tæ	Hup	4	\xe6 $
+ǽ$	ǽ/æ	hɨ̃m’ǽ, wɔ̃ʔdǽ	Hup	7	\u01fd $
+b	b	báb’, báb’d’ǝh	Hup	90	b
+^b	b	bɨʔ-, báb’	Hup	90	^ b
+b$	b	bohǒt pɨ́b, də́b	Hup	31	b $
+c	c	buycóʔ, tɨhcúm	Hup	76	c
+^c	c	cak-, cadakǎʔ	Hup	106	^ c
+c$	c	yæ̃wæ̃c-, cǎc	Hup	15	c $
+d	d	pǝpə́dteg, kawádu	Hup	105	d
+^d	d	d’oʔ-, du-	Hup	71	^ d
+d$	d	ʔɨ́d, pǔd	Hup	62	d $
+e	e	pǝpə́dteg, teg hɔ̃	Hup	90	e
+é	é/e	cervéca, céci	Hup	21	\xe9
+ě	ě/e	těg, pěʔ	Hup	11	\u011b
+e$	e	ye-, de-	Hup	4	e $
+é$	é/e	boné, ké	Hup	3	\xe9 $
+g	g	teg hɔ̃, bug’g’et-	Hup	58	g
+^g	g	g’ɔ́t, g’ɨ́	Hup	32	^ g
+g$	g	pǝpə́dteg, těg	Hup	94	g $
+h	h	teg hɔ̃, nuh hohód	Hup	118	h
+ˇh	ˇh/h	yɔ̃ˇhʔãy, hɔ̃ˇh pɨ́b	Hup	8	\u02c7 h
+^h	h	hipãh-, hɔni-	Hup	152	^ h
+dh	dh	wædhɔ́, wædhɔm’æ̌h	Hup	7	d h
+h$	h	hipãh-, tɨ́h	Hup	115	h $
+ˇh$	ˇh/h	hũˇh, cɔ̃wɔ̃ˇh	Hup	8	\u02c7 h $
+i	i	hipãh-, tiyǐʔ	Hup	102	i
+ɨ	ɨ	tɨhɨ́tyɨʔ, bɨʔ-	Hup	108	\u0268
+í	í/i	bíb’teg, yiwík	Hup	24	\xed
+ǐ	ǐ/i	tiyǐʔ, j’ǐb-cud	Hup	8	\u01d0
+ɨ́	ɨ́/ɨ	tɨ́h, ʔɨ́d	Hup	43	\u0268 \u0301
+ɨ̌	ɨ̌/ɨ	j’ɨ̌k, baʔtɨ̌b’	Hup	21	\u0268 \u030c
+i$	i	hɔni-, hi-	Hup	30	i $
+ɨ$	ɨ	nɨ-	Hup	1	\u0268 $
+í$	í/i	dehmí, hibab’ní	Hup	2	\xed $
+ɨ´	ɨ´/ɨ				\u0268 \xb4
+ɨ́$	ɨ́/ɨ	g’ɨ́, bɨ́	Hup	4	\u0268 \u0301 $
+j	ɟ	tujd’ak-, dapũh j’ɨ̃p-	Hup	18	j
+y	j	ʔayǔpyɨʔ, tãʔã´y yud	Hup	138	y
+^j	ɟ	j’ɨ̌k, j’áh	Hup	43	^ j
+^y	j	yæ̃wæ̃c-, yumb’ǒy mɔy	Hup	61	^ y
+j$	ɟ	g’ɔ̃´j, tǒj	Hup	8	j $
+y$	j	wɔy-, b’oy-	Hup	85	y $
+k	k	cadakǎʔ, d’oʔkawa-	Hup	56	k
+^k	k	kawádu, key-	Hup	68	^ k
+k$	k	cak-, j’ɨ̌k	Hup	73	k $
+m	m	yumb’ǒy mɔy, mɔmb’ɔ́k	Hup	68	m
+^m	m	mɔy túʔ, mɔmb’ɔ́k	Hup	65	^ m
+m$	m	tɨhcúm, ham-	Hup	37	m $
+n	n	hɔni-, tæ̃ʔnɔ-	Hup	69	n
+ñ	ɲ	gaña-	Hup	1	\xf1
+^n	n	náŋ, náw	Hup	65	^ n
+n$	n	tɔn-, ʔɨ́n	Hup	31	n $
+o	o	d’oʔ-, totoy-	Hup	106	o
+ɔ	ɔ	wɔy-, tɔn-	Hup	118	\u0254
+ó	ó/o	tóg, ʔóra	Hup	44	\xf3
+ǒ	ǒ/o	tǒk, b’ǒyopʔĩh	Hup	29	\u01d2
+ɔ́	ɔ́/ɔ	g’ɔ́t, mɔmb’ɔ́k	Hup	24	\u0254 \u0301
+ɔ̌	ɔ̌/ɔ	tæ̃hʔɔ̌h, b’ɔ̌ʔ	Hup	34	\u0254 \u030c
+o$	o	hidoho-, karendário	Hup	6	o $
+ɔ$	ɔ	tæ̃ʔnɔ-, nɔ-	Hup	4	\u0254 $
+ó$	ó/o	tohó, kedó	Hup	8	\xf3 $
+ɔ́$	ɔ́/ɔ	wædhɔ́, mɔyɔ́	Hup	12	\u0254 \u0301 $
+p	p	hipãh-, pǝpə́dteg	Hup	99	p
+^p	p	pǝpə́dteg, pæ̃ʔǽy’	Hup	91	^ p
+p$	p	hɨ̃p, tuhúp	Hup	39	p $
+r	r	barutéru, karendário	Hup	19	r
+t	t	pǝpə́dteg, togtúg	Hup	134	t
+^t	t	tǎh, tɨ́h	Hup	151	^ t
+t$	t	g’ɔ́t, w’ə̌t	Hup	56	t $
+u	u	tujd’ak-, duʔ-	Hup	94	u
+ú	ú/u	mɔy túʔ, dúd’ǝh	Hup	46	\xfa
+ǔ	ǔ/u	pǔd, ʔayǔpyɨʔ	Hup	28	\u01d4
+u$	u	kawádu, du-	Hup	27	u $
+ú$	ú/u	dú, puhú	Hup	6	\xfa $
+v	v	tedevicãw, cervéca	Hup	2	v
+^v	v	vedúra, vĩ´ci	Hup	2	^ v
+w	w	kawádu, hɔ wowǒw’	Hup	69	w
+^w	w	wɔy-, wædhɔ́	Hup	68	^ w
+w$	w	náw, kaw-	Hup	31	w $
+ǽw$	ǽ/æ w	-pæcǽw	Hup	1	\u01fd w $
+ǎh	ǎ/a h	tǎh wæ̌dhɔb, tǎh mɔy	Hup	3	\u01ce h
+ǎh$	ǎ/a h	tǎh	Hup	6	\u01ce h $
+ǎw$	ǎ/a w	tǎw	Hup	1	\u01ce w $
+bw	b w	tábwab’ah	Hup	1	b w
+ěh	ě/e h	děh m’ǽ, děh mɔy	Hup	4	\u011b h
+ěh$	ě/e h	děh, puděh	Hup	5	\u011b h $
+éw$	é/e w	koyéw	Hup	1	\xe9 w $
+ěw$	ě/e w	cecěw, wɔhwěw	Hup	2	\u011b w $
+ǐh	ǐ/i h	wǐh g’æg, cǐh hə́b	Hup	2	\u01d0 h
+ǐh$	ǐ/i h	tǐh, cǐh	Hup	6	\u01d0 h $
+ǐw$	ǐ/i w	biyǐw	Hup	1	\u01d0 w $
+kw’	k w’	cɔkw’ə́t	Hup	1	k w \u2019
+^kw	k w	kwádru, kwátawag	Hup	2	^ k w
+nh	n h	ʔinhã´ç	Hup	1	n h
+ów’$	ó/o w’				\xf3 w \u2019 $
+óh$	ó/o h	póh, g’ætd’óh	Hup	6	\xf3 h $
+ów	ó/o w	cówag	Hup	4	\xf3 w
+ǔh	ǔ/u h	mǔhteg	Hup	1	\u01d4 h
+ǔh$	ǔ/u h	nunǔh, mǔh	Hup	5	\u01d4 h $
+ǔw$	ǔ/u w	ʔǔw	Hup	1	\u01d4 w $
+ʔw’	ʔ + w’	wɨʔwɨʔ-, b’ɔʔwæ̌d	Hup	4	\u0294 w \u2019
+ʔh	ʔ + h	bɨʔhitam-, wɨʔhamd’ə̌hteg	Hup	2	\u0294 h
+ŋw	ŋ + w	pɨnɨŋwɨ̌ʔ	Hup	1	\u014b w
+cc	c + c	caccǔd	Hup	1	c c
+gh	g + h	teghɔ̃´, těghod	Hup	4	g h
+hh	h + h	ʔɨd d’ǝhd’ǝhhámteg, tegd’uhhɔ̃ˇk	Hup	2	h h
+hw	h + w	cĩhwɨʔ-, tɨhwǝhə́d	Hup	6	h w
+yy	j + j	payyɨʔ-, wayyæ̃h-	Hup	2	y y
+kk	k + k	b’ɔkkáb	Hup	1	k k
+mh	m + h	yamhĩdɔʔ-, hamhũynɨ́h	Hup	4	m h
+ph	p + h	huphipãˇh	Hup	1	p h
+pw	p + w	hatípwɨg	Hup	1	p w
+ww	w + w	tǝwway-	Hup	1	w w

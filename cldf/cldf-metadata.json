@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/wold",
-            "dc:created": "v2.0.1-9-gf71dad2"
+            "dc:created": "v2.0.1-10-g77de180"
         },
         {
             "rdf:type": "prov:Entity",
@@ -288,6 +288,10 @@
                     {
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "WOLD_ID"
                     }
                 ],
                 "primaryKey": [

@@ -3,9 +3,11 @@ from pathlib import Path
 import re
 
 from pylexibank import FormSpec
-from pylexibank import Lexeme
+from pylexibank import Lexeme, Language
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import progressbar
+
+from clldutils.misc import slug
 
 
 @attr.s
@@ -32,6 +34,14 @@ class WOLDLexeme(Lexeme):
     original_script = attr.ib(default=None)
 
 
+@attr.s
+class WOLDLanguage(Language):
+    Longitude = attr.ib(default=None)
+    Latitude = attr.ib(default=None)
+    ISO639P3code = attr.ib(default=None)
+    WOLD_ID = attr.ib(default=None)
+
+
 def normalize_text(text):
     text = text.replace("\n", " // ")
     text = re.sub("\s+", " ", text).strip()
@@ -44,6 +54,7 @@ class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "wold"
     lexeme_class = WOLDLexeme
+    language_class = WOLDLanguage
 
     def cmd_download(self, args):
         if not self.raw_dir.exists():
@@ -61,42 +72,40 @@ class Dataset(BaseDataset):
         # add the languages from the language file
         # NOTE: the source lists all languages, including proto-languages,
         # but the `forms` only include the first 41 in the list
-        languages = self.raw_dir.read_csv("languages.csv", dicts=True)
-        for language in languages:
-            args.writer.add_language(
-                ID=language["ID"],
-                Name=language["Name"],
-                Glottocode=language["Glottocode"],
-            )
+        language_lookup = args.writer.add_languages(lookup_factory="WOLD_ID")
 
         # add concepts
-        # NOTE: need to read the data from parameters.csv as well,
-        # as the IDs found in forms.csv are not in concept list...
-        conceptlist = {
-            concept.attributes["wold_id"]: {
-                "id": concept.id,
-                "concepticon_id": concept.concepticon_id,
-                "concepticon_gloss": concept.concepticon_gloss,
-            }
-            for concept in self.conceptlist.concepts.values()
-        }
-        for parameter in self.raw_dir.read_csv("parameters.csv", dicts=True):
+        concept_lookup = {}
+        for concept in self.conceptlist.concepts.values():
+            concept_id = "%s_%s" % (concept.number, slug(concept.english))
             args.writer.add_concept(
-                ID=parameter["ID"],
-                Concepticon_ID=conceptlist.get(parameter["ID"], {}).get(
-                    "concepticon_id", None
-                ),
-                Concepticon_Gloss=conceptlist.get(parameter["ID"], {}).get(
-                    "concepticon_gloss", None
-                ),
-                Name=parameter["Name"],
+                ID=concept_id,
+                Name=concept.english,
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss,
             )
+            concept_lookup[concept.attributes["wold_id"]] = concept_id
+
+        # As some concepts are missing from the concept list, we need to
+        # collect them here and add them
+        # TODO: Integrate to Concepticon
+        for parameter in self.raw_dir.read_csv("parameters.csv", dicts=True):
+            if parameter["ID"] not in concept_lookup:
+                concept_id = "%s_%s" % (
+                    parameter["ID"].replace("-", ""),
+                    slug(parameter["Name"]),
+                )
+                args.writer.add_concept(ID=concept_id, Name=parameter["Name"])
+                concept_lookup[parameter["ID"]] = concept_id
 
         # read raw form data
         lexemes_rows = self.raw_dir.read_csv("forms.csv", dicts=True)
         for row in progressbar(lexemes_rows):
             # Add information not in row, so we can pass to `add_form()`
             # with a single comprehension
+            row["Language_ID"] = language_lookup[row["Language_ID"]]
+            row["Parameter_ID"] = concept_lookup[row["Parameter_ID"]]
+
             row["Value"] = row["Form"]
             row["Loan"] = float(row["BorrowedScore"]) > 0.6
             row["original_script"] = normalize_text(row["original_script"])

@@ -1,0 +1,151 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+$	NULL				$
+^	NULL				^
+?$	NULL	wjele?, cogodla?	Lower Sorbian	9	? $
+ł	u̯	swětły, wołaś	Lower Sorbian	169	\u0142
+^ł	u̯	łapiś, łapotka	Lower Sorbian	13	^ \u0142
+ě$	ě	ně, mě	Lower Sorbian	2	\u011b $
+ł$	u̯	kružoł, sokoł	Lower Sorbian	12	\u0142 $
+-	+	nje-	Lower Sorbian	1	-
+ss	sː	lasso	Lower Sorbian	1	s s
+ě	iɪ	źěliś, swětły	Lower Sorbian	140	\u011b
+č	tʃ	staručka	Lower Sorbian	1	\u010d
+š	ʃ	pušćiś, bratša syn	Lower Sorbian	112	\u0161
+^č	tʃ	čaj	Lower Sorbian	1	^ \u010d
+^š	ʃ	škla, štifźowka	Lower Sorbian	70	^ \u0161
+š$	ʃ	weš, młodšy bratš	Lower Sorbian	12	\u0161 $
+ž	ʒ	śěžki, kóža	Lower Sorbian	48	\u017e
+^ž	ʒ	žeńska, žyła	Lower Sorbian	22	^ \u017e
+ž$	ʒ	dokulaž, wuž	Lower Sorbian	7	\u017e $
+^łž	ʒ				^ \u0142 \u017e
+_	_	pśichodny syn, pśichodna źowka	Lower Sorbian	123	_
+a	a	bratša syn, pśichodna maś	Lower Sorbian	808	a
+^a	a	arteria, armeja	Lower Sorbian	9	^ a
+a$	a	pśichodna źowka, šwigerźowka	Lower Sorbian	419	a $
+^a$	a	a	Lower Sorbian	1	^ a $
+b	b	guba, njebjo	Lower Sorbian	118	b
+^b	b	bratša syn, běliś	Lower Sorbian	88	^ b
+b$	b	kórb, grab	Lower Sorbian	13	b $
+ć	tɕ	pušćiś, gósćinaŕ	Lower Sorbian	26	\u0107
+ś	ɕ	pśichodny syn, pśichodna źowka	Lower Sorbian	149	\u015b
+^ś	ɕ	śota, śěło	Lower Sorbian	20	^ \u015b
+ć$	tɕ	tśěsć, lězć	Lower Sorbian	28	\u0107 $
+ś$	ɕ	źěliś, pušćiś	Lower Sorbian	329	\u015b $
+d	d	pśichodny syn, pśichodna źowka	Lower Sorbian	179	d
+^d	d	droga, drugi	Lower Sorbian	48	^ d
+d$	d	pśed, land	Lower Sorbian	27	d $
+^łd	d				^ \u0142 d
+e	e	wjerśeś, žeńskecy	Lower Sorbian	414	e
+^e	e	elefant, enkelsyn	Lower Sorbian	7	^ e
+e$	e	pódnuriś se, pasle	Lower Sorbian	96	e $
+f	f	šwigerfoter, nefa	Lower Sorbian	29	f
+^f	f	familija, fernzejn	Lower Sorbian	22	^ f
+ff$	f	riff	Lower Sorbian	1	f f $
+g	g	šwigerźowka, šwigersyn	Lower Sorbian	98	g
+^g	g	guba, groniś	Lower Sorbian	90	^ g
+g$	g	bumerang, pśibrjog	Lower Sorbian	11	g $
+h	h	dołoj hyš, šrawbencihaŕ	Lower Sorbian	8	h
+^h	h	hantwal, hengist	Lower Sorbian	17	^ h
+i	i	pśichodny syn, źiśiźiśe	Lower Sorbian	381	i
+^i	i	ideja, insekt	Lower Sorbian	5	^ i
+i$	i	drugi, pśi	Lower Sorbian	44	i $
+j	j	njebjo, pśichodnej starjejšej	Lower Sorbian	327	j
+ń	nʲ	kóńc, pyšnjeńki	Lower Sorbian	17	\u0144
+^j	j	jěś, jajo	Lower Sorbian	40	^ j
+j$	j	kraj, wólej	Lower Sorbian	26	j $
+ń$	nʲ	źeń, wugeń	Lower Sorbian	15	\u0144 $
+ŕ$	rʲ	kuŕ, rejtaŕ	Lower Sorbian	38	\u0155 $
+k	k	pśichodna źowka, šwigerźowka	Lower Sorbian	246	k
+^k	k	kokula, kóńc	Lower Sorbian	136	^ k
+k$	k	wujk, maniok	Lower Sorbian	82	k $
+l	l	źěliś, kokula	Lower Sorbian	219	l
+^l	l	lězć, laś	Lower Sorbian	46	^ l
+l$	l	mjeržel, kamel	Lower Sorbian	30	l $
+m	m	šwigermaś, sromne kósmy	Lower Sorbian	118	m
+^m	m	my, maniok	Lower Sorbian	103	^ m
+m$	m	dom, štrom	Lower Sorbian	15	m $
+n	n	pśichodny nan, pśichodna źowka	Lower Sorbian	403	n
+^n	n	nichta, noga	Lower Sorbian	73	^ n
+n$	n	pśichodny syn, šwigersyn	Lower Sorbian	56	n $
+o	ɔ	pśichodna źowka, sotšy źowka	Lower Sorbian	603	o
+ó	o	pódnuriś se, kóńc	Lower Sorbian	166	\xf3
+^o	ɔ	omen, ocean	Lower Sorbian	3	^ o
+o$	ɔ	město, wóno	Lower Sorbian	132	o $
+ó$	o	pó	Lower Sorbian	1	\xf3 $
+^wo	ɔ				^ w o
+^wó	o				^ w \xf3
+p	p	śpa, njepšawa pśisega	Lower Sorbian	125	p
+^p	p	pśichodny syn, pśichodna źowka	Lower Sorbian	224	^ p
+p$	p	sup, serp	Lower Sorbian	11	p $
+r	r	šwigerźowka, pódnuriś se	Lower Sorbian	393	r
+^r	r	ruka, rowny	Lower Sorbian	53	^ r
+r$	r	šwigerfoter, jaguar	Lower Sorbian	28	r $
+^wr	r				^ w r
+c	ts	muskecy, žeńskecy	Lower Sorbian	124	c
+s	s	pśichodny syn, pódnuriś se	Lower Sorbian	176	s
+^c	ts	cerkwja, crjowa	Lower Sorbian	47	^ c
+^s	s	sotšy źowka, słuchaś	Lower Sorbian	139	^ s
+c$	ts	kóńc, palc	Lower Sorbian	35	c $
+s$	s	nos, gus	Lower Sorbian	16	s $
+ts	ts	wótspaś, wótsromośenje	Lower Sorbian	3	t s
+t	t	śota, prostitutka	Lower Sorbian	263	t
+^t	t	tśěsć, tšach	Lower Sorbian	61	^ t
+t$	t	płot, swět	Lower Sorbian	28	t $
+u	u	geburtsurkunda, wujk	Lower Sorbian	276	u
+u$	u	kenguru, bratš ze sotšu	Lower Sorbian	3	u $
+^wu	u				^ w u
+w	w	pśichodna źowka, šwigerźowka	Lower Sorbian	192	w
+^w	w	wujk, wjerśeś	Lower Sorbian	199	^ w
+w$	w	spiw, how	Lower Sorbian	10	w $
+^w$	w	w	Lower Sorbian	1	^ w $
+ch	x	pśichodna źowka, pśichodny syn	Lower Sorbian	52	c h
+^ch	x	chrapje, chowaś	Lower Sorbian	18	^ c h
+ch$	x	tšach, duch	Lower Sorbian	13	c h $
+y	y	pśichodny syn, sotšy syn	Lower Sorbian	211	y
+y$	y	my, swětły	Lower Sorbian	133	y $
+z	z	lězć, jěza	Lower Sorbian	82	z
+ź	ʑ	pśichodna źowka, šwigerźowka	Lower Sorbian	59	\u017a
+^z	z	zemjerdžanje, zliceńka	Lower Sorbian	75	^ z
+^ź	ʑ	źěliś, źeń	Lower Sorbian	21	^ \u017a
+z$	z	pjenjez, wóz	Lower Sorbian	10	z $
+ź$	ʑ	mjadwjeź, fryj luź	Lower Sorbian	9	\u017a $
+^z$	z	z	Lower Sorbian	1	^ z $
+ěs	iɪ s	město, tśěsć	Lower Sorbian	14	\u011b s
+ěw	iɪ w	lěwy	Lower Sorbian	1	\u011b w
+^šw	ʃ w	šwigersyn, šwigerźowka	Lower Sorbian	17	^ \u0161 w
+žw	ʒ u̯	rozžwalony	Lower Sorbian	1	\u017e w
+^žw	ʒ w	žwała	Lower Sorbian	1	^ \u017e w
+bs	b s	wobsejźeś	Lower Sorbian	1	b s
+bw	b w	wobwóco	Lower Sorbian	1	b w
+dw	d w	mjadwjeź, pódwijka	Lower Sorbian	3	d w
+^dw	d w	dwójnika, dwaźasća	Lower Sorbian	6	^ d w
+fs	f s	štifsyn	Lower Sorbian	1	f s
+gw	g w	lěgwo	Lower Sorbian	1	g w
+^gw	g w	gwežda	Lower Sorbian	1	^ g w
+jw	j u̯	lejwant	Lower Sorbian	1	j w
+js	j s	rajsowe pólo, wójsko	Lower Sorbian	2	j s
+ńs	nʲ s	žeńska, žeńskecy	Lower Sorbian	6	\u0144 s
+js$	j s	rajs, majs	Lower Sorbian	2	j s $
+kw	k w	cerkwja	Lower Sorbian	2	k w
+^kw	k w	kwicaś, kwadrat	Lower Sorbian	2	^ k w
+ls	l s	manźelstwołamanje, enkelsyn	Lower Sorbian	4	l s
+lw	l w	wulwa	Lower Sorbian	1	l w
+ns	n s	źinsa, insekt	Lower Sorbian	2	n s
+ós	o s	pcołkowy wósk, kósma	Lower Sorbian	16	\xf3 s
+ós$	o s	wós	Lower Sorbian	1	\xf3 s $
+ów	o w	pówětš, pówoko	Lower Sorbian	2	\xf3 w
+ps	p s	kapsa	Lower Sorbian	1	p s
+^ps	p s	psyki	Lower Sorbian	1	^ p s
+rs	r s	šwigersyn, mórski zalew	Lower Sorbian	12	r s
+rw	r w	barwiś, barwa	Lower Sorbian	7	r w
+rw$	r w	cerw	Lower Sorbian	1	r w $
+^cw	ts w	cwibel	Lower Sorbian	1	^ c w
+^sw	s w	swětły, swinja	Lower Sorbian	13	^ s w
+tw	t w	ratwa, hantwal	Lower Sorbian	20	t w
+^tw	t w	twardnica, twarc	Lower Sorbian	6	^ t w
+ws$	w s	wows	Lower Sorbian	1	w s $
+chw	x w	pśechwatany	Lower Sorbian	1	c h w
+^chw	x w	chwalba, chwataś	Lower Sorbian	2	^ c h w
+zs	z s	rozsocha	Lower Sorbian	1	z s
+zw	z w	rozwěrowanje, wuzwólowanje	Lower Sorbian	3	z w
+^zw	z w	zwězaś, zwignuś	Lower Sorbian	6	^ z w

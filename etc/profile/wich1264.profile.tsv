@@ -1,0 +1,106 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+$	NULL				$
+^	NULL				^
+mh	m̥	hatachemhinlo’, simhat	Wichí	5	m h
+nh	n̥	hunhat, atsinha	Wichí	67	n h
+wh	w̥	lawhoy, tawhayey	Wichí	13	w h
+lh$	l̥	tofwulh, lhelh	Wichí	28	l h $
+’’	<?>	toch’’ayaj, maych’’i	Wichí	3	\u2019 \u2019
+’	ʔ	hal’o, ha’no’fwaj	Wichí	355	\u2019
+’$	ʔ	yeycho’, ipe’	Wichí	41	\u2019 $
+’s	ʔ	toch’ute’san	Wichí	1	\u2019 s
+^’	ʔ	’utle	Wichí	1	^ \u2019
+lh	lˠ	lhip’unlhi, yihonlhi	Wichí	195	l h
+^lh	lˠ	lhip, lham	Wichí	49	^ l h
+ch	tʃ	nichotche, tochemetcha	Wichí	232	c h
+^ch	tʃ	chechelhep, chelhtaj	Wichí	31	^ c h
+_	_	ithate lhomet toj ni’isa, lham toj tamenej	Wichí	128	_
+a	a	hal’o, niyat	Wichí	828	a
+^a	a	atsinha, akoyek	Wichí	66	^ a
+a$	a	fwala, tokatela	Wichí	174	a $
+b	b	tribunales	Wichí	1	b
+^b	b	bronce	Wichí	1	^ b
+c	c	aceituna, bronce	Wichí	2	c
+d	d	kanu indisiun, senda	Wichí	6	d
+^d	d	diario	Wichí	1	^ d
+e	e	hep lhetekch’u, chechelhep	Wichí	717	e
+^e	e	ehote, enfwelmela	Wichí	12	^ e
+e$	e	ipotsinche, tots’e	Wichí	123	e $
+g	g	amigo	Wichí	1	g
+h	h	yihanej, yihonlhi	Wichí	102	h
+^h	h	hal’o, hunhat	Wichí	90	^ h
+jh	xʰ	takhajhay, alitsajhu	Wichí	12	j h
+kh	kʰ	takhajhay, lhetekhi	Wichí	9	k h
+ph	pʰ	yihukpho, ikpho	Wichí	18	p h
+th	tʰ	towithuk, yihethu	Wichí	26	t h
+^th	tʰ	thalokw	Wichí	1	^ t h
+tsh	tsʰ	lhetsha, w’atshan	Wichí	12	t s h
+^tsh	tsʰ	tshowet p’itsek, tshowet t’atey	Wichí	5	^ t s h
+i	i	hits’ifwin, niyat	Wichí	512	i
+^i	i	ileyej, ilanhi	Wichí	185	^ i
+i$	i	lhip’unlhi, yihonlhi	Wichí	151	i $
+y	j	niyat, ninahyayej mayek	Wichí	215	y
+y$	j	lawhoy, tetchey	Wichí	66	y $
+k	k	tokatela, tewuk katchenaj	Wichí	167	k
+^k	k	kumila, kuliktiwu	Wichí	47	^ k
+k$	k	tolonek, towithuk	Wichí	86	k $
+l	l	hal’o, fwala	Wichí	289	l
+^l	l	lachinaj, lawhoy	Wichí	79	^ l
+l$	l	fwiyhul, ilofwel	Wichí	17	l $
+m	m	tachema, tolhamis	Wichí	93	m
+^m	m	matche, mamse	Wichí	42	^ m
+m$	m	lham, nekchom	Wichí	18	m $
+n	n	yihanej, lhip’unlhi	Wichí	254	n
+^n	n	niyat, nitichunlhi	Wichí	80	^ n
+n$	n	hits’ifwin, t’isan	Wichí	64	n $
+o	o	tochoti, tolonek	Wichí	534	o
+^o	o	onholotaj, ora	Wichí	8	^ o
+o$	o	hal’o, yihukpho	Wichí	45	o $
+p	p	lhip’unlhi, hip’u	Wichí	121	p
+^p	p	pitaj, pele	Wichí	42	^ p
+p$	p	lhip, hep	Wichí	24	p $
+r	r	puerto, ora	Wichí	9	r
+s	s	yiset, isi	Wichí	151	s
+^s	s	sulhtawu, selaj	Wichí	29	^ s
+s$	s	tolhamis, alulis	Wichí	77	s $
+ts	ts	atsinha, hits’ifwin	Wichí	106	t s
+^ts	ts	ts’iwase, tsalanacha	Wichí	16	^ t s
+t	t	inot litak, tshowet t’atey	Wichí	351	t
+^t	t	towit’uj, tokatela	Wichí	381	^ t
+t$	t	niyat, hunhat	Wichí	90	t $
+u	u	hunhat, towit’uj	Wichí	341	u
+^u	u	uspital, uwa	Wichí	4	^ u
+u$	u	hip’u, hu’u	Wichí	139	u $
+w	w	towit’uj, towithuk	Wichí	156	w
+’w	ˀw	n’w’et lhele, e’wuye	Wichí	3	\u2019 w
+^w	w	wel’a, w’atshan	Wichí	59	^ w
+fw	fʷ	hits’ifwin, ha’no’fwaj	Wichí	112	f w
+hw	hʷ	tolhahwu, ahwula	Wichí	4	h w
+jw	xʷ	tolhatajw’et, tochefwenyajw’et	Wichí	3	j w
+kw	kʷ	t’okwe, yukwas	Wichí	36	k w
+pw	pʷ	tach’upway	Wichí	1	p w
+^fw	fʷ	fwala, fwiyhul	Wichí	28	^ f w
+^jw	xʷ	jwes	Wichí	1	^ j w
+^kw	kʷ	kwatlu	Wichí	1	^ k w
+^nw	nʷ	nwewe	Wichí	1	^ n w
+^pw	pʷ	pwewulu, pwentu	Wichí	4	^ p w
+fw$	fʷ	tofwefw, itoj toj wefw	Wichí	12	f w $
+kw$	kʷ	niyokw, laka’tekw	Wichí	15	k w $
+j	x	itoj toj wefw, lan’ij akojche	Wichí	78	j
+j$	x	yihanej, towit’uj	Wichí	173	j $
+^y	y	yihanej, yihonlhi	Wichí	79	^ y
+’h	ʔ h	e’hotehlak	Wichí	1	\u2019 h
+lhh	l̥ h	imolhhen, toyalhhis	Wichí	2	l h h
+kk	k k	totsekkawu	Wichí	1	k k
+lw	l w	selwesa	Wichí	1	l w
+mwh	m w̥	yomwhoye	Wichí	1	m w h
+ms	m s	isamsama, iwutamsecha	Wichí	8	m s
+ns	n s	kinsi, onsi	Wichí	2	n s
+rr	r r	herrero	Wichí	1	r r
+sh	s h	tishelis, tofweshi	Wichí	6	s h
+tw’	t wˀ	inotw’et, totw’ayhat	Wichí	4	t w \u2019
+tt	t t	tottelhu, tottelhu t’oj	Wichí	8	t t
+fwh	fʷ h	tofwefwhi	Wichí	1	f w h
+lhlh	l̥ + l̥	totkolhlhile, ifwelhlhi	Wichí	2	l h l h
+sw’	s + wˀ	alusw’et, tokosw’et	Wichí	2	s w \u2019
+kwh	kʷ + h	tokwhi, y’amekwhi	Wichí	2	k w h

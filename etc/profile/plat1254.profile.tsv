@@ -1,0 +1,99 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+$	NULL				$
+(	NULL				(
+)	NULL				)
+.	NULL	àmin’..., tsy...na oviana na ovìana	Malagasy	9	.
+^	NULL				^
+!$	NULL	faingàna!, hàingana!	Malagasy	3	! $
+k’	kʼ				k \u2019
+n’	n’				n \u2019
+-	+	lai-n-tsàmbo, fitodian-tsàmbo	Malagasy	28	-
+_	_	ròa lìvatra ny lànjan’ny èntana, tsy...na oviana na ovìana	Malagasy	105	_
+a	a	taratàsy fahazòana mitòndra fiarakodìa, zanadrahalàhy	Malagasy	1267	a
+à	à/a	zàndry, vinànto vàvy	Malagasy	646	\xe0
+^a	a	ambàny, ambòny	Malagasy	101	^ a
+^à	à/a	àndro, àntitra	Malagasy	34	^ \xe0
+a$	a	vòa, mitòndra	Malagasy	923	a $
+à$	à/a	mandà, zomà	Malagasy	5	\xe0 $
+b	b	ambàny, ambòny	Malagasy	164	b
+^b	b	bàbo, bìby fiòmpy	Malagasy	35	^ b
+mb	ⁿb				m b
+d	d	zàndry, midradradràdra	Malagasy	285	d
+^d	d	dìso, dimy ambi-ny folo	Malagasy	21	^ d
+nd	ⁿd				n d
+e	e	telefaònina, mireharèha	Malagasy	76	e
+è	è/e	manamèloka, mèloka	Malagasy	204	\xe8
+^e	e	elektrisitè, elefànta	Malagasy	7	^ e
+^è	è/e	èla, èo	Malagasy	12	^ \xe8
+e$	e	vahòaka be, antoandro be	Malagasy	6	e $
+è$	è/e	ramolè, vorombè	Malagasy	18	\xe8 $
+f	f	manàfaka, zàfy	Malagasy	124	f
+^f	f	famàky, fòtotra	Malagasy	147	^ f
+g	g	tònga, vangovàngo	Malagasy	88	g
+^g	g	gìsa, gàdra	Malagasy	8	^ g
+ng	ŋg				n g
+h	h	mahàzo, mireharèha	Malagasy	141	h
+^h	h	hòho, hìdy	Malagasy	71	^ h
+i	i	mibitsibìtsika, mikiakìaka	Malagasy	646	i
+ì	ì/i	manìdina, aorìana	Malagasy	216	\xec
+^i	i	ianarèo, in-telo	Malagasy	22	^ i
+^ì	ì/i	ìzy, ìzay	Malagasy	13	^ \xec
+k	k	mikiakìaka, zòky	Malagasy	357	k
+^k	k	kapàoty, kàmo	Malagasy	44	^ k
+nk	ŋk				n k
+l	l	rahalàhy, voalòboka	Malagasy	276	l
+^l	l	làlana, lafàoro	Malagasy	80	^ l
+m	m	ambàny, ambòny	Malagasy	290	m
+^m	m	mitòndra, mitàna	Malagasy	539	^ m
+N	N/n	aN-	Malagasy	1	N
+n	n	ròa lìvatra ny lànjan’ny èntana, manìdina	Malagasy	1132	n
+^n	n	ngoròdona, nahòana	Malagasy	16	^ n
+n$	n	manìdy frein	Malagasy	1	n $
+o	o	voalòboka, horohorontàny	Malagasy	466	o
+ò	ò/o	zòky, vòa	Malagasy	297	\xf2
+ô	ô/o	pôlìsy, bômbô	Malagasy	2	\xf4
+^o	o	ombivàvy, olìva	Malagasy	13	^ o
+^ò	ò/o	òra, òvy	Malagasy	14	^ \xf2
+o$	o	mahàzo, dìso	Malagasy	252	o $
+ò$	ò/o	marotò, be herimpò	Malagasy	5	\xf2 $
+ô$	ô/o	radìô, bômbô	Malagasy	3	\xf4 $
+p	p	bìby fiòmpy, mpanjàka	Malagasy	119	p
+^p	p	papàngo, paòsitra	Malagasy	18	^ p
+mp	ⁿp				m p
+r	r	mamirapìratra, zàndry	Malagasy	647	r
+^r	r	rèny, ray	Malagasy	73	^ r
+s	s	misàmbotra, fisalasàlana	Malagasy	62	s
+^s	s	sàha, sàhy	Malagasy	79	^ s
+ts	ts	antsàntsa, mibitsibìtsika	Malagasy	90	t s
+^ts	ts	tsìlo, tsy	Malagasy	34	^ t s
+nts	ⁿts				n t s
+t	t	fòtotra, àntitra	Malagasy	441	t
+^t	t	tònga, tàny	Malagasy	109	^ t
+nt	ⁿt				n t
+u	u	rua ambi-ny folo, ruampolo	Malagasy	2	u
+ù	ù/u	ambùa	Malagasy	1	\xf9
+v	v	zanadrahavàvy, vinànto vàvy	Malagasy	212	v
+^v	v	vòa, vàdy	Malagasy	107	^ v
+y	y	bìby fiòmpy, tsy mìsy elanèlana	Malagasy	36	y
+`y	`y/y	its`y, ats`y	Malagasy	9	` y
+y$	y	ìzy, zàndry	Malagasy	436	y $
+j	dz	mpanjàka, mijìnja	Malagasy	41	j
+z	z	ìzy, mahàzo	Malagasy	100	z
+^j	dz	jìro, jìoga	Malagasy	5	^ j
+^z	z	zòky, zàndry	Malagasy	49	^ z
+nj	ⁿdz				n j
+àh	à/a h	sàha, sàhy	Malagasy	56	\xe0 h
+^àh	à/a h	àhitra, àho	Malagasy	2	^ \xe0 h
+às	à/a s	taratàsy, màsaka	Malagasy	34	\xe0 s
+^às	à/a s	àsa	Malagasy	1	^ \xe0 s
+èh	è/e h	mireharèha, mandèha	Malagasy	17	\xe8 h
+ès	è/e s	faharèsena, hàzo kèsika	Malagasy	7	\xe8 s
+ìh	ì/i h	farìhy, hìhy	Malagasy	8	\xec h
+ìs	ì/i s	dìso, mìsy	Malagasy	21	\xec s
+^ìs	ì/i s	ìsa	Malagasy	1	^ \xec s
+òh	ò/o h	hòho, vòhitra	Malagasy	31	\xf2 h
+òs	ò/o s	mitròsa, paòsitra	Malagasy	13	\xf2 s
+rs	r s	orsa	Malagasy	1	r s
+tr	ʈ r				t r
+ndr	ɳ ɖ r				n d r
+ntr	ɳ ʈ r				n t r
