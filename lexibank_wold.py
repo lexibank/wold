@@ -1,13 +1,11 @@
 import attr
 from pathlib import Path
 import re
-import unicodedata
 
+from pylexibank import FormSpec
 from pylexibank import Lexeme
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import progressbar
-from segments import Tokenizer, Profile
-from segments.tree import Tree
 
 
 @attr.s
@@ -34,7 +32,7 @@ class WOLDLexeme(Lexeme):
     original_script = attr.ib(default=None)
 
 
-def _replace_newlines(text):
+def normalize_comments(text):
     text = text.replace("\n", " // ")
     text = re.sub("\s+", " ", text)
 
@@ -47,25 +45,14 @@ class Dataset(BaseDataset):
     id = "wold"
     lexeme_class = WOLDLexeme
 
-    def _build_tokenizer(self, language):
-        # build a tokenizer for a given profile
-        profile_file = "%s.profile.tsv" % language
-        profile_path = str(self.dir / "etc" / profile_file)
-        profile = Profile.from_file(profile_path, form="NFC")
-        default_spec = list(next(iter(profile.graphemes.values())).keys())
-        profile.tree = Tree(list(profile.graphemes.keys()))
-        tokenizer = Tokenizer(
-            profile=profile, errors_replace=lambda c: "<{0}>".format(c)
+    def cmd_download(self, args):
+        if not self.raw_dir.exists():
+            self.raw_dir.mkdir()
+
+        files = ["borrowings.csv"]
+        self.raw_dir.download_and_unpack(
+            self.__cldf_url__, *[Path(f) for f in files]
         )
-
-        def _tokenizer(item, string, **kw):
-            kw.setdefault("column", "IPA")
-            kw.setdefault("separator", " + ")
-            return tokenizer(
-                unicodedata.normalize("NFC", "^%s$" % string), **kw
-            ).split()
-
-        return _tokenizer
 
     def cmd_makecldf(self, args):
         # add the bibliographic sources
@@ -81,14 +68,6 @@ class Dataset(BaseDataset):
                 Name=language["Name"],
                 Glottocode=language["Glottocode"],
             )
-
-        # Build the tokenizers for each language, mapping from the
-        # language["ID"] to the tokenizer (which is built using the glottocode
-        # for the language)
-        tokenizer = {
-            language["ID"]: self._build_tokenizer(language["Glottocode"])
-            for language in languages[:41]
-        }
 
         # add concepts
         # NOTE: need to read the data from parameters.csv as well,
@@ -116,33 +95,19 @@ class Dataset(BaseDataset):
         # read raw form data
         lexemes_rows = self.raw_dir.read_csv("forms.csv", dicts=True)
         for row in progressbar(lexemes_rows):
-            # This is long, but better to keep it explicit
-            # TODO: original script as value? sources?
-            args.writer.add_form_with_segments(
-                Language_ID=row["Language_ID"],
-                Parameter_ID=row["Parameter_ID"],
-                Form=row["Form"],
-                Value=row["Form"],
-                Source=row["Source"].split(";"),
-                Segments=tokenizer[row["Language_ID"]]({}, row["Form"]),
-                Loan=float(row["BorrowedScore"]) > 0.6,
-                word_source=row["word_source"],
-                Word_ID=row["Word_ID"],
-                Borrowed=row["Borrowed"],
-                Borrowed_score=row["BorrowedScore"],
-                comment_on_borrowed=_replace_newlines(row["comment_on_borrowed"]),
-                Analyzability=row["Analyzability"],
-                Simplicity_score=row["SimplicityScore"],
-                reference=row["reference"],
-                age_label=row["age_label"],
-                gloss=_replace_newlines(row["gloss"]),
-                integration=row["integration"],
-                salience=row["salience"],
-                effect=row["effect"],
-                contact_situation=row["ContactSituation"],
-                original_script=row["original_script"],
-                comment_on_word_form=_replace_newlines(row["comment_on_word_form"]),
-                other_comments=_replace_newlines(row["other_comments"]),
-                loan_history=_replace_newlines(row["loan_history"]),
-                borrowed_base=_replace_newlines(row["borrowed_base"]),
+            # Add information not in row, so we can pass to `add_form()`
+            # with a single comprehension
+            row["Value"] = row["Form"]
+            row["Loan"] = float(row["BorrowedScore"]) > 0.6
+            row["comment_on_borrowed"] = normalize_comments(
+                row["comment_on_borrowed"]
+            )
+            row.pop("Segments")
+
+            args.writer.add_form(
+                **{
+                    k: v
+                    for k, v in row.items()
+                    if k in self.lexeme_class.fieldnames()
+                }
             )
