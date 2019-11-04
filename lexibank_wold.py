@@ -4,7 +4,7 @@ import re
 
 from pylexibank import FormSpec
 from pylexibank import Lexeme, Language
-from pylexibank.dataset import Dataset as BaseDataset
+from pylexibank.providers.clld import CLLD
 from pylexibank.util import progressbar
 
 from clldutils.misc import slug
@@ -49,21 +49,12 @@ def normalize_text(text):
     return text
 
 
-class Dataset(BaseDataset):
+class Dataset(CLLD):
     __cldf_url__ = "http://cdstar.shh.mpg.de/bitstreams/EAEA0-92F4-126F-089F-0/wold_dataset.cldf.zip"
     dir = Path(__file__).parent
     id = "wold"
     lexeme_class = WOLDLexeme
     language_class = WOLDLanguage
-
-    def cmd_download(self, args):
-        if not self.raw_dir.exists():
-            self.raw_dir.mkdir()
-
-        files = ["borrowings.csv"]
-        self.raw_dir.download_and_unpack(
-            self.__cldf_url__, *[Path(f) for f in files]
-        )
 
     def cmd_makecldf(self, args):
         # add the bibliographic sources
