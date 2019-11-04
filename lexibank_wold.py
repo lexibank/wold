@@ -32,9 +32,9 @@ class WOLDLexeme(Lexeme):
     original_script = attr.ib(default=None)
 
 
-def normalize_comments(text):
+def normalize_text(text):
     text = text.replace("\n", " // ")
-    text = re.sub("\s+", " ", text)
+    text = re.sub("\s+", " ", text).strip()
 
     return text
 
@@ -99,7 +99,8 @@ class Dataset(BaseDataset):
             # with a single comprehension
             row["Value"] = row["Form"]
             row["Loan"] = float(row["BorrowedScore"]) > 0.6
-            row["comment_on_borrowed"] = normalize_comments(
+            row["original_script"] = normalize_text(row["original_script"])
+            row["comment_on_borrowed"] = normalize_text(
                 row["comment_on_borrowed"]
             )
             row.pop("Segments")
