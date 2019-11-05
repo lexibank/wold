@@ -8,9 +8,9 @@ This dataset is licensed under a http://creativecommons.org/licenses/by/3.0/de/ 
 
 Available online at http://wold.clld.org
 
-Conceptlists in Concepticon:
-- [Haspelmath-2009-1460](http://concepticon.clld.org/contributions/Haspelmath-2009-1460)
 
+Conceptlists in Concepticon:
+- [Haspelmath-2009-1460](https://concepticon.clld.org/contributions/Haspelmath-2009-1460)
 ## Statistics
 
 
@@ -21,5 +21,6 @@ Conceptlists in Concepticon:
 
 - **Varieties:** 41
 - **Concepts:** 1,814
-- **Lexemes:** 64,959
-- **Synonymy:** 1.21
+- **Lexemes:** 64,289
+- **Sources:** 41
+- **Synonymy:** 1.20

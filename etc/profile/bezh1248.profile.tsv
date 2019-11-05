@@ -1,0 +1,205 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+$	NULL				$
+^	NULL				^
+ã	ã	hãq’q’ana, ʔãʔũ	Bezhta	6	\xe3
+ẽ	ẽ	kẽyã, bat’a -ẽye-	Bezhta	18	\u1ebd
+ĩ	ĩ	yĩza, hĩxɬ-	Bezhta	2	\u0129
+õ	õ	yõsoqan, hõsna	Bezhta	14	\xf5
+ũ	ũ	hũca, hũɬlaɬ	Bezhta	7	\u0169
+^ã	ã	-ãsa-, ãq’	Bezhta	14	^ \xe3
+^ẽ	ẽ	-ẽye-, -ẽɬeyo	Bezhta	16	^ \u1ebd
+^ĩ	ĩ	-ĩze-, -ĩso-	Bezhta	12	^ \u0129
+^õ	õ	-õso-, õx gähiyo	Bezhta	16	^ \xf5
+^ũ	ũ	-ũco-, -ũcola-	Bezhta	2	^ \u0169
+äᵑ	æ̃	ʔäᵑʔäᵑla-	Bezhta	2	\xe4 \u1d51
+ã$	ã	kẽyã, c’ãʔã	Bezhta	4	\xe3 $
+ẽ$	ẽ	hẽ	Bezhta	1	\u1ebd $
+ĩ$	ĩ	hĩ	Bezhta	1	\u0129 $
+ī$	ī	q’ī, kalaɣas q’ī	Bezhta	2	\u012b $
+öᵑ	œ̃	yöᵑtö, höᵑššöna	Bezhta	3	\xf6 \u1d51
+üᵑ	ỹ	k’äy -üᵑxö-, k’äy -üᵑxöl-	Bezhta	2	\xfc \u1d51
+ũ$	ũ	ʔãʔũ	Bezhta	1	\u0169 $
+^äᵑ	æ̃	äᵑydā, äᵑydǟ	Bezhta	16	^ \xe4 \u1d51
+^öᵑ	œ̃	öᵑq’önä, öᵑq”öbuƛ’o	Bezhta	2	^ \xf6 \u1d51
+üᵑ$	ỹ	ɬüᵑ	Bezhta	1	\xfc \u1d51 $
+č’	tʃʼ	ič’ey			\u010d \u2019
+c’	tsʼ	c’ac’aka			c \u2019
+k’	kʼ	č’ink’ilɬi			k \u2019
+ƛ’	tɬʼ	zoƛ’o			\u019b \u2019
+p’	pʼ	p’äp’älö			p \u2019
+q”	qʼ	-õq”o-, öᵑq”öbuƛ’o	Bezhta	2	q \u201d
+q’	qʼ	aq’o y-ẽƛe-			q \u2019
+t’	tʼ	it’ino is			t \u2019
+^č’	tʃʼ	č’ink’ilɬi			^ \u010d \u2019
+^c’	tsʼ	c’uyab			^ c \u2019
+^k’	kʼ	k’ado-miqā			^ k \u2019
+^ƛ’	tɬʼ	ƛ’alo			^ \u019b \u2019
+^p’	pʼ	p’äp’älö			^ p \u2019
+^t’	tʼ	t’axe			^ t \u2019
+č’$	tʃʼ	müč’			\u010d \u2019 $
+ƛ’$	tɬʼ	raƛ’			\u019b \u2019 $
+t’$	tʼ	t’ot’			t \u2019 $
+-	+	-ow-, -ox-	Bezhta	568	-
+ā	aː	xosdāɬi, halaɬcolāq	Bezhta	14	\u0101
+ǟ	æː	ƛ’ǟna, müɣättǟš	Bezhta	11	\u01df
+ī	iː	nīyo	Bezhta	1	\u012b
+ō	oː	k’ok’ōɬi, nukōɬi	Bezhta	6	\u014d
+ȭ	õː	büwähȭɬi	Bezhta	1	\u022d
+^ī	iː	-īqo-	Bezhta	1	^ \u012b
+ā$	aː	niq’ā, cixā	Bezhta	16	\u0101 $
+ǟ$	æː	mǟ, xöwǟ-	Bezhta	6	\u01df $
+ii	iː	-äᵑčiic’l-	Bezhta	1	i i
+ō$	oː	q’ō, kō	Bezhta	6	\u014d $
+oo	oː	käčeɬiyooɬi	Bezhta	1	o o
+ūᵑ	ũː	ɬūᵑs ɣeč’i	Bezhta	1	\u016b \u1d51
+āᵑ$	ãː	cāᵑ	Bezhta	1	\u0101 \u1d51 $
+ȫᵑ$	œ̃ː	xȫᵑ	Bezhta	1	\u022b \u1d51 $
+ūᵑ$	ũː	c’ūᵑ	Bezhta	1	\u016b \u1d51 $
+^īᵑ$	ĩː	īᵑ	Bezhta	1	^ \u012b \u1d51 $
+‘	ʕ	möƛ‘ö, ɬiq‘ol-	Bezhta	2	\u2018
+ʔ	ʔ	räʔäl, saʔat	Bezhta	53	\u0294
+ʔ$	ʔ	-ut’--äɣiʔ-, nüʔ	Bezhta	13	\u0294 $
+^ʔ	ʔ	ʔãʔũ, ʔäᵑʔäᵑla-	Bezhta	2	^ \u0294
+^ʔ$	ʔ	-ʔ	Bezhta	1	^ \u0294 $
+č	tʃ	qäč’č’ö, mäče	Bezhta	71	\u010d
+š	ʃ	nišeš bešiyoɬi, mašina	Bezhta	48	\u0161
+^č	tʃ	čikeyo, č’ink’ilɬi	Bezhta	25	^ \u010d
+^š	ʃ	šakɬi, šuša	Bezhta	29	^ \u0161
+č$	tʃ	peč, xeč	Bezhta	8	\u010d $
+š$	ʃ	beš, naq’iš	Bezhta	9	\u0161 $
+ž	ʒ	xüžö-, öžö	Bezhta	31	\u017e
+^ž	ʒ	že dande, žawab niccas suk’o	Bezhta	13	^ \u017e
+ž$	ʒ	äᵑž, xarž	Bezhta	5	\u017e $
+_	_	inkar bow-, enekzi -aq-	Bezhta	221	_
+a	a	zama-zamalliʔ, saq’dari	Bezhta	694	a
+^A	A/a	Allah	Bezhta	1	^ A
+^a	a	abo, axir	Bezhta	50	^ a
+a$	a	soyya, ƛ’isa-	Bezhta	191	a $
+ä	æ	räʔäl, häymän	Bezhta	184	\xe4
+^ä	æ	äkö, -äq’q’ö	Bezhta	29	^ \xe4
+ä$	æ	läqdä-, k’öyyä	Bezhta	36	\xe4 $
+b	b	inkar bow-, haboy	Bezhta	109	b
+^B	B/b	Bet’erhan	Bezhta	1	^ B
+^b	b	box, bet’erhan	Bezhta	107	^ b
+b$	b	bikinab, aq’ilab	Bezhta	44	b $
+d	d	ladi, wodo	Bezhta	137	d
+^d	d	dursa, dibit’o	Bezhta	25	^ d
+d$	d	kid, besdal kid	Bezhta	9	d $
+e	e	bet’erhan, perezident	Bezhta	232	e
+^e	e	enekzi -aq-, -eze-	Bezhta	21	^ e
+e$	e	mäče, -ĩze-	Bezhta	87	e $
+f	f	delfin	Bezhta	1	f
+^f	f	ftornik	Bezhta	1	^ f
+g	g	ungo-ungoyab, yiga-	Bezhta	51	g
+ɣ	ɣ	niɣe, xoyɣo	Bezhta	59	\u0263
+^g	g	got’, graždanin	Bezhta	25	^ g
+^ɣ	ɣ	ɣanq’izi -owo-, ɣaɣ	Bezhta	21	^ \u0263
+g$	g	õg, šag	Bezhta	4	g $
+ɣ$	ɣ	-eɣ-, ɣaɣ	Bezhta	11	\u0263 $
+h	h	k’ihmat, mihna	Bezhta	29	h
+^h	h	haboy, has	Bezhta	109	^ h
+h$	h	nagah, moh	Bezhta	7	h $
+i	i	bikinab, t’ibit’izi -ow-	Bezhta	461	i
+^i	i	inkar bow-, -ixalo	Bezhta	64	^ i
+i$	i	ladi, ɬi	Bezhta	138	i $
+j	j	pijatnica	Bezhta	1	j
+y	j	kayƛoyo, q’eyas t’iyo	Bezhta	178	y
+^y	j	yuƛ’o, yiga-	Bezhta	45	^ y
+y$	j	haboy, qartay	Bezhta	23	y $
+k	k	äkö, inkar bow-	Bezhta	171	k
+^k	k	k’ihmat, kid	Bezhta	114	^ k
+k$	k	ƛ’oddāk-, ẽdok-	Bezhta	19	k $
+l	l	mašinalis nomerla, halaɬcolāq	Bezhta	195	l
+ɬ	ɬ	-ẽɬeyo, c’oɬiyo ek’eyoɬi	Bezhta	67	\u026c
+ƛ	tɬ	ẽxeƛ’alƛ’ā -ẽƛ’e-, kayƛoyo	Bezhta	135	\u019b
+^l	l	ladi, lasodi	Bezhta	15	^ l
+^ɬ	ɬ	ɬi, ɬiyac’-	Bezhta	25	^ \u026c
+^ƛ	tɬ	ƛ’odo, ƛiyo	Bezhta	48	^ \u019b
+l$	l	räʔäl, qal	Bezhta	78	l $
+ɬ$	ɬ	-üxöɬ-, ɬiɬ-	Bezhta	9	\u026c $
+ƛ$	tɬ	niƛ-, -öƛ-	Bezhta	18	\u019b $
+m	m	k’ihmat, ömrö b-ow-	Bezhta	99	m
+^m	m	mäče, mašina	Bezhta	92	^ m
+m$	m	hem, ädäm	Bezhta	6	m $
+n	n	kantinent, inkar bow-	Bezhta	151	n
+^n	n	niƛ-, niso-	Bezhta	50	^ n
+n$	n	bet’erhan, häymän	Bezhta	57	n $
+o	o	tormoz bowo-, c’oɬiyo ek’eyoɬi	Bezhta	390	o
+^o	o	-ow-, -ox-	Bezhta	29	^ o
+o$	o	wodo, aqo	Bezhta	268	o $
+ö	œ	-öɣ--ök’öyö, yöxöš yow-	Bezhta	49	\xf6
+^ö	œ	öžö, ömrö b-ow-	Bezhta	15	^ \xf6
+ö$	œ	äkö, -äq’q’ö	Bezhta	58	\xf6 $
+p	p	näp’či, k’artupeli	Bezhta	29	p
+^p	p	peč, p’alt’o	Bezhta	44	^ p
+p$	p	pöp	Bezhta	1	p $
+q	q	-äq’q’ö, aqo	Bezhta	128	q
+^q	q	qal, q’ō	Bezhta	74	^ q
+q$	q	enekzi -aq-, muk’ur -aq-	Bezhta	27	q $
+^q’	q	q’owa			^ q \u2019
+r	r	inkar bow-, muk’ur -aq-	Bezhta	143	r
+^r	r	räʔäl, rähäy	Bezhta	21	^ r
+r$	r	axir, mazgar	Bezhta	30	r $
+c	ts	-owaʔcoy -ece-, ãc’c’o	Bezhta	111	c
+s	s	iq’aʔcas suk’o, ƛ’isa-	Bezhta	105	s
+^c	ts	c’it’, c’uyab	Bezhta	46	^ c
+^s	s	saʔat, soyya	Bezhta	44	^ s
+c$	ts	kupec, aboc	Bezhta	6	c $
+s$	s	is, has	Bezhta	35	s $
+t	t	bet’erhan, it’ino	Bezhta	144	t
+^t	t	t’ut’-, tüšöl-	Bezhta	53	^ t
+t$	t	k’ihmat, saʔat	Bezhta	29	t $
+u	u	muk’ur -aq-, ɣuɣluƛ’a -ece-	Bezhta	151	u
+^u	u	uq’o abo, unti	Bezhta	25	^ u
+u$	u	nitonazu, asru	Bezhta	8	u $
+v	v	atvyorka, četverg	Bezhta	2	v
+w	w	q’owa, xowo-	Bezhta	33	w
+^w	w	wodo, waʔza bow-	Bezhta	16	^ w
+w$	w	-ow-, inkar bow-	Bezhta	48	w $
+x	x	axir, niqeš xöxö	Bezhta	63	x
+^x	x	xida, xac’o	Bezhta	49	^ x
+x$	x	-ox-, box	Bezhta	30	x $
+ü	y	müɣättǟ -üƛ’-, müštük’	Bezhta	47	\xfc
+^ü	y	-üč’-, -üxöɬ-	Bezhta	6	^ \xfc
+z	z	-ĩze-, enekzi -aq-	Bezhta	67	z
+^z	z	zoƛ’o, ziza-	Bezhta	26	^ z
+z$	z	kiz, -õz-	Bezhta	12	z $
+ās	aː s	emedās mex, õq’q’aʔdās mäče	Bezhta	3	\u0101 s
+īs	iː s	ɬīs momola	Bezhta	1	\u012b s
+ās$	aː s	aboddās, iyoddās	Bezhta	4	\u0101 s $
+īs$	iː s	dīs	Bezhta	1	\u012b s $
+čč	tʃ tʃ	soyyā gäččo, ãq’lo gäččö	Bezhta	5	\u010d \u010d
+šš	ʃ ʃ	-äᵑššö, höᵑššöna	Bezhta	3	\u0161 \u0161
+äh	æ h	rähäy, šähär	Bezhta	13	\xe4 h
+^äh	æ h	-ähk’-, ähi	Bezhta	3	^ \xe4 h
+äh$	æ h	yaraɣ-mätäh, däh	Bezhta	2	\xe4 h $
+bs	b s	habsaʔat	Bezhta	1	b s
+dd	d d	aboddās, iyoddās	Bezhta	12	d d
+^äᵑh	æ̃ h	äᵑheyo	Bezhta	1	^ \xe4 \u1d51 h
+yy	j j	k’öyyä, soyya	Bezhta	5	y y
+kk	k k	okko, kikko	Bezhta	5	k k
+ll	l l	öllö, illa	Bezhta	8	l l
+ƛƛ	tɬ tɬ	koƛƛo, yaƛƛokos	Bezhta	5	\u019b \u019b
+ɬs	ɬ s	marč’ok’oɬso mex	Bezhta	1	\u026c s
+mm	m m	ƛämmö, tammako	Bezhta	2	m m
+nn	n n	panidennik, dunnal	Bezhta	3	n n
+ns	n s	insan	Bezhta	1	n s
+^öh	œ h	öhdä-	Bezhta	1	^ \xf6 h
+öw	œ w	xöwǟ-, ɬöwa-	Bezhta	2	\xf6 w
+qq	q q	biqqaʔdās mäče	Bezhta	1	q q
+rh	r h	bet’erhan, Bet’erhan	Bezhta	6	r h
+rr	r r	hörrä-, örrä	Bezhta	2	r r
+rs	r s	dursa	Bezhta	2	r s
+cc	ts ts	-ẽccak’-, waccal	Bezhta	5	c c
+ss	s s	qusso	Bezhta	1	s s
+tt	t t	müɣättǟš, müɣättǟ -üƛ’-	Bezhta	3	t t
+öᵑw	œ̃ w	q’eyas ƛöᵑwä, ƛöᵑwä	Bezhta	2	\xf6 \u1d51 w
+wh	w h	žawhar	Bezhta	1	w h
+xx	x x	-ixxo	Bezhta	1	x x
+üh	y h	mühkänäb, yühi	Bezhta	3	\xfc h
+üh$	y h	rüh	Bezhta	1	\xfc h $
+üw	y w	häq’üwä, püwä-	Bezhta	4	\xfc w
+^üw	y w	-üwö-, -üwö	Bezhta	2	^ \xfc w
+zz	z z	ezzeʔan	Bezhta	1	z z
+^boco$	b o ts o	month	Bezhta	1	^ b o c o $
+^ničdiyo$	n i tʃ d i j o	green	Bezhta	1	^ n i \u010d d i y o $

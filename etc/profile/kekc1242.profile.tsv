@@ -1,0 +1,179 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+$	NULL				$
+.	NULL	moko... ta	Q'eqchi'	6	.
+^	NULL				^
+k'	kʼ				k '
+k’	kʼ				k \u2019
+p’	pʼ				p \u2019
+q'	qʼ				q '
+q’	qʼ				q \u2019
+t'	tʼ				t '
+t’	tʼ				t \u2019
+^k’	kʼ				^ k \u2019
+^q'	qʼ				^ q '
+^t'	tʼ				^ t '
+^t’	tʼ				^ t \u2019
+ch'	tʃʼ				c h '
+ch’	tʃʼ				c h \u2019
+k'$	kʼ				k ' $
+k’$	kʼ				k \u2019 $
+q'$	qʼ				q ' $
+t'$	tʼ				t ' $
+t’$	tʼ				t \u2019 $
+tz'	tsʼ				t z '
+tz’	tsʼ				t z \u2019
+^ch'	tʃʼ				^ c h '
+^ch’	tʃʼ				^ c h \u2019
+^tz'	tsʼ				^ t z '
+^tz’	tsʼ				^ t z \u2019
+ch'$	tʃʼ				c h ' $
+ch’$	tʃʼ				c h \u2019 $
+tz'$	tsʼ				t z ' $
+tz’$	tsʼ				t z \u2019 $
+-	+	aj-lab'aal kutan	Q'eqchi'	1	-
+aa	aː	saaraq'ik, raqok aatin	Q'eqchi'	162	a a
+ee	eː	karneer, manteek	Q'eqchi'	78	e e
+ii	iː	tiix, yiib'ej	Q'eqchi'	57	i i
+oo	oː	moos, toon	Q'eqchi'	40	o o
+uu	uː	tz’uumal, ruuxam	Q'eqchi'	47	u u
+^aa	aː	aatin, aa’o	Q'eqchi'	9	^ a a
+^ee	eː	eelelik, eetalil	Q'eqchi'	8	^ e e
+^ii	iː	iitz’in, iiqank	Q'eqchi'	5	^ i i
+^oo	oː	oorn, oor	Q'eqchi'	4	^ o o
+^uu	uː	uul, uutz'u'uj	Q'eqchi'	4	^ u u
+^xx	ʃː	xxaqab’ankil	Q'eqchi'	1	^ x x
+aa$	aː	soldaa	Q'eqchi'	2	a a $
+^ii$	iː	ii	Q'eqchi'	2	^ i i $
+'	ʔ				'
+’	ʔ				\u2019
+’$	ʔ	sa’, neb’a’	Q'eqchi'	175	\u2019 $
+x	ʃ	ixq, rix xul	Q'eqchi'	133	x
+^x	ʃ	xik’, xan	Q'eqchi'	122	^ x
+ch	tʃ	ch'ina ch'iich', ru chi ch’och’	Q'eqchi'	193	c h
+x$	ʃ	chi rix, tiix	Q'eqchi'	58	x $
+^ch	tʃ	ch'e'ok, chi rix	Q'eqchi'	125	^ c h
+ch$	tʃ	yak'ach, jalam 'uuch	Q'eqchi'	24	c h $
+_	_	raqok aatin chi rix, ch’och’ sutsu chi ha’	Q'eqchi'	392	_
+a	a	palaw, ral chaq’na’	Q'eqchi'	1062	a
+^a	a	a’an, al	Q'eqchi'	109	^ a
+a$	a	wa, choxa	Q'eqchi'	53	a $
+b	b	lub'lub', k'uub'leb'aal	Q'eqchi'	374	b
+^b	b	b’ayk, b’isok	Q'eqchi'	124	^ b
+b'	ɓ				b '
+b’	ɓ				b \u2019
+^b'	ɓ				^ b '
+^b’	ɓ				^ b \u2019
+b'$	ɓ				b ' $
+c	c	miercools	Q'eqchi'	1	c
+d	d	soldaa, kandeel	Q'eqchi'	8	d
+^d	d	domiin	Q'eqchi'	1	^ d
+d$	d	periood, seb’aad	Q'eqchi'	3	d $
+e	e	remrem, neb’a’	Q'eqchi'	404	e
+^e	e	echanink, eq'la	Q'eqchi'	23	^ e
+e$	e	ruuch e, ke	Q'eqchi'	29	e $
+^e$	e	e	Q'eqchi'	3	^ e $
+f	f	elefaant, alfombra	Q'eqchi'	2	f
+^f	f	formon	Q'eqchi'	2	^ f
+f$	f	teleef, estuuf	Q'eqchi'	2	f $
+g	g	algo, igo	Q'eqchi'	5	g
+^g	g	granyon, ganso	Q'eqchi'	2	^ g
+g$	g	testiig	Q'eqchi'	1	g $
+h	h	tzakahem, pumpuukil ha’	Q'eqchi'	57	h
+^h	h	hu, ha’an	Q'eqchi'	50	^ h
+h$	h	rub’el eh, tuh	Q'eqchi'	4	h $
+k$	kʰ				k $
+p$	pʰ				p $
+q$	qʰ				q $
+t$	tʰ				t $
+k{}	kʰ				k { }
+p{}	pʰ				p { }
+q{}	qʰ				q { }
+t{}	tʰ				t { }
+i	i	chi rix, nimla tenamit	Q'eqchi'	545	i
+^i	i	ixq, isb’	Q'eqchi'	45	^ i
+i$	i	ink’a’ k’i, sa' xyi	Q'eqchi'	8	i $
+y	j	b’ayk, q'oyok	Q'eqchi'	90	y
+^y	j	yiib'ej, yaab'ak	Q'eqchi'	60	^ y
+y$	j	may, b’ab’ay	Q'eqchi'	33	y $
+k	k	xk’a’uxlankil, aj k’aak’alehom ketomq	Q'eqchi'	332	k
+^k	k	kamenaq, karneer	Q'eqchi'	275	^ k
+k$	k	jachok, ch'e'ok	Q'eqchi'	518	k $
+l	l	eelelik, tojleb'aal maak	Q'eqchi'	374	l
+^l	l	lem, lemskaaq	Q'eqchi'	66	^ l
+l$	l	al, wankil	Q'eqchi'	265	l $
+m	m	nimla tenamit, kamenaq	Q'eqchi'	166	m
+^m	m	may, muquk	Q'eqchi'	83	^ m
+m$	m	lem, k’aam	Q'eqchi'	98	m $
+n	n	b’aanunk, echanink	Q'eqchi'	432	n
+^n	n	neb’a’, nimla tenamit	Q'eqchi'	62	^ n
+n$	n	a’an, q'un	Q'eqchi'	134	n $
+o	o	tzolok, jochok	Q'eqchi'	594	o
+^o	o	ok, ob’eja	Q'eqchi'	28	^ o
+o$	o	ha’o, b’uro	Q'eqchi'	44	o $
+p	p	ch'epok, pumpuukil ha’	Q'eqchi'	59	p
+^p	p	palaw, patz'ok	Q'eqchi'	103	^ p
+p$	p	jip, kachimp	Q'eqchi'	10	p $
+q	q	muquk, saaraq'ik	Q'eqchi'	241	q
+^q	q	q'un, q’ol	Q'eqchi'	61	^ q
+q$	q	kamenaq, ixq	Q'eqchi'	69	q $
+r	ɾ	b'urux b'urux, karneer	Q'eqchi'	188	r
+^r	r	remrem, raqok aatin	Q'eqchi'	129	^ r
+r$	r	karneer, xmar	Q'eqchi'	39	r $
+s	s	osob'tesink, b’isok	Q'eqchi'	98	s
+^s	s	sa’, sachok	Q'eqchi'	128	^ s
+s$	s	q'es, moos	Q'eqchi'	41	s $
+ts	ts	ch’och’ sutsu chi ha’	Q'eqchi'	1	t s
+ts$	ts	marts	Q'eqchi'	1	t s $
+t	t	kutan, najt roq	Q'eqchi'	269	t
+^t	t	tzolok, tawok	Q'eqchi'	223	^ t
+t$	t	nimla tenamit, meet	Q'eqchi'	61	t $
+u	u	muquk, kuruk	Q'eqchi'	398	u
+^u	u	uch ch’o, ut	Q'eqchi'	17	^ u
+u$	u	hu, ewu	Q'eqchi'	50	u $
+^u$	u	u	Q'eqchi'	3	^ u $
+w	w	tawok, ka’j wi’	Q'eqchi'	66	w
+^w	w	wa, wankil	Q'eqchi'	44	^ w
+jw	xʷ	ka’ajwi’ laa’o, tz’ejwal	Q'eqchi'	3	j w
+qw	qʷ	anaqwan, tiqwal	Q'eqchi'	3	q w
+w$	w	palaw, kaw	Q'eqchi'	19	w $
+^jw	xʷ	jwees, jweb’es	Q'eqchi'	2	^ j w
+^kw	gʷ	kwenta, kwaart	Q'eqchi'	3	^ k w
+j	x	ka’j wi’, q'ojyin	Q'eqchi'	158	j
+^j	x	jachok, jochok	Q'eqchi'	111	^ j
+j$	x	awab'ej, yiib'ej	Q'eqchi'	76	j $
+z	z	tzolok, tz’ik	Q'eqchi'	128	z
+z$	z	b'olotz, jotz	Q'eqchi'	5	z $
+xs	ʃ s	nim xsa', maak'a' xsa'	Q'eqchi'	4	x s
+^xs	ʃ s	xsu oq, xsumenkil	Q'eqchi'	2	^ x s
+xw	ʃ w	oxwa	Q'eqchi'	1	x w
+^xw	ʃ w	xwah kar	Q'eqchi'	1	^ x w
+a'	a ʔ				a '
+a’	a ʔ				a \u2019
+a'$	a ʔ				a ' $
+a’$	a ʔ				a \u2019 $
+ks	k s	inyeksion, siksotk	Q'eqchi'	2	k s
+ls	l s	pulseer, papelseya	Q'eqchi'	2	l s
+ls$	l s	miercools	Q'eqchi'	1	l s $
+ms	m s	kamsink, lemskaaq	Q'eqchi'	8	m s
+ms$	m s	nums, k’ams	Q'eqchi'	3	m s $
+ns	n s	insekto, ganso	Q'eqchi'	3	n s
+ns$	n s	luuns, lisens	Q'eqchi'	2	n s $
+^nw	n w	nwes	Q'eqchi'	1	^ n w
+ps$	p s	paaps	Q'eqchi'	1	p s $
+^pw	p w	pwerta	Q'eqchi'	1	^ p w
+qs	q s	b'aqsotz'	Q'eqchi'	1	q s
+qs$	q s	poqs	Q'eqchi'	1	q s $
+rs	r s	sursu	Q'eqchi'	2	r s
+rs$	r s	myers, b’yers	Q'eqchi'	2	r s $
+rw	r w	serwees	Q'eqchi'	1	r w
+^tw	t w	tweek’asi	Q'eqchi'	1	^ t w
+u’	u ʔ				u \u2019
+js	x s	q'ajsink	Q'eqchi'	1	j s
+chh	tʃ + h	puchha'	Q'eqchi'	1	c h h
+a'a	a ʔ a	moko ch'a'aj ta, ch'a'aj	Q'eqchi'	2	a ' a
+lh	l + h	b’oolha’	Q'eqchi'	1	l h
+ll	l + l	tzolleb'aal	Q'eqchi'	1	l l
+nh	n + h	k’anha’	Q'eqchi'	1	n h
+nn	n + n	inna’ inyuwa’	Q'eqchi'	1	n n
+rh	r + h	porha'	Q'eqchi'	1	r h
+u'u	u ʔ u	uutz'u'uj	Q'eqchi'	1	u ' u

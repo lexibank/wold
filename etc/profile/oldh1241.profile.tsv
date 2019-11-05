@@ -1,0 +1,161 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+$	NULL				$
+^	NULL				^
+â	â/aː	nâdala, nâtâri	Old High German	68	\xe2
+ê	ê/eː	werên, folgên	Old High German	34	\xea
+î	î/iː	trîban, enkilîn	Old High German	58	\xee
+ô	ô/oː	tarôn, stôzan	Old High German	77	\xf4
+û	û/uː	drûbo, scûfla	Old High German	21	\xfb
+^â	â/aː	âbandmuos, âla	Old High German	9	^ \xe2
+^ê	ê/eː	êristo, êrgesteren	Old High German	2	^ \xea
+^î	î/iː	îlen	Old High German	1	^ \xee
+^ô	ô/oː	ôrlappa, ôrring	Old High German	4	^ \xf4
+^û	û/uː	ûtar, ûfgangan	Old High German	4	^ \xfb
+â$	â/aː	wantâ	Old High German	1	\xe2 $
+bb	bː	lubbi, ribbi	Old High German	4	b b
+dd	dː	feddah, eddeswanne	Old High German	2	d d
+ff	fː	pheffur, gioffanôn	Old High German	9	f f
+gg	gː	mugga, roggo	Old High German	9	g g
+hh	xː	riohhan, nihhus	Old High German	31	h h
+î$	î/iː	holî, lârî	Old High German	11	\xee $
+kk	kː	hewiskrekko, akkarman	Old High German	6	k k
+ll	lː	stilli, zellen	Old High German	16	l l
+mm	mː	stimma, gomman	Old High German	5	m m
+nn	nː	rennen, mennisco	Old High German	27	n n
+ô$	ô/oː	naskô	Old High German	1	\xf4 $
+pp	pː	ôrlappa, rippi	Old High German	2	p p
+rr	rː	firrâtan, sparro	Old High German	8	r r
+ss	sː	finstarnessi, jussal	Old High German	6	s s
+tt	tː	bitten, mitti	Old High German	14	t t
+û$	û/uː	dû, sû	Old High German	2	\xfb $
+zs	tsː	fuozspor, flôzskip	Old High German	2	z s
+zz	sː	mezzisahs, krazzôn	Old High German	28	z z
+_	_	giboran werdan, wio manage	Old High German	3	_
+a	a	bihaltan, nagal	Old High German	517	a
+^a	a	ander, ackus	Old High German	40	^ a
+a$	a	nâdala, snora	Old High German	171	a $
+b	b	trîban, rîbil	Old High German	86	b
+^b	b	bitten, bihaltan	Old High German	101	^ b
+b$	b	toub, lob	Old High German	17	b $
+c	c	sculd, ackus	Old High German	46	c
+c$	c	fleisc, tranc	Old High German	15	c $
+d	d	nâdala, ander	Old High German	68	d
+^d	d	degan, desêr	Old High German	30	^ d
+d$	d	sculd, kind	Old High German	20	d $
+e	e	zellen, fellen	Old High German	370	e
+^e	e	enti, er	Old High German	39	^ e
+e$	e	(h)wie, sie	Old High German	9	e $
+f	f	pfîfôn, koufen	Old High German	56	f
+^f	f	fedara, fleisc	Old High German	93	^ f
+f$	f	knopf, tiof	Old High German	21	f $
+ph	pf	tuphin, trophôn	Old High German	3	p h
+^ph	pf	pheffur, pheffar	Old High German	2	^ p h
+ph$	pf	kroph	Old High German	1	p h $
+g	g	nagal, reganbogo	Old High German	118	g
+^g	g	giozan, graban	Old High German	67	^ g
+g$	g	kruog, sâlig	Old High German	40	g $
+^h	h	hôh, himil	Old High German	89	^ h
+h$	h	weih, ih	Old High German	22	h $
+i	i	niowiht, biwerien	Old High German	461	i
+^i	i	iz, ir	Old High German	26	^ i
+i$	i	enti, kwiti	Old High German	84	i $
+^j	j	jagôn, jussal	Old High German	11	^ j
+k	k	enkilîn, ackus	Old High German	75	k
+^k	k	knopf, koufen	Old High German	59	^ k
+k$	k	gidank	Old High German	1	k $
+l	l	nâdala, sculd	Old High German	192	l
+^l	l	lant, lûs	Old High German	49	^ l
+l$	l	nagal, himil	Old High German	54	l $
+m	m	zimbarman, himil	Old High German	68	m
+^m	m	mezzisahs, meto	Old High German	58	^ m
+m$	m	bodam, eidum	Old High German	19	m $
+n	n	enti, anafang	Old High German	234	n
+^n	n	nâdala, nâh	Old High German	43	^ n
+n$	n	stôzan, bihaltan	Old High German	362	n $
+o	o	snora, koufen	Old High German	208	o
+^o	o	ohso, odo	Old High German	14	^ o
+o$	o	bogo, (h)wio	Old High German	108	o $
+p	p	knopf, sparro	Old High German	31	p
+^p	p	pelliz, perula	Old High German	12	^ p
+p$	p	flôzskip	Old High German	1	p $
+q	q	biqueman, anaqueman	Old High German	2	q
+r	r	irbarmida, êrgesteren	Old High German	303	r
+^r	r	ruodar, rûh	Old High German	42	^ r
+r$	r	ander, (h)wer	Old High German	83	r $
+s	s	mezzisahs, brust	Old High German	81	s
+z	ts	stôzan, giozan	Old High German	42	z
+^s	s	stôzan, sculd	Old High German	180	^ s
+^z	ts	zellen, zala	Old High German	34	^ z
+s$	s	ackus, nihhus	Old High German	7	s $
+ts	ts	intsliozan, hantscuoh	Old High German	3	t s
+z$	ts	iz, kurz	Old High German	26	z $
+t	t	stioftohter, enti	Old High German	190	t
+^t	t	tarôn, teilen	Old High German	52	^ t
+t$	t	niowiht, lant	Old High German	89	t $
+th	θ	firthionôn	Old High German	1	t h
+^th	θ	thrucken, thah	Old High German	6	^ t h
+u	u	muscula, turistuodal	Old High German	231	u
+^u	u	ubar, unsemfti	Old High German	14	^ u
+u$	u	siu, ibu	Old High German	14	u $
+v	v	zwîval, ovan	Old High German	3	v
+^v	v	vanga	Old High German	1	^ v
+w	w	biwerien, niowiht	Old High German	30	w
+^w	w	wîsi, weih	Old High German	78	^ w
+^kw	kʷ	kwiti, kwena	Old High German	3	^ k w
+^qu	kʷ	queman, quemaling	Old High German	3	^ q u
+h	x	bihaltan, swehur	Old High German	44	h
+ch	x	gisnarchôn	Old High German	1	c h
+ch$	x	fettach	Old High German	1	c h $
+âhh	â/aː xː	lâhhan, sprâhhûs	Old High German	2	\xe2 h h
+îhh	î/iː xː	rîhhi, manalîhha	Old High German	3	\xee h h
+ûhh	û/uː xː	intûhhan	Old High German	1	\xfb h h
+âh	â/aː h	fâhan, hâhan	Old High German	8	\xe2 h
+êh	ê/eː h	zêha	Old High German	1	\xea h
+îh	î/iː h	lîhan, lîhti	Old High German	4	\xee h
+^âh	â/aː h	âhten	Old High German	1	^ \xe2 h
+^ôh	ô/oː h	ôheim	Old High German	1	^ \xf4 h
+âh$	â/aː h	nâh	Old High German	2	\xe2 h $
+îh$	î/iː h	anagilîh, hazlîh	Old High German	4	\xee h $
+ôh$	ô/oː h	hôh, fôh	Old High German	4	\xf4 h $
+ûh$	û/uː h	rûh, bûh	Old High German	3	\xfb h $
+âs	â/aː s	kâsi, blâsa	Old High German	2	\xe2 s
+îs	î/iː s	wîsi, wîsa	Old High German	3	\xee s
+ôs	ô/oː s	lôsen, hintarôsto	Old High German	2	\xf4 s
+ûs	û/uː s	dûsunt, rûsa	Old High German	2	\xfb s
+^ôs	ô/oː s	ôstan	Old High German	1	^ \xf4 s
+ûs$	û/uː s	lûs, mûs	Old High German	6	\xfb s $
+^îs$	î/iː s	îs	Old High German	1	^ \xee s $
+âw	â/aː w	brâwezzen, klâwa	Old High German	6	\xe2 w
+êw	ê/eː w	wêwa	Old High German	1	\xea w
+îw	î/iː w	spîwan, hîwiski	Old High German	3	\xee w
+ôw	ô/oː w	gilôwôn	Old High German	1	\xf4 w
+ûw	û/uː w	bûwan	Old High German	1	\xfb w
+^êw	ê/eː w	êwa, êwawarto	Old High German	2	^ \xea w
+^ûw	û/uː w	ûwila	Old High German	1	^ \xfb w
+^dw	d w	dwahila	Old High German	1	^ d w
+fs	f s	wefsa, stiofsunu	Old High German	2	f s
+fs$	f s	lefs	Old High German	1	f s $
+gs	g s	langsam	Old High German	1	g s
+lh	l h	kelhnezzi	Old High German	1	l h
+ls	l s	halsbant, halsen	Old High German	3	l s
+ls$	l s	hals	Old High German	1	l s $
+mw	m w	boumwolla	Old High German	1	m w
+ns	n s	finstarnessi, unsemfti	Old High German	7	n s
+ns$	n s	gans	Old High German	1	n s $
+nw	n w	sinwel	Old High German	1	n w
+nh	n x	innarûnhalb, einhunt	Old High German	3	n h
+rh	r h	irhuggen	Old High German	1	r h
+rh$	r h	furh	Old High German	1	r h $
+rs	r s	arsbelli, first	Old High German	9	r s
+rw	r w	irwahhên, narwa	Old High German	3	r w
+sw	s w	eddeswanne, giswulst	Old High German	2	s w
+zw	ts w	wîzwahs, gizwiggen	Old High German	2	z w
+^sw	s w	swigar, swehur	Old High German	14	^ s w
+^zw	ts w	zwiniling, zwisila	Old High German	7	^ z w
+tw	t w	samantwist, antwurten	Old High German	2	t w
+hs	x s	ohso, wahsan	Old High German	7	h s
+hs$	x s	mezzisahs, wîzwahs	Old High German	5	h s $
+rsw	r s w	firswintan	Old High German	1	r s w
+krâ(h/j/w)a	k r â/aː h a	krâ(h/j/w)a	Old High German	1	k r \xe2 ( h / j / w ) a
+krâ(h/j/w)a	k r â/aː j a	krâ(h/j/w)a	Old High German	1	k r \xe2 ( h / j / w ) a
+krâ(h/j/w)a	k r â/aː w a	krâ(h/j/w)a	Old High German	1	k r \xe2 ( h / j / w ) a

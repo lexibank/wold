@@ -3,7 +3,6 @@
     "aboutUrl": "http://wold.clld.org/word/{ID}",
     "dc:bibliographicCitation": "Haspelmath, Martin & Tadmor, Uri (eds.) 2009. World Loanword Database. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at http://wold.clld.org)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:description": null,
     "dc:format": [
         "http://concepticon.clld.org/contributions/Haspelmath-2009-1460"
     ],
@@ -13,24 +12,52 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "The World Loanword Database",
+    "dcat:accessURL": "https://github.com/lexibank/wold",
+    "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/lexibank/wold",
+            "dc:created": "v2.0.1-11-g421be45"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
+            "rdf:about": "https://github.com/concepticon/concepticon-data",
+            "dc:created": "v2.1.0-104-g9190b75"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts",
+            "dc:created": "v1.4"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.0-56-g185d304"
+        }
+    ],
+    "prov:wasGeneratedBy": [
+        {
+            "dc:title": "python",
+            "dc:description": "3.5.2"
+        },
+        {
+            "dc:title": "python-packages",
+            "dc:relation": "requirements.txt"
+        }
+    ],
     "rdf:ID": "wold",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
-    "notes": [
-        {
-            "dc:title": "environment",
-            "properties": {
-                "glottolog_version": "v4.0",
-                "concepticon_version": "v2.0"
-            }
-        }
-    ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 64959,
+            "dc:extent": 64289,
             "tableSchema": {
                 "columns": [
                     {
@@ -111,6 +138,22 @@
                     {
                         "datatype": "string",
                         "name": "comment_on_borrowed"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "comment_on_word_form"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "borrowed_base"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "other_comments"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "loan_history"
                     },
                     {
                         "datatype": "string",
@@ -245,6 +288,10 @@
                     {
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "WOLD_ID"
                     }
                 ],
                 "primaryKey": [

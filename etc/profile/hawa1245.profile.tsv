@@ -1,0 +1,86 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+$	NULL				$
+^	NULL				^
+`	NULL	loa`a, ho`ā`o	Hawaiian	406	`
+aa	aː	ka`aahi, pukaaniani	Hawaiian	4	a a
+‘	ʔ	ho‘oku‘u, maka‘āinana	Hawaiian	4	\u2018
+ch	tʃ	mōchī	Hawaiian	1	c h
+_	_	`apōpō ā ia lā aku, `ohana keiki	Hawaiian	239	_
+a	a	kaikua`ana, `anakala	Hawaiian	1081	a
+ā	ā/a	`apōpō ā ia lā aku, ho`ā`o	Hawaiian	148	\u0101
+^a	a	aha, aniani	Hawaiian	41	^ a
+^ā	ā/a	ākea, ānuenue	Hawaiian	3	^ \u0101
+`a	`a/a				` a
+`ā	`ā/a				` \u0101
+a$	a	loa`a, mo`opuna	Hawaiian	427	a $
+ā$	ā/a	`ūpā, lālā	Hawaiian	40	\u0101 $
+^`A	`A/a	`Aikupika	Hawaiian	1	^ ` A
+^a$	a	a	Hawaiian	1	^ a $
+^ā$	ā/a	ā	Hawaiian	1	^ \u0101 $
+b	b	musubī	Hawaiian	1	b
+e	e	lehelehe, helehelena	Hawaiian	359	e
+ē	ē/e	`ēlemu, `ē a`e	Hawaiian	14	\u0113
+^e	e	emi, ea	Hawaiian	3	^ e
+`e	`e/e				` e
+`ē	`ē/e				` \u0113
+e$	e	`ole, hoe	Hawaiian	225	e $
+ē$	ē/e	`anakē, `ai`ē	Hawaiian	17	\u0113 $
+f	f	tōfū	Hawaiian	1	f
+h	h	palaoa huluhulu, `aina ahiahi	Hawaiian	319	h
+^H	H/h	Helene	Hawaiian	1	^ H
+^h	h	honi, hoe	Hawaiian	219	^ h
+i	i	kaikaina, lihilihi maka	Hawaiian	518	i
+ī	ī/i	akenī`au, mīkini	Hawaiian	18	\u012b
+^i	i	ia, ihu	Hawaiian	24	^ i
+`i	`i/i				` i
+`ī	`ī/i				` \u012b
+i$	i	honi, `ohana keiki	Hawaiian	294	i $
+ī$	ī/i	`uī, wīwī	Hawaiian	20	\u012b $
+^i$	i	i	Hawaiian	2	^ i $
+k	k	`ohana keiki, kaikua`ana	Hawaiian	477	k
+^K	K/k	Kalema, Kepania	Hawaiian	3	^ K
+^k	k	koho, kaikaina	Hawaiian	257	^ k
+l	l	`ōlelo, palaoa huluhulu	Hawaiian	507	l
+^L	L/l	Lāpule, Lalako`a	Hawaiian	2	^ L
+^l	l	loa`a, lalo	Hawaiian	121	^ l
+m	m	`umi kūmālima, manamana lima	Hawaiian	162	m
+^M	M/m	Menehune	Hawaiian	1	^ M
+^m	m	mo`opuna, mana`o	Hawaiian	165	^ m
+n	n	hūnōna wahine, hūnōna kāne	Hawaiian	416	n
+^N	N/n	Nuhōlani	Hawaiian	1	^ N
+^n	n	na`au, nāki`i	Hawaiian	45	^ n
+o	o	mo`opuna, poepoe	Hawaiian	533	o
+ō	ō/o	`ōlelo, hūnōna wahine	Hawaiian	86	\u014d
+^o	o	ola, omo	Hawaiian	9	^ o
+`o	`o/o	`ole, `ō	Hawaiian	206	` o
+`ō	`ō/o				` \u014d
+o$	o	koho, lalo	Hawaiian	157	o $
+ō$	ō/o	`ō, leikō	Hawaiian	21	\u014d $
+^o$	o	o	Hawaiian	1	^ o $
+p	p	ho`opunipuni, hopohopo	Hawaiian	205	p
+^P	P/p	Pakoa, Paniolo	Hawaiian	3	^ P
+^p	p	poepoe, pi`i	Hawaiian	199	^ p
+r	ɹ	Kristo	Hawaiian	1	r
+^r	ɹ	rītaia	Hawaiian	1	^ r
+s	s	`iniseka, nahesa	Hawaiian	4	s
+^s	s	sawana	Hawaiian	1	^ s
+t	t	rītaia, Kristo	Hawaiian	2	t
+^t	t	tūkana, tōfū	Hawaiian	3	^ t
+u	u	palaoa huluhulu, huluhulu	Hawaiian	387	u
+ū	ū/u	hūnōna wahine, hūnōna kāne	Hawaiian	64	\u016b
+^u	u	uila, ulana	Hawaiian	19	^ u
+`u	`u/u				` u
+`ū	`ū/u				` \u016b
+u$	u	hau, pou	Hawaiian	151	u $
+ū$	ū/u	`ōpū, nū	Hawaiian	26	\u016b $
+^ū$	ū/u	ū	Hawaiian	1	^ \u016b $
+w	w	`awa`awa, hewa	Hawaiian	104	w
+^w	w	wāwae, waiho`olu`u	Hawaiian	50	^ w
+āh	ā/a h	`āhewa, ho`āhewa	Hawaiian	11	\u0101 h
+^āh	ā/a h	āhea	Hawaiian	1	^ \u0101 h
+āw	ā/a w	ku`eku`e wāwae, wāwae	Hawaiian	19	\u0101 w
+ēh	ē/e h	`ēheu, palahēhē	Hawaiian	2	\u0113 h
+īh	ī/i h	pīhopa, hīhīmanu	Hawaiian	2	\u012b h
+īw	ī/i w	wīwī, `āwīwī	Hawaiian	3	\u012b w
+ōh	ō/o h	`ōhumu, ka`a `ōhua	Hawaiian	5	\u014d h
+ōw	ō/o w	kōwē	Hawaiian	1	\u014d w

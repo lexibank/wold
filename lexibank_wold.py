@@ -1,7 +1,13 @@
 import attr
-from clldutils.path import Path
-from pylexibank.dataset import Lexeme
-from pylexibank.providers import clld
+from pathlib import Path
+import re
+
+from pylexibank import FormSpec
+from pylexibank import Lexeme, Language
+from pylexibank.providers.clld import CLLD
+from pylexibank.util import progressbar
+
+from clldutils.misc import slug
 
 
 @attr.s
@@ -11,6 +17,10 @@ class WOLDLexeme(Lexeme):
     Borrowed = attr.ib(default=None)
     Borrowed_score = attr.ib(default=None)
     comment_on_borrowed = attr.ib(default=None)
+    comment_on_word_form = attr.ib(default=None)
+    borrowed_base = attr.ib(default=None)
+    other_comments = attr.ib(default=None)
+    loan_history = attr.ib(default=None)
     Analyzability = attr.ib(default=None)
     Simplicity_score = attr.ib(default=None)
     reference = attr.ib(default=None)
@@ -24,41 +34,81 @@ class WOLDLexeme(Lexeme):
     original_script = attr.ib(default=None)
 
 
-class Dataset(clld.CLLD):
-    __cldf_url__ = (
-        "http://cdstar.shh.mpg.de/bitstreams/EAEA0-92F4-126F-089F-0/wold_dataset.cldf.zip"
-    )
+@attr.s
+class WOLDLanguage(Language):
+    Longitude = attr.ib(default=None)
+    Latitude = attr.ib(default=None)
+    ISO639P3code = attr.ib(default=None)
+    WOLD_ID = attr.ib(default=None)
+
+
+def normalize_text(text):
+    text = text.replace("\n", " // ")
+    text = re.sub("\s+", " ", text).strip()
+
+    return text
+
+
+class Dataset(CLLD):
+    __cldf_url__ = "http://cdstar.shh.mpg.de/bitstreams/EAEA0-92F4-126F-089F-0/wold_dataset.cldf.zip"
     dir = Path(__file__).parent
     id = "wold"
     lexeme_class = WOLDLexeme
+    language_class = WOLDLanguage
 
-    def cmd_install(self, **kw):
-        ccode = {
-            x.attributes["wold_id"]: x.concepticon_id for x in self.conceptlist.concepts.values()
-        }
+    def cmd_makecldf(self, args):
+        # add the bibliographic sources
+        args.writer.add_sources()
 
-        fields = self.lexeme_class.fieldnames()
-        with self.cldf as ds:
-            vocab_ids = [v["ID"] for v in self.original_cldf["contributions.csv"]]
+        # add the languages from the language file
+        # NOTE: the source lists all languages, including proto-languages,
+        # but the `forms` only include the first 41 in the list
+        language_lookup = args.writer.add_languages(lookup_factory="WOLD_ID")
 
-            self.add_sources(ds)
+        # add concepts
+        concept_lookup = {}
+        for concept in self.conceptlist.concepts.values():
+            concept_id = "%s_%s" % (concept.number, slug(concept.english))
+            args.writer.add_concept(
+                ID=concept_id,
+                Name=concept.english,
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss,
+            )
+            concept_lookup[concept.attributes["wold_id"]] = concept_id
 
-            for row in self.original_cldf["LanguageTable"]:
-                gc, iso = row["Glottocode"], row["ISO639P3code"]
-                if gc == "tzot1264":
-                    gc, iso = "tzot1259", "tzo"
-                if row["ID"] in vocab_ids:
-                    ds.add_language(ID=row["ID"], Name=row["Name"], Glottocode=gc, ISO639P3code=iso)
-
-            for row in self.original_cldf["ParameterTable"]:
-                ds.add_concept(
-                    ID=row["ID"], Name=row.pop("Name"), Concepticon_ID=ccode.get(row["ID"])
+        # As some concepts are missing from the concept list, we need to
+        # collect them here and add them
+        # TODO: Integrate to Concepticon
+        for parameter in self.raw_dir.read_csv("parameters.csv", dicts=True):
+            if parameter["ID"] not in concept_lookup:
+                concept_id = "%s_%s" % (
+                    parameter["ID"].replace("-", ""),
+                    slug(parameter["Name"]),
                 )
+                args.writer.add_concept(ID=concept_id, Name=parameter["Name"])
+                concept_lookup[parameter["ID"]] = concept_id
 
-            for row in self.original_cldf["FormTable"]:
-                if row["Language_ID"] in vocab_ids:
-                    del row["ID"]
-                    row["Value"] = row.pop("Form")
-                    # Note: We count words marked as "probably borrowed" as loans.
-                    row["Loan"] = float(row["BorrowedScore"]) > 0.6
-                    ds.add_lexemes(**{k: v for k, v in row.items() if k in fields})
+        # read raw form data
+        lexemes_rows = self.raw_dir.read_csv("forms.csv", dicts=True)
+        for row in progressbar(lexemes_rows):
+            # Add information not in row, so we can pass to `add_form()`
+            # with a single comprehension
+            row["Language_ID"] = language_lookup[row["Language_ID"]]
+            row["Parameter_ID"] = concept_lookup[row["Parameter_ID"]]
+
+            row["Value"] = row["Form"]
+            row["Loan"] = float(row["BorrowedScore"]) > 0.6
+            row["original_script"] = normalize_text(row["original_script"])
+            row["comment_on_borrowed"] = normalize_text(
+                row["comment_on_borrowed"]
+            )
+            row.pop("Segments")
+
+            args.writer.add_form(
+                **{
+                    k: v
+                    for k, v in row.items()
+                    if k in self.lexeme_class.fieldnames()
+                }
+            )

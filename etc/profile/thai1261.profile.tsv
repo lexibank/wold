@@ -1,0 +1,204 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+̌	NULL				\u030c
+$	NULL				$
+^	NULL				^
+่$	NULL	thàankhú่	Thai	1	\u0e48 $
+9$	NULL				9 $
+-	+	khwaam-ìtchǎa, dinfáa-aakàat	Thai	2	-
+əə	əː	sǎŋwəəy, nəəykhǎeŋ	Thai	15	\u0259 \u0259
+aa	aː	pùuyâataayaay, naaŋphayaabaan	Thai	223	a a
+àa	àa/aː				\xe0 a
+áa	áa/aː				\xe1 a
+âa	âa/aː				\xe2 a
+ee	eː	pheelaa, weelaa	Thai	17	e e
+èe	èe/eː				\xe8 e
+ée	ée/eː				\xe9 e
+êe	êe/eː				\xea e
+ii	iː	diibùk, tiilèk	Thai	18	i i
+ìi	ìi/iː				\xec i
+íi	íi/iː				\xed i
+oo	oː	khamooy, yoonii	Thai	23	o o
+ɔɔ	ɔː	kɔɔŋ, nɔɔn	Thai	55	\u0254 \u0254
+òo	òo/oː				\xf2 o
+óo	óo/oː				\xf3 o
+ôo	ôo/oː				\xf4 o
+uu	uː	phuumii, laakuun	Thai	15	u u
+ʉʉ	ʉː	khʉʉn, fʉʉn	Thai	13	\u0289 \u0289
+ùu	ùu/uː				\xf9 u
+úu	úu/uː				\xfa u
+ûu	ûu/uː				\xfb u
+ə̀ə	ə̀ə/əː				\u0259 \u0300 \u0259
+ə́ə	ə́ə/əː				\u0259 \u0301 \u0259
+ə̂ə	ə̂ə/əː				\u0259 \u0302 \u0259
+ə̌ə	ə̌ə/əː				\u0259 \u030c \u0259
+əə$	əː	thəə, cəə	Thai	9	\u0259 \u0259 $
+aa$	aː	?aa, chiiwaa	Thai	63	a a $
+ee$	eː	rótmee, thalee	Thai	4	e e $
+ii$	iː	tii, mii	Thai	54	i i $
+ɔ̀ɔ	ɔ̀ɔ/ɔː				\u0254 \u0300 \u0254
+ɔ́ɔ	ɔ́ɔ/ɔː				\u0254 \u0301 \u0254
+ɔ̂ɔ	ɔ̂ɔ/ɔː				\u0254 \u0302 \u0254
+ɔ̌ɔ	ɔ̌ɔ/ɔː				\u0254 \u030c \u0254
+oo$	oː	too, manoo	Thai	6	o o $
+ɔɔ$	ɔː	khɔɔ, phɔɔ	Thai	13	\u0254 \u0254 $
+ʉ̀ʉ	ʉ̀ʉ/ʉː				\u0289 \u0300 \u0289
+ʉ́ʉ	ʉ́ʉ/ʉː				\u0289 \u0301 \u0289
+ʉ̌ʉ	ʉ̌ʉ/ʉː				\u0289 \u030c \u0289
+uu$	uː	phuu, pratuu	Thai	17	u u $
+ʉʉ$	ʉː	mʉʉ, hǔamâeaemʉʉ	Thai	9	\u0289 \u0289 $
+ə̀ə̀	ə̀ə̀/əː	rabə̀ə̀t	Thai	1	\u0259 \u0300 \u0259 \u0300
+?	ʔ	lâo?aŋùn, la?ɔɔŋ	Thai	16	?
+^?	ʔ	?aa, ?aakàat	Thai	93	^ ?
+ə	ə	lûukkhə̌əy, ŋən	Thai	19	\u0259
+ə̀	ə̀/ə	pə̀ət, bə̀ək	Thai	5	\u0259 \u0300
+ə́	ə́/ə	chə́ət	Thai	1	\u0259 \u0301
+ə̂	ə̂/ə	lə̂əkthâat, nə̂ən	Thai	6	\u0259 \u0302
+ə̌	ə̌/ə	lûukkhə̌əy, phîikhə̌əy	Thai	7	\u0259 \u030c
+ə$	ə	samə̌ə, mɔɔtə̂ə	Thai	3	\u0259 $
+ŋ	ŋ	khɔ̂ŋcay, khǎeŋraeaeŋ	Thai	88	\u014b
+ŋ$	ŋ	luŋ, lǎŋ	Thai	222	\u014b $
+^ŋ	ŋ	ŋʉ̀ak, ŋən	Thai	24	^ \u014b
+ng	ŋ				n g
+_	_	hây duu, hây yʉʉm	Thai	5	_
+a	a	malaeaeŋ, lǎansǎaw	Thai	1024	a
+à	à/a	plàaw, màak	Thai	217	\xe0
+á	á/a	kháo, phát	Thai	166	\xe1
+â	â/a	nâa, râak	Thai	210	\xe2
+ǎ	ǎ/a	lǎansǎaw, lǎŋ	Thai	185	\u01ce
+a$	a	nâa, wua	Thai	133	a $
+à$	à/a	pà, thantà	Thai	12	\xe0 $
+á$	á/a	mɔɔraná, waará	Thai	16	\xe1 $
+ia	ia				i a
+ua	ua				u a
+ʉa	ʉa				\u0289 a
+b	b	lûukbuntham, subin	Thai	35	b
+^b	b	bàeaek, bâan	Thai	72	^ b
+c	c	khɔ̂ŋcay, mǎacîŋcɔ̀ɔk	Thai	43	c
+^c	c	càp, cəə	Thai	50	^ c
+ch	tɕ	lǎanchaay, prachaachon	Thai	37	c h
+^ch	tɕ	cháaw, chûay	Thai	63	^ c h
+d	d	bìdaamaandaa, hây duu	Thai	47	d
+^d	d	dèk, dìp	Thai	55	^ d
+e	e	khǎeŋraeaeŋ, bàeaek	Thai	234	e
+è	è/e	kèp, dèk	Thai	34	\xe8
+é	é/e	malét, lép	Thai	20	\xe9
+ê	ê/e	khêe, lên	Thai	14	\xea
+ě	ě/e	hěn, máaykaaŋkhěen	Thai	11	\u011b
+e$	e	khêe, kàeae	Thai	38	e $
+è$	è/e	tè	Thai	1	\xe8 $
+f	f	phǐifáa, tɔ́pfîi	Thai	12	f
+^f	f	fáa, fəə	Thai	32	^ f
+^kw	f				^ k w
+^kHw	f	kHwaamla?aay	Thai	1	^ k H w
+^khw	f				^ k h w
+g	g	kronglép	Thai	1	g
+h	h	sǎahèet, krahǎay	Thai	19	h
+^h	h	hûuk, hěn	Thai	68	^ h
+kh	kʰ	lûukkhə̌əy, baykhàpkhìi	Thai	67	k h
+ph	pʰ	lûuksapháy, thúpphíkkhaphay	Thai	74	p h
+th	tʰ	prathaanaathíbɔdii, ?aathít	Thai	69	t h
+^kh	kʰ	kháo, khɔɔ	Thai	172	^ k h
+^ph	pʰ	phát, phìt	Thai	134	^ p h
+^th	tʰ	thəə, thanǒn	Thai	116	^ t h
+^khl	kʰ				^ k h l
+^khr	kʰ				^ k h r
+^phl	pʰ				^ p h l
+^phr	pʰ				^ p h r
+i	i	patithin, diaw	Thai	109	i
+ì	ì/i	phìt, dìp	Thai	78	\xec
+í	í/i	lûuklíaŋ, ?aathít	Thai	64	\xed
+î	î/i	rîak, thîinîi	Thai	59	\xee
+ǐ	ǐ/i	sǐa, sǐaŋ	Thai	46	\u01d0
+i$	i	thîi, nîi	Thai	41	i $
+ì$	ì/i	nâaymáyphlì, nítì	Thai	2	\xec $
+í$	í/i	mí	Thai	1	\xed $
+y	j	pùuyâataayaay, dooymâymii	Thai	99	y
+^y	j	yùu, yàak	Thai	62	^ y
+y$	j	lûukkhə̌əy, phaay	Thai	228	y $
+yy	j	sǎyyaa	Thai	1	y y
+k	k	lûukkhə̌əy, lûuklíaŋ	Thai	115	k
+^k	k	kèp, koŋ	Thai	137	^ k
+k$	k	rîak, râak	Thai	168	k $
+kk	kk	sàkkalàat, kaphlòokkaphlèek	Thai	11	k k
+^kl	k				^ k l
+^kr	k				^ k r
+l	l	plàaw, plùuk	Thai	159	l
+^l	l	luŋ, lǎŋ	Thai	112	^ l
+m	m	dooymâymii, yaimaeaeŋmum	Thai	133	m
+^m	m	man, màak	Thai	122	^ m
+m$	m	tham, ŋâam	Thai	128	m $
+n	n	thanǒn, khonplàeknâa	Thai	160	n
+^n	n	nâa, nûat	Thai	117	^ n
+n$	n	man, khʉ̂n	Thai	308	n $
+o	o	koŋ, loŋthôot	Thai	101	o
+ɔ	ɔ	nɔ́ɔŋsǎaw, kɔ̀ɔn	Thai	112	\u0254
+ò	ò/o	sòkkapròk, kracòkŋao	Thai	54	\xf2
+ó	ó/o	mótlûuk, nóom	Thai	39	\xf3
+ô	ô/o	kôn, thôot	Thai	32	\xf4
+ǒ	ǒ/o	thanǒn, phǒm	Thai	27	\u01d2
+ɔ̀	ɔ̀/ɔ	kɔ̀ɔn, mɔ̀ɔk	Thai	43	\u0254 \u0300
+ɔ́	ɔ́/ɔ	thɔ́ɔŋ, nɔ́ɔŋsǎaw	Thai	31	\u0254 \u0301
+ɔ̂	ɔ̂/ɔ	khɔ̂ŋcay, pàakchɔ̂ŋkhlɔ̂ɔt	Thai	57	\u0254 \u0302
+ɔ̌	ɔ̌/ɔ	sɔ̌ɔ, khɔ̌ɔthaan	Thai	28	\u0254 \u030c
+o$	o	kháo, rao	Thai	52	o $
+ɔ$	ɔ	châŋpânmɔ̂ɔ, hɔ̀ɔ	Thai	14	\u0254 $
+ó$	ó/o	tó	Thai	1	\xf3 $
+ɔ̀$	ɔ̀/ɔ	kɔ̀, krɔ̀	Thai	3	\u0254 \u0300 $
+ɔ́$	ɔ́/ɔ	thalɔ́, phɔ́	Thai	4	\u0254 \u0301 $
+p	p	mansǎmpalǎŋ, wâaŋplàaw	Thai	48	p
+^p	p	plàaw, pâa	Thai	108	^ p
+p$	p	kèp, càp	Thai	80	p $
+^pl	p				^ p l
+^pr	p				^ p r
+r	r	khrɔ́ráay, khrʉ̂aŋpradàp	Thai	210	r
+^r	r	rao, ráksǎa	Thai	90	^ r
+s	s	yaasùup, pasùsàt	Thai	40	s
+ŋs	ŋs	nɔ́ɔŋsǎaw, sǒŋsǎy	Thai	13	\u014b s
+^s	s	sǐa, sǐaŋ	Thai	164	^ s
+ks	ks	lûuksapháy, ráksǎa	Thai	19	k s
+ns	ns	lǎansǎaw, mansǎmpalǎŋ	Thai	9	n s
+ts	ts	khwaamrítsayǎa, khamtàtsǐn	Thai	16	t s
+t	t	phìtlûukphìtmia, rátthamontrii	Thai	100	t
+^t	t	too, taay	Thai	87	^ t
+t$	t	phát, phìt	Thai	200	t $
+tt	tt	phâachéttua, páttìk	Thai	10	t t
+^tr	t				^ t r
+u	u	lûukbuntham, luŋ	Thai	133	u
+ʉ	ʉ	mʉaŋ, dʉan	Thai	39	\u0289
+ù	ù/u	yùu, plùuk	Thai	79	\xf9
+ú	ú/u	thúp, múk	Thai	19	\xfa
+û	û/u	nûat, lûuksapháy	Thai	76	\xfb
+ǔ	ǔ/u	thǔu, sǔay	Thai	35	\u01d4
+ʉ̀	ʉ̀/ʉ	plʉ̀ak, ŋʉ̀ak	Thai	30	\u0289 \u0300
+ʉ́	ʉ́/ʉ	nʉ́a, mʉ́ʉ	Thai	15	\u0289 \u0301
+ʉ̂	ʉ̂/ʉ	khʉ̂n, khlʉ̂ʉn	Thai	43	\u0289 \u0302
+ʉ̌	ʉ̌/ʉ	nʉ̌a, thʉ̌ŋ	Thai	13	\u0289 \u030c
+u$	u	yùu, sabùu	Thai	26	u $
+ʉ$	ʉ	mʉ́ʉ, khʉ̀ʉ	Thai	9	\u0289 $
+ù$	ù/u	càtù	Thai	1	\xf9 $
+ú$	ú/u	phaayú, weelú	Thai	9	\xfa $
+ʉ̀$	ʉ̀/ʉ	?ʉ̀	Thai	1	\u0289 \u0300 $
+w	w	tawan, thǎowan	Thai	35	w
+^w	w	wua, wâaŋplàaw	Thai	42	^ w
+w$	w	plàaw, lǎansǎaw	Thai	66	w $
+ŋŋ	ŋ ŋ	tàeŋŋaan, rooŋŋaan	Thai	4	\u014b \u014b
+ŋh	ŋ h	hìŋhɔ̂y, lɔ̂ŋhǒn	Thai	4	\u014b h
+ŋw	ŋ w	sǎŋwəəy, waŋwon	Thai	7	\u014b w
+âw$	â/a w	câw	Thai	1	\xe2 w $
+^khw	kʰ w	khwǎan, khwǎa	Thai	23	^ k h w
+ìs	ì/i s	patìsèet, patìséet	Thai	3	\xec s
+ǐw	ǐ/i w	hǐwnáam	Thai	1	\u01d0 w
+ìw$	ì/i w	sìw	Thai	1	\xec w $
+ǐw$	ǐ/i w	hǐw, chǐw	Thai	2	\u01d0 w $
+kw	k w	mâakkwàa, máaykwàat	Thai	3	k w
+mh	m h	tûmhǔu, khamhâykaanthét	Thai	3	m h
+mm	m m	buummaraeaeŋ, yǐŋŋaammʉaŋ	Thai	5	m m
+ms	m s	sǒmsèt, khamsǎabaan	Thai	2	m s
+nn	n n	wanníi, laannûatkhâaw	Thai	8	n n
+nw	n w	phàendinwǎy	Thai	1	n w
+pp	p p	rûuppân	Thai	1	p p
+ps	p s	sìpsɔ̌ɔŋ, sàapsǔun	Thai	2	p s
+ùs	ù/u s	pasùsàt, ?ùsǎa	Thai	3	\xf9 s
+ùw	ù/u w	sùwaan	Thai	1	\xf9 w
+wh	w h	khamklàawhǎa, klàawhǎa	Thai	4	w h
+^dinfáa-aakàat$	d i n f áa/aː + aː k àa/aː t	dinfáa-aakàat	Thai	1	^ d i n f \xe1 a - a a k \xe0 a t $
