@@ -67,7 +67,7 @@ class Dataset(CLLD):
 
         # add concepts
         concept_lookup = {}
-        for concept in self.conceptlist.concepts.values():
+        for concept in self.conceptlists[0].concepts.values():
             concept_id = "%s_%s" % (concept.number, slug(concept.english))
             args.writer.add_concept(
                 ID=concept_id,
