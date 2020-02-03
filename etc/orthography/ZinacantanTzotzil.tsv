@@ -1,116 +1,115 @@
-Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
-$	NULL				$
-^	NULL				^
-'_	NULL	nup' ba, ti' _________	Zinacantán Tzotzil	2	' _
-_$	NULL	jmak-_	Zinacantán Tzotzil	1	_ $
-____$	NULL	nukulal ___, ve`el ___	Zinacantán Tzotzil	3	_ _ _ _ $
-_________$	NULL	ti' _________	Zinacantán Tzotzil	1	_ _ _ _ _ _ _ _ _ $
-____________$	NULL	hay ___________, ch’ul ___________	Zinacantán Tzotzil	3	_ _ _ _ _ _ _ _ _ _ _ _ $
-_______________$	NULL	hay ______________	Zinacantán Tzotzil	1	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ $
-________________$	NULL	tot _______________, me7 _______________	Zinacantán Tzotzil	2	_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ $
-k’	kʼ	k’ak’al, k’ok’	Zinacantán Tzotzil	191	k \u2019
-p’	pʼ	rosa p’in	Zinacantán Tzotzil	5	p \u2019
-t’	tʼ	lit’lonah, but’i	Zinacantán Tzotzil	3	t \u2019
-^k’	kʼ	k’ak’al, k’ok’	Zinacantán Tzotzil	71	^ k \u2019
-^p’	pʼ	p’ehan, p’ok	Zinacantán Tzotzil	13	^ p \u2019
-^t’	tʼ	t'ul, t’us	Zinacantán Tzotzil	7	^ t \u2019
-ch’	tʃʼ	hun ch’amalil, hun nich’onil	Zinacantán Tzotzil	45	c h \u2019
-k’$	kʼ	k’ok’, 7ak’	Zinacantán Tzotzil	23	k \u2019 $
-t’$	tʼ	hot’, t’ut’	Zinacantán Tzotzil	5	t \u2019 $
-tz’	tsʼ	tz’utz’unchab	Zinacantán Tzotzil	1	t z \u2019
-^ch’	tʃʼ	ch’ail, ch’akbail	Zinacantán Tzotzil	39	^ c h \u2019
-^tz’	tsʼ	tz’al, tz’unbal	Zinacantán Tzotzil	19	^ t z \u2019
--	+	chame-`at, chak-	Zinacantán Tzotzil	5	-
-ii	iː	biil, biin	Zinacantán Tzotzil	2	i i
-'	ʔ				'
-7	ʔ	7a7i, 7a7ibe 7ik’	Zinacantán Tzotzil	171	7
-`	ʔ	ti` bail, tz'itesob `at	Zinacantán Tzotzil	8	`
-'$	ʔ	puk', noch'	Zinacantán Tzotzil	8	' $
-7$	ʔ	na7, li7	Zinacantán Tzotzil	66	7 $
-^7	ʔ	7a7i, 7al	Zinacantán Tzotzil	203	^ 7
-^`	ʔ	`antivo tak'in, `abtelil	Zinacantán Tzotzil	6	^ `
-x	ʃ	sat xela, 7eklixya	Zinacantán Tzotzil	6	x
-^x	ʃ	xuk'av, xax	Zinacantán Tzotzil	2	^ x
-sh	ʃ	tishk’uh, mishmish k’op	Zinacantán Tzotzil	59	s h
-x$	ʃ	k'ex, xax	Zinacantán Tzotzil	2	x $
-^sh	ʃ	shokon vinahel, shik’	Zinacantán Tzotzil	38	^ s h
-.	_	7oy....7oy	Zinacantán Tzotzil	4	.
-_	_	k’u cha7al, tik’ riosh to 7o7on	Zinacantán Tzotzil	259	_
-a	a	k’ak’al, balamil	Zinacantán Tzotzil	848	a
-a$	a	ta, 7ora	Zinacantán Tzotzil	103	a $
-b	ɓ	7ibel, k’obol	Zinacantán Tzotzil	129	b
-^b	ɓ	bon, boh	Zinacantán Tzotzil	71	^ b
-b$	b	nab, tzeb	Zinacantán Tzotzil	40	b $
-c	c	vacash, vaca	Zinacantán Tzotzil	2	c
-e	e	melel, 7etelil	Zinacantán Tzotzil	401	e
-e$	e	timpre, be	Zinacantán Tzotzil	26	e $
-g	g	lugar, lagrio	Zinacantán Tzotzil	3	g
-h	h	shokon vinahel, tohol	Zinacantán Tzotzil	74	h
-j	ħ	japajtik, 7uch'bajel	Zinacantán Tzotzil	8	j
-^h	h	hik’av, hobel	Zinacantán Tzotzil	85	^ h
-^j	ħ	japajtik, jotzobil	Zinacantán Tzotzil	6	^ j
-^p	pʰ	pas, patil	Zinacantán Tzotzil	106	^ p
-ch	tʃʰ	k’u cha7al, be ch’ich’elil	Zinacantán Tzotzil	101	c h
-h$	h	chih, boh	Zinacantán Tzotzil	70	h $
-j$	ħ	nopoj, keplej	Zinacantán Tzotzil	5	j $
-t$	tʰ	bat, 7ut	Zinacantán Tzotzil	41	t $
-tz	tsʰ	tzotz, meltzan	Zinacantán Tzotzil	100	t z
-^ch	tʃʰ	chon, chih	Zinacantán Tzotzil	119	^ c h
-^tz	tsʰ				^ t z
-ch$	tʃʰ	chuch, vevech	Zinacantán Tzotzil	15	c h $
-sh$	sʰ	yosh, 7ich’ ta k’ush	Zinacantán Tzotzil	22	s h $
-tz$	tsʰ	tzotz, totz	Zinacantán Tzotzil	12	t z $
-i	i	ni7il, chi7ilil	Zinacantán Tzotzil	557	i
-i$	i	7a7i, tak’i	Zinacantán Tzotzil	24	i $
-y	j	toyol, kaya	Zinacantán Tzotzil	45	y
-^y	j	yosh, yem ba	Zinacantán Tzotzil	24	^ y
-y$	j	tzakob choy, muy	Zinacantán Tzotzil	23	y $
-k	k	k’ok’, 7ak’ob k’ok’	Zinacantán Tzotzil	343	k
-^k	k	k’ok’, k’ak’al	Zinacantán Tzotzil	150	^ k
-k$	k	chauk, sak	Zinacantán Tzotzil	76	k $
-l	l	meltzan, mulilal k’op	Zinacantán Tzotzil	255	l
-^l	l	li7, lus	Zinacantán Tzotzil	61	^ l
-l$	l	satil, k’ak’al	Zinacantán Tzotzil	393	l $
-m	m	momil, balamil	Zinacantán Tzotzil	102	m
-^m	m	meltzan, momil	Zinacantán Tzotzil	100	^ m
-m$	m	tam, hom	Zinacantán Tzotzil	37	m $
-n	n	shokon vinahel, 7unen	Zinacantán Tzotzil	215	n
-^n	n	na7, nab	Zinacantán Tzotzil	88	^ n
-n$	n	chon, k’un	Zinacantán Tzotzil	151	n $
-o	o	k’ok’, 7okol	Zinacantán Tzotzil	526	o
-o$	o	buro, tyempo	Zinacantán Tzotzil	82	o $
-p	p	k’opoh, hposhtavaneh	Zinacantán Tzotzil	78	p
-p$	p	k’op, nop	Zinacantán Tzotzil	22	p $
-r	ɾ	7ora, pas preva	Zinacantán Tzotzil	98	r
-^r	ɾ	rosa, rosa p’in	Zinacantán Tzotzil	12	^ r
-r$	r	lo*ktor, lugar	Zinacantán Tzotzil	2	r $
-s	s	7osil, rosa	Zinacantán Tzotzil	77	s
-^s	s	satil, sak	Zinacantán Tzotzil	52	^ s
-s$	s	pas, lus	Zinacantán Tzotzil	37	s $
-t	t	muk’ta totil, satil	Zinacantán Tzotzil	285	t
-^t	t	tam, tak’i	Zinacantán Tzotzil	184	^ t
-u	u	k’un, k’usuk 7u7un	Zinacantán Tzotzil	347	u
-u$	u	7u, kuchilu	Zinacantán Tzotzil	20	u $
-v	v	7avan, hposhtavaneh	Zinacantán Tzotzil	73	v
-^v	v	vun, vo7	Zinacantán Tzotzil	71	^ v
-v$	v	hik’av, pohov	Zinacantán Tzotzil	16	v $
-^w	w	wey	Zinacantán Tzotzil	1	^ w
-bw	ɓʷ	7ak’ bwelta	Zinacantán Tzotzil	2	b w
-kw	kʷ	pas kwenta	Zinacantán Tzotzil	1	k w
-^hw	hʷ	hweves	Zinacantán Tzotzil	1	^ h w
-^kw	kʷ	kwenta	Zinacantán Tzotzil	1	^ k w
-^pw	pʷ	pwersa	Zinacantán Tzotzil	1	^ p w
-a’	a ʔ				a \u2019
-bh	ɓ h	chabhe	Zinacantán Tzotzil	1	b h
-ks	k s	puksat balamil, 7inteksyon	Zinacantán Tzotzil	2	k s
-lh	l h	volhe	Zinacantán Tzotzil	1	l h
-nsh	n ʃ	konsha	Zinacantán Tzotzil	1	n s h
-nh	n h	sakil tranhero 7isak’	Zinacantán Tzotzil	1	n h
-ns	n s	lansa	Zinacantán Tzotzil	1	n s
-o*	o ́/o				o *
-ps	p s	sipson	Zinacantán Tzotzil	1	p s
-rs	ɾ s	pwersa, karsa	Zinacantán Tzotzil	3	r s
-u’	u ʔ				u \u2019
-u*	u ́/u				u *
-bb	ɓ + ɓ	k’elobbail	Zinacantán Tzotzil	1	b b
-ts	t + s	setset	Zinacantán Tzotzil	1	t s
+Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
+$	NULL	22	U+0024		
+'_	NULL	2	U+0027 U+005F	"nup'_ba,ti'__________"	Zinacantán Tzotzil
+_$	NULL	1	U+005F U+0024	"jmak-_"	Zinacantán Tzotzil
+____$	NULL	3	U+005F U+005F U+005F U+005F U+0024	"na____,nukulal____,ve`el____"	Zinacantán Tzotzil
+_________$	NULL	1	U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+0024	"ti'__________"	Zinacantán Tzotzil
+____________$	NULL	3	U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+0024	"chame____________,ch’ul____________,hay____________"	Zinacantán Tzotzil
+_______________$	NULL	1	U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+0024	"hay_______________"	Zinacantán Tzotzil
+________________$	NULL	2	U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+005F U+0024	"me7________________,tot________________"	Zinacantán Tzotzil
+'	ʔ	37	U+0027	"7ach'el,nail_ch'en,t'ul"	
+-	+	5	U+002D	"chak-,h7ak’-chamel,tz'in-te7"	Zinacantán Tzotzil
+.	_	4	U+002E	"7oy....7oy"	Zinacantán Tzotzil
+7	ʔ	171	U+0037	"me7il,te7tik,tze7in"	Zinacantán Tzotzil
+_	_	259	U+005F	"7alib_me7elil,kachimpa_pom,merio_choy"	Zinacantán Tzotzil
+`	ʔ	8	U+0060	"`alib_me`elil,ve`el____,yi`lej"	Zinacantán Tzotzil
+a	a	866	U+0061	"7asuka,kashlan,milvan"	Zinacantán Tzotzil
+b	ɓ	130	U+0062	"nekebal,pas_baik_ta_preva,vom_ta_bala"	Zinacantán Tzotzil
+c	c	2	U+0063	"vaca,vacash"	Zinacantán Tzotzil
+e	e	409	U+0065	"7ach'eltik,pas_baik_ta_preva,vesk’unel"	Zinacantán Tzotzil
+g	g	3	U+0067	"lagarto,lagrio,lugar"	Zinacantán Tzotzil
+h	h	76	U+0068	"7ich’_tohel,chuhil,p’ihubtas"	Zinacantán Tzotzil
+i	i	570	U+0069	"ch’ilte7il,p’is,simil_7obal"	Zinacantán Tzotzil
+j	ħ	8	U+006A	"japajtik,pajeb,yayijemal"	Zinacantán Tzotzil
+k	k	161	U+006B	"jmak-_,naki,nikes"	Zinacantán Tzotzil
+l	l	255	U+006C	"7ak’_bwelta,kolta,tulan"	Zinacantán Tzotzil
+m	m	102	U+006D	"ch’amun,hk’anlimushno,turismu"	Zinacantán Tzotzil
+n	n	216	U+006E	"nich’nab,preserente,tz’unbal"	Zinacantán Tzotzil
+o	o	541	U+006F	"ko7ol,poshil_chuvah,sotz’"	Zinacantán Tzotzil
+p	p	73	U+0070	"pepen,sal_7apon,yech_pas"	Zinacantán Tzotzil
+r	ɾ	98	U+0072	"hbak’el_krishchano,porke,tzahal_7ora"	Zinacantán Tzotzil
+s	s	77	U+0073	"lonkanisyo,maltisyon,moso"	Zinacantán Tzotzil
+t	t	225	U+0074	"7altal,ch’un_mantal,jet_te7"	Zinacantán Tzotzil
+u	u	352	U+0075	"7ushubil,bu_hunukal,ch’ushuvil"	Zinacantán Tzotzil
+v	v	73	U+0076	"hchabivaneh,savaro,sentavo"	Zinacantán Tzotzil
+x	ʃ	6	U+0078	"7eklixya,sat_xela,vixil"	Zinacantán Tzotzil
+y	j	45	U+0079	"hoyihes,rinyon,senya"	Zinacantán Tzotzil
+'$	ʔ	8	U+0027 U+0024	"noch',vo',yaleb_vo'"	Zinacantán Tzotzil
+7$	ʔ	67	U+0037 U+0024	"7alku7,k’a7,nene7"	Zinacantán Tzotzil
+^7	ʔ	212	U+005E U+0037	"7aros,7avan,7unen"	Zinacantán Tzotzil
+^`	ʔ	6	U+005E U+0060	"`ak'ol,`alib_me`elil,`antivo_tak'in"	Zinacantán Tzotzil
+^b	ɓ	71	U+005E U+0062	"bish,bulomah,butz’"	Zinacantán Tzotzil
+^h	h	86	U+005E U+0068	"hi7,hot’,huch’un"	Zinacantán Tzotzil
+^j	ħ	6	U+005E U+006A	"japajtik,jet_te7,jmak-_"	Zinacantán Tzotzil
+^k	k	80	U+005E U+006B	"karos,katu7,keplej"	Zinacantán Tzotzil
+^l	l	62	U+005E U+006C	"lagarto,lumero,luna"	Zinacantán Tzotzil
+^m	m	103	U+005E U+006D	"mishik’il,mukil,muk’ta_me7il"	Zinacantán Tzotzil
+^n	n	88	U+005E U+006E	"naki,natz’il,nich’nab"	Zinacantán Tzotzil
+^p	pʰ	95	U+005E U+0070	"pino,pul,pulatu"	Zinacantán Tzotzil
+^r	ɾ	12	U+005E U+0072	"reshtiko,rey,rosa"	Zinacantán Tzotzil
+^s	s	52	U+005E U+0073	"sal_7apon,soltaro,surto"	Zinacantán Tzotzil
+^t	t	123	U+005E U+0074	"tak’in_chikinil,ti,tuluk'"	Zinacantán Tzotzil
+^v	v	72	U+005E U+0076	"vay,vombenal,vun"	Zinacantán Tzotzil
+^w	w	1	U+005E U+0077	"wey"	Zinacantán Tzotzil
+^x	ʃ	2	U+005E U+0078	"xax,xuk'av"	Zinacantán Tzotzil
+^y	j	24	U+005E U+0079	"yech_pas,yevash,yul"	Zinacantán Tzotzil
+a$	a	105	U+0061 U+0024	"7eklishya,bakel_hol_7anima,shila"	Zinacantán Tzotzil
+a’	a ʔ	1	U+0061 U+2019	"tza’an"	
+b$	b	40	U+0062 U+0024	"hub,lotz'ob,tz’utz’unchab"	Zinacantán Tzotzil
+bb	ɓ + ɓ	1	U+0062 U+0062	"k’elobbail"	Zinacantán Tzotzil
+bh	ɓ h	1	U+0062 U+0068	"chabhe"	Zinacantán Tzotzil
+bw	ɓʷ	2	U+0062 U+0077	"7ak’_bwelta"	Zinacantán Tzotzil
+ch	tʃʰ	57	U+0063 U+0068	"kamaron_choy,krishchnano,likav_chakil"	Zinacantán Tzotzil
+e$	e	26	U+0065 U+0024	"k’e,marchante,traste"	Zinacantán Tzotzil
+h$	h	73	U+0068 U+0024	"7elk’ah,ch’ah,toh"	Zinacantán Tzotzil
+i$	i	25	U+0069 U+0024	"k’u_ti,pek'i,tak’i"	Zinacantán Tzotzil
+ii	iː	2	U+0069 U+0069	"biil,biin"	Zinacantán Tzotzil
+j$	ħ	5	U+006A U+0024	"7itaj,keplej,p’ij"	Zinacantán Tzotzil
+k$	k	77	U+006B U+0024	"japajtik,me7anal_vinik,vok"	Zinacantán Tzotzil
+ks	k s	2	U+006B U+0073	"7inteksyon,puksat_balamil"	Zinacantán Tzotzil
+kw	kʷ	1	U+006B U+0077	"pas_kwenta"	Zinacantán Tzotzil
+k’	kʼ	131	U+006B U+2019	"7ak’_pertonal,k’uk’umal,vishvish_k’op"	Zinacantán Tzotzil
+l$	l	398	U+006C U+0024	"7ichonil,7ok’il,hach’ubil"	Zinacantán Tzotzil
+lh	l h	1	U+006C U+0068	"volhe"	Zinacantán Tzotzil
+m$	m	37	U+006D U+0024	"7uk’um,be_sim,turum"	Zinacantán Tzotzil
+n$	n	154	U+006E U+0024	"kamaron,k’op_7o7on,lakan"	Zinacantán Tzotzil
+nh	n h	1	U+006E U+0068	"sakil_tranhero_7isak’"	Zinacantán Tzotzil
+ns	n s	1	U+006E U+0073	"lansa"	Zinacantán Tzotzil
+o$	o	83	U+006F U+0024	"buro,karo,sorto"	Zinacantán Tzotzil
+o*	o ́/o	2	U+006F U+002A	"lo*ktor,plo*ho"	
+p$	p	22	U+0070 U+0024	"7al_k’op,chap,nup"	Zinacantán Tzotzil
+ps	p s	1	U+0070 U+0073	"sipson"	Zinacantán Tzotzil
+p’	pʼ	5	U+0070 U+2019	"hp’olmahel,hup’el,rosa_p’in"	Zinacantán Tzotzil
+r$	r	2	U+0072 U+0024	"lo*ktor,lugar"	Zinacantán Tzotzil
+rs	ɾ s	3	U+0072 U+0073	"karsa,lurse,pwersa"	Zinacantán Tzotzil
+s$	s	38	U+0073 U+0024	"mas,tiles,tz’akubtas"	Zinacantán Tzotzil
+sh	ʃ	60	U+0073 U+0068	"kosho,mishmish_k’op,noshtok"	Zinacantán Tzotzil
+t$	tʰ	41	U+0074 U+0024	"lechepat,pet,ton_7at"	Zinacantán Tzotzil
+ts	t + s	1	U+0074 U+0073	"setset"	Zinacantán Tzotzil
+tz	tsʰ	19	U+0074 U+007A	"chantzelav_te7,kujtzanan,motzobil"	Zinacantán Tzotzil
+t’	tʼ	3	U+0074 U+2019	"but’i,hat’isah,lit’lonah"	Zinacantán Tzotzil
+u$	u	21	U+0075 U+0024	"kuchilu,mu,turismu"	Zinacantán Tzotzil
+u*	u ́/u	1	U+0075 U+002A	"pu*ro"	
+u’	u ʔ	1	U+0075 U+2019	"ni7_chu’ul"	
+v$	v	16	U+0076 U+0024	"chanul_7akov,hik’av,k’uhav"	Zinacantán Tzotzil
+x$	ʃ	2	U+0078 U+0024	"k'ex,xax"	Zinacantán Tzotzil
+y$	j	23	U+0079 U+0024	"hoy,htzakchoy,kamaron_choy"	Zinacantán Tzotzil
+^ch	tʃʰ	83	U+005E U+0063 U+0068	"chames,chukbenal,chuman_te7"	Zinacantán Tzotzil
+^hw	hʷ	1	U+005E U+0068 U+0077	"hweves"	Zinacantán Tzotzil
+^kw	kʷ	1	U+005E U+006B U+0077	"kwenta"	Zinacantán Tzotzil
+^k’	kʼ	71	U+005E U+006B U+2019	"k’o,k’on,k’u_7ora"	Zinacantán Tzotzil
+^pw	pʷ	1	U+005E U+0070 U+0077	"pwersa"	Zinacantán Tzotzil
+^p’	pʼ	13	U+005E U+0070 U+2019	"p’ilish,p’in,p’ok"	Zinacantán Tzotzil
+^sh	ʃ	38	U+005E U+0073 U+0068	"shen,shokon_vinahel,shpokok"	Zinacantán Tzotzil
+^tz	tsʰ	44	U+005E U+0074 U+007A	"tzo7,tzo7op,tzuin"	
+^t’	tʼ	7	U+005E U+0074 U+2019	"t’ab,t’us,t’ut’"	Zinacantán Tzotzil
+ch$	tʃʰ	15	U+0063 U+0068 U+0024	"moch,napach,vevech"	Zinacantán Tzotzil
+ch’	tʃʼ	45	U+0063 U+0068 U+2019	"7ich’_tohel,htuch’7ora,poy_ech’el"	Zinacantán Tzotzil
+k’$	kʼ	60	U+006B U+2019 U+0024	"chik’,hok’,sakil_tranhero_7isak’"	Zinacantán Tzotzil
+nsh	n ʃ	1	U+006E U+0073 U+0068	"konsha"	Zinacantán Tzotzil
+sh$	sʰ	22	U+0073 U+0068 U+0024	"7ik’ush,kush,melkulesh"	Zinacantán Tzotzil
+tz$	tsʰ	15	U+0074 U+007A U+0024	"bik’tal_7antz,bitzbitz,hmulavi_7antz"	Zinacantán Tzotzil
+tz’	tsʼ	23	U+0074 U+007A U+2019	"7atz’am,metz’ta,natz’il"	Zinacantán Tzotzil
+t’$	tʼ	5	U+0074 U+2019 U+0024	"hot’,shut’,t’ut’"	Zinacantán Tzotzil
+^ch’	tʃʼ	39	U+005E U+0063 U+0068 U+2019	"ch’ch’elil,ch’ohbenal,ch’ulul"	Zinacantán Tzotzil
+^tz’	tsʼ	20	U+005E U+0074 U+007A U+2019	"tz’ikbail,tz’uhulal,tz’usub"	Zinacantán Tzotzil

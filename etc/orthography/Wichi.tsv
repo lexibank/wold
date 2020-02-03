@@ -1,106 +1,104 @@
-Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
-$	NULL				$
-^	NULL				^
-mh	m̥	hatachemhinlo’, simhat	Wichí	5	m h
-nh	n̥	hunhat, atsinha	Wichí	67	n h
-wh	w̥	lawhoy, tawhayey	Wichí	13	w h
-lh$	l̥	tofwulh, lhelh	Wichí	28	l h $
-’’	ʔ	toch’’ayaj, maych’’i	Wichí	3	\u2019 \u2019
-’	ʔ	hal’o, ha’no’fwaj	Wichí	355	\u2019
-’$	ʔ	yeycho’, ipe’	Wichí	41	\u2019 $
-’s	ʔ	toch’ute’san	Wichí	1	\u2019 s
-^’	ʔ	’utle	Wichí	1	^ \u2019
-lh	lˠ	lhip’unlhi, yihonlhi	Wichí	195	l h
-^lh	lˠ	lhip, lham	Wichí	49	^ l h
-ch	tʃ	nichotche, tochemetcha	Wichí	232	c h
-^ch	tʃ	chechelhep, chelhtaj	Wichí	31	^ c h
-_	_	ithate lhomet toj ni’isa, lham toj tamenej	Wichí	128	_
-a	a	hal’o, niyat	Wichí	828	a
-^a	a	atsinha, akoyek	Wichí	66	^ a
-a$	a	fwala, tokatela	Wichí	174	a $
-b	b	tribunales	Wichí	1	b
-^b	b	bronce	Wichí	1	^ b
-c	c	aceituna, bronce	Wichí	2	c
-d	d	kanu indisiun, senda	Wichí	6	d
-^d	d	diario	Wichí	1	^ d
-e	e	hep lhetekch’u, chechelhep	Wichí	717	e
-^e	e	ehote, enfwelmela	Wichí	12	^ e
-e$	e	ipotsinche, tots’e	Wichí	123	e $
-g	g	amigo	Wichí	1	g
-h	h	yihanej, yihonlhi	Wichí	102	h
-^h	h	hal’o, hunhat	Wichí	90	^ h
-jh	xʰ	takhajhay, alitsajhu	Wichí	12	j h
-kh	kʰ	takhajhay, lhetekhi	Wichí	9	k h
-ph	pʰ	yihukpho, ikpho	Wichí	18	p h
-th	tʰ	towithuk, yihethu	Wichí	26	t h
-^th	tʰ	thalokw	Wichí	1	^ t h
-tsh	tsʰ	lhetsha, w’atshan	Wichí	12	t s h
-^tsh	tsʰ	tshowet p’itsek, tshowet t’atey	Wichí	5	^ t s h
-i	i	hits’ifwin, niyat	Wichí	512	i
-^i	i	ileyej, ilanhi	Wichí	185	^ i
-i$	i	lhip’unlhi, yihonlhi	Wichí	151	i $
-y	j	niyat, ninahyayej mayek	Wichí	215	y
-y$	j	lawhoy, tetchey	Wichí	66	y $
-k	k	tokatela, tewuk katchenaj	Wichí	167	k
-^k	k	kumila, kuliktiwu	Wichí	47	^ k
-k$	k	tolonek, towithuk	Wichí	86	k $
-l	l	hal’o, fwala	Wichí	289	l
-^l	l	lachinaj, lawhoy	Wichí	79	^ l
-l$	l	fwiyhul, ilofwel	Wichí	17	l $
-m	m	tachema, tolhamis	Wichí	93	m
-^m	m	matche, mamse	Wichí	42	^ m
-m$	m	lham, nekchom	Wichí	18	m $
-n	n	yihanej, lhip’unlhi	Wichí	254	n
-^n	n	niyat, nitichunlhi	Wichí	80	^ n
-n$	n	hits’ifwin, t’isan	Wichí	64	n $
-o	o	tochoti, tolonek	Wichí	534	o
-^o	o	onholotaj, ora	Wichí	8	^ o
-o$	o	hal’o, yihukpho	Wichí	45	o $
-p	p	lhip’unlhi, hip’u	Wichí	121	p
-^p	p	pitaj, pele	Wichí	42	^ p
-p$	p	lhip, hep	Wichí	24	p $
-r	r	puerto, ora	Wichí	9	r
-s	s	yiset, isi	Wichí	151	s
-^s	s	sulhtawu, selaj	Wichí	29	^ s
-s$	s	tolhamis, alulis	Wichí	77	s $
-ts	ts	atsinha, hits’ifwin	Wichí	106	t s
-^ts	ts	ts’iwase, tsalanacha	Wichí	16	^ t s
-t	t	inot litak, tshowet t’atey	Wichí	351	t
-^t	t	towit’uj, tokatela	Wichí	381	^ t
-t$	t	niyat, hunhat	Wichí	90	t $
-u	u	hunhat, towit’uj	Wichí	341	u
-^u	u	uspital, uwa	Wichí	4	^ u
-u$	u	hip’u, hu’u	Wichí	139	u $
-w	w	towit’uj, towithuk	Wichí	156	w
-’w	ˀw	n’w’et lhele, e’wuye	Wichí	3	\u2019 w
-^w	w	wel’a, w’atshan	Wichí	59	^ w
-fw	fʷ	hits’ifwin, ha’no’fwaj	Wichí	112	f w
-hw	hʷ	tolhahwu, ahwula	Wichí	4	h w
-jw	xʷ	tolhatajw’et, tochefwenyajw’et	Wichí	3	j w
-kw	kʷ	t’okwe, yukwas	Wichí	36	k w
-pw	pʷ	tach’upway	Wichí	1	p w
-^fw	fʷ	fwala, fwiyhul	Wichí	28	^ f w
-^jw	xʷ	jwes	Wichí	1	^ j w
-^kw	kʷ	kwatlu	Wichí	1	^ k w
-^nw	nʷ	nwewe	Wichí	1	^ n w
-^pw	pʷ	pwewulu, pwentu	Wichí	4	^ p w
-fw$	fʷ	tofwefw, itoj toj wefw	Wichí	12	f w $
-kw$	kʷ	niyokw, laka’tekw	Wichí	15	k w $
-j	x	itoj toj wefw, lan’ij akojche	Wichí	78	j
-j$	x	yihanej, towit’uj	Wichí	173	j $
-^y	y	yihanej, yihonlhi	Wichí	79	^ y
-’h	ʔ h	e’hotehlak	Wichí	1	\u2019 h
-lhh	l̥ h	imolhhen, toyalhhis	Wichí	2	l h h
-kk	k k	totsekkawu	Wichí	1	k k
-lw	l w	selwesa	Wichí	1	l w
-mwh	m w̥	yomwhoye	Wichí	1	m w h
-ms	m s	isamsama, iwutamsecha	Wichí	8	m s
-ns	n s	kinsi, onsi	Wichí	2	n s
-rr	r r	herrero	Wichí	1	r r
-sh	s h	tishelis, tofweshi	Wichí	6	s h
-tw’	t wˀ	inotw’et, totw’ayhat	Wichí	4	t w \u2019
-tt	t t	tottelhu, tottelhu t’oj	Wichí	8	t t
-fwh	fʷ h	tofwefwhi	Wichí	1	f w h
-lhlh	l̥ + l̥	totkolhlhile, ifwelhlhi	Wichí	2	l h l h
-sw’	s + wˀ	alusw’et, tokosw’et	Wichí	2	s w \u2019
-kwh	kʷ + h	tokwhi, y’amekwhi	Wichí	2	k w h
+Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
+_	_	128	U+005F	"hiw’enhu_lhip,lawhu_lhile,yel’ataj_atsinha"	Wichí
+a	a	834	U+0061	"kaila_asnak,lachefwenek,lafwettsi"	Wichí
+b	b	1	U+0062	"tribunales"	Wichí
+c	c	2	U+0063	"aceituna,bronce"	Wichí
+d	d	6	U+0064	"kandawu,kanu_indisiun,wanderaw’et"	Wichí
+e	e	726	U+0065	"ch’utetaj,iputpe’,iyaynhen"	Wichí
+g	g	1	U+0067	"amigo"	Wichí
+h	h	102	U+0068	"e’ihi,imolhehi,nusyhi_lhimphaj"	Wichí
+i	i	520	U+0069	"chitsajpho,ischin,lhicheyhat"	Wichí
+j	x	78	U+006A	"chitsajpho,hep_sijlhiley,lham_toj_tamenej"	Wichí
+k	k	167	U+006B	"manteka,neweche_makpak,tokawak"	Wichí
+l	l	289	U+006C	"p’alitsaj,tolhu_w’uley,yel’ataj"	Wichí
+m	m	97	U+006D	"lachinaj_mukw,lamukw,lawemek"	Wichí
+n	n	256	U+006E	"naknelhoja,tachenaj,wanderaw’et"	Wichí
+o	o	539	U+006F	"toch’ohe’,tokoslhu’,t’on"	Wichí
+p	p	121	U+0070	"papa,tapinhi,topem"	Wichí
+r	r	9	U+0072	"bronce,diario,puerto"	Wichí
+s	s	154	U+0073	"lapes_lheley,mesa,tesa"	Wichí
+t	t	351	U+0074	"fwiy’etcha,tolhetek,tolhetekt’ak"	Wichí
+u	u	343	U+0075	"ihi_lus,iwut’alhyaja,mup’i"	Wichí
+w	w	160	U+0077	"tawokoyej,tochuwej,tshowet"	Wichí
+y	j	216	U+0079	"fwiy’et,ifweyenlhi,lakawayhi"	Wichí
+’	ʔ	355	U+2019	"n’lham,tak’efwi,toch’e"	Wichí
+^a	a	68	U+005E U+0061	"alus,amuku,asnam"	Wichí
+^b	b	1	U+005E U+0062	"bronce"	Wichí
+^d	d	1	U+005E U+0064	"diario"	Wichí
+^e	e	12	U+005E U+0065	"e’hotehlak,e’ihi,e’ihinaji"	Wichí
+^h	h	93	U+005E U+0068	"hal’o,hap’uk,hep"	Wichí
+^i	i	185	U+005E U+0069	"ichoja,ilu,iwulhometa"	Wichí
+^k	k	47	U+005E U+006B	"kamata,komoktaj,kots’i"	Wichí
+^l	l	79	U+005E U+006C	"lach’u,letses,luminku"	Wichí
+^m	m	42	U+005E U+006D	"mawutonek,mawuwu,musika"	Wichí
+^n	n	80	U+005E U+006E	"nichotche,nichotcho’,nuway"	Wichí
+^o	o	8	U+005E U+006F	"onholotaj,onsi,ora"	Wichí
+^p	p	42	U+005E U+0070	"patente,pelhay,poy’ifwes"	Wichí
+^s	s	29	U+005E U+0073	"sien,sijlhile,sulhtawu"	Wichí
+^t	t	382	U+005E U+0074	"tofweshi,tots’amkat,t’amajchet"	Wichí
+^u	u	4	U+005E U+0075	"unu,upa’,uwa"	Wichí
+^w	w	61	U+005E U+0077	"wapulh,wesetaj,weyis_w’uhi"	Wichí
+^y	y	89	U+005E U+0079	"yihonlhi,yikuy,yukwaj"	Wichí
+^’	ʔ	1	U+005E U+2019	"’utle"	Wichí
+a$	a	176	U+0061 U+0024	"chefwala,fwelhekcha,kats’iya"	Wichí
+ch	tʃ	234	U+0063 U+0068	"fwech’ataj,tachettiche,wuyche"	Wichí
+e$	e	123	U+0065 U+0024	"che,mamse,tok’ajlhech’e"	Wichí
+fw	fʷ	112	U+0066 U+0077	"ichoj_itikfwi_lawilisch’u,nufwu,tefwtey"	Wichí
+hw	hʷ	4	U+0068 U+0077	"ahwula,ihwok,ihwokw_lanek"	Wichí
+i$	i	151	U+0069 U+0024	"lafwettsi,tat’eti,t’onlhi"	Wichí
+j$	x	177	U+006A U+0024	"mak_toj_tamenej,tottelhu_t’oj,tow’uyis_n’oyij"	Wichí
+jh	xʰ	12	U+006A U+0068	"isajhi,najhet,y’ajhu"	Wichí
+jw	xʷ	3	U+006A U+0077	"tochefwenyajw’et,tolhatajw’et,towejw’et"	Wichí
+k$	k	91	U+006B U+0024	"e’hotehlak,lutek,tokasiyak"	Wichí
+kh	kʰ	9	U+006B U+0068	"takhosi,toleshekhi,tonaintsekhi"	Wichí
+kk	k k	1	U+006B U+006B	"totsekkawu"	Wichí
+kw	kʷ	36	U+006B U+0077	"tofwefw_lhukwe,t’okwe,yukwaj"	Wichí
+l$	l	17	U+006C U+0024	"altal,fwiyhul,papel"	Wichí
+lh	lˠ	197	U+006C U+0068	"ichojlhi,towej_lhile,yomlhi"	Wichí
+lw	l w	1	U+006C U+0077	"selwesa"	Wichí
+m$	m	18	U+006D U+0024	"ichim,tatets’im,wutum"	Wichí
+mh	m̥	5	U+006D U+0068	"hatachemhinlo’,simhat,tachemhunot"	Wichí
+ms	m s	8	U+006D U+0073	"isamsama,iwutamsecha,lhomsaj"	Wichí
+n$	n	67	U+006E U+0024	"ilen,ituyen,kultsun"	Wichí
+nh	n̥	67	U+006E U+0068	"hits’ifwinhu,kutsi_atsinha,lakatnhat"	Wichí
+ns	n s	2	U+006E U+0073	"kinsi,onsi"	Wichí
+o$	o	45	U+006F U+0024	"ikpho,oro,wiy’o"	Wichí
+p$	p	24	U+0070 U+0024	"at’ep,hayip,hiw’enhu_lhip"	Wichí
+ph	pʰ	18	U+0070 U+0068	"ikphomey,itunpho,yihukpho"	Wichí
+pw	pʷ	1	U+0070 U+0077	"tach’upway"	Wichí
+rr	r r	1	U+0072 U+0072	"herrero"	Wichí
+s$	s	77	U+0073 U+0024	"iyas,letses,melyus"	Wichí
+sh	s h	6	U+0073 U+0068	"tishi,toleshekhi,tow’uyishi"	Wichí
+t$	t	92	U+0074 U+0024	"isichot,totset,y’umet"	Wichí
+th	tʰ	26	U+0074 U+0068	"ithatey,ithathu,towithuk"	Wichí
+ts	ts	103	U+0074 U+0073	"kutsi,toletsanek,tots’e"	Wichí
+tt	t t	11	U+0074 U+0074	"tachettilhi,tottefwis,tottelhu"	Wichí
+u$	u	139	U+0075 U+0024	"nichay’u,toku,wiliu"	Wichí
+wh	w̥	13	U+0077 U+0068	"lawhoy,lawhoyis,towhu"	Wichí
+y$	j	68	U+0079 U+0024	"tach’upway,tetsey,tow’uley"	Wichí
+’$	ʔ	41	U+2019 U+0024	"hatachemhinlo’,ineycho’,lape’"	Wichí
+’h	ʔ h	1	U+2019 U+0068	"e’hotehlak"	Wichí
+’s	ʔ	1	U+2019 U+0073	"toch’ute’san"	Wichí
+’w	ˀw	3	U+2019 U+0077	"e’wuye,n’w’et_lhele"	Wichí
+’’	ʔ	3	U+2019 U+2019	"ch’’ilijtaj,maych’’i,toch’’ayaj"	Wichí
+^ch	tʃ	31	U+005E U+0063 U+0068	"chalaj,chesoy,ch’iwase"	Wichí
+^fw	fʷ	28	U+005E U+0066 U+0077	"fwawun,fwitonaj,fwufwulu"	Wichí
+^jw	xʷ	1	U+005E U+006A U+0077	"jwes"	Wichí
+^kw	kʷ	1	U+005E U+006B U+0077	"kwatlu"	Wichí
+^lh	lˠ	49	U+005E U+006C U+0068	"lhacha,lhajlatesa,lha’"	Wichí
+^nw	nʷ	1	U+005E U+006E U+0077	"nwewe"	Wichí
+^pw	pʷ	4	U+005E U+0070 U+0077	"pwentu,pwewulu,pwili"	Wichí
+^th	tʰ	1	U+005E U+0074 U+0068	"thalokw"	Wichí
+^ts	ts	16	U+005E U+0074 U+0073	"tsalana,tsun’ataj_atsinha,ts’iwase"	Wichí
+fw$	fʷ	12	U+0066 U+0077 U+0024	"lhefw,niwefwa_toj_pitufw,wefw"	Wichí
+fwh	fʷ h	1	U+0066 U+0077 U+0068	"tofwefwhi"	Wichí
+kw$	kʷ	15	U+006B U+0077 U+0024	"lawekw,newukw,tochokw"	Wichí
+kwh	kʷ + h	2	U+006B U+0077 U+0068	"tokwhi,y’amekwhi"	Wichí
+lh$	l̥	28	U+006C U+0068 U+0024	"elh,n’lhamilh,wak’alh"	Wichí
+lhh	l̥ h	2	U+006C U+0068 U+0068	"imolhhen,toyalhhis"	Wichí
+mwh	m w̥	1	U+006D U+0077 U+0068	"yomwhoye"	Wichí
+sw’	s + wˀ	2	U+0073 U+0077 U+2019	"alusw’et,tokosw’et"	Wichí
+tsh	tsʰ	12	U+0074 U+0073 U+0068	"hich’utshan,lakatshayajput,latshelho’"	Wichí
+tw’	t wˀ	3	U+0074 U+0077 U+2019	"inotw’et,tochotw’et,totw’ayhat"	Wichí
+^tsh	tsʰ	5	U+005E U+0074 U+0073 U+0068	"tshotoywu,tshotoyw’et,tshowet"	Wichí
+lhlh	l̥ + l̥	2	U+006C U+0068 U+006C U+0068	"ifwelhlhi,totkolhlhile"	Wichí

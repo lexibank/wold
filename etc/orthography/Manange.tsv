@@ -1,143 +1,140 @@
-Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
-$	NULL
-(	NULL
-)	NULL			$
-1	NULL	2kju 1a-tsaŋ-pʌ 1mo 1mu, 1apo 1amo 1a-rʌ-pʌ 1kola	Manange	114	1
-2	NULL	1tʌntsʌ 2tsʌtsʌ, 2mi 2mitsʰe	Manange	58	2
-3	NULL	2ta 3pi-tse 3pi, 2ʃiŋ 3tuŋ 4tʰuŋ	Manange	34	3
-4	NULL	3mi 4pʰro-pʌ 4kʰjẽ, 2ʃiŋ 3tuŋ 4tʰuŋ	Manange	24	4
-^	NULL				^
-^1	NULL	1aku, 1kje	Manange	261	^ 1
-^2	NULL	2naka, 2tʰa	Manange	196	^ 2
-^3	NULL	3jul, 3naŋ=ri	Manange	151	^ 3
-^4	NULL	4tsʰʌɾ, 4nu	Manange	116	^ 4
-ẽ	ẽ	4mẽ kʰuju, 1pʰo thẽ 1ʈu	Manange	3	\u1ebd
-ĩ	ĩ	4tʰĩ 2prĩ, pʌĩ 2ʃiŋ	Manange	2	\u0129
-ã$	ã	tʃã, 1tʃã	Manange	2	\xe3 $
-ẽ$	ẽ	4kʰjẽ, 1mẽ	Manange	33	\u1ebd $
-ĩ$	ĩ	2tʃʰĩ, 2prĩ	Manange	25	\u0129 $
-õ$	õ	1kõ	Manange	1	\xf5 $
-ũ$	ũ	2kũ	Manange	1	\u0169 $
--	+	1pʰʌ 1a-rʌ-pʌ, ŋo 2a-ʃi-pʌ 3mi	Manange	79	-
-=	+	3naŋ=ri, 2pʰi=ri	Manange	27	=
-^=	+	=ri, =juŋ	Manange	3	^ =
-ʔ$	ʔ	2peʔ	Manange	1	\u0294 $
-ə	ə				\u0259
-^ɫ	lˠ	ɫʌkʰaŋ	Manange	1	^ \u026b
-ŋ	ŋ	2ʃiŋ 3tuŋ 4tʰuŋ, 1aŋi	Manange	159	\u014b
-ŋ$	ŋ	2ʃiŋ 3tuŋ 4tʰuŋ, 1jaŋ	Manange	136	\u014b $
-^ŋ	ŋ	ŋjetse 1ŋima, ŋjʌle	Manange	5	^ \u014b
-ʃ	ʃ	2ʃoʃo, 2ʃiŋ 3tuŋ 4tʰuŋ	Manange	60	\u0283
-^ʃ	ʃ	ʃoŋto, ʃukri	Manange	14	^ \u0283
-tʃ	tʃ	1atʃuŋ, 3mi tʃotʃe to-pʌ	Manange	36	t \u0283
-^tʃ	tʃ	tʃã, tʃuɾpe	Manange	9	^ t \u0283
-dʒ	dʒ	moʈʌr dʒip	Manange	1	d \u0292
-ʌ	ʌ	1tʌntsʌ 2tsʌtsʌ, 4tsʰʌɾ	Manange	235	\u028c
-ʌ$	ʌ	1tʌ, 3te 4tʰaŋ 1kʰʌ	Manange	184	\u028c $
-^ʌ	ʌ	ʌŋkur	Manange	1	^ \u028c
-_	_	2ʃiŋ 3tuŋ 4tʰuŋ, 3te 4tʰaŋ 1kʰʌ	Manange	319	_
-a	a	1aku, 1aŋi	Manange	277	a
-^a	a	alo suntala, ajĩ	Manange	7	^ a
-a$	a	2naka, 2tʰa	Manange	100	a $
-aʰ	aʰ/a	1taʰŋ	Manange	1	a \u02b0
-^a$	a	a-	Manange	1	^ a $
-b	b	labul 1kʰʌ-tsi	Manange	1	b
-β	β	gʌβʌrmʌnt	Manange	1	\u03b2
-^b	b	bijuli, boʈʌl	Manange	3	^ b
-c	c	2picaŋ, ha coŋpʌ	Manange	2	c
-d	d	dzadu, samundra	Manange	2	d
-^d	d	dzadu, dɦarmʌ	Manange	2	^ d
-e	e	tete tete 2tʰa, 3te 4tʰaŋ 1kʰʌ	Manange	133	e
-^e	e	eskul	Manange	1	^ e
-e$	e	1kje, 1ʂe	Manange	126	e $
-^f	f	filʌm, fon	Manange	2	^ f
-g	g	1gohi	Manange	1	g
-^g	g	gʌβʌrmʌnt	Manange	1	^ g
-h	h	tsihan, sʌ hlakpʌ	Manange	11	h
-ɦ	ɦ	dɦarmʌ	Manange	1	\u0266
-^h	h	ho, huɲi	Manange	6	^ h
-kh	kʰ	1khjentse	Manange	1	k h
-kʰ	kʰ	4kʰjẽ, 4tʰaŋ 1kʰʌ	Manange	84	k \u02b0
-ph	pʰ	1pho, kophi	Manange	2	p h
-pʰ	pʰ	4pʰɾa, 1pʰja	Manange	65	p \u02b0
-th	tʰ	1pʰo thẽ 1ʈu	Manange	1	t h
-tʰ	tʰ	2tʰa, 2ʃiŋ 3tuŋ 4tʰuŋ	Manange	50	t \u02b0
-ʈʰ	ʈʰ	1ʈʰaʈe, koʈʰa	Manange	3	\u0288 \u02b0
-^kh	kʰ	khanʌ	Manange	1	^ k h
-^kʰ	kʰ	kʰʌnʈi, kʰuku nantʃuŋ	Manange	14	^ k \u02b0
-^pʰ	pʰ	pʰesʌr, pʰja	Manange	11	^ p \u02b0
-^tʰ	tʰ	tʰi, tʰʌ-tse jʌ	Manange	10	^ t \u02b0
-^ʈʰ	ʈʰ	ʈʰoto 1kʰʌ	Manange	1	^ \u0288 \u02b0
-kʷʰ	kʷʰ	4kʷʰe 2pɾĩ, 4kʷʰe 2napraŋ 3tsaŋ	Manange	3	k \u02b7 \u02b0
-pʷʰ	pʷʰ	4pʷʰo	Manange	1	p \u02b7 \u02b0
-tʃʰ	tʃʰ	2tʃʰe, 3tʃʰupi	Manange	24	t \u0283 \u02b0
-tsʰ	tsʰ	4tsʰʌɾ, 2tsʰe 2tsʰe	Manange	27	t s \u02b0
-^tʃʰ	tʃʰ	tʃʰortẽ, tʃʰor ko	Manange	6	^ t \u0283 \u02b0
-^tsʰ	tsʰ	tsʰu-pʌ ʃe 1mo, tsʰimpʌ	Manange	4	^ t s \u02b0
-i	i	2mi 2mitsʰe, tʃipli tʃipli	Manange	173	i
-^i	i	inʌr	Manange	1	^ i
-i$	i	1aŋi, 3naŋ=ri	Manange	154	i $
-j	j	4mjekje, 1kje	Manange	199	j
-y	j	kosyo	Manange	1	y
-^j	j	ja kʰupʌ, jʌlka	Manange	7	^ j
-k	k	1aku, 1kje	Manange	217	k
-^k	k	kuɾu, kopʃi	Manange	41	^ k
-k$	k	ʃilik, 3tsok	Manange	4	k $
-l	l	3kul kul 1lʌ-tse 4pʰro, pʰul 1lʌ	Manange	164	l
-^l	l	labul 1kʰʌ-tsi, laŋtẽ	Manange	11	^ l
-l$	l	3jul, 1tʰoŋ 4sol	Manange	30	l $
-m	m	2mi 2mitsʰe, 2mome	Manange	155	m
-^m	m	ma, mukpʌ	Manange	23	^ m
-m$	m	3molʌm, tim	Manange	5	m $
-n	n	3naŋ=ri, 4nu	Manange	98	n
-ɲ	ɲ	1ɲe, 2ɲaŋ	Manange	4	\u0272
-^n	n	na na, niʈi	Manange	16	^ n
-^ɲ	ɲ	ɲuku	Manange	1	^ \u0272
-n$	n	tsihan, fon	Manange	2	n $
-o	o	1tʰoŋ 4sol, 1kʰoktoŋ	Manange	184	o
-^o	o	oi	Manange	1	^ o
-o$	o	2no, ʃoŋto	Manange	87	o $
-p	p	2tʰim 1pim-pʌ, 2ta 3pi-tse 3pi	Manange	192	p
-^p	p	pʌte 1kʰʌ, pʌriwʌr	Manange	24	^ p
-p$	p	moʈʌr dʒip, paip	Manange	7	p $
-r	r	3naŋ=ri, =ri	Manange	142	r
-ɾ	ɾ	kuɾu, 4pʰɾa	Manange	21	\u027e
-^r	r	rok 2ti, rel	Manange	7	^ r
-r$	r	2kor, pʌriwʌr	Manange	37	r $
-ɾ$	ɾ	4tsʰʌɾ, 2sʌɾ	Manange	6	\u027e $
-s	s	2siŋ hoktoŋ 3sʌ, 1tʰoŋ 4sol	Manange	54	s
-ʂ	ʂ	1ʂe, 2ʂi-pʌ	Manange	17	\u0282
-^s	s	sjʌu, sʌ pʌlsʌŋ	Manange	14	^ s
-^ʂ	ʂ	ʂuŋ, ʂupʌl	Manange	4	^ \u0282
-s$	s	pʌlis, bʌs	Manange	2	s $
-ts	ts	1tʌntsʌ 2tsʌtsʌ, 2tʌ 1tsʌtsʌ	Manange	77	t s
-^ts	ts	tsʌ, tsihan	Manange	7	^ t s
-t	t	1tʌ, tete tete 2tʰa	Manange	168	t
-ʈ	ʈ	1ʈu, 2ʈu 2ʈu	Manange	37	\u0288
-^t	t	tuk 1tʌ-pʌ 1kʰʌ, tela	Manange	25	^ t
-t$	t	plet, atsiŋkʌt	Manange	4	t $
-u	u	2ʃiŋ 3tuŋ 4tʰuŋ, kuruŋ	Manange	204	u
-^u	u	ukpʌ	Manange	1	^ u
-u$	u	1aku, 1ʈu	Manange	75	u $
-w	w	hawa tʃansa, pʌriwʌr	Manange	4	w
-ŋʷ	ŋʷ	2ŋʷo	Manange	1	\u014b \u02b7
-^w	w	wo 1lʌ, we 1kʰʌ	Manange	2	^ w
-kʷ	kʷ	4kakor 2kʷol, 2kʷe	Manange	3	k \u02b7
-mʷ	mʷ	4mʷi 1nje-pʌ, 3pʌle 2mʷe	Manange	14	m \u02b7
-tʷ	tʷ	1tʷo	Manange	1	t \u02b7
-^kʷ	kʷ	kʷemi, kʷopʌ	Manange	6	^ k \u02b7
-^mʷ	mʷ	mʷʌ, mʷo	Manange	3	^ m \u02b7
-^pʷ	pʷ	pʷo	Manange	1	^ p \u02b7
-z	z	tzomliŋ, 2sez 1lʌ	Manange	3	z
-ŋʃ	ŋ ʃ	laŋʃe	Manange	1	\u014b \u0283
-kk	k k	tʰikka	Manange	1	k k
-lh	l h	4lho	Manange	1	l h
-^lh	l h	lho	Manange	1	^ l h
-ls	l s	sʌ pʌlsʌŋ	Manange	1	l s
-nʃ	n ʃ	tenʃi	Manange	1	n \u0283
-ns	n s	hawa tʃansa	Manange	1	n s
-pʃ	p ʃ	kopʃi	Manange	2	p \u0283
-rʃ	r ʃ	korʃo, kurʃiŋ	Manange	2	r \u0283
-rw	r w	tarwʌl	Manange	1	r w
-tt	t t	2pʰuŋ 2kʌtti, 2kʌtti 1lʌ	Manange	3	t t
-ws	w s	mewsʌm	Manange	1	w s
+Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
+^	NULL	1	U+005E		
+$	NULL	9	U+0024		
+(	NULL	4	U+0028	"1ʃo_2mle_(1jʌ),2pʰi(=ri),2tʃu_2tʃu_(lari)"	
+)	NULL	10	U+0029	"1pʰo_mi),1ŋjaŋ_tsʰaraŋ),naka)_4pʰale"	
+1	NULL	116	U+0031	"1ja_1pʰu,1jʌ_1lʌ_pe,1ʂʌ_1pʰo"	Manange
+2	NULL	61	U+0032	"1ki_2kje,2li-tse_2nokrẽ,moŋʈe_2tʰamraŋ"	Manange
+3	NULL	34	U+0033	"3kola_4ʈʰu-pʌ_3mi,4poli_3ruŋ,4tʰaŋ_3sʌ-pʌ_1kʰʌ"	Manange
+4	NULL	25	U+0034	"1mjuku_1jʌ-pʌ_4kʰja,2kju_4ju,kʰapʌr_4tʃʰe"	Manange
+^1	NULL	307	U+005E U+0031	"1nokro,1tĩ,1tʃʰi"	Manange
+^2	NULL	221	U+005E U+0032	"2mi_2pʰi,2peʔ,2plisur"	Manange
+^3	NULL	161	U+005E U+0033	"3kjur,3pje_1a-rʌ-pʌ,3ta"	Manange
+^4	NULL	124	U+005E U+0034	"4kakor_2kʷol,4ma,4muʃʌ"	Manange
+-	+	79	U+002D	"4tʰe-pʌ,sʌm-pʌ,tsol-pʌ_are-pʌ"	Manange
+=	+	28	U+003D	"1pʰitsʌ=ri,2kuŋ=ri,3titi=ri"	Manange
+_	_	331	U+005F	"2kjutsaŋ_3taŋ,3maka_1tʌ,hai_1lʌ"	Manange
+a	a	286	U+0061	"2melaŋ,2pʰjaŋ,3luŋma_1a-pĩ"	Manange
+b	b	1	U+0062	"labul_1kʰʌ-tsi"	Manange
+c	c	2	U+0063	"2picaŋ,ha_coŋpʌ"	Manange
+d	d	2	U+0064	"dzadu,samundra"	Manange
+e	e	137	U+0065	"3naraŋ_2tsame=ko,4kʰer,tsol-pʌ_are-pʌ"	Manange
+g	g	1	U+0067	"1gohi"	Manange
+h	h	12	U+0068	"4hatʃi,sʌ_hlakpʌ,tsihan"	Manange
+i	i	183	U+0069	"2siŋ_hoktoŋ_3sʌ,2ʃiŋ_ko,tʰikka"	Manange
+j	j	213	U+006A	"1tʌŋkjaŋ,2kju_1a-tsaŋ-pʌ_1mo_1mu,pʰja"	Manange
+k	k	226	U+006B	"tʰuk_tʰu,ʃaŋko,ʃike"	Manange
+l	l	171	U+006C	"3pʌle_2mʷe,pʌlis,tela"	Manange
+m	m	167	U+006D	"1timu,4kʰorpʌ_3mi,4mjepʰɾa"	Manange
+n	n	100	U+006E	"1nʌ,2nokrẽ,4nese"	Manange
+o	o	192	U+006F	"4kole,4pʌskjop,toŋkori_kʰeta"	Manange
+p	p	195	U+0070	"1ate_proŋko,2napraŋ,4mʷi_1pĩ"	Manange
+r	r	147	U+0072	"1kra,3naŋ=ri_1jʌ,3pʌrpʌ"	Manange
+s	s	62	U+0073	"3su_1kʰʌ-pʌ,3sʌpʌ_1kʰʌ,4tʰa_1suŋkur"	Manange
+t	t	173	U+0074	"2taŋi,3taŋpʌ,kʰonta"	Manange
+u	u	207	U+0075	"1tʃʰuku,4tʰukpʌ,kakri_3puluŋ"	Manange
+w	w	4	U+0077	"hawa_tʃansa,pʌriwʌr,sʌ_tʌwʌ"	Manange
+y	j	1	U+0079	"kosyo"	Manange
+z	z	3	U+007A	"2sez_1lʌ,dzadu,tzomliŋ"	Manange
+ĩ	ĩ	2	U+0129	"4tʰĩ_2prĩ,pʌĩ_2ʃiŋ"	Manange
+ŋ	ŋ	167	U+014B	"2ʃiŋ_3tuŋ,3ŋjo,kjamtso_naŋ_sʌliŋ"	Manange
+ɦ	ɦ	1	U+0266	"dɦarmʌ"	Manange
+ɲ	ɲ	4	U+0272	"1ɲe,2ɲaŋ,2ɲerke"	Manange
+ɾ	ɾ	21	U+027E	"4kʷʰe_2pɾĩ,4pʰo_1kɾẽ,4pʰɾa"	Manange
+ʂ	ʂ	24	U+0282	"2ʂi,2ʂi-pʌ,3ʂo"	Manange
+ʃ	ʃ	63	U+0283	"1ʃʌ,2ʃalaŋ,maʃaŋ_2kju"	Manange
+ʈ	ʈ	38	U+0288	"1ʈup,3ʈi,minisʈʌr"	Manange
+ʌ	ʌ	238	U+028C	"3su_1kʰʌ-pʌ,kʰutʃu_1kʰʌ_1mo,pʌriwʌr"	Manange
+β	β	1	U+03B2	"gʌβʌrmʌnt"	Manange
+ẽ	ẽ	4	U+1EBD	"(ŋoŋtse)_1krẽ_2nokrẽ,1pʰo_thẽ_1ʈu,4mẽ_kʰuju"	Manange
+^=	+	3	U+005E U+003D	"=juŋ,=ri"	Manange
+^a	a	8	U+005E U+0061	"amtʰjʌpʌ,atsiŋkʌt,aʃaŋ"	Manange
+^b	b	3	U+005E U+0062	"bijuli,boʈʌl,bʌs"	Manange
+^d	d	2	U+005E U+0064	"dzadu,dɦarmʌ"	Manange
+^e	e	1	U+005E U+0065	"eskul"	Manange
+^f	f	2	U+005E U+0066	"filʌm,fon"	Manange
+^g	g	1	U+005E U+0067	"gʌβʌrmʌnt"	Manange
+^h	h	6	U+005E U+0068	"ha_coŋpʌ,hawa_tʃansa,huɲi"	Manange
+^i	i	1	U+005E U+0069	"inʌr"	Manange
+^j	j	9	U+005E U+006A	"ja_kʰupʌ,juŋ,jʌmtʌ_pʰeri_pʰre"	Manange
+^k	k	42	U+005E U+006B	"koʈʌlo,koʈʰa,kutʌru_le_tu"	Manange
+^l	l	11	U+005E U+006C	"labul_1kʰʌ-tsi,litʃel,lʌmʌ"	Manange
+^m	m	23	U+005E U+006D	"minisʈʌr,mor,mor_2ti"	Manange
+^n	n	17	U+005E U+006E	"naka)_4pʰale,nasjo,ne"	Manange
+^o	o	1	U+005E U+006F	"oi"	Manange
+^p	p	24	U+005E U+0070	"piŋkja,pʌr,pʌŋka_ju"	Manange
+^r	r	7	U+005E U+0072	"rel,rok_2ti,rʌ"	Manange
+^s	s	16	U+005E U+0073	"seŋ,simi,sʌ"	Manange
+^t	t	25	U+005E U+0074	"tawa,tolo_ʃa,tẽ"	Manange
+^u	u	1	U+005E U+0075	"ukpʌ"	Manange
+^w	w	2	U+005E U+0077	"we_1kʰʌ,wo_1lʌ"	Manange
+^ŋ	ŋ	5	U+005E U+014B	"ŋjetse_1ŋima,ŋo_2a-ʃi-pʌ_3mi,ŋoŋtsʌ=ri"	Manange
+^ɫ	lˠ	1	U+005E U+026B	"ɫʌkʰaŋ"	Manange
+^ɲ	ɲ	1	U+005E U+0272	"ɲuku"	Manange
+^ʂ	ʂ	4	U+005E U+0282	"ʂaŋ,ʂumʌl,ʂupʌl"	Manange
+^ʃ	ʃ	14	U+005E U+0283	"ʃike,ʃili,ʃiʃʌ"	Manange
+^ʌ	ʌ	1	U+005E U+028C	"ʌŋkur"	Manange
+a$	a	108	U+0061 U+0024	"1sa,1urkja,4kikja"	Manange
+aʰ	aʰ/a	1	U+0061 U+02B0	"1taʰŋ"	Manange
+dʒ	dʒ	1	U+0064 U+0292	"moʈʌr_dʒip"	Manange
+e$	e	139	U+0065 U+0024	"1le,1tse,1ŋjemʌŋ_te"	Manange
+i$	i	181	U+0069 U+0024	"1kʰi,2pi,2pʌtsi"	Manange
+k$	k	4	U+006B U+0024	"1tsak,3tsok,ʃilik"	Manange
+kh	kʰ	1	U+006B U+0068	"1khjentse"	Manange
+kk	k k	1	U+006B U+006B	"tʰikka"	Manange
+kʰ	kʰ	91	U+006B U+02B0	"4hlo_1kʰʌ,ja_kʰupʌ,tipli_1kʰʌ"	Manange
+kʷ	kʷ	3	U+006B U+02B7	"2kʷe,2kʷẽ,4kakor_2kʷol"	Manange
+l$	l	30	U+006C U+0024	"3mul,pʰja_pʰul,ŋa_2tʃepkjel"	Manange
+ls	l s	1	U+006C U+0073	"sʌ_pʌlsʌŋ"	Manange
+m$	m	5	U+006D U+0024	"3molʌm,reʃam,tim"	Manange
+mʷ	mʷ	16	U+006D U+02B7	"2mʷi,4kʰju_3mʷo,4mʷi_kʰe"	Manange
+n$	n	2	U+006E U+0024	"fon,tsihan"	Manange
+ns	n s	1	U+006E U+0073	"hawa_tʃansa"	Manange
+nʃ	n ʃ	1	U+006E U+0283	"tenʃi"	Manange
+o$	o	94	U+006F U+0024	"4pʷʰo,kosyo,kʰuŋjo"	Manange
+p$	p	7	U+0070 U+0024	"1kirap,paip,rop"	Manange
+ph	pʰ	2	U+0070 U+0068	"1pho,kophi"	Manange
+pʃ	p ʃ	2	U+0070 U+0283	"kopʃi"	Manange
+pʰ	pʰ	77	U+0070 U+02B0	"1ja_1pʰu,1pʰitsʌ=ri,2pʰaŋ"	Manange
+r$	r	37	U+0072 U+0024	"2plisur,3mʌr,pʌr"	Manange
+rw	r w	1	U+0072 U+0077	"tarwʌl"	Manange
+rʃ	r ʃ	2	U+0072 U+0283	"korʃo,kurʃiŋ"	Manange
+s$	s	2	U+0073 U+0024	"bʌs,pʌlis"	Manange
+t$	t	4	U+0074 U+0024	"atsiŋkʌt,kot,plet"	Manange
+th	tʰ	1	U+0074 U+0068	"1pʰo_thẽ_1ʈu"	Manange
+ts	ts	84	U+0074 U+0073	"1tʌntsʌ_1amʌ,3supʌ_2litse,pats_2ti"	Manange
+tt	t t	4	U+0074 U+0074	"2kʌtti_1lʌ,2kʌtti_tʰʌ-pʌ,2pʰuŋ_2kʌtti"	Manange
+tʃ	tʃ	42	U+0074 U+0283	"1tʃukri,4ta_1tʃuku,tʃipli_tʃipli"	Manange
+tʰ	tʰ	58	U+0074 U+02B0	"2tʰa,3njemʌŋ_1a-tʰe,tete_tete_2tʰa"	Manange
+tʷ	tʷ	1	U+0074 U+02B7	"1tʷo"	Manange
+u$	u	87	U+0075 U+0024	"1mje_pʰu,1tʃu,3ʈi_ʃu"	Manange
+ws	w s	1	U+0077 U+0073	"mewsʌm"	Manange
+ã$	ã	2	U+00E3 U+0024	"1tʃã,tʃã"	Manange
+õ$	õ	1	U+00F5 U+0024	"1kõ"	Manange
+ĩ$	ĩ	25	U+0129 U+0024	"1jelʌ_1a-pĩ,1pĩ,3luŋma_1a-pĩ"	Manange
+ŋ$	ŋ	142	U+014B U+0024	"1rupuŋ,4tʰiŋ,kjʌlaŋ"	Manange
+ŋʃ	ŋ ʃ	1	U+014B U+0283	"laŋʃe"	Manange
+ŋʷ	ŋʷ	1	U+014B U+02B7	"2ŋʷo"	Manange
+ũ$	ũ	1	U+0169 U+0024	"2kũ"	Manange
+ɾ$	ɾ	6	U+027E U+0024	"1tsʌmnʌɾ,2sʌɾ,4tʃʰeɾ"	Manange
+ʈʰ	ʈʰ	5	U+0288 U+02B0	"1ʈʰaʈe,3kola_4ʈʰu-pʌ_3mi,koʈʰa"	Manange
+ʌ$	ʌ	193	U+028C U+0024	"1tenkʌ,4tʃʰeɾpʌ,kʷopʌ"	Manange
+ʔ$	ʔ	1	U+0294 U+0024	"2peʔ"	Manange
+ẽ$	ẽ	44	U+1EBD U+0024	"1krẽ,1tsʰoŋpẽ,1tẽ"	Manange
+^kh	kʰ	1	U+005E U+006B U+0068	"khanʌ"	Manange
+^kʰ	kʰ	16	U+005E U+006B U+02B0	"kʰja,kʰonta,kʰʌ_mepʌ_tʰuŋ"	Manange
+^kʷ	kʷ	6	U+005E U+006B U+02B7	"kʷemi,kʷempʌ,kʷotsʌ"	Manange
+^lh	l h	1	U+005E U+006C U+0068	"lho"	Manange
+^mʷ	mʷ	3	U+005E U+006D U+02B7	"mʷi,mʷo,mʷʌ"	Manange
+^pʰ	pʰ	11	U+005E U+0070 U+02B0	"pʰja_pʰul,pʰope,pʰra_mi"	Manange
+^pʷ	pʷ	1	U+005E U+0070 U+02B7	"pʷo"	Manange
+^ts	ts	7	U+005E U+0074 U+0073	"tsajʌr,tsamʌ,tsʌ"	Manange
+^tʃ	tʃ	9	U+005E U+0074 U+0283	"tʃer,tʃo,tʃoloŋ"	Manange
+^tʰ	tʰ	12	U+005E U+0074 U+02B0	"tʰali,tʰoŋ,tʰuk_tʰu"	Manange
+^ʈʰ	ʈʰ	1	U+005E U+0288 U+02B0	"ʈʰoto_1kʰʌ"	Manange
+kʷʰ	kʷʰ	5	U+006B U+02B7 U+02B0	"4kʷʰe,4kʷʰe_2napraŋ_3tsaŋ,4kʷʰe_2pɾĩ"	Manange
+pʷʰ	pʷʰ	1	U+0070 U+02B7 U+02B0	"4pʷʰo"	Manange
+tsʰ	tsʰ	30	U+0074 U+0073 U+02B0	"2kju_tsʰara,2mi_2mitsʰe,kʰeta_tsʰo_3mi=ko"	Manange
+tʃʰ	tʃʰ	24	U+0074 U+0283 U+02B0	"1tʃʰotʃe,1tʃʰĩ,3tʃʰupi"	Manange
+^tsʰ	tsʰ	5	U+005E U+0074 U+0073 U+02B0	"tsʰerkuŋ_1kʰʌ_1mo,tsʰimpʌ,tsʰu-pʌ_ʃe_1mo"	Manange
+^tʃʰ	tʃʰ	6	U+005E U+0074 U+0283 U+02B0	"tʃʰi,tʃʰo,tʃʰortẽ"	Manange

@@ -1,109 +1,107 @@
-Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
-$	NULL				$
-^	NULL				^
-ã	ã	ktɔʔ jumãhãn, hyãʔ	Ceq Wong	21	\xe3
-ĩ	ĩ	hĩʔ, teʔ kunĩŋ	Ceq Wong	8	\u0129
-ũ	ũ	jəhũʔ, paɲũʔ	Ceq Wong	22	\u0169
-ə̃	ə̃	mhə̃m, ʔə̃ʔ	Ceq Wong	2	\u0259 \u0303
-ɑ̃	ɑ̃	hɑ̃n, məʔɑ̃c	Ceq Wong	10	\u0251 \u0303
-ɛ̃	ɛ̃	manɛ̃k, wɛ̃ŋ	Ceq Wong	55	\u025b \u0303
-ɨ̃	ɨ̃	wɨ̃t, mnɨ̃ʔ	Ceq Wong	15	\u0268 \u0303
-ɔ̃	ɔ̃	ʔɔ̃ɲ, mɔ̃y gɔy	Ceq Wong	17	\u0254 \u0303
-ʔ	ʔ	coʔ ʔay, cɛʔ ʔɛ̃ŋ	Ceq Wong	61	\u0294
-ʔ$	ʔ	bajuʔ, wəʔ	Ceq Wong	164	\u0294 $
-^ʔ	ʔ	ʔɔs, ʔɑl	Ceq Wong	45	^ \u0294
-ə	ə	wəʔ, ləy	Ceq Wong	128	\u0259
-ə$	ə	gulə, mnə	Ceq Wong	8	\u0259 $
-ŋ	ŋ	piŋan, saraŋ lway	Ceq Wong	61	\u014b
-ŋ$	ŋ	tarəŋ, daraŋ	Ceq Wong	111	\u014b $
-^ŋ	ŋ	ŋɔk, ŋɑlɑŋ	Ceq Wong	7	^ \u014b
-_	_	cɨp baləy cɑn, saraŋ lway	Ceq Wong	92	_
-a	a	blajar, saraŋ lway	Ceq Wong	482	a
-ɑ	ɑ	ŋɑlɑŋ, tɑm	Ceq Wong	80	\u0251
-ɒ	ɒ	cicɒh	Ceq Wong	1	\u0252
-b	b	jabuc, labuʔ	Ceq Wong	51	b
-^b	b	buat, blajar	Ceq Wong	93	^ b
-c	c	kcɛʔ, ʔac cəŋ	Ceq Wong	34	c
-^c	c	cɨp, caceŋ	Ceq Wong	56	^ c
-c$	c	lwəc, jabuc	Ceq Wong	33	c $
-d	d	suduʔ, kadaŋ kadaŋ	Ceq Wong	37	d
-^d	d	daraŋ, daŋ	Ceq Wong	21	^ d
-e	e	yey, bayek	Ceq Wong	84	e
-ɛ	ɛ	tɛʔ, kcɛʔ	Ceq Wong	37	\u025b
-g	g	tiŋgiʔ, ploʔ gal	Ceq Wong	25	g
-^g	g	gɔs, gurɛk	Ceq Wong	33	^ g
-h	h	jəhũʔ, hyhuay	Ceq Wong	30	h
-ŋh	ŋh	jaŋhəy	Ceq Wong	1	\u014b h
-^h	h	harən, hɑ̃n	Ceq Wong	67	^ h
-h$	h	cɑh, pilɑh	Ceq Wong	59	h $
-^mh	mh	mhə̃m	Ceq Wong	1	^ m h
-^th	tʰ	thun	Ceq Wong	2	^ t h
-i	i	tiŋgiʔ, piŋan	Ceq Wong	141	i
-ɨ	ɨ	kbɨs, cɨp	Ceq Wong	34	\u0268
-i$	i	tibi, tɑm kopi	Ceq Wong	4	i $
-j	j	blajar, bajuʔ	Ceq Wong	29	j
-^j	j	jabuc, jəhũʔ	Ceq Wong	31	^ j
-k	k	baŋkoʔ kəhɛr, skoʔ	Ceq Wong	66	k
-^k	k	kəs, kuy	Ceq Wong	126	^ k
-k$	k	bayek, manɛ̃k	Ceq Wong	67	k $
-l	l	blajar, slaloʔ	Ceq Wong	91	l
-^l	l	ləy, lac	Ceq Wong	51	^ l
-l$	l	ʔɑl, tiŋkol	Ceq Wong	42	l $
-m	m	tɑm mɛ̃t, kmɨ̃t hmɛ̃c	Ceq Wong	55	m
-^m	m	manɛ̃k, mnɨ̃ʔ	Ceq Wong	41	^ m
-m$	m	tɑm, pnjam	Ceq Wong	46	m $
-n	n	manɛ̃k, pnjam	Ceq Wong	87	n
-ɲ	ɲ	paɲũʔ, ploʔ ɲũr	Ceq Wong	15	\u0272
-^n	n	njəm, ndən	Ceq Wong	23	^ n
-^ɲ	ɲ	ɲɔ̃k, ɲataʔ	Ceq Wong	4	^ \u0272
-n$	n	piŋan, harən	Ceq Wong	58	n $
-ɲ$	ɲ	ʔɔ̃ɲ, blwəɲ	Ceq Wong	17	\u0272 $
-o	o	yow, pok	Ceq Wong	101	o
-ɔ	ɔ	ʔɔs, gɔs	Ceq Wong	68	\u0254
-ɔ$	ɔ	mɔtɔ	Ceq Wong	1	\u0254 $
-p	p	bapaʔ, hapɔy	Ceq Wong	43	p
-^p	p	piŋan, pnjam	Ceq Wong	81	^ p
-p$	p	cɨp, kəʔɛp	Ceq Wong	25	p $
-r	r	saraŋ lway, harən	Ceq Wong	67	r
-^r	r	raŋkal, raŋkak	Ceq Wong	14	^ r
-r$	r	blajar, ʔasəkar	Ceq Wong	45	r $
-s	s	ʔasəkar, hyãʔ spital	Ceq Wong	28	s
-^s	s	saraŋ lway, suduʔ	Ceq Wong	73	^ s
-ks	ks	mksɛk	Ceq Wong	1	k s
-ns	ns	pensel	Ceq Wong	1	n s
-s$	s	ʔɔs, gɔs	Ceq Wong	64	s $
-^ks	ks	ksial, ksyɑʔ	Ceq Wong	2	^ k s
-t	t	ktɔʔ satuʔ, ktuət	Ceq Wong	85	t
-^t	t	tɑm, tɛʔ	Ceq Wong	88	^ t
-t$	t	buat, bət	Ceq Wong	94	t $
-u	u	suduʔ, bajuʔ	Ceq Wong	142	u
-u$	u	ktɔʔ rabu, sibu	Ceq Wong	2	u $
-w	w	kawaw klɑŋ, lawot	Ceq Wong	22	w
-^w	w	wəʔ, wɨ̃t	Ceq Wong	20	^ w
-w$	w	yow, halaw	Ceq Wong	18	w $
-y	y	bayek, hyhuay	Ceq Wong	46	y
-^y	y	yow, yey	Ceq Wong	11	^ y
-y$	y	yey, kuy	Ceq Wong	59	y $
-ŋs	ŋ s	leŋseŋ, taliʔ taŋsiʔ	Ceq Wong	2	\u014b s
-^bs	b s	bsin, bsew	Ceq Wong	5	^ b s
-^cw	c w	cwɛ̃ŋ, cway	Ceq Wong	3	^ c w
-^dw	d w	dwah, dwet	Ceq Wong	2	^ d w
-^hw	h w	hwɛ̃t, hwchwac	Ceq Wong	2	^ h w
-^js	j s	jsɨŋ	Ceq Wong	1	^ j s
-^jw	j w	jwal	Ceq Wong	1	^ j w
-kw	k w	jaŋkwɛ̃ʔ, lkwɔk	Ceq Wong	3	k w
-^kw	k w	kwat, kwãs	Ceq Wong	2	^ k w
-lh	l h	plhɔc	Ceq Wong	1	l h
-lw	l w	saraŋ lway, blwəɲ	Ceq Wong	3	l w
-^lw	l w	lwəc, lwɑy	Ceq Wong	4	^ l w
-nh	n h	cinhəy, cnhəy	Ceq Wong	3	n h
-nn	n n	heʔ nnəŋ	Ceq Wong	1	n n
-nw	n w	həʔ nwɨ̃t, knwãs	Ceq Wong	4	n w
-^ps	p s	psət	Ceq Wong	1	^ p s
-^pw	p w	pwasaʔ	Ceq Wong	1	^ p w
-sw	s w	həʔ swɑh	Ceq Wong	1	s w
-^sw	s w	swɑl, swah	Ceq Wong	3	^ s w
-^tw	t w	twar, twaw	Ceq Wong	2	^ t w
-^nũʔ$	n ũ ʔ				^ n u \u0303 \u0294 $
-chw	c + h w	hwchwac	Ceq Wong	1	c h w
-^branĩʔ$	b r a n ĩ ʔ				^ b r a n i \u0303 \u0294 $
+Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
+^nũʔ$	n ũ ʔ	1	U+005E U+006E U+0169 U+0294 U+0024	"nũʔ"	
+^branĩʔ$	b r a n ĩ ʔ	1	U+005E U+0062 U+0072 U+0061 U+006E U+0129 U+0294 U+0024	"branĩʔ"	
+_	_	92	U+005F	"həʔ_tngəp,kmɨ̃t_hmɛ̃c,ktɔʔ_ʔahat"	Ceq Wong
+a	a	495	U+0061	"jagoŋ,pkak,tibaʔ"	Ceq Wong
+b	b	51	U+0062	"sbuʔ,sibu,tɑm_buʔ"	Ceq Wong
+c	c	34	U+0063	"bəʔ_cɑs,guncaŋ,sac_lmũɲ"	Ceq Wong
+d	d	37	U+0064	"biruy_dih,kadaŋ_kadaŋ,madɨk"	Ceq Wong
+e	e	86	U+0065	"raŋem,ʔageh,ʔet"	Ceq Wong
+g	g	25	U+0067	"taŋgəm,tiŋgiʔ,ʔubat_ngɑt"	Ceq Wong
+h	h	30	U+0068	"bahayaʔ,jəʔeŋ_bahoʔ,kuleh_bəʔ"	Ceq Wong
+i	i	146	U+0069	"bdil,briʔ_kmanɨ̃h,bsiʔ_pakuʔ"	Ceq Wong
+j	j	30	U+006A	"kjaʔ,kjəŋ,ʔojok"	Ceq Wong
+k	k	69	U+006B	"ktɔʔ_pkan,ncɔk_tɑm,skuy"	Ceq Wong
+l	l	93	U+006C	"bləʔ,limãʔ_blas,sblas"	Ceq Wong
+m	m	55	U+006D	"kamĩn,sac_lmũɲ,samoŋ"	Ceq Wong
+n	n	86	U+006E	"mnɨ̃ʔ,pndap,ʔanɛ̃k"	Ceq Wong
+o	o	106	U+006F	"cicoʔ,hoʔ,togoh"	Ceq Wong
+p	p	45	U+0070	"hapit,ktɔʔ_pkan,ʔumpan"	Ceq Wong
+r	r	68	U+0072	"craŋ,marɨɲ,prus"	Ceq Wong
+s	s	28	U+0073	"pasaŋ,pusiŋ,pwasaʔ"	Ceq Wong
+t	t	87	U+0074	"citərə,katak,mɔtɔ"	Ceq Wong
+u	u	151	U+0075	"bajuʔ,bukuʔ,kuc"	Ceq Wong
+w	w	22	U+0077	"duwə_puloh,hawar,jawap"	Ceq Wong
+y	y	46	U+0079	"biyoŋ,jayit,jəʔeŋ_kyɛm"	Ceq Wong
+ã	ã	21	U+00E3	"limãʔ_blas,wanãʔ,yãw"	Ceq Wong
+ĩ	ĩ	7	U+0129	"kamĩn,kunĩŋ,laŋĩt"	Ceq Wong
+ŋ	ŋ	64	U+014B	"jŋluŋ,lŋɛ̃ʔ,tuŋul"	Ceq Wong
+ũ	ũ	21	U+0169	"cinhũɛ̃t,mamũh,paɲũʔ"	Ceq Wong
+ɑ	ɑ	82	U+0251	"bəʔ_cɑs,cɨp_baləy_cɑn,kɑl"	Ceq Wong
+ɒ	ɒ	1	U+0252	"cicɒh"	Ceq Wong
+ɔ	ɔ	77	U+0254	"cɔklat,ktɔʔ_jumãhãn,ncɔk_tɑm"	Ceq Wong
+ə	ə	130	U+0259	"baŋkoʔ_kəhɛr,buəl,njəm"	Ceq Wong
+ɛ	ɛ	39	U+025B	"crɛk,katɛʔ,kcɛʔ"	Ceq Wong
+ɨ	ɨ	34	U+0268	"btɨʔ,dɨl,jəʔeŋ_hŋkɨŋ"	Ceq Wong
+ɲ	ɲ	15	U+0272	"miɲɛ̃k,pɲãkit,taɲoŋ"	Ceq Wong
+ʔ	ʔ	61	U+0294	"biʔ_ʔay,bəʔ_cɑs,taliʔ_mnãŋ"	Ceq Wong
+^b	b	95	U+005E U+0062	"bintaŋ,biŋkoʔ,brahɔc"	Ceq Wong
+^c	c	58	U+005E U+0063	"cray,cəʔ,cɛʔ_ʔɛ̃ŋ"	Ceq Wong
+^d	d	21	U+005E U+0064	"darəɲ,dias,dmɨ̃y"	Ceq Wong
+^g	g	37	U+005E U+0067	"gajah,gok,gurɛk"	Ceq Wong
+^h	h	67	U+005E U+0068	"harən,hiʔɔ̃y,hĩʔ"	Ceq Wong
+^j	j	33	U+005E U+006A	"jareŋ,jayit,jrəm"	Ceq Wong
+^k	k	137	U+005E U+006B	"katak,kawaw_klɑŋ,kboŋ"	Ceq Wong
+^l	l	51	U+005E U+006C	"lawan,lər,ləʔos"	Ceq Wong
+^m	m	41	U+005E U+006D	"mnɑ̃ʔ,mɑ̃m,mɛ̃t_kayel"	Ceq Wong
+^n	n	22	U+005E U+006E	"nihɑʔ,nɑ̃y,nɑ̃y_siat"	Ceq Wong
+^p	p	81	U+005E U+0070	"panãy,paroh,paŋaŋ"	Ceq Wong
+^r	r	14	U+005E U+0072	"rantay,raɲ,rehat"	Ceq Wong
+^s	s	83	U+005E U+0073	"saɲ,slaloʔ,suduʔ"	Ceq Wong
+^t	t	93	U+005E U+0074	"taliʔ_taŋsiʔ,tut,tɑm_batuʔ"	Ceq Wong
+^w	w	20	U+005E U+0077	"wək,wəʔ,wɛ̃ŋ"	Ceq Wong
+^y	y	11	U+005E U+0079	"yal,yoh,yow"	Ceq Wong
+^ŋ	ŋ	7	U+005E U+014B	"ŋɑlɑŋ,ŋɔk,ŋɛ̃n"	Ceq Wong
+^ɲ	ɲ	4	U+005E U+0272	"ɲataʔ,ɲũt,ɲɔ̃k"	Ceq Wong
+^ʔ	ʔ	47	U+005E U+0294	"ʔaleh,ʔumpan,ʔɔɲ"	Ceq Wong
+c$	c	33	U+0063 U+0024	"malɔ̃c,sac,ʔac"	Ceq Wong
+h$	h	63	U+0068 U+0024	"cikɛh,lmũh,tkəh"	Ceq Wong
+i$	i	5	U+0069 U+0024	"gaji,tibi,tɑm_kopi"	Ceq Wong
+k$	k	75	U+006B U+0024	"blyãk,katak,kdak"	Ceq Wong
+ks	ks	3	U+006B U+0073	"mksɛk,sksiak"	Ceq Wong
+kw	k w	3	U+006B U+0077	"jaŋkwɛ̃ʔ,lkwɔk"	Ceq Wong
+l$	l	47	U+006C U+0024	"bəl,dɨl,tel"	Ceq Wong
+lh	l h	1	U+006C U+0068	"plhɔc"	Ceq Wong
+lw	l w	3	U+006C U+0077	"blwəɲ,saraŋ_lway"	Ceq Wong
+m$	m	46	U+006D U+0024	"mnĩm,nãm,raŋem"	Ceq Wong
+n$	n	58	U+006E U+0024	"ber_sɑn,hanyun,ktɔʔ_snɛ̃n"	Ceq Wong
+nh	n h	3	U+006E U+0068	"cinhũɛ̃t,cinhəy,cnhəy"	Ceq Wong
+nn	n n	1	U+006E U+006E	"heʔ_nnəŋ"	Ceq Wong
+ns	ns	1	U+006E U+0073	"pensel"	Ceq Wong
+nw	n w	4	U+006E U+0077	"həʔ_nwɨ̃t,knwãs,pnwɑʔ"	Ceq Wong
+p$	p	25	U+0070 U+0024	"cukup,hntap,kap"	Ceq Wong
+r$	r	45	U+0072 U+0024	"pasir,tber,twar"	Ceq Wong
+s$	s	64	U+0073 U+0024	"harap_ros,kbɨs,sblas"	Ceq Wong
+sw	s w	1	U+0073 U+0077	"həʔ_swɑh"	Ceq Wong
+t$	t	101	U+0074 U+0024	"hlawat,nũt,siput"	Ceq Wong
+u$	u	2	U+0075 U+0024	"ktɔʔ_rabu,sibu"	Ceq Wong
+w$	w	18	U+0077 U+0024	"halaw,kawaw,yãw"	Ceq Wong
+y$	y	59	U+0079 U+0024	"baŋkay,siyay,tiŋkuy"	Ceq Wong
+ŋ$	ŋ	116	U+014B U+0024	"dɨŋ,pidaŋ,sɨŋ"	Ceq Wong
+ŋh	ŋh	1	U+014B U+0068	"jaŋhəy"	Ceq Wong
+ŋs	ŋ s	2	U+014B U+0073	"leŋseŋ,taliʔ_taŋsiʔ"	Ceq Wong
+ɑ̃	ɑ̃	10	U+0251 U+0303	"hɑ̃n,kmnɑ̃m,nɑ̃y"	Ceq Wong
+ɔ$	ɔ	1	U+0254 U+0024	"mɔtɔ"	Ceq Wong
+ɔ̃	ɔ̃	17	U+0254 U+0303	"cŋɔ̃ɲ,mɔ̃h,teʔ_mɔ̃y"	Ceq Wong
+ə$	ə	8	U+0259 U+0024	"galə,kudə,mnə"	Ceq Wong
+ə̃	ə̃	2	U+0259 U+0303	"mhə̃m,ʔə̃ʔ"	Ceq Wong
+ɛ̃	ɛ̃	55	U+025B U+0303	"knɛ̃ʔ,ktɔʔ_hamɛ̃s,tiyɛ̃s"	Ceq Wong
+ɨ̃	ɨ̃	15	U+0268 U+0303	"kaɲɨ̃s,kmɨ̃t,kmɨ̃t_hmɛ̃c"	Ceq Wong
+ɲ$	ɲ	17	U+0272 U+0024	"cŋɔ̃ɲ,hɑɲ,raɲ"	Ceq Wong
+ʔ$	ʔ	171	U+0294 U+0024	"cəʔ,hyãʔ,tɛʔ"	Ceq Wong
+^bs	b s	5	U+005E U+0062 U+0073	"bsew,bsin,bsiʔ"	Ceq Wong
+^cw	c w	3	U+005E U+0063 U+0077	"cway,cwəs,cwɛ̃ŋ"	Ceq Wong
+^dw	d w	2	U+005E U+0064 U+0077	"dwah,dwet"	Ceq Wong
+^hw	h w	2	U+005E U+0068 U+0077	"hwchwac,hwɛ̃t"	Ceq Wong
+^js	j s	1	U+005E U+006A U+0073	"jsɨŋ"	Ceq Wong
+^jw	j w	1	U+005E U+006A U+0077	"jwal"	Ceq Wong
+^ks	ks	2	U+005E U+006B U+0073	"ksial,ksyɑʔ"	Ceq Wong
+^kw	k w	2	U+005E U+006B U+0077	"kwat,kwãs"	Ceq Wong
+^lw	l w	4	U+005E U+006C U+0077	"lway,lwɑy,lwəc"	Ceq Wong
+^mh	mh	1	U+005E U+006D U+0068	"mhə̃m"	Ceq Wong
+^ps	p s	1	U+005E U+0070 U+0073	"psət"	Ceq Wong
+^pw	p w	1	U+005E U+0070 U+0077	"pwasaʔ"	Ceq Wong
+^sw	s w	3	U+005E U+0073 U+0077	"swah,swɑl,swət"	Ceq Wong
+^th	tʰ	2	U+005E U+0074 U+0068	"thun"	Ceq Wong
+^tw	t w	2	U+005E U+0074 U+0077	"twar,twaw"	Ceq Wong
+chw	c + h w	1	U+0063 U+0068 U+0077	"hwchwac"	Ceq Wong

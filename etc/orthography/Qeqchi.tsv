@@ -1,247 +1,167 @@
-Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
-$	NULL				$
-.	NULL	moko... ta	Q'eqchi'	6	.
-^	NULL				^
-k'	kʼ				k '
-k’	kʼ				k \u2019
-p’	pʼ				p \u2019
-q'	qʼ				q '
-q’	qʼ				q \u2019
-t'	tʼ				t '
-t’	tʼ				t \u2019
-^k’	kʼ				^ k \u2019
-^q'	qʼ				^ q '
-^t'	tʼ				^ t '
-^t’	tʼ				^ t \u2019
-ch'	tʃʼ				c h '
-ch’	tʃʼ				c h \u2019
-k'$	kʼ				k ' $
-k’$	kʼ				k \u2019 $
-q'$	qʼ				q ' $
-t'$	tʼ				t ' $
-t’$	tʼ				t \u2019 $
-tz'	tsʼ				t z '
-tz’	tsʼ				t z \u2019
-^ch'	tʃʼ				^ c h '
-^ch’	tʃʼ				^ c h \u2019
-^tz'	tsʼ				^ t z '
-^tz’	tsʼ				^ t z \u2019
-ch'$	tʃʼ				c h ' $
-ch’$	tʃʼ				c h \u2019 $
-tz'$	tsʼ				t z ' $
-tz’$	tsʼ				t z \u2019 $
--	+	aj-lab'aal kutan	Q'eqchi'	1	-
-aa	aː	saaraq'ik, raqok aatin	Q'eqchi'	162	a a
-ee	eː	karneer, manteek	Q'eqchi'	78	e e
-ii	iː	tiix, yiib'ej	Q'eqchi'	57	i i
-oo	oː	moos, toon	Q'eqchi'	40	o o
-uu	uː	tz’uumal, ruuxam	Q'eqchi'	47	u u
-^aa	aː	aatin, aa’o	Q'eqchi'	9	^ a a
-^ee	eː	eelelik, eetalil	Q'eqchi'	8	^ e e
-^ii	iː	iitz’in, iiqank	Q'eqchi'	5	^ i i
-^oo	oː	oorn, oor	Q'eqchi'	4	^ o o
-^uu	uː	uul, uutz'u'uj	Q'eqchi'	4	^ u u
-^xx	ʃː	xxaqab’ankil	Q'eqchi'	1	^ x x
-aa$	aː	soldaa	Q'eqchi'	2	a a $
-^ii$	iː	ii	Q'eqchi'	2	^ i i $
-'	ʔ				'
-’	ʔ				\u2019
-’$	ʔ	sa’, neb’a’	Q'eqchi'	175	\u2019 $
-x	ʃ	ixq, rix xul	Q'eqchi'	133	x
-^x	ʃ	xik’, xan	Q'eqchi'	122	^ x
-ch	tʃ	ch'ina ch'iich', ru chi ch’och’	Q'eqchi'	193	c h
-x$	ʃ	chi rix, tiix	Q'eqchi'	58	x $
-^ch	tʃ	ch'e'ok, chi rix	Q'eqchi'	125	^ c h
-ch$	tʃ	yak'ach, jalam 'uuch	Q'eqchi'	24	c h $
-_	_	raqok aatin chi rix, ch’och’ sutsu chi ha’	Q'eqchi'	392	_
-a	a	palaw, ral chaq’na’	Q'eqchi'	1062	a
-^a	a	a’an, al	Q'eqchi'	109	^ a
-a$	a	wa, choxa	Q'eqchi'	53	a $
-b	b	lub'lub', k'uub'leb'aal	Q'eqchi'	374	b
-^b	b	b’ayk, b’isok	Q'eqchi'	124	^ b
-b'	ɓ				b '
-b’	ɓ				b \u2019
-^b'	ɓ				^ b '
-^b’	ɓ				^ b \u2019
-b'$	ɓ				b ' $
-c	c	miercools	Q'eqchi'	1	c
-d	d	soldaa, kandeel	Q'eqchi'	8	d
-^d	d	domiin	Q'eqchi'	1	^ d
-d$	d	periood, seb’aad	Q'eqchi'	3	d $
-e	e	remrem, neb’a’	Q'eqchi'	404	e
-^e	e	echanink, eq'la	Q'eqchi'	23	^ e
-e$	e	ruuch e, ke	Q'eqchi'	29	e $
-^e$	e	e	Q'eqchi'	3	^ e $
-f	f	elefaant, alfombra	Q'eqchi'	2	f
-^f	f	formon	Q'eqchi'	2	^ f
-f$	f	teleef, estuuf	Q'eqchi'	2	f $
-g	g	algo, igo	Q'eqchi'	5	g
-^g	g	granyon, ganso	Q'eqchi'	2	^ g
-g$	g	testiig	Q'eqchi'	1	g $
-h	h	tzakahem, pumpuukil ha’	Q'eqchi'	57	h
-^h	h	hu, ha’an	Q'eqchi'	50	^ h
-h$	h	rub’el eh, tuh	Q'eqchi'	4	h $
-k$	kʰ				k $
-p$	pʰ				p $
-q$	qʰ				q $
-t$	tʰ				t $
-i	i	chi rix, nimla tenamit	Q'eqchi'	545	i
-^i	i	ixq, isb’	Q'eqchi'	45	^ i
-i$	i	ink’a’ k’i, sa' xyi	Q'eqchi'	8	i $
-y	j	b’ayk, q'oyok	Q'eqchi'	90	y
-^y	j	yiib'ej, yaab'ak	Q'eqchi'	60	^ y
-y$	j	may, b’ab’ay	Q'eqchi'	33	y $
-k	k	xk’a’uxlankil, aj k’aak’alehom ketomq	Q'eqchi'	332	k
-^k	k	kamenaq, karneer	Q'eqchi'	275	^ k
-l	l	eelelik, tojleb'aal maak	Q'eqchi'	374	l
-^l	l	lem, lemskaaq	Q'eqchi'	66	^ l
-l$	l	al, wankil	Q'eqchi'	265	l $
-m	m	nimla tenamit, kamenaq	Q'eqchi'	166	m
-^m	m	may, muquk	Q'eqchi'	83	^ m
-m$	m	lem, k’aam	Q'eqchi'	98	m $
-n	n	b’aanunk, echanink	Q'eqchi'	432	n
-^n	n	neb’a’, nimla tenamit	Q'eqchi'	62	^ n
-n$	n	a’an, q'un	Q'eqchi'	134	n $
-o	o	tzolok, jochok	Q'eqchi'	594	o
-^o	o	ok, ob’eja	Q'eqchi'	28	^ o
-o$	o	ha’o, b’uro	Q'eqchi'	44	o $
-p	p	ch'epok, pumpuukil ha’	Q'eqchi'	59	p
-^p	p	palaw, patz'ok	Q'eqchi'	103	^ p
-q	q	muquk, saaraq'ik	Q'eqchi'	241	q
-^q	q	q'un, q’ol	Q'eqchi'	61	^ q
-r	ɾ	b'urux b'urux, karneer	Q'eqchi'	188	r
-^r	r	remrem, raqok aatin	Q'eqchi'	129	^ r
-r$	r	karneer, xmar	Q'eqchi'	39	r $
-s	s	osob'tesink, b’isok	Q'eqchi'	98	s
-^s	s	sa’, sachok	Q'eqchi'	128	^ s
-s$	s	q'es, moos	Q'eqchi'	41	s $
-ts	ts	ch’och’ sutsu chi ha’	Q'eqchi'	1	t s
-ts$	ts	marts	Q'eqchi'	1	t s $
-t	t	kutan, najt roq	Q'eqchi'	269	t
-^t	t	tzolok, tawok	Q'eqchi'	223	^ t
-u	u	muquk, kuruk	Q'eqchi'	398	u
-^u	u	uch ch’o, ut	Q'eqchi'	17	^ u
-u$	u	hu, ewu	Q'eqchi'	50	u $
-^u$	u	u	Q'eqchi'	3	^ u $
-w	w	tawok, ka’j wi’	Q'eqchi'	66	w
-^w	w	wa, wankil	Q'eqchi'	44	^ w
-jw	xʷ	ka’ajwi’ laa’o, tz’ejwal	Q'eqchi'	3	j w
-qw	qʷ	anaqwan, tiqwal	Q'eqchi'	3	q w
-w$	w	palaw, kaw	Q'eqchi'	19	w $
-^jw	xʷ	jwees, jweb’es	Q'eqchi'	2	^ j w
-^kw	gʷ	kwenta, kwaart	Q'eqchi'	3	^ k w
-j	x	ka’j wi’, q'ojyin	Q'eqchi'	158	j
-^j	x	jachok, jochok	Q'eqchi'	111	^ j
-j$	x	awab'ej, yiib'ej	Q'eqchi'	76	j $
-z	z	tzolok, tz’ik	Q'eqchi'	128	z
-z$	z	b'olotz, jotz	Q'eqchi'	5	z $
-xs	ʃ s	nim xsa', maak'a' xsa'	Q'eqchi'	4	x s
-^xs	ʃ s	xsu oq, xsumenkil	Q'eqchi'	2	^ x s
-xw	ʃ w	oxwa	Q'eqchi'	1	x w
-^xw	ʃ w	xwah kar	Q'eqchi'	1	^ x w
-a'	a ʔ				a '
-a’	a ʔ				a \u2019
-a'$	a ʔ				a ' $
-a’$	a ʔ				a \u2019 $
-ks	k s	inyeksion, siksotk	Q'eqchi'	2	k s
-ls	l s	pulseer, papelseya	Q'eqchi'	2	l s
-ls$	l s	miercools	Q'eqchi'	1	l s $
-ms	m s	kamsink, lemskaaq	Q'eqchi'	8	m s
-ms$	m s	nums, k’ams	Q'eqchi'	3	m s $
-ns	n s	insekto, ganso	Q'eqchi'	3	n s
-ns$	n s	luuns, lisens	Q'eqchi'	2	n s $
-^nw	n w	nwes	Q'eqchi'	1	^ n w
-ps$	p s	paaps	Q'eqchi'	1	p s $
-^pw	p w	pwerta	Q'eqchi'	1	^ p w
-qs	q s	b'aqsotz'	Q'eqchi'	1	q s
-qs$	q s	poqs	Q'eqchi'	1	q s $
-rs	r s	sursu	Q'eqchi'	2	r s
-rs$	r s	myers, b’yers	Q'eqchi'	2	r s $
-rw	r w	serwees	Q'eqchi'	1	r w
-^tw	t w	tweek’asi	Q'eqchi'	1	^ t w
-u’	u ʔ				u \u2019
-js	x s	q'ajsink	Q'eqchi'	1	j s
-chh	tʃ + h	puchha'	Q'eqchi'	1	c h h
-a'a	a ʔ a	moko ch'a'aj ta, ch'a'aj	Q'eqchi'	2	a ' a
-lh	l + h	b’oolha’	Q'eqchi'	1	l h
-ll	l + l	tzolleb'aal	Q'eqchi'	1	l l
-nh	n + h	k’anha’	Q'eqchi'	1	n h
-nn	n + n	inna’ inyuwa’	Q'eqchi'	1	n n
-rh	r + h	porha'	Q'eqchi'	1	r h
-u'u	u ʔ u	uutz'u'uj	Q'eqchi'	1	u ' u
-^aq (1)$	a qʰ
-^aq (2)$	a qʰ
-^ayuunink rix$	a j uː n i n kʰ + ɾ i ʃ
-^b’aqlaq ch’iich’$	ɓ a q l a qʰ + tʃʼ iː tʃʼ
-^b’aqlaq xul$	ɓ a q l a qʰ + ʃ u l
-^b’eek chi ru ha’$	ɓ eː kʰ + tʃ i + ɾ u + h a ʔ
-^ch'inank ch'ool$	tʃʼ i n a n kʰ + tʃʼ oː l
-^chajok e$	tʃ a x o kʰ + e
-^chapok b'e$	tʃ a p o kʰ + ɓ e
-^chiqok tz’uum$	tʃ i q o kʰ + tsʼ uː m
-^eek'asink rix u$	eː kʼ a s i n kʰ + ɾ i ʃ + u
-^hulak chi uhej$	h u l a kʰ + tʃ i + u h e x
-^ilok ru hu$	i l o kʰ + ɾ u + h u
-^japink e$	x a p i n kʰ + e
-^k'ajik u$	k ʔ a x i kʰ + u
-^k'apok chi e$	k ʔ a p o kʰ + tʃ i + e
-^k'atq jolom$	k ʔ a t qʰ + x o l o m
-^k'atq sa'$	k ʔ a t qʰ + s a ʔ
-^k'ehok chuq'ub'$	k ʔ e h o kʰ + tʃ u qʼ u ɓ
-^k'ehok eetal$	k ʔ e h o kʰ + eː t a l
-^k'ehok k'anjel$	k ʔ e h o kʰ + kʼ a n x e l
-^k'ehok tiq$	k ʔ e h o kʰ + t i qʰ
-^k'uluk ib'$	k ʔ u l u kʰ + i ɓ
-^kanaak sa’ yu’am$	k a n aː kʰ + s a ʔ + j u ʔ a m
-^kaq koj$	k a qʰ + k o x
-^kaq sut iq’$	k a qʰ + s u tʰ + i qʼ
-^kiib'ank ch'ool$	k iː ɓ a n kʰ + tʃʼ oː l
-^kuyuk maak$	k u j u kʰ + m aː kʰ
-^kuyuk sa’$	k u j u kʰ + s a ʔ
-^k’amok b’e$	kʼ a m o kʰ + ɓ e
-^k’anasink rix$	kʼ a n a s i n kʰ + ɾ i ʃ
-^k’a’q re ru$	kʼ a ʔ qʰ + ɾ e + ɾ u
-^k’ehok xam$	kʼ e h o kʰ + ʃ a m
-^k’ot uk’$	kʼ o tʰ + u kʼ
-^k’utuk b’e$	kʼ u t u kʰ + ɓ e
-^lapok chi oq$	l a p o kʰ + tʃ i + o qʰ
-^maak (1)$	m aː kʰ
-^maak (2)$	m aː kʰ
-^muxuk sumlajik$	m u ʃ u kʰ + s u m l a x i kʰ
-^najt kutan$	n a x tʰ + k u t a n
-^najt roq$	n a x tʰ + ɾ o qʰ
-^najt xtenamit$	n a x tʰ + ʃ t e n a m i tʰ
-^najt xteram$	n a x tʰ + ʃ t e ɾ a m
-^naqk sa' ch'ool$	n a q kʰ + s a ʔ + tʃʼ oː l
-^nimank u$	n i m a n kʰ + u
-^nimob’eresink ib’$	n i m o ɓ e ɾ e s i n kʰ + i ɓ
-^numsink kutan$	n u m s i n kʰ + k u t a n
-^ok chi ha'$	o kʰ + tʃ i + h a ʔ
-^pak'ok aatin$	p a kʼ o kʰ + aː t i n
-^q'ichok e$	qʼ i tʃ o kʰ + e
-^q’axtesink ib’$	q ʔ a ʃ t e s i n kʰ + i ɓ
-^raqok aatin$	r a q o kʰ + aː t i n
-^raqok aatin chi rix$	r a q o kʰ + aː t i n + tʃ i + ɾ i ʃ
-^rit oq$	r i tʰ + o qʰ
-^roq ha’$	r o qʰ + h a ʔ
-^sachk sa' ch'ool$	s a tʃ kʰ + s a ʔ + tʃʼ oː l
-^sik'ok u$	s i kʼ o kʰ + u
-^sik’ok ib’$	s i kʼ o kʰ + i ɓ
-^sok jolomej$	s o kʰ + x o l o m e x
-^sumenk ru aatin$	s u m e n kʰ + ɾ u + aː t i n
-^suut ha’$	s uː tʰ + h a ʔ
-^taqe'k chi rix kawaay$	t a q e ʔ kʰ + tʃ i + ɾ i ʃ + k a w aː j
-^tarjeet postal$	t a ɾ x eː tʰ + p o s t a l
-^tat re$	t a tʰ + ɾ e
-^tawok xyaalal$	t a w o kʰ + ʃ j aː l a l
-^terq'usink k'ab'a'$	t e ɾ qʼ u s i n kʰ + kʼ a ɓ a ʔ
-^tihok u$	t i h o kʰ + u
-^tiik xch'ool$	t iː kʰ + ʃ tʃʼ oː l
-^tiqok ib'$	t i q o kʰ + i ɓ
-^tz'eqok ib'$	tsʼ e q o kʰ + i ɓ
-^tz'eqok ib’$	tsʼ e q o kʰ + i ɓ
-^xik (1)$	ʃ i kʰ
-^xik (2)$	ʃ i kʰ
-^xk’ot xik$	ʃ kʼ o tʰ + ʃ i kʰ
-^xmap oq$	ʃ m a pʰ + o qʰ
-^yot'ok ch'ool$	j o tʼ o kʰ + tʃʼ oː l
+Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
+$	NULL	92	U+0024		
+.	NULL	6	U+002E	"moko..._ta"	Q'eqchi'
+^e$	e	3	U+005E U+0065 U+0024	"e"	Q'eqchi'
+^u$	u	3	U+005E U+0075 U+0024	"u"	Q'eqchi'
+^ii$	iː	2	U+005E U+0069 U+0069 U+0024	"ii"	Q'eqchi'
+'	ʔ	136	U+0027	"hi'om_e,k'ulunk,yik'ti'ink"	
+-	+	1	U+002D	"aj-lab'aal_kutan"	Q'eqchi'
+_	_	431	U+005F	"aj_limoox,apusinel_na’ajej,kach'in_xteram"	Q'eqchi'
+a	a	984	U+0061	"anab’,lak’am,tzak"	Q'eqchi'
+b	b	5	U+0062	"alfombra,tiburon,tiimbr"	Q'eqchi'
+c	c	1	U+0063	"miercools"	Q'eqchi'
+d	d	8	U+0064	"elektrisidad,kordero,rueda"	Q'eqchi'
+e	e	442	U+0065	"chi_re_ha’,lemtz',remrem"	Q'eqchi'
+f	f	2	U+0066	"alfombra,elefaant"	Q'eqchi'
+g	g	5	U+0067	"b’orego,iglees,igo"	Q'eqchi'
+h	h	57	U+0068	"b'aanuheem,k’ihal,pekil_ha’"	Q'eqchi'
+i	i	584	U+0069	"chimam,k’anti’,ralal_ikan"	Q'eqchi'
+j	x	157	U+006A	"rajb'al_ru,tiklajik,wojok"	Q'eqchi'
+k	k	218	U+006B	"kiib'ank_ch'ool,pikok,tikto"	Q'eqchi'
+l	l	391	U+006C	"platiiy,po’lem,tiklaak"	Q'eqchi'
+m	m	167	U+006D	"kachimp,kameey,traamp"	Q'eqchi'
+n	n	427	U+006E	"aj_k’anjel,iitz’inb’ej,jultikank"	Q'eqchi'
+o	o	674	U+006F	"k'ixok,osob'tesinb'il,yalok"	Q'eqchi'
+p	p	59	U+0070	"alpiler,kampameent,raxpan"	Q'eqchi'
+q	q	114	U+0071	"b'iqok,naqk,tz'uqluk"	Q'eqchi'
+r	ɾ	187	U+0072	"ermiit,naraj,tore"	Q'eqchi'
+s	s	104	U+0073	"k'asok,releb'_saq'e,teneb’ankil_sa’_xb’een"	Q'eqchi'
+t	t	211	U+0074	"k'atzok,kutan,lotz_re"	Q'eqchi'
+u	u	417	U+0075	"kub’eek,rix_kux,xut’uk"	Q'eqchi'
+w	w	66	U+0077	"inna’_inyuwa’,kaw_rib',yuwa’"	Q'eqchi'
+x	ʃ	135	U+0078	"raxrax,retali_xyo’lajik,rexb’een"	Q'eqchi'
+y	j	92	U+0079	"anyooj,ch'uyuk,iyaj"	Q'eqchi'
+z	z	39	U+007A	"hutzuk,tzolok,tzonok’"	Q'eqchi'
+’	ʔ	48	U+2019	"laa’in,q’ol_is,q’unuk"	
+^a	a	107	U+005E U+0061	"alal,apuunk,arin"	Q'eqchi'
+^d	d	1	U+005E U+0064	"domiin"	Q'eqchi'
+^e	e	23	U+005E U+0065	"elk,ermiit,esilank"	Q'eqchi'
+^f	f	2	U+005E U+0066	"formon"	Q'eqchi'
+^g	g	2	U+005E U+0067	"ganso,granyon"	Q'eqchi'
+^h	h	47	U+005E U+0068	"hulak_chi_uhej,humuk,hux"	Q'eqchi'
+^i	i	46	U+005E U+0069	"ikan_na’,is,ixi’ij"	Q'eqchi'
+^j	x	109	U+005E U+006A	"jitb’il,jok',jorok"	Q'eqchi'
+^k	k	223	U+005E U+006B	"kanaleta,kenq’,kumb’"	Q'eqchi'
+^l	l	63	U+005E U+006C	"lajeeb'_syent,lob’o,loq'ok"	Q'eqchi'
+^m	m	83	U+005E U+006D	"may,mes,mol"	Q'eqchi'
+^n	n	60	U+005E U+006E	"na'ajink,na’chin,nuq'uk"	Q'eqchi'
+^o	o	27	U+005E U+006F	"oq'lok,osob'tesink,oxejer"	Q'eqchi'
+^p	p	100	U+005E U+0070	"pach'ok,po,poch’leb’"	Q'eqchi'
+^q	q	22	U+005E U+0071	"qapok,qeer,q’ol"	Q'eqchi'
+^r	r	127	U+005E U+0072	"repok,rok'ox,rueda"	Q'eqchi'
+^s	s	123	U+005E U+0073	"sa’_u’uj,sob'ok,soq'_re_karab'k"	Q'eqchi'
+^t	t	151	U+005E U+0074	"tahulaq,tixeer,tzekeem"	Q'eqchi'
+^u	u	17	U+005E U+0075	"uk'a',uk'ak,utz’"	Q'eqchi'
+^w	w	44	U+005E U+0077	"waalesink,wechelal,wiq'laak"	Q'eqchi'
+^x	ʃ	123	U+005E U+0078	"xb'e_ch'o,xkuxb'il,xook’"	Q'eqchi'
+^y	j	60	U+005E U+0079	"yiitoq,yik'ti'ink,yoq'ok"	Q'eqchi'
+a$	a	55	U+0061 U+0024	"kanaleta,oxwa,xb'alb'a"	Q'eqchi'
+a'	a ʔ	37	U+0061 U+0027	"chaq'na'b'ej,sa'_nim,sa'_xyi"	
+aa	aː	189	U+0061 U+0061	"kaahib',tzolleb'aal,xutaan"	Q'eqchi'
+a’	a ʔ	59	U+0061 U+2019	"cha’al,ka’ajwi’_laa’o,ka’ta"	
+b'	ɓ	152	U+0062 U+0027	"b'atb'a_uq',hasb'ak,kolb'eetank"	
+b’	ɓ	147	U+0062 U+2019	"jooleb’,t’usub’,xna’_b’eelom"	
+ch	tʃ	99	U+0063 U+0068	"jichok,k’iche’,paachach"	Q'eqchi'
+d$	d	3	U+0064 U+0024	"elektrisidad,periood,seb’aad"	Q'eqchi'
+e$	e	38	U+0065 U+0024	"japink_e,joq'e,te"	Q'eqchi'
+ee	eː	86	U+0065 U+0065	"juneet,kolb'eetank,tixeer"	Q'eqchi'
+f$	f	2	U+0066 U+0024	"estuuf,teleef"	Q'eqchi'
+g$	g	1	U+0067 U+0024	"testiig"	Q'eqchi'
+h$	h	2	U+0068 U+0024	"tuh,xchu’i_keh"	Q'eqchi'
+i$	i	10	U+0069 U+0024	"ji,ru_ji,tweek’asi"	Q'eqchi'
+ii	iː	68	U+0069 U+0069	"liib'r,pastiiy,rax_ch'iich'"	Q'eqchi'
+j$	x	77	U+006A U+0024	"awab'ej,hulak_chi_uhej,ichaj"	Q'eqchi'
+js	x s	1	U+006A U+0073	"q'ajsink"	Q'eqchi'
+jw	xʷ	3	U+006A U+0077	"ka’ajwi’_laa’o,tz'ejwal,tz’ejwal"	Q'eqchi'
+k$	kʰ	533	U+006B U+0024	"aatinamank,suq'iik,yalok"	
+k'	kʼ	54	U+006B U+0027	"kok'_xul,pisk'ok,poolok'il"	
+ks	k s	2	U+006B U+0073	"inyeksion,siksotk"	Q'eqchi'
+k’	kʼ	32	U+006B U+2019	"aak’ab’,ink’a’_k’i,ruk’in"	
+l$	l	262	U+006C U+0024	"ch'otolal,lukub’al,ralal_xk’ajol"	Q'eqchi'
+lh	l + h	1	U+006C U+0068	"b’oolha’"	Q'eqchi'
+ll	l + l	1	U+006C U+006C	"tzolleb'aal"	Q'eqchi'
+ls	l s	2	U+006C U+0073	"papelseya,pulseer"	Q'eqchi'
+m$	m	99	U+006D U+0024	"lem,na'_uq'm,yu'am"	Q'eqchi'
+ms	m s	8	U+006D U+0073	"kamsiil,kamsink,sumsuukil"	Q'eqchi'
+n$	n	127	U+006E U+0024	"b'an,raqol_aatin,teneb’ankil_sa’_xb’een"	Q'eqchi'
+nh	n + h	1	U+006E U+0068	"k’anha’"	Q'eqchi'
+nn	n + n	1	U+006E U+006E	"inna’_inyuwa’"	Q'eqchi'
+ns	n s	3	U+006E U+0073	"b’alq’unsink,ganso,insekto"	Q'eqchi'
+o$	o	47	U+006F U+0024	"b’orego,kordero,laa’o"	Q'eqchi'
+oo	oː	56	U+006F U+006F	"b’oom,ch'oolej,sooyom"	Q'eqchi'
+p$	pʰ	9	U+0070 U+0024	"jip,kachimp,traamp"	
+q$	qʰ	71	U+0071 U+0024	"choq,kaan_ru_ixq,kaaq"	
+q'	qʼ	68	U+0071 U+0027	"oxloq'ink,uq'mink,yeq'ok"	
+qs	q s	1	U+0071 U+0073	"b'aqsotz'"	Q'eqchi'
+qw	qʷ	3	U+0071 U+0077	"anaqwan,tiqwal"	Q'eqchi'
+q’	qʼ	40	U+0071 U+2019	"kaqlaaq’,ral_chaq’na’,tu’q’ixq"	
+r$	r	38	U+0072 U+0024	"eskaleer,karneer,t’ikr"	Q'eqchi'
+rh	r + h	1	U+0072 U+0068	"porha'"	Q'eqchi'
+rs	r s	2	U+0072 U+0073	"sursu"	Q'eqchi'
+rw	r w	1	U+0072 U+0077	"serwees"	Q'eqchi'
+s$	s	35	U+0073 U+0024	"mes,moos,taas"	Q'eqchi'
+t$	tʰ	60	U+0074 U+0024	"peteet,q'ut,tenamit"	
+t'	tʼ	15	U+0074 U+0027	"at'isb'ak,jot'ok,nat'leb'"	
+ts	ts	1	U+0074 U+0073	"ch’och’_sutsu_chi_ha’"	Q'eqchi'
+t’	tʼ	2	U+0074 U+2019	"let’ok,xut’uk"	
+u$	u	52	U+0075 U+0024	"nim_ru,tz’aqal_re_ru,xya'al_u"	Q'eqchi'
+uu	uː	55	U+0075 U+0075	"jalam_’uuch,k'uub'leb'aal,puub'ank"	Q'eqchi'
+u’	u ʔ	9	U+0075 U+2019	"chu’ke,sa’_u’uj,uutz’u’uj"	
+w$	w	20	U+0077 U+0024	"chakow,palaw,xiw"	Q'eqchi'
+x$	ʃ	57	U+0078 U+0024	"b'oox,b’ooyx,hix"	Q'eqchi'
+xs	ʃ s	4	U+0078 U+0073	"nim_xsa',oxsut,xyalb’al_xsahil"	Q'eqchi'
+xw	ʃ w	1	U+0078 U+0077	"oxwa"	Q'eqchi'
+y$	j	33	U+0079 U+0024	"jay,taqe'k_chi_rix_kawaay,torniiy"	Q'eqchi'
+z$	z	5	U+007A U+0024	"b'olotz,jotz,katzkatz"	Q'eqchi'
+’$	ʔ	17	U+2019 U+0024	"che’,chocho’,si’"	Q'eqchi'
+^aa	aː	7	U+005E U+0061 U+0061	"aak’ab’,aatin,aatinamank"	Q'eqchi'
+^b'	ɓ	58	U+005E U+0062 U+0027	"b'aqel_xb'een_tel,b'aqx,b'ich"	
+^b’	ɓ	58	U+005E U+0062 U+2019	"b’aanunk,b’eek,b’oot"	
+^ch	tʃ	60	U+005E U+0063 U+0068	"cha,chikleb’,chocho’"	Q'eqchi'
+^ee	eː	8	U+005E U+0065 U+0065	"eeb’,eek'ank,eetal"	Q'eqchi'
+^ii	iː	5	U+005E U+0069 U+0069	"iib'ej,iitz’in,iitz’inb’ej"	Q'eqchi'
+^jw	xʷ	1	U+005E U+006A U+0077	"jwees"	Q'eqchi'
+^kw	gʷ	2	U+005E U+006B U+0077	"kwaart,kwenta"	Q'eqchi'
+^k’	kʼ	44	U+005E U+006B U+2019	"k’ehok_xam,k’ox,k’ux"	
+^nw	n w	1	U+005E U+006E U+0077	"nwes"	Q'eqchi'
+^oo	oː	4	U+005E U+006F U+006F	"oob',oor,oos"	Q'eqchi'
+^pw	p w	1	U+005E U+0070 U+0077	"pwerta"	Q'eqchi'
+^q'	qʼ	39	U+005E U+0071 U+0027	"q'a,q'ajk,q'alnak"	
+^t'	tʼ	18	U+005E U+0074 U+0027	"t'ort'o,t'uru'_xjolom,t'ust'u"	
+^tw	t w	1	U+005E U+0074 U+0077	"tweek’asi"	Q'eqchi'
+^t’	tʼ	5	U+005E U+0074 U+2019	"t’ane’k,t’ikr,t’usub’"	
+^uu	uː	4	U+005E U+0075 U+0075	"uul,uutz'u'uj,uutz’u’uj"	Q'eqchi'
+^xs	ʃ s	2	U+005E U+0078 U+0073	"xsu_oq,xsumenkil"	Q'eqchi'
+^xw	ʃ w	1	U+005E U+0078 U+0077	"xwah_kar"	Q'eqchi'
+^xx	ʃː	1	U+005E U+0078 U+0078	"xxaqab’ankil"	Q'eqchi'
+a'$	a ʔ	17	U+0061 U+0027 U+0024	"k'atq_sa',maak'a'_xsa',puchha'"	
+a'a	a ʔ a	20	U+0061 U+0027 U+0061	"ja'ajul,moko_ch'a'aj_ta,na'ajil"	Q'eqchi'
+aa$	aː	2	U+0061 U+0061 U+0024	"soldaa"	Q'eqchi'
+a’$	a ʔ	47	U+0061 U+2019 U+0024	"ha’,nima’,yuwa’"	
+b'$	ɓ	58	U+0062 U+0027 U+0024	"na'leb',oob',wa_re_wa'leb'"	
+ch$	tʃ	24	U+0063 U+0068 U+0024	"ochoch,oqech,paachach"	Q'eqchi'
+ch'	tʃʼ	46	U+0063 U+0068 U+0027	"b'ach'b'o,pech'ol_che',sahil_ch'oolej"	
+chh	tʃ + h	1	U+0063 U+0068 U+0068	"puchha'"	Q'eqchi'
+ch’	tʃʼ	21	U+0063 U+0068 U+2019	"b’ich’ok,ink’a’_ch’olch’o,mich’ok"	
+k'$	kʼ	9	U+006B U+0027 U+0024	"raaxiik',sek',xeek'"	
+k’$	kʼ	21	U+006B U+2019 U+0024	"kok’,saak’,xook’"	
+ls$	l s	1	U+006C U+0073 U+0024	"miercools"	Q'eqchi'
+ms$	m s	3	U+006D U+0073 U+0024	"k’ams,mams,nums"	Q'eqchi'
+ns$	n s	2	U+006E U+0073 U+0024	"lisens,luuns"	Q'eqchi'
+ps$	p s	1	U+0070 U+0073 U+0024	"paaps"	Q'eqchi'
+q'$	qʼ	16	U+0071 U+0027 U+0024	"chaq',naq',roq'roq'"	
+qs$	q s	1	U+0071 U+0073 U+0024	"poqs"	Q'eqchi'
+rs$	r s	1	U+0072 U+0073 U+0024	"b’yers"	Q'eqchi'
+t'$	tʼ	2	U+0074 U+0027 U+0024	"b'ut',loot'"	
+ts$	ts	1	U+0074 U+0073 U+0024	"marts"	Q'eqchi'
+tz'	tsʼ	19	U+0074 U+007A U+0027	"asuukr_utz'ajl,utz'uk,yatz'ok"	
+tz’	tsʼ	13	U+0074 U+007A U+2019	"chiqok_tz’uum,rutz’b’al,utz’uk"	
+u'u	u ʔ u	7	U+0075 U+0027 U+0075	"chu'uk,ru'uj,uutz'u'uj"	Q'eqchi'
+^ch'	tʃʼ	34	U+005E U+0063 U+0068 U+0027	"ch'a'aj,ch'e'ok,ch'otolal"	
+^ch’	tʃʼ	26	U+005E U+0063 U+0068 U+2019	"ch’een,ch’ina_teelom,ch’utub’ank"	
+^tz'	tsʼ	29	U+005E U+0074 U+007A U+0027	"tz'alamche',tz'apb'al_oq,tz'okaak"	
+^tz’	tsʼ	18	U+005E U+0074 U+007A U+2019	"tz’aak,tz’ak,tz’aqal_re_ru"	
+ch'$	tʃʼ	16	U+0063 U+0068 U+0027 U+0024	"b'ach'_b'ach',ch'iich',ch'ina_ch'iich'"	
+ch’$	tʃʼ	11	U+0063 U+0068 U+2019 U+0024	"ch’och’,ich’,ru_chi_ch’och’"	
+tz'$	tsʼ	5	U+0074 U+007A U+0027 U+0024	"b'aqsotz',jutz',lemtz'"	
+tz’$	tsʼ	4	U+0074 U+007A U+2019 U+0024	"b’atz’,kok’_utz’,sotz’"	
