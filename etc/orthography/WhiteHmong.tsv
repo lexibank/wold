@@ -1,18 +1,19 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 $	NULL				$
 ^	NULL				^
-b$	NULL	nyob, tub	White Hmong	270	b $
-g$	NULL	yog, lig	White Hmong	163	g $
-j$	NULL	phaj, kaj	White Hmong	168	j $
-m$	NULL	niam, saum	White Hmong	164	m $
-s$	NULL	mis, ntaus	White Hmong	173	s $
-v$	NULL	ntawv, yuav	White Hmong	221	v $
-b{}	NULL				b { }
-g{}	NULL				g { }
-j{}	NULL				j { }
-m{}	NULL				m { }
-s{}	NULL				s { }
-v{}	NULL				v { }
+_	+
+b$	˥/	nyob, tub	White Hmong	270	b $
+g$	˧˩/	yog, lig	White Hmong	163	g $
+j$	˥˧/	phaj, kaj	White Hmong	168	j $
+m$	˨˩˧/	niam, saum	White Hmong	164	m $
+s$	˩/	mis, ntaus	White Hmong	173	s $
+v$	˧˦/	ntawv, yuav	White Hmong	221	v $
+b_	˥/				b { }
+g_	˧˩/				g { }
+j_	˥˧/				j { }
+m_	˨˩˧/				m { }
+s_	˩/				s { }
+v_	˧˦/				v { }
 aa	ã	naas mom, naam	White Hmong	4	a a
 ee	ẽ	nees, luam yeeb	White Hmong	82	e e
 hm	m̥				h m
@@ -35,7 +36,6 @@ w	ɯ	ntawv, chaw mos	White Hmong	104	w
 ^w	ɯ	wm	White Hmong	1	^ w
 w$	ɯ	saw, caw	White Hmong	9	w $
 ^w$	ɯ	w	White Hmong	1	^ w $
-_	_	nrog tu siab, ua li cas	White Hmong	736	_
 a	a	niam tais, puab-tsaig	White Hmong	1035	a
 ^a	a	av nplaum, aws	White Hmong	7	^ a
 a$	a	tua, hnia	White Hmong	48	a $

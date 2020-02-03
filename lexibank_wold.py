@@ -104,6 +104,14 @@ class Dataset(CLLD):
             )
             row.pop("Segments")
 
+            # For WhiteHmong, we need to map all spaces to underscores:
+            # while it is possible to deal with end-of-word contexts in
+            # other languages (see the example of Qeqchi), in this case we
+            # would need to manually map all entries (like for English)
+            # due to the tones being expressed with end-of-word consonants
+            if row['Language_ID'] == "WhiteHmong":
+                row['Form'] = row['Form'].replace(" ", "_")
+
             args.writer.add_form(
                 **{
                     k: v

@@ -85,10 +85,6 @@ k$	kʰ				k $
 p$	pʰ				p $
 q$	qʰ				q $
 t$	tʰ				t $
-k{}	kʰ				k { }
-p{}	pʰ				p { }
-q{}	qʰ				q { }
-t{}	tʰ				t { }
 i	i	chi rix, nimla tenamit	Q'eqchi'	545	i
 ^i	i	ixq, isb’	Q'eqchi'	45	^ i
 i$	i	ink’a’ k’i, sa' xyi	Q'eqchi'	8	i $
@@ -97,7 +93,6 @@ y	j	b’ayk, q'oyok	Q'eqchi'	90	y
 y$	j	may, b’ab’ay	Q'eqchi'	33	y $
 k	k	xk’a’uxlankil, aj k’aak’alehom ketomq	Q'eqchi'	332	k
 ^k	k	kamenaq, karneer	Q'eqchi'	275	^ k
-k$	k	jachok, ch'e'ok	Q'eqchi'	518	k $
 l	l	eelelik, tojleb'aal maak	Q'eqchi'	374	l
 ^l	l	lem, lemskaaq	Q'eqchi'	66	^ l
 l$	l	al, wankil	Q'eqchi'	265	l $
@@ -112,10 +107,8 @@ o	o	tzolok, jochok	Q'eqchi'	594	o
 o$	o	ha’o, b’uro	Q'eqchi'	44	o $
 p	p	ch'epok, pumpuukil ha’	Q'eqchi'	59	p
 ^p	p	palaw, patz'ok	Q'eqchi'	103	^ p
-p$	p	jip, kachimp	Q'eqchi'	10	p $
 q	q	muquk, saaraq'ik	Q'eqchi'	241	q
 ^q	q	q'un, q’ol	Q'eqchi'	61	^ q
-q$	q	kamenaq, ixq	Q'eqchi'	69	q $
 r	ɾ	b'urux b'urux, karneer	Q'eqchi'	188	r
 ^r	r	remrem, raqok aatin	Q'eqchi'	129	^ r
 r$	r	karneer, xmar	Q'eqchi'	39	r $
@@ -126,7 +119,6 @@ ts	ts	ch’och’ sutsu chi ha’	Q'eqchi'	1	t s
 ts$	ts	marts	Q'eqchi'	1	t s $
 t	t	kutan, najt roq	Q'eqchi'	269	t
 ^t	t	tzolok, tawok	Q'eqchi'	223	^ t
-t$	t	nimla tenamit, meet	Q'eqchi'	61	t $
 u	u	muquk, kuruk	Q'eqchi'	398	u
 ^u	u	uch ch’o, ut	Q'eqchi'	17	^ u
 u$	u	hu, ewu	Q'eqchi'	50	u $
@@ -177,3 +169,79 @@ nh	n + h	k’anha’	Q'eqchi'	1	n h
 nn	n + n	inna’ inyuwa’	Q'eqchi'	1	n n
 rh	r + h	porha'	Q'eqchi'	1	r h
 u'u	u ʔ u	uutz'u'uj	Q'eqchi'	1	u ' u
+^aq (1)$	a qʰ
+^aq (2)$	a qʰ
+^ayuunink rix$	a j uː n i n kʰ + ɾ i ʃ
+^b’aqlaq ch’iich’$	ɓ a q l a qʰ + tʃʼ iː tʃʼ
+^b’aqlaq xul$	ɓ a q l a qʰ + ʃ u l
+^b’eek chi ru ha’$	ɓ eː kʰ + tʃ i + ɾ u + h a ʔ
+^ch'inank ch'ool$	tʃʼ i n a n kʰ + tʃʼ oː l
+^chajok e$	tʃ a x o kʰ + e
+^chapok b'e$	tʃ a p o kʰ + ɓ e
+^chiqok tz’uum$	tʃ i q o kʰ + tsʼ uː m
+^eek'asink rix u$	eː kʼ a s i n kʰ + ɾ i ʃ + u
+^hulak chi uhej$	h u l a kʰ + tʃ i + u h e x
+^ilok ru hu$	i l o kʰ + ɾ u + h u
+^japink e$	x a p i n kʰ + e
+^k'ajik u$	k ʔ a x i kʰ + u
+^k'apok chi e$	k ʔ a p o kʰ + tʃ i + e
+^k'atq jolom$	k ʔ a t qʰ + x o l o m
+^k'atq sa'$	k ʔ a t qʰ + s a ʔ
+^k'ehok chuq'ub'$	k ʔ e h o kʰ + tʃ u qʼ u ɓ
+^k'ehok eetal$	k ʔ e h o kʰ + eː t a l
+^k'ehok k'anjel$	k ʔ e h o kʰ + kʼ a n x e l
+^k'ehok tiq$	k ʔ e h o kʰ + t i qʰ
+^k'uluk ib'$	k ʔ u l u kʰ + i ɓ
+^kanaak sa’ yu’am$	k a n aː kʰ + s a ʔ + j u ʔ a m
+^kaq koj$	k a qʰ + k o x
+^kaq sut iq’$	k a qʰ + s u tʰ + i qʼ
+^kiib'ank ch'ool$	k iː ɓ a n kʰ + tʃʼ oː l
+^kuyuk maak$	k u j u kʰ + m aː kʰ
+^kuyuk sa’$	k u j u kʰ + s a ʔ
+^k’amok b’e$	kʼ a m o kʰ + ɓ e
+^k’anasink rix$	kʼ a n a s i n kʰ + ɾ i ʃ
+^k’a’q re ru$	kʼ a ʔ qʰ + ɾ e + ɾ u
+^k’ehok xam$	kʼ e h o kʰ + ʃ a m
+^k’ot uk’$	kʼ o tʰ + u kʼ
+^k’utuk b’e$	kʼ u t u kʰ + ɓ e
+^lapok chi oq$	l a p o kʰ + tʃ i + o qʰ
+^maak (1)$	m aː kʰ
+^maak (2)$	m aː kʰ
+^muxuk sumlajik$	m u ʃ u kʰ + s u m l a x i kʰ
+^najt kutan$	n a x tʰ + k u t a n
+^najt roq$	n a x tʰ + ɾ o qʰ
+^najt xtenamit$	n a x tʰ + ʃ t e n a m i tʰ
+^najt xteram$	n a x tʰ + ʃ t e ɾ a m
+^naqk sa' ch'ool$	n a q kʰ + s a ʔ + tʃʼ oː l
+^nimank u$	n i m a n kʰ + u
+^nimob’eresink ib’$	n i m o ɓ e ɾ e s i n kʰ + i ɓ
+^numsink kutan$	n u m s i n kʰ + k u t a n
+^ok chi ha'$	o kʰ + tʃ i + h a ʔ
+^pak'ok aatin$	p a kʼ o kʰ + aː t i n
+^q'ichok e$	qʼ i tʃ o kʰ + e
+^q’axtesink ib’$	q ʔ a ʃ t e s i n kʰ + i ɓ
+^raqok aatin$	r a q o kʰ + aː t i n
+^raqok aatin chi rix$	r a q o kʰ + aː t i n + tʃ i + ɾ i ʃ
+^rit oq$	r i tʰ + o qʰ
+^roq ha’$	r o qʰ + h a ʔ
+^sachk sa' ch'ool$	s a tʃ kʰ + s a ʔ + tʃʼ oː l
+^sik'ok u$	s i kʼ o kʰ + u
+^sik’ok ib’$	s i kʼ o kʰ + i ɓ
+^sok jolomej$	s o kʰ + x o l o m e x
+^sumenk ru aatin$	s u m e n kʰ + ɾ u + aː t i n
+^suut ha’$	s uː tʰ + h a ʔ
+^taqe'k chi rix kawaay$	t a q e ʔ kʰ + tʃ i + ɾ i ʃ + k a w aː j
+^tarjeet postal$	t a ɾ x eː tʰ + p o s t a l
+^tat re$	t a tʰ + ɾ e
+^tawok xyaalal$	t a w o kʰ + ʃ j aː l a l
+^terq'usink k'ab'a'$	t e ɾ qʼ u s i n kʰ + kʼ a ɓ a ʔ
+^tihok u$	t i h o kʰ + u
+^tiik xch'ool$	t iː kʰ + ʃ tʃʼ oː l
+^tiqok ib'$	t i q o kʰ + i ɓ
+^tz'eqok ib'$	tsʼ e q o kʰ + i ɓ
+^tz'eqok ib’$	tsʼ e q o kʰ + i ɓ
+^xik (1)$	ʃ i kʰ
+^xik (2)$	ʃ i kʰ
+^xk’ot xik$	ʃ kʼ o tʰ + ʃ i kʰ
+^xmap oq$	ʃ m a pʰ + o qʰ
+^yot'ok ch'ool$	j o tʼ o kʰ + tʃʼ oː l
