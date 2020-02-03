@@ -18,19 +18,19 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/wold",
-            "dc:created": "v3.0-7-g54040e7"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.1-20-gea2ca69"
+            "dc:created": "v3.0-9-gd85047f"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "dc:created": "v2.2.1a-90-ge34e420"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.1-20-gea2ca69"
         },
         {
             "rdf:type": "prov:Entity",

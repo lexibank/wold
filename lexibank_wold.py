@@ -60,15 +60,21 @@ class Dataset(CLLD):
         first_form_only=True,
         brackets={},  # each language is different, need to do manually
         replacements=[
-            (" ", "_"),
+            (" (1)", ""),
+            (" (2)", ""),
+            (" (3)", ""),
+            (" (4)", ""),
+            (" (5)", ""),
+            (" (6)", ""),
+            ("(f.)", ""),
             ("(1)", ""),
             ("(2)", ""),
-            ("(2", ""),
             ("(3)", ""),
             ("(4)", ""),
             ("(5)", ""),
             ("(6)", ""),
-            ("(f.)", ""),
+            ("(2", ""),
+            (" ", "_"),
         ],
     )
 
@@ -113,7 +119,7 @@ class Dataset(CLLD):
             row["Language_ID"] = language_lookup[row["Language_ID"]]
             row["Parameter_ID"] = concept_lookup[row["Parameter_ID"]]
 
-            row["Value"] = row["Form"]
+            row["Value"] = row.pop("Form")
             row["Loan"] = float(row["BorrowedScore"]) > 0.6
             row["original_script"] = normalize_text(row["original_script"])
             row["comment_on_borrowed"] = normalize_text(
@@ -121,36 +127,7 @@ class Dataset(CLLD):
             )
             row.pop("Segments")
 
-            # CHECK: Manually apply replacaments from `etc/lexemes.csv`
-            row["Form"] = self.lexemes.get(row["Form"], row["Form"])
-
-            # CHECK: Manually separate using `form_spec`
-            # NOTE: We cannot separate over slashes in all languages because
-            #       in a number of them the slash is actually an orthographic
-            #       character
-            for sep in self.form_spec.separators:
-                row["Form"] = row["Form"].split(sep)[0].strip()
-            if row["Language_ID"] in [
-                "Oroqen",
-                "Romanian",
-                "SeychellesCreole",
-                "LowerSorbian",
-                "SeliceRomani",
-                "OldHighGerman",
-                "Kanuri",
-                "Mapudungun",
-            ]:
-                row["Form"] = row["Form"].split("/")[0].strip()
-
-            # CHECK: Manually apply replacements from `form_spec`
-            for repl in sorted(
-                self.form_spec.replacements,
-                key=lambda r: len(r[0]),
-                reverse=True,
-            ):
-                row["Form"] = row["Form"].replace(repl[0], repl[1]).strip()
-
-            args.writer.add_form(
+            args.writer.add_forms_from_value(
                 **{
                     k: v
                     for k, v in row.items()
