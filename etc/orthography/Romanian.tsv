@@ -1,6 +1,8 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 $	NULL				$
 ^	NULL				^
+(	NULL
+)	NULL
 -	+	corb-de-mare, anghilă-de-râu	Romanian	7	-
 ă	ə	bărbătesc, mătuşă	Romanian	352	\u0103
 ǎ	ə	hǎu, nǎmol	Romanian	4	\u01ce

@@ -5,6 +5,7 @@ import re
 from pylexibank import Lexeme, Language
 from pylexibank.providers.clld import CLLD
 from pylexibank.util import progressbar
+from pylexibank import FormSpec
 
 from clldutils.misc import slug
 
@@ -54,6 +55,22 @@ class Dataset(CLLD):
     id = "wold"
     lexeme_class = CustomLexeme
     language_class = CustomLanguage
+    form_spec = FormSpec(
+        separators="~,",
+        first_form_only=True,
+        brackets={},  # each language is different, need to do manually
+        replacements=[
+            (" ", "_"),
+            ("(1)", ""),
+            ("(2)", ""),
+            ("(2", ""),
+            ("(3)", ""),
+            ("(4)", ""),
+            ("(5)", ""),
+            ("(6)", ""),
+            ("(f.)", ""),
+        ],
+    )
 
     def cmd_makecldf(self, args):
         # add the bibliographic sources
@@ -104,13 +121,34 @@ class Dataset(CLLD):
             )
             row.pop("Segments")
 
-            # For WhiteHmong, we need to map all spaces to underscores:
-            # while it is possible to deal with end-of-word contexts in
-            # other languages (see the example of Qeqchi), in this case we
-            # would need to manually map all entries (like for English)
-            # due to the tones being expressed with end-of-word consonants
-            if row['Language_ID'] == "WhiteHmong":
-                row['Form'] = row['Form'].replace(" ", "_")
+            # CHECK: Manually apply replacaments from `etc/lexemes.csv`
+            row["Form"] = self.lexemes.get(row["Form"], row["Form"])
+
+            # CHECK: Manually separate using `form_spec`
+            # NOTE: We cannot separate over slashes in all languages because
+            #       in a number of them the slash is actually an orthographic
+            #       character
+            for sep in self.form_spec.separators:
+                row["Form"] = row["Form"].split(sep)[0].strip()
+            if row["Language_ID"] in [
+                "Oroqen",
+                "Romanian",
+                "SeychellesCreole",
+                "LowerSorbian",
+                "SeliceRomani",
+                "OldHighGerman",
+                "Kanuri",
+                "Mapudungun",
+            ]:
+                row["Form"] = row["Form"].split("/")[0].strip()
+
+            # CHECK: Manually apply replacements from `form_spec`
+            for repl in sorted(
+                self.form_spec.replacements,
+                key=lambda r: len(r[0]),
+                reverse=True,
+            ):
+                row["Form"] = row["Form"].replace(repl[0], repl[1]).strip()
 
             args.writer.add_form(
                 **{

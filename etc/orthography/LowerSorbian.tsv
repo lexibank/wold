@@ -1,6 +1,8 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 $	NULL				$
 ^	NULL				^
+(	NULL
+)	NULL
 ?$	NULL	wjele?, cogodla?	Lower Sorbian	9	? $
 ł	u̯	swětły, wołaś	Lower Sorbian	169	\u0142
 ^ł	u̯	łapiś, łapotka	Lower Sorbian	13	^ \u0142

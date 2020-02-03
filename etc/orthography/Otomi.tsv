@@ -2,6 +2,8 @@ Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 $	NULL				$
 ^	NULL				^
 _	NULL	ya bätsi ne ya 'be̲to, 'ño̲ho̲ 'yo xi hño	Otomi	426	_
+(	NULL
+)	NULL
 '_	NULL	ni' nandi	Otomi	1	' _
 ?$	NULL	tengu?, hangu?	Otomi	18	? $
 t	t̪	ät’i, nt’ut’i nt'o̲t'e	Otomi	526	t

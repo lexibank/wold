@@ -1,11 +1,16 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 $	NULL				$
+(	NULL
+)	NULL
+[	NULL
+]	NULL
 .	NULL	i-...-pa	Kali'na	3	.
 ^	NULL				^
 -	+	-palɨ, -mitɨ	Kali'na	140	-
 ll	lː	mille	Kali'na	1	l l
 tt	tː	serviette	Kali'na	1	t t
 ii$	iː	kupii	Kali'na	1	i i $
+ïi	iː
 nn$	nː	simenn	Kali'na	1	n n $
 ’	ʔ	pa’u, masi’pe	Kali'na	59	\u2019
 ch	ʃ	machine, cachot	Kali'na	6	c h

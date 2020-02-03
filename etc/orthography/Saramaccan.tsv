@@ -1,16 +1,20 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 $	NULL				$
 ^	NULL				^
+_[someone]_	#
+_[noun]_	#
 aa	aː	paatí, kaabíta	Saramaccan	26	a a
 áá	áː/aː	sáápi, sáápísáápi	Saramaccan	11	\xe1 \xe1
 ee	eː	peevú, peetá	Saramaccan	5	e e
 éé	éː/eː	gééja, fééda	Saramaccan	5	\xe9 \xe9
 ëë	ëː/ɛː	fëëbë́, fëëkë́të	Saramaccan	4	\xeb \xeb
+ëë́	ëː/ɛː
 ii	iː	akiikö́ u máun, piizíi	Saramaccan	11	i i
 íí	íː/iː	káúmííi, ásímííi	Saramaccan	5	\xed \xed
 oo	oː	toosá, koofája	Saramaccan	11	o o
 óó	óː/oː	sóófu, wósúgóón	Saramaccan	7	\xf3 \xf3
 öö	öː/ɔː	mbéi köökö́ö, töönsö́n	Saramaccan	2	\xf6 \xf6
+öö́	öː/ɔː
 uu	uː	buuká, duumí	Saramaccan	7	u u
 úú	úː/uː	wójókókóópúúma, wójólíbápúúma	Saramaccan	2	\xfa \xfa
 aa$	aː	jaa, tjangaa	Saramaccan	3	a a $

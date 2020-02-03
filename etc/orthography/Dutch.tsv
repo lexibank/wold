@@ -1182,7 +1182,7 @@ Grapheme	IPA	Languages
 ^knipperen$	k n ɪ p ə r ə	Dutch
 ^kwartel$	k ʋ ɑ r t ə l	Dutch
 ^lucifer$	l yː s iː f ɛ r	Dutch
-^laat zijn$	l aː t _ z ɛi n	Dutch
+^laat_zijn$	l aː t # z ɛi n	Dutch
 ^loslaten$	l ɔ s l aː t ə	Dutch
 ^losmaken$	l ɔ s m aː k ə	Dutch
 ^luisteren$	l œy s t ə r ə	Dutch
@@ -1193,7 +1193,7 @@ Grapheme	IPA	Languages
 ^mannelijk$	m ɑ n ə l ə k	Dutch
 ^mompelen$	m ɔ m p ə l ə	Dutch
 ^muilezel$	m œy l eː z ə l	Dutch
-^nettas$	n ɛ t _ t ɑ s	Dutch
+^nettas$	n ɛ t # t ɑ s	Dutch
 ^ongeluk$	ɔ ŋ ɣ ə l ʏ k	Dutch
 ^opdragen$	ɔ b d r aː ɣ ə	Dutch
 ^omdraaien$	ɔ m d r aː j ə	Dutch
@@ -1293,7 +1293,7 @@ Grapheme	IPA	Languages
 ^hoofdband$	h oː v d b ɑ n t	Dutch
 ^handelaar$	h ɑ n d ə l aː r	Dutch
 ^handschoen$	h ɑ n t s x uː n	Dutch
-^houden van$	h ɑu d ə _ v ɑ n	Dutch
+^houden_van$	h ɑu d ə # v ɑ n	Dutch
 ^kokosnoot$	k oː k ɔ s n oː t	Dutch
 ^kalender$	k aː l ɛ n d ə r	Dutch
 ^kakkerlak$	k ɑ k ə r l ɑ k	Dutch
@@ -1351,7 +1351,7 @@ Grapheme	IPA	Languages
 ^volgende$	v ɔ l ɣ ə n d ə	Dutch
 ^vrouwelijk$	v r ɑu ʋ ə l ə k	Dutch
 ^vrouwtjes-$	v r ɑu ʋ t j ə s	Dutch
-^gaan liggen$	x aː n _ l ɪ ɣ ə	Dutch
+^gaan_liggen$	x aː n # l ɪ ɣ ə	Dutch
 ^gevangene$	x ə v ɑ ŋ ə n ə	Dutch
 ^glimlachen$	x l ɪ m l ɑ x ə	Dutch
 ^glimworm$	x l ɪ m ʋ ɔ r m	Dutch
@@ -1376,7 +1376,7 @@ Grapheme	IPA	Languages
 ^hongersnood$	h ɔ ŋ ə r s n oː t	Dutch
 ^kameleon$	k aː m eː l eː j ɔ n	Dutch
 ^kleermaker$	k l eː r m aː k ə r	Dutch
-^laten vallen$	l aː t ə _ v ɑ l ə	Dutch
+^laten_vallen$	l aː t ə # v ɑ l ə	Dutch
 ^lichaamshaar$	l ɪ x aː m s h aː r	Dutch
 ^motorfiets$	m oː t ɔ r f iː t s	Dutch
 ^neusvleugel$	n øː s f l øː ɣ ə l	Dutch
@@ -1390,9 +1390,9 @@ Grapheme	IPA	Languages
 ^pottenbakker$	p ɔ t ə b ɑ k ə r	Dutch
 ^president$	p r eː z iː d ɛ n t	Dutch
 ^samenvoegen$	s aː m ə n v uː ɣ ə	Dutch
-^seks hebben$	s ɛ k s _ h ɛ b ə	Dutch
+^seks_hebben$	s ɛ k s # h ɛ b ə	Dutch
 ^sleutelbeen$	s l øː t ə l b eː n	Dutch
-^spijt hebben$	s p ɛi t _ h ɛ b ə	Dutch
+^spijt_hebben$	s p ɛi t # h ɛ b ə	Dutch
 ^sprinkhaan$	s p r ɪ ŋ k h aː n	Dutch
 ^stiefmoeder$	s t iː f m uː d ə r	Dutch
 ^standbeeld$	s t ɑ n d b eː l t	Dutch
@@ -1414,7 +1414,7 @@ Grapheme	IPA	Languages
 ^verkoudheid$	v ə r k ɑu t h ɛi t	Dutch
 ^vernietigen$	v ə r n iː t ə ɣ ə	Dutch
 ^verzamelen$	v ə r z aː m ə l ə	Dutch
-^wild zwijn$	ʋ ɪ l t _ z ʋ ɛi n	Dutch
+^wild_zwijn$	ʋ ɪ l t # z ʋ ɛi n	Dutch
 ^vasteland$	v ɑ s t ə l ɑ n t	Dutch
 ^welriekend$	ʋ ɛ l r iː k ə n t	Dutch
 ^werkplaats$	ʋ ɛ r k p l aː t s	Dutch
@@ -1430,57 +1430,57 @@ Grapheme	IPA	Languages
 ^grootmoeder$	x r oː t m uː d ə r	Dutch
 ^grootouders$	x r oː t ɑu d ə r s	Dutch
 ^grasrokje$	x r ɑ s r ɔ k j ə	Dutch
-^zich haasten$	z ɪ x _ h aː s t ə	Dutch
+^zich_haasten$	z ɪ x # h aː s t ə	Dutch
 ^achtervolgen$	ɑ x t ə r v ɔ l ɣ ə	Dutch
 ^besnijdenis$	b ə s n ɛi d ə n ɪ s	Dutch
 ^beschuldigen$	b ə s x ʏ l d ə ɣ ə	Dutch
-^dorst hebben$	d ɔ r s t _ h ɛ b ə	Dutch
-^honger hebben$	h ɔ ŋ ə r _ h ɛ b ə	Dutch
+^dorst_hebben$	d ɔ r s t # h ɛ b ə	Dutch
+^honger_hebben$	h ɔ ŋ ə r # h ɛ b ə	Dutch
 ^kleindochter$	k l ɛi n d ɔ x t ə r	Dutch
 ^nakomelingen$	n aː k oː m ə l ɪ ŋ ə	Dutch
-^naar beneden$	n aː r _ b ə n eː d ə	Dutch
+^naar_beneden$	n aː r # b ə n eː d ə	Dutch
 ^noorderlicht$	n oː r d ə r l ɪ x t	Dutch
 ^ochtendgloren$	ɔ x t ə t x l oː r ə	Dutch
 ^prostituee$	p r ɔ s t iː t yː ʋ eː	Dutch
-^rode peper$	r oː d ə _ p eː p ə r	Dutch
+^rode_peper$	r oː d ə # p eː p ə r	Dutch
 ^rechtspreken$	r ɛ x t s p r eː k ə	Dutch
 ^stiefdochter$	s t iː v d ɔ x t ə r	Dutch
 ^schoondochter$	s x oː n d ɔ x t ə r	Dutch
 ^schoonzuster$	s x oː n z ʏ s t ə r	Dutch
 ^schouderblad$	s x ɑu d ə r b l ɑ t	Dutch
-^water putten$	ʋ aː t ə r _ p ʏ t ə	Dutch
+^water_putten$	ʋ aː t ə r # p ʏ t ə	Dutch
 ^verhinderen$	v ə r h ɪ n d ə r ə	Dutch
 ^verstandig$	v ə r s t ɑ n d ə x	Dutch
 ^wandelstok$	ʋ ɑ n d ə l s t ɔ k	Dutch
-^aan land gaan$	aː n _ l ɑ n t _ x aː n	Dutch
+^aan_land_gaan$	aː n # l ɑ n t # x aː n	Dutch
 ^maniokbrood$	m aː n iː j ɔ k b r oː t	Dutch
-^naar huis gaan$	n aː r _ h œy s _ x aː n	Dutch
+^naar_huis_gaan$	n aː r # h œy s # x aː n	Dutch
 ^samenzwering$	s aː m ə n z ʋ eː r ɪ ŋ	Dutch
 ^citrusvrucht$	s iː t r ʏ s f r ʏ x t	Dutch
-^schuldig zijn$	s x ʏ l d ə x _ z ɛi n	Dutch
+^schuldig_zijn$	s x ʏ l d ə x # z ɛi n	Dutch
 ^vergaderhuis$	v ə r ɣ aː d ə r h œy s	Dutch
 ^verpleegster$	v ə r p l eː x s t ə r	Dutch
-^zich omdraaien$	z ɪ x _ ɔ m d r aː j ə	Dutch
+^zich_omdraaien$	z ɪ x # ɔ m d r aː j ə	Dutch
 ^elektriciteit$	eː l ɛ k t r iː s iː t ɛi t	Dutch
-^een scheet laten$	eː n _ s x eː t _ l aː t ə	Dutch
+^een_scheet_laten$	eː n # s x eː t # l aː t ə	Dutch
 ^bliksemschicht$	b l ɪ k s ə m s x ɪ x t	Dutch
 ^brandstichting$	b r ɑ n t s t ɪ x t ɪ ŋ	Dutch
-^koelte toewaaien$	k uː l t ə _ t uː ʋ aː j ə	Dutch
-^lemen baksteen$	l eː m ə _ b ɑ k s t eː n	Dutch
-^naar boven gaan$	n aː r _ b oː v ə _ x aː n	Dutch
+^koelte_toewaaien$	k uː l t ə # t uː ʋ aː j ə	Dutch
+^lemen_baksteen$	l eː m ə # b ɑ k s t eː n	Dutch
+^naar_boven_gaan$	n aː r # b oː v ə # x aː n	Dutch
 ^schroevendraaier$	s x r uː v ə d r aː j ə r	Dutch
-^geboren worden$	x ə b oː r ə _ ʋ ɔ r d ə	Dutch
+^geboren_worden$	x ə b oː r ə # ʋ ɔ r d ə	Dutch
 ^geboortebewijs$	x ə b oː r t ə b ə ʋ ɛi s	Dutch
-^getrouwde man$	x ə t r ɑu ʋ d ə _ m ɑ n	Dutch
-^gevorkte tak$	x ə v ɔ r k t ə _ t ɑ k	Dutch
-^zoete aardappel$	z uː t ə _ aː r d ɑ p ə l	Dutch
-^zich overgeven$	z ɪ x _ oː v ə r ɣ eː v ə	Dutch
-^zich herinneren$	z ɪ x _ h ɛ r ɪ n ə r ə	Dutch
-^zwanger worden$	z ʋ ɑ ŋ ə r _ ʋ ɔ r d ə	Dutch
-^in dienst nemen$	ɪ n _ d iː n s t _ n eː m ə	Dutch
-^getrouwde vrouw$	x ə t r ɑu ʋ d ə _ v r ɑu ʋ	Dutch
-^naar beneden gaan$	n aː r _ b ə n eː d ə _ x aː n	Dutch
-^zich terugtrekken$	z ɪ x _ t ə r ʏ x t r ɛ k ə	Dutch
-^alcoholische drank$	ɑ l k oː h oː l iː s ə _ d r ɑ ŋ k	Dutch
+^getrouwde_man$	x ə t r ɑu ʋ d ə # m ɑ n	Dutch
+^gevorkte_tak$	x ə v ɔ r k t ə # t ɑ k	Dutch
+^zoete_aardappel$	z uː t ə # aː r d ɑ p ə l	Dutch
+^zich_overgeven$	z ɪ x # oː v ə r ɣ eː v ə	Dutch
+^zich_herinneren$	z ɪ x # h ɛ r ɪ n ə r ə	Dutch
+^zwanger_worden$	z ʋ ɑ ŋ ə r # ʋ ɔ r d ə	Dutch
+^in_dienst_nemen$	ɪ n # d iː n s t # n eː m ə	Dutch
+^getrouwde_vrouw$	x ə t r ɑu ʋ d ə # v r ɑu ʋ	Dutch
+^naar_beneden_gaan$	n aː r # b ə n eː d ə # x aː n	Dutch
+^zich_terugtrekken$	z ɪ x # t ə r ʏ x t r ɛ k ə	Dutch
+^alcoholische_drank$	ɑ l k oː h oː l iː s ə # d r ɑ ŋ k	Dutch
 ^inwijdingsplechtigheid$	ɪ n ʋ ɛi d ɪ ŋ s p l ɛ x t ə x h ɛi t	Dutch
 ^initiatieplechtigheid$	iː n iː t ʃ aː t s iː p l ɛ x t ə x h ɛi t	Dutch

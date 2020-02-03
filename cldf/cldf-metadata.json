@@ -18,31 +18,31 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/wold",
-            "dc:created": "v2.0.1-15-g9fad6e0"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.0"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
-            "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.2.0"
+            "dc:created": "v3.0-6-gc9ceae5"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
             "dc:created": "v1.4"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.1-20-gea2ca69"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
+            "rdf:about": "https://github.com/concepticon/concepticon-data",
+            "dc:created": "v2.2.1a-90-ge34e420"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.3"
+            "dc:description": "3.5.2"
         },
         {
             "dc:title": "python-packages",

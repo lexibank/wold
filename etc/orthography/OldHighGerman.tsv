@@ -1,6 +1,8 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 $	NULL				$
 ^	NULL				^
+(	NULL
+)	NULL
 â	â/aː	nâdala, nâtâri	Old High German	68	\xe2
 ê	ê/eː	werên, folgên	Old High German	34	\xea
 î	î/iː	trîban, enkilîn	Old High German	58	\xee
@@ -60,6 +62,7 @@ i	i	niowiht, biwerien	Old High German	461	i
 ^i	i	iz, ir	Old High German	26	^ i
 i$	i	enti, kwiti	Old High German	84	i $
 ^j	j	jagôn, jussal	Old High German	11	^ j
+j	j
 k	k	enkilîn, ackus	Old High German	75	k
 ^k	k	knopf, koufen	Old High German	59	^ k
 k$	k	gidank	Old High German	1	k $
@@ -156,4 +159,3 @@ tw	t w	samantwist, antwurten	Old High German	2	t w
 hs	x s	ohso, wahsan	Old High German	7	h s
 hs$	x s	mezzisahs, wîzwahs	Old High German	5	h s $
 rsw	r s w	firswintan	Old High German	1	r s w
-krâ(h/j/w)a	k r â/aː hjw/h a	krâ(h/j/w)a	Old High German	1	k r \xe2 ( h / j / w ) a

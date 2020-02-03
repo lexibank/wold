@@ -1,42 +1,42 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,WOLD_ID
-Swahili,Swahili,swah1253,Swahili,swh,,-6.5,39.0,Atlantic-Congo,1
-Iraqw,Iraqw,iraq1241,Iraqw,irk,,-4.0,35.5,Afro-Asiatic,2
-Gawwada,Gawwada,gaww1239,Ale-Gawwada,gwd,,5.5,37.25,Afro-Asiatic,3
-Hausa,Hausa,haus1257,Hausa,hau,,12.0,7.0,Afro-Asiatic,4
-Kanuri,Kanuri,cent2050,Central Kanuri,knc,,12.0,13.0,Saharan,5
-TarifiytBerber,Tarifiyt Berber,tari1263,Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber,rif,,34.5,-4.0,Afro-Asiatic,6
-SeychellesCreole,Seychelles Creole,sese1246,Seselwa Creole French,crs,,-4.75,55.5,Indo-European,7
-Romanian,Romanian,roma1327,Romanian,ron,,46.0,25.0,Indo-European,8
-SeliceRomani,Selice Romani,west2376,West Slovakian Romani,,,48.091,17.9609,Indo-European,9
-LowerSorbian,Lower Sorbian,lowe1385,Lower Sorbian,dsb,,51.75,14.3333,Indo-European,10
-OldHighGerman,Old High German,oldh1241,Old High German (ca. 750-1050),,,50.55,9.68333,Indo-European,11
-Dutch,Dutch,dutc1256,Dutch,nld,,52.5,6.0,Indo-European,12
-English,English,stan1293,English,eng,,52.0,0.0,Indo-European,13
-KildinSaami,Kildin Saami,kild1236,Kildin Saami,sjd,,67.0,37.0,Uralic,14
-Bezhta,Bezhta,bezh1248,Bezhta,kap,,42.0833,46.1667,Nakh-Daghestanian,15
-Archi,Archi,arch1244,Archi,aqc,,42.0,46.8333,Nakh-Daghestanian,16
-Manange,Manange,mana1288,Manange,nmm,,28.0,84.25,Sino-Tibetan,17
-Ket,Ket,kett1243,Ket,ket,,64.0,87.0,Yeniseian,18
-Sakha,Sakha,yaku1245,Sakha,,,62.0,130.0,Turkic,19
-Oroqen,Oroqen,oroq1238,Oroqen,orh,,51.2829,126.111,Tungusic,20
-Japanese,Japanese,nucl1643,Japanese,jpn,,37.0,140.0,Japonic,21
-MandarinChinese,Mandarin Chinese,mand1415,Mandarin Chinese,cmn,,34.0,110.0,Sino-Tibetan,22
-Thai,Thai,thai1261,Thai,tha,,16.0,101.0,Tai-Kadai,23
-Vietnamese,Vietnamese,viet1252,Vietnamese,vie,,10.5,106.5,Austroasiatic,24
-WhiteHmong,White Hmong,hmon1333,Hmong Daw,mww,,26.0,105.0,Hmong-Mien,25
-CeqWong,Ceq Wong,chew1245,Chewong,cwg,,3.8807,102.456,Austroasiatic,26
-Indonesian,Indonesian,indo1316,Indonesian,ind,,0.0,106.0,Austronesian,27
-Malagasy,Malagasy,plat1254,Plateau Malagasy,plt,,-20.0,47.0,Austronesian,28
-Takia,Takia,taki1248,Takia,tbc,,-4.66667,146.0,Austronesian,29
-Hawaiian,Hawaiian,hawa1245,Hawaiian,haw,,19.5833,-155.5,Austronesian,30
-Gurindji,Gurindji,guri1247,Gurindji,gue,,-17.6667,130.667,Pama-Nyungan,31
-Yaqui,Yaqui,yaqu1251,Yaqui,yaq,,27.5,-110.25,Uto-Aztecan,32
-ZinacantanTzotzil,Zinacantán Tzotzil,tzot1259,Tzotzil,tzz,,16.8333,-92.8333,Mayan,33
-Qeqchi,Q'eqchi',kekc1242,Kekchí,kek,,16.0,-89.8333,Mayan,34
-Otomi,Otomi,mezq1235,Mezquital Otomi,ote,,20.1667,-98.8333,Otomanguean,35
-Saramaccan,Saramaccan,sara1340,Saramaccan,srm,,4.5,-55.5,Indo-European,36
-ImbaburaQuechua,Imbabura Quechua,imba1240,Imbabura Highland Quichua,qvi,,0.333333,-78.0,Quechuan,37
-Kalina,Kali'na,gali1262,Galibi Carib,car,,5.5,-56.0,Cariban,38
-Hup,Hup,hupd1244,Hupdë,jup,,0.166667,-69.25,Nadahup,39
-Wichi,Wichí,wich1264,Wichí Lhamtés Güisnay,mzh,,-22.5,-62.5833,Matacoan,40
-Mapudungun,Mapudungun,mapu1245,Mapudungun,arn,,-38.0,-72.0,Araucanian,41
+Swahili,Swahili,swah1253,,swh,,-6.5,39.0,,1
+Iraqw,Iraqw,iraq1241,,irk,,-4.0,35.5,,2
+Gawwada,Gawwada,gaww1239,,gwd,,5.5,37.25,,3
+Hausa,Hausa,haus1257,,hau,,12.0,7.0,,4
+Kanuri,Kanuri,cent2050,,knc,,12.0,13.0,,5
+TarifiytBerber,Tarifiyt Berber,tari1263,,rif,,34.5,-4.0,,6
+SeychellesCreole,Seychelles Creole,sese1246,,crs,,-4.75,55.5,,7
+Romanian,Romanian,roma1327,,ron,,46.0,25.0,,8
+SeliceRomani,Selice Romani,west2376,,,,48.091,17.9609,,9
+LowerSorbian,Lower Sorbian,lowe1385,,dsb,,51.75,14.3333,,10
+OldHighGerman,Old High German,oldh1241,,,,50.55,9.68333,,11
+Dutch,Dutch,dutc1256,,nld,,52.5,6.0,,12
+English,English,stan1293,,eng,,52.0,0.0,,13
+KildinSaami,Kildin Saami,kild1236,,sjd,,67.0,37.0,,14
+Bezhta,Bezhta,bezh1248,,kap,,42.0833,46.1667,,15
+Archi,Archi,arch1244,,aqc,,42.0,46.8333,,16
+Manange,Manange,mana1288,,nmm,,28.0,84.25,,17
+Ket,Ket,kett1243,,ket,,64.0,87.0,,18
+Sakha,Sakha,yaku1245,,,,62.0,130.0,,19
+Oroqen,Oroqen,oroq1238,,orh,,51.2829,126.111,,20
+Japanese,Japanese,nucl1643,,jpn,,37.0,140.0,,21
+MandarinChinese,Mandarin Chinese,mand1415,,cmn,,34.0,110.0,,22
+Thai,Thai,thai1261,,tha,,16.0,101.0,,23
+Vietnamese,Vietnamese,viet1252,,vie,,10.5,106.5,,24
+WhiteHmong,White Hmong,hmon1333,,mww,,26.0,105.0,,25
+CeqWong,Ceq Wong,chew1245,,cwg,,3.8807,102.456,,26
+Indonesian,Indonesian,indo1316,,ind,,0.0,106.0,,27
+Malagasy,Malagasy,plat1254,,plt,,-20.0,47.0,,28
+Takia,Takia,taki1248,,tbc,,-4.66667,146.0,,29
+Hawaiian,Hawaiian,hawa1245,,haw,,19.5833,-155.5,,30
+Gurindji,Gurindji,guri1247,,gue,,-17.6667,130.667,,31
+Yaqui,Yaqui,yaqu1251,,yaq,,27.5,-110.25,,32
+ZinacantanTzotzil,Zinacantán Tzotzil,tzot1259,,tzz,,16.8333,-92.8333,,33
+Qeqchi,Q'eqchi',kekc1242,,kek,,16.0,-89.8333,,34
+Otomi,Otomi,mezq1235,,ote,,20.1667,-98.8333,,35
+Saramaccan,Saramaccan,sara1340,,srm,,4.5,-55.5,,36
+ImbaburaQuechua,Imbabura Quechua,imba1240,,qvi,,0.333333,-78.0,,37
+Kalina,Kali'na,gali1262,,car,,5.5,-56.0,,38
+Hup,Hup,hupd1244,,jup,,0.166667,-69.25,,39
+Wichi,Wichí,wich1264,,mzh,,-22.5,-62.5833,,40
+Mapudungun,Mapudungun,mapu1245,,arn,,-38.0,-72.0,,41

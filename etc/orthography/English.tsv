@@ -1,6 +1,6 @@
 Grapheme	IPA	Languages
-^bicycle, bike$	b aɪ s ɪ k l̩	English
-^handkerchief, hankie$	h æ ŋ k ə tʃ iː f	English
+^bicycle$	b aɪ s ɪ k l̩	English
+^handkerchief$	h æ ŋ k ə tʃ iː f	English
 ^I$	aɪ	English
 ^eye$	aɪ	English
 ^owe$	əʊ	English
@@ -364,7 +364,7 @@ Grapheme	IPA	Languages
 ^look$	l ʊ k	English
 ^louse$	l aʊ s	English
 ^lung$	l ʌ ŋ	English
-^(good) luck$	l ʌ k	English
+^(good)_luck$	l ʌ k	English
 ^love$	l ʌ v	English
 ^long$	l ɒ ŋ	English
 ^latch$	l æ tʃ	English
@@ -570,7 +570,7 @@ Grapheme	IPA	Languages
 ^wide$	w aɪ d	English
 ^with$	w ɪ ð	English
 ^wife$	w aɪ f	English
-^wake (up)$	w eɪ k	English
+^wake_(up)$	w eɪ k	English
 ^whale$	w eɪ l	English
 ^wine$	w aɪ n	English
 ^wipe$	w aɪ p	English
@@ -605,7 +605,7 @@ Grapheme	IPA	Languages
 ^eyelash$	aɪ l æ ʃ	English
 ^enough$	ɪ n ʌ f	English
 ^shield$	ʃ iː l d	English
-^chili (pepper)$	tʃ ɪ l ɪ	English
+^chili_(pepper)$	tʃ ɪ l ɪ	English
 ^child$	tʃ aɪ l d	English
 ^change$	tʃ eɪ n dʒ	English
 ^chisel$	tʃ ɪ z l̩	English
@@ -703,8 +703,8 @@ Grapheme	IPA	Languages
 ^freeze$	f r iː z	English
 ^frog$	f r ɒ g	English
 ^garden$	g ɑː d n̩	English
-^go out$	g əʊ aʊ t	English
-^go up$	g əʊ ʌ p	English
+^go_out$	g əʊ # aʊ t	English
+^go_up$	g əʊ # ʌ p	English
 ^gold$	g əʊ l d	English
 ^ghost$	g əʊ s t	English
 ^gums$	g ʌ m z	English
@@ -1034,13 +1034,13 @@ Grapheme	IPA	Languages
 ^friend$	f r ɛ n d	English
 ^guilty$	g ɪ l t ɪ	English
 ^goitre$	g ɔɪ t ə ɹ	English
-^go down$	g əʊ d aʊ n	English
+^go_down$	g əʊ # d aʊ n	English
 ^gather$	g æ ð ə ɹ	English
 ^greedy$	g r iː d ɪ	English
 ^grasp$	g r ɑː s p	English
 ^grind$	g r aɪ n d	English
 ^hiccough$	h ɪ k ʌ p	English
-^high tide$	h aɪ t aɪ d	English
+^high_tide$	h aɪ # t aɪ d	English
 ^hammock$	h æ m ə k	English
 ^hammer$	h æ m ə ɹ	English
 ^healthy$	h ɛ l θ ɪ	English
@@ -1060,11 +1060,11 @@ Grapheme	IPA	Languages
 ^clothes$	k l əʊ ð z	English
 ^quiet$	k w aɪ ə t	English
 ^lagoon$	l ə g uː n	English
-^lie down$	l aɪ d aʊ n	English
+^lie_down$	l aɪ # d aʊ n	English
 ^linen$	l ɪ n ɪ n	English
 ^liver$	l ɪ v ə ɹ	English
 ^lizard$	l ɪ z ə d	English
-^low tide$	l əʊ t aɪ d	English
+^low_tide$	l əʊ # t aɪ d	English
 ^ladder$	l æ d ə ɹ	English
 ^leather$	l ɛ ð ə ɹ	English
 ^lemon$	l ɛ m ə n	English
@@ -1077,7 +1077,7 @@ Grapheme	IPA	Languages
 ^midday$	m ɪ d d eɪ	English
 ^millet$	m ɪ l ɪ t	English
 ^mirror$	m ɪ r ə ɹ	English
-^molar (tooth)$	m əʊ l ə ɹ	English
+^molar_(tooth)$	m əʊ l ə ɹ	English
 ^motor$	m əʊ t ə ɹ	English
 ^monkey$	m ʌ ŋ k ɪ	English
 ^mother$	m ʌ ð ə ɹ	English
@@ -1096,10 +1096,10 @@ Grapheme	IPA	Languages
 ^porpoise$	p ɔː p ə s	English
 ^police$	p ə l iː s	English
 ^pursue$	p ə s j uː	English
-^pick up$	p ɪ k ʌ p	English
-^pile up$	p aɪ l ʌ p	English
+^pick_up$	p ɪ k # ʌ p	English
+^pile_up$	p aɪ l # ʌ p	English
 ^paper$	p eɪ p ə ɹ	English
-^put on$	p ʊ t ɒ n	English
+^put_on$	p ʊ t # ɒ n	English
 ^parrot$	p æ r ə t	English
 ^pocket$	p ɒ k ɪ t	English
 ^poncho$	p ɒ n tʃ əʊ	English
@@ -1190,9 +1190,9 @@ Grapheme	IPA	Languages
 ^insect$	ɪ n s ɛ k t	English
 ^chieftain$	tʃ iː f t ə n	English
 ^shoulder$	ʃ əʊ l d ə ɹ	English
-^old man$	əʊ l d m æ n	English
+^old_man$	əʊ l d # m æ n	English
 ^jaguar$	dʒ æ g j ʊə ɹ	English
-^be born$	b iː _ b ɔː n	English
+^be_born$	b iː # b ɔː n	English
 ^basket$	b ɑː s k ɪ t	English
 ^banana$	b ə n ɑː n ə	English
 ^behind$	b ɪ h aɪ n d	English
@@ -1218,17 +1218,17 @@ Grapheme	IPA	Languages
 ^family$	f æ m ə l ɪ	English
 ^forest$	f ɒ r ɪ s t	English
 ^freeman$	f r iː m ə n	English
-^give back$	g ɪ v b æ k	English
+^give_back$	g ɪ v # b æ k	English
 ^glasses$	g l ɑː s ɪ z	English
 ^harvest$	h ɑː v ɪ s t	English
-^how much?$	h aʊ _ m ʌ tʃ	English
+^how_much?$	h aʊ # m ʌ tʃ	English
 ^hungry$	h ʌ ŋ g r ɪ	English
 ^helmet$	h ɛ l m ɪ t	English
 ^command$	k ə m ɑː n d	English
 ^condemn$	k ə n d ɛ m	English
 ^conceive$	k ə n s iː v	English
 ^cassava$	k ə s ɑː v ə	English
-^come back$	k ʌ m b æ k	English
+^come_back$	k ʌ m # b æ k	English
 ^country$	k ʌ n t r ɪ	English
 ^custom$	k ʌ s t ə m	English
 ^captive$	k æ p t ɪ v	English
@@ -1239,8 +1239,8 @@ Grapheme	IPA	Languages
 ^crooked$	k r ʊ k ɪ d	English
 ^quarrel$	k w ɒ r ə l	English
 ^lightning$	l aɪ t n ɪ ŋ	English
-^look for$	l ʊ k f ɔː ɹ	English
-^let go$	l ɛ t _ g əʊ	English
+^look_for$	l ʊ k # f ɔː ɹ	English
+^let_go$	l ɛ t # g əʊ	English
 ^merchant$	m ɜː tʃ ə n t	English
 ^master$	m ɑː s t ə ɹ	English
 ^mistake$	m ɪ s t eɪ k	English
@@ -1278,7 +1278,7 @@ Grapheme	IPA	Languages
 ^servant$	s ɜː v ə n t	English
 ^savanna$	s ə v æ n ə	English
 ^sibling$	s ɪ b l ɪ ŋ	English
-^(be) silent$	s aɪ l ə n t	English
+^(be)_silent$	s aɪ l ə n t	English
 ^silver$	s ɪ l v ə ɹ	English
 ^sister$	s ɪ s t ə ɹ	English
 ^citizen$	s ɪ t ɪ z n̩	English
@@ -1347,7 +1347,7 @@ Grapheme	IPA	Languages
 ^fisherman$	f ɪ ʃ ə m ə n	English
 ^grandson$	g r æ n s ʌ n	English
 ^herdsman$	h ɜː d z m ə n	English
-^how many?$	h aʊ _ m ɛ n ɪ	English
+^how_many?$	h aʊ # m ɛ n ɪ	English
 ^homeland$	h əʊ m l æ n d	English
 ^hundred$	h ʌ n d r ə d	English
 ^husband$	h ʌ z b ə n d	English
@@ -1363,7 +1363,7 @@ Grapheme	IPA	Languages
 ^livestock$	l aɪ v s t ɒ k	English
 ^language$	l æ ŋ g w ɪ dʒ	English
 ^mosquito$	m ə s k iː t əʊ	English
-^make love$	m eɪ k _ l ʌ v	English
+^make_love$	m eɪ k # l ʌ v	English
 ^mainland$	m eɪ n l ə n d	English
 ^nostril$	n ɒ s t r ə l	English
 ^postcard$	p əʊ s t k ɑː d	English
@@ -1383,12 +1383,12 @@ Grapheme	IPA	Languages
 ^suspect$	s ʌ s p ɛ k t	English
 ^separate$	s ɛ p ə r eɪ t	English
 ^scorpion$	s k ɔː p j ə n	English
-^spread out$	s p r ɛ d aʊ t	English
+^spread_out$	s p r ɛ d # aʊ t	English
 ^stinking$	s t ɪ ŋ k ɪ ŋ	English
 ^stallion$	s t æ l j ə n	English
 ^stepson$	s t ɛ p s ʌ n	English
 ^stupid$	s t j uː p ɪ d	English
-^to last$	t uː _ l ɑː s t	English
+^to_last$	t uː # l ɑː s t	English
 ^telephone$	t ɛ l ɪ f əʊ n	English
 ^trumpet$	t r ʌ m p ɪ t	English
 ^victory$	v ɪ k t ə r ɪ	English
@@ -1397,7 +1397,7 @@ Grapheme	IPA	Languages
 ^adjudicate$	ə dʒ uː d ɪ k eɪ t	English
 ^adultery$	ə d ʌ l t ə r ɪ	English
 ^astonished$	ə s t ɒ n ɪ ʃ t	English
-^old woman$	əʊ l d w ʊ m ə n	English
+^old_woman$	əʊ l d # w ʊ m ə n	English
 ^alligator$	æ l ɪ g eɪ t ə ɹ	English
 ^ancestor$	æ n s ɛ s t ə ɹ	English
 ^beautiful$	b j uː t ə f ʊ l	English
@@ -1417,7 +1417,7 @@ Grapheme	IPA	Languages
 ^crocodile$	k r ɒ k ə d aɪ l	English
 ^minister$	m ɪ n ɪ s t ə ɹ	English
 ^motorcycle$	m əʊ t ə s aɪ k l̩	English
-^northern lights$	n ɔː ð n̩ l aɪ t s	English
+^northern_lights$	n ɔː ð n̩ # l aɪ t s	English
 ^necessity$	n ɪ s ɛ s ə t ɪ	English
 ^pregnant$	p r ɛ g n ə n t	English
 ^precipice$	p r ɛ s ɪ p ɪ s	English
@@ -1433,15 +1433,15 @@ Grapheme	IPA	Languages
 ^expensive$	ɪ k s p ɛ n s ɪ v	English
 ^immediately$	ɪ m iː d j ə t l ɪ	English
 ^intestines$	ɪ n t ɛ s t ɪ n z	English
-^sugar cane$	ʃ ʊ g ə ɹ _ k eɪ n	English
+^sugar_cane$	ʃ ʊ g ə ɹ # k eɪ n	English
 ^understand$	ʌ n d ə s t æ n d	English
 ^daughter-in-law$	d ɔː t ə r ɪ n l ɔː	English
 ^defendant$	d ɪ f ɛ n d ə n t	English
 ^descendant$	d ɪ s ɛ n d ə n t	English
 ^father-in-law$	f ɑː ð ə r ɪ n l ɔː	English
-^fishing line$	f ɪ ʃ ɪ ŋ _ l aɪ n	English
-^fishing net$	f ɪ ʃ ɪ ŋ _ n ɛ t	English
-^grass-skirt$	g r ɑː s _ s k ɜː t	English
+^fishing_line$	f ɪ ʃ ɪ ŋ # l aɪ n	English
+^fishing_net$	f ɪ ʃ ɪ ŋ # n ɛ t	English
+^grass-skirt$	g r ɑː s # s k ɜː t	English
 ^grasshopper$	g r ɑː s h ɒ p ə ɹ	English
 ^granddaughter$	g r æ n d ɔː t ə ɹ	English
 ^grandmother$	g r æ n m ʌ ð ə ɹ	English
@@ -1453,20 +1453,20 @@ Grapheme	IPA	Languages
 ^stepdaughter$	s t ɛ p d ɔː t ə ɹ	English
 ^stepfather$	s t ɛ p f ɑː ð ə ɹ	English
 ^stepmother$	s t ɛ p m ʌ ð ə ɹ	English
-^turn around$	t ɜː n _ ə r aʊ n d	English
-^tree trunk$	t r iː _ t r ʌ ŋ k	English
+^turn_around$	t ɜː n # ə r aʊ n d	English
+^tree_trunk$	t r iː # t r ʌ ŋ k	English
 ^extinguish$	ɪ k s t ɪ ŋ g w ɪ ʃ	English
 ^shoulderblade$	ʃ əʊ l d ə ɹ b l eɪ d	English
 ^grandfather$	g r æ n d f ɑː ð ə ɹ	English
 ^grandparent$	g r æ n p ɛə r ə n t	English
-^pubic hair$	p j uː b ɪ k _ h ɛə ɹ	English
+^pubic_hair$	p j uː b ɪ k # h ɛə ɹ	English
 ^prostitute$	p r ɒ s t ɪ t j uː t	English
 ^screwdriver$	s k r uː d r aɪ v ə ɹ	English
-^sweet potato$	s w iː t p ə t eɪ t əʊ	English
+^sweet_potato$	s w iː t # p ə t eɪ t əʊ	English
 ^threshing-floor$	θ r ɛ ʃ ɪ ŋ f l ɔː ɹ	English
 ^electricity$	ɪ l ɛ k t r ɪ s ə t ɪ	English
-^in front of$	ɪ n _ f r ʌ n t _ ɒ v	English
-^lightning bolt$	l aɪ t n ɪ ŋ _ b əʊ l t	English
-^number plate$	n ʌ m b ə ɹ _ p l eɪ t	English
-^birth certificate$	b ɜː θ _ s ə t ɪ f ɪ k ə t	English
-^driving licence$	d r aɪ v ɪ ŋ _ l aɪ s ə n s	English
+^in_front_of$	ɪ n # f r ʌ n t # ɒ v	English
+^lightning_bolt$	l aɪ t n ɪ ŋ # b əʊ l t	English
+^number_plate$	n ʌ m b ə ɹ # p l eɪ t	English
+^birth_certificate$	b ɜː θ # s ə t ɪ f ɪ k ə t	English
+^driving_licence$	d r aɪ v ɪ ŋ # l aɪ s ə n s	English

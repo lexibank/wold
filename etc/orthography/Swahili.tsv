@@ -1,6 +1,8 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 $	NULL				$
-^	NULL				^
+^	NULL
+(	NULL
+)	NULL				^
 …$	NULL	-wa na …, -kaa na …	Swahili	2	\u2026 $
 -	+	-refu, -funga	Swahili	512	-
 aa	aː	-laani, maawio	Swahili	9	a a

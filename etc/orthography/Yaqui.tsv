@@ -1,6 +1,8 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 $	NULL				$
 ^	NULL				^
+(	NULL
+)	NULL
 -	+	-po, -ko	Yaqui	4	-
 aa	aː	bwaana, waakas	Yaqui	137	a a
 ee	eː	beea, meecha	Yaqui	72	e e

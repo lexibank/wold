@@ -1,6 +1,8 @@
 Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 $	NULL				$
-^	NULL				^
+^	NULL
+(	NULL
+)	NULL				^
 ƙ	kʼ	mátúuƙíi, bàaƙóo	Hausa	88	\u0199
 ^ƙ	kʼ	ƙásáa, ƙáayàa	Hausa	61	^ \u0199
 ts	sʼ	dúutsèe, wáatsàa	Hausa	47	t s

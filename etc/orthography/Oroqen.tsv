@@ -2,6 +2,8 @@ Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
 $	NULL				$
 ^	NULL				^
 ü	ü	dʒüy ʊna:dʒɪ, dʒünʃi	Oroqen	4	\xfc
+(	NULL
+)	NULL
 -	+	ɔ:-, ga-	Oroqen	310	-
 ə:	əː	kurə:kə:n, dʒə:ktə	Oroqen	35	\u0259 :
 ɪ:	ɪː	ʃɪ:la	Oroqen	1	\u026a :
