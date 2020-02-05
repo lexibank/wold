@@ -5,6 +5,7 @@ import re
 from pylexibank import Lexeme, Language
 from pylexibank.providers.clld import CLLD
 from pylexibank.util import progressbar
+from pylexibank import FormSpec
 
 from clldutils.misc import slug
 
@@ -49,13 +50,33 @@ def normalize_text(text):
 
 
 class Dataset(CLLD):
-    __cldf_url__ = (
-        "http://cdstar.shh.mpg.de/bitstreams/EAEA0-92F4-126F-089F-0/wold_dataset.cldf.zip"
-    )
+    __cldf_url__ = "http://cdstar.shh.mpg.de/bitstreams/EAEA0-92F4-126F-089F-0/wold_dataset.cldf.zip"
     dir = Path(__file__).parent
     id = "wold"
     lexeme_class = CustomLexeme
     language_class = CustomLanguage
+    form_spec = FormSpec(
+        separators="~,",
+        first_form_only=True,
+        brackets={},  # each language is different, need to do manually
+        replacements=[
+            (" (1)", ""),
+            (" (2)", ""),
+            (" (3)", ""),
+            (" (4)", ""),
+            (" (5)", ""),
+            (" (6)", ""),
+            ("(f.)", ""),
+            ("(1)", ""),
+            ("(2)", ""),
+            ("(3)", ""),
+            ("(4)", ""),
+            ("(5)", ""),
+            ("(6)", ""),
+            ("(2", ""),
+            (" ", "_"),
+        ],
+    )
 
     def cmd_makecldf(self, args):
         # add the bibliographic sources
@@ -83,7 +104,10 @@ class Dataset(CLLD):
         # TODO: Integrate to Concepticon
         for parameter in self.raw_dir.read_csv("parameters.csv", dicts=True):
             if parameter["ID"] not in concept_lookup:
-                concept_id = "%s_%s" % (parameter["ID"].replace("-", ""), slug(parameter["Name"]))
+                concept_id = "%s_%s" % (
+                    parameter["ID"].replace("-", ""),
+                    slug(parameter["Name"]),
+                )
                 args.writer.add_concept(ID=concept_id, Name=parameter["Name"])
                 concept_lookup[parameter["ID"]] = concept_id
 
@@ -95,12 +119,18 @@ class Dataset(CLLD):
             row["Language_ID"] = language_lookup[row["Language_ID"]]
             row["Parameter_ID"] = concept_lookup[row["Parameter_ID"]]
 
-            row["Value"] = row["Form"]
+            row["Value"] = row.pop("Form")
             row["Loan"] = float(row["BorrowedScore"]) > 0.6
             row["original_script"] = normalize_text(row["original_script"])
-            row["comment_on_borrowed"] = normalize_text(row["comment_on_borrowed"])
+            row["comment_on_borrowed"] = normalize_text(
+                row["comment_on_borrowed"]
+            )
             row.pop("Segments")
 
-            args.writer.add_form(
-                **{k: v for k, v in row.items() if k in self.lexeme_class.fieldnames()}
+            args.writer.add_forms_from_value(
+                **{
+                    k: v
+                    for k, v in row.items()
+                    if k in self.lexeme_class.fieldnames()
+                }
             )
