@@ -30,3 +30,13 @@ Conceptlists in Concepticon:
 - **Tokens:** 359,458
 - **Segments:** 738 (0 BIPA errors, 0 CTLS sound class errors, 735 CLTS modified)
 - **Inventory size (avg):** 58.12
+
+# Contributors
+
+Name | GitHub user | Role
+--- | --- | ---
+Robert Forkel | @xrotwang | maintainer
+Tiago Tresoldi | @tresoldi | maintainer, orthographic profiles
+Natalia Morozova | @natalia-morozova | orthographic profiles
+
+

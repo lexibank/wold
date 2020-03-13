@@ -28,7 +28,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 27_thetide,the tide,891,TIDE
 28_thelowtide,the low tide,1026,LOW TIDE
 29_thehightide,the high tide,613,HIGH TIDE
-30_theriverorstream,the river or stream,666,RIVER
+30_theriverorstream,the river or stream,3311,FLOWING BODY OF WATER
 31_thewhirlpool,the whirlpool,1982,WHIRLPOOL
 32_thespringorwell,the spring or well,2144,SPRING OR WELL
 33_theswamp,the swamp,1145,SWAMP
@@ -110,11 +110,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 109_thegrandson,the grandson,1618,GRANDSON
 110_thegranddaughter,the granddaughter,1619,GRANDDAUGHTER
 111_theuncle,the uncle,1327,UNCLE
-112_themothersbrother,the mother's brother,1984,MOTHER'S BROTHER
-113_thefathersbrother,the father's brother,1985,FATHER'S BROTHER
+112_themothersbrother,the mother's brother,2692,MATERNAL UNCLE (MOTHER'S BROTHER)
+113_thefathersbrother,the father's brother,1985,PATERNAL UNCLE (FATHER'S BROTHER)
 114_theaunt,the aunt,1272,AUNT
-115_themotherssister,the mother's sister,171,MOTHER'S SISTER
-116_thefatherssister,the father's sister,170,FATHER'S SISTER
+115_themotherssister,the mother's sister,2693,MATERNAL AUNT (MOTHER'S SISTER)
+116_thefatherssister,the father's sister,2691,PATERNAL AUNT (FATHER'S SISTER)
 117_thenephew,the nephew,1063,NEPHEW
 118_theniece,the niece,1642,NIECE
 119_thecousin,the cousin,1643,COUSIN
@@ -161,11 +161,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 160_theram,the ram,1344,RAM
 161_theewe,the ewe,1345,EWE
 162_thelamb,the lamb,820,LAMB
-163_theboar,the boar,1348,BOAR
+163_theboar,the boar,1348,BOAR (MALE PIG)
 164_thesow,the sow,1351,SOW (FEMALE PIG)
 165_thepig,the pig,1337,PIG
 166_thegoat,the goat,1502,GOAT
-167_thehegoat,the he-goat,264,HE-GOAT
+167_thehegoat,the he-goat,2475,MALE GOAT
 168_thekid,the kid,1972,KID
 169_thehorse,the horse,615,HORSE
 170_thestallion,the stallion,936,STALLION
@@ -437,7 +437,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 436_theflour,the flour,1594,FLOUR
 437_tocrushortogrind,to crush or to grind,1033,GRIND
 438_themill,the mill,636,MILL
-439_themortar1,the mortar(1),224,MORTAR CRUSHER
+439_themortar1,the mortar(1),224,MORTAR
 440_thepestle,the pestle,225,PESTLE
 441_themeat,the meat,634,MEAT
 442_thesausage,the sausage,1874,SAUSAGE
