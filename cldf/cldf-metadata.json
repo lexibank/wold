@@ -11,14 +11,14 @@
     "dc:license": "https://creativecommons.org/licenses/by/3.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "The World Loanword Database",
+    "dc:title": "CLDF dataset derived from Haspelmath & Tadmor \"WOLD\" (2009)",
     "dcat:accessURL": "https://github.com/lexibank/wold",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/wold",
-            "dc:created": "v3.0-13-g5c301c5"
+            "dc:created": "v3.0-14-g3edd4e0"
         },
         {
             "rdf:type": "prov:Entity",
@@ -118,6 +118,14 @@
                     {
                         "datatype": "boolean",
                         "name": "Loan"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Graphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Profile"
                     },
                     {
                         "datatype": "string",
