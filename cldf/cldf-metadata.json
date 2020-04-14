@@ -11,14 +11,14 @@
     "dc:license": "https://creativecommons.org/licenses/by/3.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Haspelmath & Tadmor \"WOLD\" (2009)",
+    "dc:title": "CLDF dataset derived from Haspelmath & Tadmor's \"World Loanword Database\" (2009)",
     "dcat:accessURL": "https://github.com/lexibank/wold",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/wold",
-            "dc:created": "v3.0-14-g3edd4e0"
+            "dc:created": "v3.0-15-gfeb5adf"
         },
         {
             "rdf:type": "prov:Entity",

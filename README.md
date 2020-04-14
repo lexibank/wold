@@ -1,4 +1,4 @@
-# CLDF dataset derived from Haspelmath & Tadmor "WOLD" (2009)
+# CLDF dataset derived from Haspelmath & Tadmor's "World Loanword Database" (2009)
 
 Cite the source dataset as
 
