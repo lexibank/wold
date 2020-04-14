@@ -1,4 +1,4 @@
-# The World Loanword Database
+# CLDF dataset derived from Haspelmath & Tadmor "WOLD" (2009)
 
 Cite the source dataset as
 
@@ -33,10 +33,12 @@ Conceptlists in Concepticon:
 
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
-Robert Forkel | @xrotwang | maintainer
-Tiago Tresoldi | @tresoldi | maintainer, orthographic profiles
-Natalia Morozova | @natalia-morozova | orthographic profiles
+Name | GitHub user | Description | Role |
+--- | --- | --- | --- |
+Tiago Tresoldi | @tresoldi | patron, maintainer, orthographic profiles | Author
+Robert Forkel | @xrotwang | maintainer | Author
+Natalia Morozova | @natalia-morozova | orthographic profiles | Author
+Martin Haspelmath | | publication author | RightsHolder, Distributor
+Uri Tadmor | | publication author | RightsHolder, Distributor
 
 
