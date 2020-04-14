@@ -1,4 +1,4 @@
-# CLDF dataset derived from Haspelmath & Tadmor's "World Loanword Database" (2009)
+# CLDF dataset derived from Haspelmath and Tadmor's "World Loanword Database" from 2009
 
 Cite the source dataset as
 
@@ -38,7 +38,7 @@ Name | GitHub user | Description | Role |
 Tiago Tresoldi | @tresoldi | patron, maintainer, orthographic profiles | Author
 Robert Forkel | @xrotwang | maintainer | Author
 Natalia Morozova | @natalia-morozova | orthographic profiles | Author
-Martin Haspelmath | | publication author | RightsHolder, Distributor
-Uri Tadmor | | publication author | RightsHolder, Distributor
+Martin Haspelmath | | publication editor | Editor 
+Uri Tadmor | | publication editor | Editor
 
 
