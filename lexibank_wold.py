@@ -121,6 +121,7 @@ class Dataset(CLLD):
 
             row["Value"] = row.pop("Form")
             row["Loan"] = float(row["BorrowedScore"]) > 0.6
+            row["Borrowed_score"] = row["BorrowedScore"]
             row["original_script"] = normalize_text(row["original_script"])
             row["comment_on_borrowed"] = normalize_text(
                 row["comment_on_borrowed"]
