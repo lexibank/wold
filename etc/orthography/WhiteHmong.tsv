@@ -1,193 +1,214 @@
-Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
-$	NULL	2	U+0024		
-^o$	o	1	U+005E U+006F U+0024	"o"	White Hmong
-^w$	ɯ	1	U+005E U+0077 U+0024	"w"	White Hmong
-^cw$	c ɯ	1	U+005E U+0063 U+0077 U+0024	"cw"	White Hmong
-^pw$	p ɯ	1	U+005E U+0070 U+0077 U+0024	"pw"	White Hmong
-^qw$	q ɯ	1	U+005E U+0071 U+0077 U+0024	"qw"	White Hmong
-^tw$	t ɯ	1	U+005E U+0074 U+0077 U+0024	"tw"	White Hmong
-^hws$	h ɯ ʂ	1	U+005E U+0068 U+0077 U+0073 U+0024	"hws"	White Hmong
-^khw$	kʰ ɯ	2	U+005E U+006B U+0068 U+0077 U+0024	"khw"	White Hmong
-^nws$	n ɯ ʂ	4	U+005E U+006E U+0077 U+0073 U+0024	"nws"	White Hmong
-^qws$	q ɯ ʂ	1	U+005E U+0071 U+0077 U+0073 U+0024	"qws"	White Hmong
-^tsw$	tʃ ɯ	1	U+005E U+0074 U+0073 U+0077 U+0024	"tsw"	White Hmong
--	+	102	U+002D	"hwj-txwv,nyiaj-hlis,taub-hau"	White Hmong
-S	S/ʂ	1	U+0053	"Yawm_Saub"	White Hmong
-V	V/v	1	U+0056	"thov_Vaj_Tswv"	White Hmong
-_	+	122	U+005F	"chaw_nyob,hmo_ntuj,ua_mov_noj"	
-a	a	737	U+0061	"laij,ntaj,vas_ntses"	White Hmong
-b	b	60	U+0062	"dab-teg,puab-tsaig,taub-dag"	White Hmong
-c	c	40	U+0063	"khob_cij,meb_cab,pas_cog_nplej"	White Hmong
-d	d	24	U+0064	"da_dej,sib-deev,yis_dej"	White Hmong
-e	e	176	U+0065	"dev,pes_tsawg,tsheb"	White Hmong
-f	f	6	U+0066	"kas_fes,sib-faib,tus_raug_foob"	White Hmong
-g	ŋ	1	U+0067	"tsuag-tsuag"	White Hmong
-h	h	16	U+0068	"plaub-hau,plob_hav_zoov,taub-hau"	White Hmong
-i	i	261	U+0069	"dais,gaib,nqaij"	White Hmong
-j	j	27	U+006A	"caj-npab,daig_caj-dab,kaj-ntug"	White Hmong
-k	k	30	U+006B	"hwj_kais,tso_kua_mis,zes_kab_laug_sab"	White Hmong
-l	l	44	U+006C	"sab-laug,tsho_loj,zoo_li"	White Hmong
-m	m	41	U+006D	"ciab-mu,cwj_mem,kua_muag"	White Hmong
-n	n	28	U+006E	"ntses_nab,pojniam,txiv_neeb"	White Hmong
-o	o	263	U+006F	"kaum_ob,thim_rov_qab,tob"	White Hmong
-p	p	22	U+0070	"hauv_paus_ntoo,ntoo_peeb_lab,tso_paus"	White Hmong
-q	q	28	U+0071	"av_qeeg,lau_qaib,ua_qaj"	White Hmong
-r	ʈ	19	U+0072	"hneev_roj_hmab,qhov-rais,xa_rov_qab"	White Hmong
-s	ʂ	30	U+0073	"caij_ntuj_sov,zes_kab_laug_sab,zoo_siab"	White Hmong
-t	t	78	U+0074	"dab_tuag,npau_taws,ntuj-tawg_teb_txias"	White Hmong
-u	u	345	U+0075	"kab_laug_sab,khauj-khaum,tus_raug_liam"	White Hmong
-v	v	32	U+0076	"hiav-txwv,hnub_vas_xaum,qhov-ntswg"	White Hmong
-w	ɯ	130	U+0077	"hwj-txwv,niam_tais_yawm_txiv,pob-tawb"	White Hmong
-x	s	14	U+0078	"hnub_vas_xuv,nitv_tes_xoo,pej_xeem"	White Hmong
-y	ʝ	26	U+0079	"hnyuv,ib_yam,tswv_yim"	White Hmong
-z	ʐ	22	U+007A	"hmoov_zeb,pob-zeb,tso_zis"	White Hmong
-^V	V/v	1	U+005E U+0056	"Vaj_Tswv"	White Hmong
-^Y	Y/ʝ	1	U+005E U+0059	"Yawm_Saub"	White Hmong
-^a	a	7	U+005E U+0061	"av,av_nplaum,aws"	White Hmong
-^c	c	51	U+005E U+0063	"cev_txoj_lus,ci,ciav_dej"	White Hmong
-^d	d	57	U+005E U+0064	"daig_nplaig,dej_ntaug_lawm,do"	White Hmong
-^e	e	1	U+005E U+0065	"ev"	White Hmong
-^f	f	8	U+005E U+0066	"faus,foob_pob,foom_phem"	White Hmong
-^g	ŋ	2	U+005E U+0067	"gaib,gus"	White Hmong
-^h	h	35	U+005E U+0068	"hauv_paus,hiav-txwv,huab_cua"	White Hmong
-^i	i	6	U+005E U+0069	"ib,ib-qho,ib_txwm"	White Hmong
-^k	k	68	U+005E U+006B	"kab_laug_sab,kaus_nplooj,kob"	White Hmong
-^l	l	62	U+005E U+006C	"laws_tawv,lev,luam_yeeb"	White Hmong
-^m	m	42	U+005E U+006D	"miv,muas,mus"	White Hmong
-^n	n	60	U+005E U+006E	"nag_kis,noj_hmo,noj_su"	White Hmong
-^o	o	4	U+005E U+006F	"o_txia,ob,ob-zaug"	White Hmong
-^p	p	76	U+005E U+0070	"pias,pobkws,puab"	White Hmong
-^q	q	28	U+005E U+0071	"qab,qis,quav_ntsej"	White Hmong
-^r	ʈ	32	U+005E U+0072	"rau_tes,rauv,rooj_zaum"	White Hmong
-^s	ʂ	55	U+005E U+0073	"sai,sib-ua,sij_hawm"	White Hmong
-^t	t	99	U+005E U+0074	"tawv_muag,to_taub,tua"	White Hmong
-^u	u	1	U+005E U+0075	"us"	White Hmong
-^v	v	13	U+005E U+0076	"vam,vaub_kib,voj-voos"	White Hmong
-^x	s	42	U+005E U+0078	"xa_rov_qab,xiab,xub"	White Hmong
-^y	ʝ	40	U+005E U+0079	"yau,yeeb_nkab,yoo_mov"	White Hmong
-^z	ʐ	27	U+005E U+007A	"zaub,zaum,zuam"	White Hmong
-a$	a	17	U+0061 U+0024	"hma,xa,xya"	White Hmong
-aa	ã	4	U+0061 U+0061	"naam,yaas,yaas_kaus"	White Hmong
-b$	˥/⁵	300	U+0062 U+0024	"hma_liab,hnub,pob-zeb"	White Hmong
-b_	˥/⁵	118	U+0062 U+005F	"leeb_nkaub,zaub_mov,zes_kab_laug_sab"	
-ch	cʰ	1	U+0063 U+0068	"tebchaws"	White Hmong
-d$	d	2	U+0064 U+0024	"ntawd"	White Hmong
-dh	dʱ	2	U+0064 U+0068	"ras_dheev,tsim_dheev"	White Hmong
-e$	e	16	U+0065 U+0024	"de,nce,tis_npe"	White Hmong
-ee	ẽ	84	U+0065 U+0065	"neeg_zej-zog,nkees,nyeem"	White Hmong
-g$	˧˩/³¹	165	U+0067 U+0024	"kem_caug,pheej_yig,tig"	White Hmong
-g_	˧˩/³¹	56	U+0067 U+005F	"nkag_siab,tag_kis,tsaug_zog"	
-hl	ɬ	14	U+0068 U+006C	"siab_hlob,tus_ntswj_ntsia_hlau,txiv_hlob"	
-hm	m̥	6	U+0068 U+006D	"foom_koob_hmoov,hneev_roj_hmab,noj_hmo"	
-hn	n̥	6	U+0068 U+006E	"hnub_hnub,nrab_hnub,sab_hnub_tuaj"	
-hw	h ɯ	2	U+0068 U+0077	"xib_hwb"	White Hmong
-i$	i	24	U+0069 U+0024	"ci,dai,ncuav_ci"	White Hmong
-ia	iə	130	U+0069 U+0061	"niam_hluas,ntxiab,piam"	
-j$	˥˧/⁵³	169	U+006A U+0024	"kev_sib-nrauj,thawj,tshuaj_yej"	White Hmong
-j_	˥˧/⁵³	100	U+006A U+005F	"hneev_roj_hmab,noj_hmo,txhawj_siab"	
-kh	kʰ	13	U+006B U+0068	"neeg_thov_khawv,ntoo_faj_khaum,tsev_kho_mob"	White Hmong
-lw	l ɯ	2	U+006C U+0077	"hauj_lwm,muas_lwj"	White Hmong
-m$	˨˩˧/²¹³	166	U+006D U+0024	"hauj_sam,khob_noom,tom"	White Hmong
-m_	˨˩˧/²¹³	72	U+006D U+005F	"tawm_hws,tom_ntej,yaum_sij"	
-ms	m ʂ	1	U+006D U+0073	"tamsim"	White Hmong
-nc	ⁿɟ	11	U+006E U+0063	"kaus_ncauj,ncaj_ncees,qhov-ncauj"	
-nk	ⁿg	11	U+006E U+006B	"hluas_nkauj,hu_nkauj,zoo_nkauj"	
-np	ⁿb	11	U+006E U+0070	"hlua_npev,ua_npau_suav,xus_npus"	
-nq	ⁿɢ	4	U+006E U+0071	"nuj_nqi,tsheb_nqaj_hlau,tshuav_nqi"	
-nr	ⁿɖ	9	U+006E U+0072	"kev_sib-nrauj,qw_nrov,xob_nroo"	
-nt	ⁿd	26	U+006E U+0074	"nkhib_ntoo,qhia_ntawv,tom_ntej"	
-ny	ɲ	19	U+006E U+0079	"luag_nyav,maum_nyuj,txom_nyem"	
-o$	o	25	U+006F U+0024	"hnub_no,so,zeb-ho"	White Hmong
-oo	õ	93	U+006F U+006F	"hmoov,noob,ntoo_thuv"	White Hmong
-ph	pʰ	10	U+0070 U+0068	"hauv_phuam,hnub_vas_phab_hav,hnub_vas_phuv"	White Hmong
-pl	pˡ	6	U+0070 U+006C	"caws_pliav,tsev_hais_plaub,txiv_plig"	
-pw	p ɯ	2	U+0070 U+0077	"cwj_pwm,xub_pwg"	White Hmong
-qh	qʰ	7	U+0071 U+0068	"hnub_vas_as_qhas,ntoo_qhib,ntsia_liaj_qhov-rooj"	White Hmong
-rh	ʈʰ	1	U+0072 U+0068	"khaub_rhuab"	White Hmong
-rw	ʈ ɯ	2	U+0072 U+0077	"ntsaum_kab-rwg,paj_rwb"	White Hmong
-s$	˩/¹	176	U+0073 U+0024	"hnab_tes,os,xus_npus"	White Hmong
-s_	˩/¹	93	U+0073 U+005F	"nees_nkaum,nus_muag,ua_puas_tsuaj"	
-th	tʰ	17	U+0074 U+0068	"hnub_vas_thiv,sib-thooj,yeeb_thooj"	White Hmong
-ts	tʃ	27	U+0074 U+0073	"lus_cog_tseg,qhov_tsua,txiv_tsawb"	White Hmong
-tw	t ɯ	3	U+0074 U+0077	"leej_twg,qhov_twg,thaum_twg"	White Hmong
-tx	ts	30	U+0074 U+0078	"hiav-txwv,los_txog,yawg_txiv"	
-u$	u	46	U+0075 U+0024	"kab_taws_tsau,tau,xav_tau"	White Hmong
-ua	uə	190	U+0075 U+0061	"muab_rau,nquab,quav"	
-v$	˧˦/³⁴	250	U+0076 U+0024	"hauv,hnub_vas_xuv,koov"	White Hmong
-v_	˧˦/³⁴	147	U+0076 U+005F	"kev_tu_siab,lav_paub,liv_nyug"	
-w$	ɯ	12	U+0077 U+0024	"daw,ntiv_taw,ntxhw"	White Hmong
-ws	ɯ ʂ	8	U+0077 U+0073	"caws_pliav,plhaws_taub-hau,raws_qab"	White Hmong
-xw	s ɯ	2	U+0078 U+0077	"ntawv_xov_xwm,tub_ceev_xwm"	White Hmong
-xy	ɕ	1	U+0078 U+0079	"sib-xyaws"	
-Tsw	Ts/tʃ ɯ	2	U+0054 U+0073 U+0077	"Vaj_Tswv,thov_Vaj_Tswv"	White Hmong
-^ch	cʰ	12	U+005E U+0063 U+0068	"chaw_mos,cheb,chiv_keeb"	White Hmong
-^cw	c ɯ	3	U+005E U+0063 U+0077	"cwj_mem,cwj_nrig,cwj_pwm"	White Hmong
-^dh	dʱ	2	U+005E U+0064 U+0068	"dhau,dhia"	White Hmong
-^hl	ɬ	22	U+005E U+0068 U+006C	"hlawv,hlua_npev,hluas_nraug"	
-^hm	m̥	9	U+005E U+0068 U+006D	"hmoov,hmoov_av,hmoov_nplej"	
-^hn	n̥	31	U+005E U+0068 U+006E	"hnav,hneev_roj_hmab,hnub_vas_as_qhas"	
-^hw	h ɯ	4	U+005E U+0068 U+0077	"hwj,hwj_kais,hwj_txob"	White Hmong
-^ia	iə	3	U+005E U+0069 U+0061	"iab,iav"	
-^kh	kʰ	31	U+005E U+006B U+0068	"khav,khi,kho_mob"	White Hmong
-^kw	k ɯ	7	U+005E U+006B U+0077	"kwj,kwv_tij_neej_tsa,kwv_yees"	White Hmong
-^lw	l ɯ	4	U+005E U+006C U+0077	"lwg,lwj,lwm"	White Hmong
-^ml	mˡ	4	U+005E U+006D U+006C	"mlom,mloog,mloog_lus"	
-^nc	ⁿɟ	10	U+005E U+006E U+0063	"nce,nceb,ncuav_ci"	
-^nk	ⁿg	13	U+005E U+006E U+006B	"nkag_siab,nkaug,nkawm"	
-^np	ⁿb	18	U+005E U+006E U+0070	"npaum_li_cas,npawg,npev"	
-^nq	ⁿɢ	21	U+005E U+006E U+0071	"nqi,nqis,nqos"	
-^nr	ⁿɖ	16	U+005E U+006E U+0072	"nrab_hnub,nres,nrob_qaum"	
-^nt	ⁿd	53	U+005E U+006E U+0074	"ntaub,ntiaj_teb,ntoo_peeb_lab"	
-^ny	ɲ	24	U+005E U+006E U+0079	"nyaj,nyiaj,nyom"	
-^ph	pʰ	20	U+005E U+0070 U+0068	"phauj,phaw_nyuj,phiv"	White Hmong
-^pl	pˡ	20	U+005E U+0070 U+006C	"plas,plob_hav_zoov,pluas_mov"	
-^qh	qʰ	34	U+005E U+0071 U+0068	"qhov-ntxa,qhov_taub,qhov_yuam_kev"	White Hmong
-^qw	q ɯ	2	U+005E U+0071 U+0077	"qw_nrov,qwj"	White Hmong
-^rh	ʈʰ	1	U+005E U+0072 U+0068	"rhaus"	White Hmong
-^rw	ʈ ɯ	1	U+005E U+0072 U+0077	"rwj"	White Hmong
-^th	tʰ	24	U+005E U+0074 U+0068	"thaum_kawg,thee,thov_Vaj_Tswv"	White Hmong
-^ts	tʃ	46	U+005E U+0074 U+0073	"tsev_hauj_sam,tsev_kab_laug_sab,tsov_rog"	White Hmong
-^tw	t ɯ	7	U+005E U+0074 U+0077	"tw_nkoj,twg,twj_ywm"	White Hmong
-^tx	ts	50	U+005E U+0074 U+0078	"txiag,txiv_kab-ntxwv,txwv"	
-^ua	uə	19	U+005E U+0075 U+0061	"ua_pawv,ua_raug_mob,uab"	
-^vw	v ɯ	1	U+005E U+0076 U+0077	"vwm"	White Hmong
-^xw	s ɯ	2	U+005E U+0078 U+0077	"xwb,xwb_kuab"	White Hmong
-^xy	ɕ	4	U+005E U+0078 U+0079	"xya,xyaum,xyoo"	
-ee$	e ŋ	5	U+0065 U+0065 U+0024	"qee,thee,txee"	White Hmong
-ia$	iə	10	U+0069 U+0061 U+0024	"ciaj-sia,dhia,qhia"	
-khw	kʰ ɯ	1	U+006B U+0068 U+0077	"thom_khwm"	White Hmong
-npl	ⁿbˡ	12	U+006E U+0070 U+006C	"av_nplaum,raj_nplaim,txiv_cev_nplaum"	
-nts	ⁿɖʐ	26	U+006E U+0074 U+0073	"qhov-ntswg,qhws_ntsej,sawv_ntsug"	
-ntx	ⁿdz	11	U+006E U+0074 U+0078	"hnyuv_ntxwm,sawv_ntxov,xeeb-ntxwv"	
-oo$	o ŋ	19	U+006F U+006F U+0024	"ntxoov-ntxoo,qos_ntoo,xob_nroo"	White Hmong
-tsh	tʃʰ	13	U+0074 U+0073 U+0068	"ntawv_tsav_tsheb,ntsej-tshos,phaw_tshis"	White Hmong
-tsw	tʃ ɯ	2	U+0074 U+0073 U+0077	"kav_tswj,nom_tswv"	White Hmong
-tw$	t ɯ	1	U+0074 U+0077 U+0024	"pob-tw"	White Hmong
-txh	tsʰ	5	U+0074 U+0078 U+0068	"kiav_txhab,pob-txha,tuam_txhob"	
-ua$	uə	25	U+0075 U+0061 U+0024	"npua,pua,ua_dev_ua_npua"	
-ws$	ɯ ʂ	26	U+0077 U+0073 U+0024	"nplaim_taws,saws,tebchaws"	White Hmong
-^kws	k ɯ s	2	U+005E U+006B U+0077 U+0073	"kws_kho_mob,kws_ntaus_hlau"	White Hmong
-^nch	ⁿɟʰ	3	U+005E U+006E U+0063 U+0068	"ncha_moo,ncho_pa,nchuav_hlau"	
-^nkh	ⁿgʱ	3	U+005E U+006E U+006B U+0068	"nkhaus,nkhib_ntoo"	
-^npl	ⁿbˡ	6	U+005E U+006E U+0070 U+006C	"nplaig,nplaim_taws,nplej"	
-^nqh	ⁿɢʱ	1	U+005E U+006E U+0071 U+0068	"nqhis_dej"	
-^nrh	ⁿɖʱ	2	U+005E U+006E U+0072 U+0068	"nrhiav,nrhiav_tau"	
-^nth	ⁿdʱ	2	U+005E U+006E U+0074 U+0068	"nthua,nthwv_dej"	
-^nts	ⁿɖʐ	31	U+005E U+006E U+0074 U+0073	"ntsaj,ntsia_liaj_qhov-rooj,ntsuab"	
-^ntx	ⁿdz	13	U+005E U+006E U+0074 U+0078	"ntxais,ntxeev_siab,ntxuaj"	
-^plh	pʰˡ	2	U+005E U+0070 U+006C U+0068	"plhaws_taub-hau,plhu"	
-^qhw	qʰ ɯ	1	U+005E U+0071 U+0068 U+0077	"qhwv"	White Hmong
-^qws	q ɯ ʂ	1	U+005E U+0071 U+0077 U+0073	"qws_txob"	White Hmong
-^thw	tʰ ɯ	1	U+005E U+0074 U+0068 U+0077	"thwj"	White Hmong
-^tsh	tʃʰ	24	U+005E U+0074 U+0073 U+0068	"tshis,tshuaj_khib,tshuaj_lom"	White Hmong
-^tsw	tʃ ɯ	7	U+005E U+0074 U+0073 U+0077	"tsw_phem,tswg,tswm"	White Hmong
-^txh	tsʰ	12	U+005E U+0074 U+0078 U+0068	"txhaum,txhawj_siab,txhuas"	
-hws$	h ɯ ʂ	1	U+0068 U+0077 U+0073 U+0024	"tawm_hws"	White Hmong
-kws$	k ɯ ʂ	1	U+006B U+0077 U+0073 U+0024	"pobkws"	White Hmong
-ntsh	ⁿɖʐʱ	2	U+006E U+0074 U+0073 U+0068	"doog_ntshav,qe_ntshauv"	
-ntxh	ⁿdzʱ	2	U+006E U+0074 U+0078 U+0068	"tsov_ntxhuav,tub_ntxhais_kawm_ntawv"	
-tws$	t ɯ s	1	U+0074 U+0077 U+0073 U+0024	"yiv_tws"	White Hmong
-^nplh	ⁿbʰˡ	2	U+005E U+006E U+0070 U+006C U+0068	"nplhaib,nplhos"	
-^ntsh	ⁿɖʐʱ	3	U+005E U+006E U+0074 U+0073 U+0068	"ntshai,ntshauv,ntshav"	
-^ntxh	ⁿdzʱ	6	U+005E U+006E U+0074 U+0078 U+0068	"ntxhais,ntxhais_xeeb-ntxwv,ntxhi"	
-^qhws	qʰ ɯ ʂ	1	U+005E U+0071 U+0068 U+0077 U+0073	"qhws_ntsej"	White Hmong
+Grapheme	IPA	SCA	LANGUAGES	FREQUENCY	EXAMPLES	CODEPOINTS
+^	NULL		NULL	0		NULL
+$	NULL			2	ua;ua	U+0024
+^w$	ɯ ˧/³³	I 4	White Hmong	1	w	U+005E U+0077 U+0024
+^o$	o ˧/³³	U 4	White Hmong	1	o	U+005E U+006F U+0024
+^cw$	c ɯ ˧/³³	C I 4	White Hmong	1	cw	U+005E U+0063 U+0077 U+0024
+^hws$	h ɯ ˩/¹	H I 6	White Hmong	1	hws	U+005E U+0068 U+0077 U+0073 U+0024
+^qw$	q ɯ ˧/³³	K I 4	White Hmong	1	qw	U+005E U+0071 U+0077 U+0024
+^khw$	kʰ ɯ ˧/³³	K I 4	White Hmong	2	khw;khw	U+005E U+006B U+0068 U+0077 U+0024
+^qws$	q ɯ ˩/¹	K I 6	White Hmong	1	qws	U+005E U+0071 U+0077 U+0073 U+0024
+^nws$	n ɯ ˩/¹	N I 6	White Hmong	4	nws;nws;nws;nws	U+005E U+006E U+0077 U+0073 U+0024
+^pw$	p ɯ ˧/³³	P I 4	White Hmong	1	pw	U+005E U+0070 U+0077 U+0024
+^xya$	ɕ a ˧/³³	S A 4		1	xya	U+005E U+0078 U+0079 U+0061 U+0024
+^tw$	t ɯ ˧/³³	T I 4	White Hmong	1	tw	U+005E U+0074 U+0077 U+0024
+^tsw$	tʃ ɯ ˧/³³	T I 4	White Hmong	1	tsw	U+005E U+0074 U+0073 U+0077 U+0024
+^mentsis$	m e ˧/³³ + ⁿɖʐ i ˩/¹	M E 4 _ C I 6		1	mentsis	U+005E U+006D U+0065 U+006E U+0074 U+0073 U+0069 U+0073 U+0024
+^pobkws$	p o ˥/⁵ + k ɯ ˩/¹	P U 6 _ K I 6		1	pobkws	U+005E U+0070 U+006F U+0062 U+006B U+0077 U+0073 U+0024
+^tamsim$	t a ˨˩˧/²¹³ + s i ˨˩˧/²¹³	T A 6 _ S I 6		1	tamsim	U+005E U+0074 U+0061 U+006D U+0073 U+0069 U+006D U+0024
+d$	˩˧/¹³	2		2	ntawd;ntawd	U+0064 U+0024
+v$	˧˦/³⁴	2	White Hmong	250	av;hmoov_av;plua_tshauv;hav;pov-txwv	U+0076 U+0024
+g$	˧˩/³¹	3	White Hmong	165	tsag;tiaj-nrag;dej_poob_tsag;av_qeeg;lwg	U+0067 U+0024
+j$	˥˧/⁵³	3	White Hmong	169	toj;ntug_dej;dej;npuas_dej;pas_dej	U+006A U+0024
+b$	˥/⁵	6	White Hmong	300	ntiaj_teb;teb;hmoov_zeb;xuab_zeb;roob	U+0062 U+0024
+m$	˨˩˧/²¹³	6	White Hmong	165	dej_ntaug_lawm;dej_nplawm;xob_laim;pojniam;menyuam	U+006D U+0024
+s$	˩/¹	6	White Hmong	198	av_nkos;pob-tsuas;xob_ntsais;tsaus;taws	U+0073 U+0024
+a	a	A	White Hmong	266	hmoov_av;tsag;tiaj-nrag;hav;pas_dej	U+0061
+^a	a	A	White Hmong	7	av;av_nkos;av_qeeg;av_nplaum;as_nyub	U+005E U+0061
+aa	ã	A	White Hmong	4	yaas_kaus;naas_mom;yaas;naam	U+0061 U+0061
+ai	ai	A		83	xob_laim;xob_ntsais;nplaim_taws;hluav_ncaig;ntais_ntawv	U+0061 U+0069
+au	au	A		199	plua_tshauv;dej_ntaug_lawm;tsaus;tshauv;rauv	U+0061 U+0075
+aw	aɯ	A		124	dej_ntaug_lawm;dej_nplawm;qhov_dej_txhawv;zaj_sawv;taws	U+0061 U+0077
+V	V/v	B	White Hmong	1	thov_Vaj_Tswv	U+0056
+f	f	B	White Hmong	6	ntoo_faj_khaum;sib-faib;tus_foob;tus_raug_foob;fai_fab	U+0066
+v	v	B	White Hmong	13	las_voos;voj-voos;hnub_vas_thiv;hnub_vas_cas;hnub_vas_as_qhas	U+0076
+^V	V/v	B	White Hmong	1	Vaj_Tswv	U+005E U+0056
+^f	f	B	White Hmong	8	faus;faib;foob;fij;foom_koob_hmoov	U+005E U+0066
+^v	v	B	White Hmong	13	viv_ncaus;vauv;vauv;vaub_kib;vaj	U+005E U+0076
+c	c	C	White Hmong	40	cua_daj_cua_dub;huab_cua;yoov_tshaj_cum;hauv_caug;kub_cev	U+0063
+^c	c	C	White Hmong	51	cua_daj_cua_dub;cua;ciab-mu;cua_nab;cev	U+005E U+0063
+ch	cʰ	C	White Hmong	1	tebchaws	U+0063 U+0068
+nc	ⁿɟ	C		11	hluav_ncaig;viv_ncaus;qhov-ncauj;kaus_ncauj;di_ncauj	U+006E U+0063
+tx	ts	C		30	pov-txwv;hiav-txwv;niam_txiv;yawm_txiv;yawg_txiv	U+0074 U+0078
+^ch	cʰ	C	White Hmong	12	chaw_mos;chais;chav;chaw_ntaus_nplej;cheb	U+005E U+0063 U+0068
+^nc	ⁿɟ	C		10	ncej_puab;ncuav_ci;ncej;nceb;ncaws	U+005E U+006E U+0063
+^tx	ts	C		50	txiv_neej;txiv;txiv;txiv;txiv_hlob	U+005E U+0074 U+0078
+nts	ⁿɖʐ	C		25	xob_ntsais;poj_ntsuam;yawg_ntsuag;tis_ntses;pob-ntseg	U+006E U+0074 U+0073
+txh	tsʰ	C		5	qhov_dej_txhawv;pob-txha;kiav_txhab;tuam_txhob;neeg_raug_txhom	U+0074 U+0078 U+0068
+^nch	ⁿɟʰ	C		3	ncho_pa;nchuav_hlau;ncha_moo	U+005E U+006E U+0063 U+0068
+^nts	ⁿɖʐ	C		31	ntsuag;ntses;ntses_nab;ntsaum;ntsej_muag	U+005E U+006E U+0074 U+0073
+^txh	tsʰ	C		12	txham;txhuas;txhos_caug;txhiab;txhawj_siab	U+005E U+0074 U+0078 U+0068
+ntsh	ⁿɖʐʱ	C		2	qe_ntshauv;doog_ntshav	U+006E U+0074 U+0073 U+0068
+^ntsh	ⁿɖʐʱ	C		3	ntshauv;ntshav;ntshai	U+005E U+006E U+0074 U+0073 U+0068
+e	e	E	White Hmong	175	ntiaj_teb;teb;hmoov_zeb;xuab_zeb;ntug_dej	U+0065
+^e	e	E	White Hmong	1	ev	U+005E U+0065
+ee	ẽ	E	White Hmong	83	av_qeeg;neeg;txiv_neej;tub_xeeb-ntxwv;ntxhais_xeeb-ntxwv	U+0065 U+0065
+h	h	H	White Hmong	16	pos_huab;plaub-hau;plhaws_taub-hau;taub-hau;khauj-khaum_taub-hau	U+0068
+^h	h	H	White Hmong	35	hav;hiav-txwv;hav_iav;huab;huab_cua	U+005E U+0068
+i	i	I	White Hmong	170	yis_dej;txiv_neej;txiv;txiv;kev_sib-nrauj	U+0069
+w	ɯ	I	White Hmong	26	pov-txwv;hiav-txwv;nthwv_dej;tub_xeeb-ntxwv;ntxhais_xeeb-ntxwv	U+0077
+^i	i	I	White Hmong	6	ib;ib-qho;ib_txwm;ib_yam;ib-qho	U+005E U+0069
+ia	iə	I		130	ntiaj_teb;tiaj-nrag;hiav-txwv;hav_iav;pojniam	U+0069 U+0061
+^ia	iə	I		3	iav;iav;iab	U+005E U+0069 U+0061
+j	j	J	White Hmong	3	pojniam;pojniam;pojniam	U+006A
+k	k	K	White Hmong	30	nab_kuab;pog_koob_yawg_koob;pog_koob_yawg_koob;laum_kib_tshooj;zes_kab_laug_sab	U+006B
+q	q	K	White Hmong	28	av_qeeg;hnub_qub;xob_quaj;lau_qaib;poj_qaib	U+0071
+^k	k	K	White Hmong	68	kob;kaj;kub;kev_sib-nrauj;kuv	U+005E U+006B
+^q	q	K	White Hmong	28	qaib;qe_ntshauv;qav;quav_ntsej;qais	U+005E U+0071
+kh	kʰ	K	White Hmong	13	dej_khov;khauj-khaum;khauj-khaum_taub-hau;kws_kho_mob;tshuaj_khib	U+006B U+0068
+nk	ⁿg	K		11	av_nkos;hluas_nkauj;leeb_nkaub;tub-nkeeg;yeeb_nkab	U+006E U+006B
+nq	ⁿɢ	K		4	tus_tais_nqaij;tshuav_nqi;nuj_nqi;tsheb_nqaj_hlau	U+006E U+0071
+qh	qʰ	K	White Hmong	7	ntsia_liaj_qhov-rooj;nyom_qhuav;ntoo_qhib;noob_txiv_qhib;ib-qho	U+0071 U+0068
+^kh	kʰ	K	White Hmong	31	khauj-khaum;kheb;khauj-khaum_taub-hau;khaub_thuas;khaus	U+005E U+006B U+0068
+^nk	ⁿg	K		13	nkuaj;nkawj;nkees;nkaub;nkaug	U+005E U+006E U+006B
+^nq	ⁿɢ	K		21	nquab;nqaij;nqaj_qaum;nqaij_ntuag;nqos	U+005E U+006E U+0071
+^qh	qʰ	K	White Hmong	34	qhov_tsua;qhov_dej;qhov_dej_txhawv;qhov-muag;qhov-ntswg	U+005E U+0071 U+0068
+^nkh	ⁿgʱ	K		3	nkhib_ntoo;nkhaus;nkhaus	U+005E U+006E U+006B U+0068
+^nqh	ⁿɢʱ	K		1	nqhis_dej	U+005E U+006E U+0071 U+0068
+l	l	L	White Hmong	44	dej_ntaug_lawm;xob_laim;tij-laug;niam_laus;yawg_laug	U+006C
+^l	l	L	White Hmong	62	lawv;luj-txwv;lau_qaib;liv_nyug;leeb_nkaub	U+005E U+006C
+hl	ɬ	L		14	niam_hluas;txiv_hlob;plab_hlaub;khaub_hlab;saw_hlau	U+0068 U+006C
+^hl	ɬ	L		22	hli;hluav_ncaig;hlawv;hluas_nraug;hluas_nkauj	U+005E U+0068 U+006C
+m	m	M	White Hmong	41	nus_muag;dev_mub;ciab-mu;ntsej_muag;qhov-muag	U+006D
+^m	m	M	White Hmong	41	menyuam;mos_ab;menyuam;muam;menyuam_ntxaib	U+005E U+006D
+hm	m̥	M		6	noj_hmo;noj_hmo;txiv_hmab;nag_hmo;hneev_roj_hmab	U+0068 U+006D
+^hm	m̥	M		9	hmoov_av;hmoov_zeb;hma;hma_liab;hmoov_nplej	U+005E U+0068 U+006D
+^ml	mˡ	M		4	mlom;mloog;mloog_lus;mlom	U+005E U+006D U+006C
+g	ŋ	N	White Hmong	0		U+0067
+n	n	N	White Hmong	28	txiv_neej;pojniam;pojniam;pojniam;kwv_tij_neej_tsa	U+006E
+^g	ŋ	N	White Hmong	2	gus;gaib	U+005E U+0067
+^n	n	N	White Hmong	60	nag;nab_kuab;neeg;niam;niam_txiv	U+005E U+006E
+hn	n̥	N		6	pos_hniav;sab_hnub_tuaj;sab_hnub_poob;nruab_hnub;nrab_hnub	U+0068 U+006E
+ny	ɲ	N		19	menyuam;menyuam;menyuam_ntxaib;tsiaj_nyeg;phaw_nyuj	U+006E U+0079
+^hn	n̥	N		31	hnub;hnub_qub;hniav;hniav_puas;hneev_taw	U+005E U+0068 U+006E
+^ny	ɲ	N		24	nyab;nyab;nyuj;nyuj;nyoos	U+005E U+006E U+0079
+b	b	P	White Hmong	2	dabtsi;tebchaws	U+0062
+p	p	P	White Hmong	22	dej_poob_tsag;ncho_pa;niam_pog;hniav_puas;caj-pas	U+0070
+^p	p	P	White Hmong	75	pob-tsuas;pov-txwv;pas_dej;pob-zeb;pa	U+005E U+0070
+np	ⁿb	P		11	maum_npua;npuj-npaim;caj-npab;yas_npab;ua_npau_suav	U+006E U+0070
+ph	pʰ	P	White Hmong	10	hauv_phuam;tsev_pheeb_suab;ntsuas_phoo;txiv_maj_phaub;hnub_vas_phuv	U+0070 U+0068
+pl	pˡ	P		6	hauv_pliaj;caws_pliav;tshaib_plab;tshuaj_pleev;tsev_hais_plaub	U+0070 U+006C
+^np	ⁿb	P		18	npuas_dej;npu;npawg;npua_teb;npua	U+005E U+006E U+0070
+^ph	pʰ	P	White Hmong	20	phauj;phaw_nyuj;phaw_yaj;phaw_tshis;phaw_nees	U+005E U+0070 U+0068
+^pl	pˡ	P		20	plua_tshauv;plas;plaub-hau;plaub;plaub	U+005E U+0070 U+006C
+npl	ⁿbˡ	P		12	dej_nplawm;hmoov_nplej;txiv_cev_nplaum;kaus_nplooj;chaw_ntaus_nplej	U+006E U+0070 U+006C
+^npl	ⁿbˡ	P		6	nplaim_taws;nplai;nplaig;nplej;nplooj	U+005E U+006E U+0070 U+006C
+^plh	pʰˡ	P		2	plhaws_taub-hau;plhu	U+005E U+0070 U+006C U+0068
+^nplh	ⁿbʰˡ	P		2	nplhaib;nplhos	U+005E U+006E U+0070 U+006C U+0068
+S	S/ʂ	S	White Hmong	1	Yawm_Saub	U+0053
+s	ʂ	S	White Hmong	30	zaj_sawv;kev_sib-nrauj;kab_laug_sab;zes_kab_laug_sab;tsev_kab_laug_sab	U+0073
+x	s	S	White Hmong	14	tub_xeeb-ntxwv;ntxhais_xeeb-ntxwv;nitv_tes_xoo;pleev_xim;sab_xis	U+0078
+y	ʝ	S	White Hmong	26	pog_koob_yawg_koob;txiv_yawg;phaw_yaj;maum_yaj;hnyuv	U+0079
+z	ʐ	S	White Hmong	22	hmoov_zeb;xuab_zeb;pob-zeb;tsaug_zog;tso_zis	U+007A
+^Y	Y/ʝ	S	White Hmong	1	Yawm_Saub	U+005E U+0059
+^s	ʂ	S	White Hmong	55	siab;sib-tsoob;sib-ua;so;siav	U+005E U+0073
+^x	s	S	White Hmong	42	xuab_zeb;xob_laim;xob_ntsais;xob_quaj;xob_nroo	U+005E U+0078
+^y	ʝ	S	White Hmong	40	yis_dej;yuav;yawg;yawm_txiv;yawg_laug	U+005E U+0079
+^z	ʐ	S	White Hmong	27	zoov;zaj_sawv;zag;zes;zes_kab_laug_sab	U+005E U+007A
+xy	ɕ	S		1	sib-xyaws	U+0078 U+0079
+^xy	ɕ	S		3	xyoob;xyoo;xyaum	U+005E U+0078 U+0079
+d	d	T	White Hmong	24	ntug_dej;npuas_dej;pas_dej;nthwv_dej;yis_dej	U+0064
+r	ʈ	T	White Hmong	19	diav_rawg;qhov-rooj;ntsia_liaj_qhov-rooj;qhov-rais;lub-ru_tsev	U+0072
+t	t	T	White Hmong	78	ntiaj_teb;nplaim_taws;pa_taws;kwv_tij;niam_tais	U+0074
+^d	d	T	White Hmong	57	dej;dej_ntaug_lawm;dej_nplawm;dej;dej_poob_tsag	U+005E U+0064
+^r	ʈ	T	White Hmong	32	roob;rauv;rau_tes;rau;raum	U+005E U+0072
+^t	t	T	White Hmong	98	teb;toj;tiaj-nrag;taws;tua	U+005E U+0074
+dh	dʱ	T	White Hmong	2	tsim_dheev;ras_dheev	U+0064 U+0068
+nr	ⁿɖ	T		9	tiaj-nrag;xob_nroo;hluas_nraug;kev_sib-nrauj;hauv_nrob	U+006E U+0072
+nt	ⁿd	T		26	dej_ntaug_lawm;ntais_ntawv;puj_ntaws;nqaij_ntuag;chaw_ntaus_nplej	U+006E U+0074
+rh	ʈʰ	T	White Hmong	1	khaub_rhuab	U+0072 U+0068
+th	tʰ	T	White Hmong	17	khaub_thuas;piam_thaj;thoom_thaub;ntoo_thuv;yeeb_thooj	U+0074 U+0068
+ts	tʃ	T	White Hmong	27	pob-tsuas;qhov_tsua;dej_poob_tsag;kwv_tij_neej_tsa;kab_taws_tsau	U+0074 U+0073
+^dh	dʱ	T	White Hmong	2	dhia;dhau	U+005E U+0064 U+0068
+^nr	ⁿɖ	T		16	nrob_qaum;nrog_aub-ncaug;nroj_tsuag;nrog;nraum	U+005E U+006E U+0072
+^nt	ⁿd	T		53	ntiaj_teb;ntug_dej;ntoo;ntuj;ntais_ntawv	U+005E U+006E U+0074
+^rh	ʈʰ	T	White Hmong	1	rhaus	U+005E U+0072 U+0068
+^th	tʰ	T	White Hmong	24	thee;thaj_mom;thij;thom_khwm;thoom_thaub	U+005E U+0074 U+0068
+^ts	tʃ	T	White Hmong	46	tsag;tsaus;tsev_neeg;tsiaj;tsiaj_nyeg	U+005E U+0074 U+0073
+ntx	ⁿdz	T		11	ntxoov-ntxoo;menyuam_ntxaib;tub_xeeb-ntxwv;ntxhais_xeeb-ntxwv;txiv_ntxawm	U+006E U+0074 U+0078
+tsh	tʃʰ	T	White Hmong	13	plua_tshauv;phaw_tshis;laum_kib_tshooj;yoov_tshaj_cum;luj_tshib	U+0074 U+0073 U+0068
+^nrh	ⁿɖʱ	T		2	nrhiav;nrhiav_tau	U+005E U+006E U+0072 U+0068
+^nth	ⁿdʱ	T		2	nthwv_dej;nthua	U+005E U+006E U+0074 U+0068
+^ntx	ⁿdz	T		13	ntxoov-ntxoo;ntxais;ntxaiv;ntxuav;ntxias	U+005E U+006E U+0074 U+0078
+^tsh	tʃʰ	T	White Hmong	24	tshauv;tshoob;tshis;tshis;tshee	U+005E U+0074 U+0073 U+0068
+ntxh	ⁿdzʱ	T		2	tsov_ntxhuav;tub_ntxhais_kawm_ntawv	U+006E U+0074 U+0078 U+0068
+^ntxh	ⁿdzʱ	T		6	ntxhais;ntxhais;ntxhais_xeeb-ntxwv;ntxhais;ntxhw	U+005E U+006E U+0074 U+0078 U+0068
+o	o	U	White Hmong	246	av_nkos;toj;pob-tsuas;pov-txwv;kob	U+006F
+^o	o	U	White Hmong	4	os;o_txia;ob;ob-zaug	U+005E U+006F
+oo	õ	U	White Hmong	82	hmoov_av;hmoov_zeb;roob;dej_poob_tsag;zoov	U+006F U+006F
+u	u	Y	White Hmong	146	ntug_dej;ntuj;hnub;hnub_qub;hnub_qub	U+0075
+^u	u	Y	White Hmong	1	us	U+005E U+0075
+ua	uə	Y		173	xuab_zeb;pob-tsuas;npuas_dej;xob_quaj;huab	U+0075 U+0061
+^ua	uə	Y		3	uab;ua;ua	U+005E U+0075 U+0061
+-	+	_	White Hmong	1	ko-taw	U+002D
+_	+	_		32	pa_taws;lau_qaib;hma_liab;qe_ntshauv;rau_tes	U+005F
+v-	˧˦/³⁴ +	2 _		19	pov-txwv;hiav-txwv;ntxoov-ntxoo;qhov-muag;qhov-ntswg	U+0076 U+002D
+v_	˧˦/³⁴ +	2 _		147	hmoov_av;av_nkos;hmoov_zeb;qhov_tsua;nthwv_dej	U+0076 U+005F
+g-	˧˩/³¹ +	3 _		1	tsuag-tsuag	U+0067 U+002D
+g_	˧˩/³¹ +	3 _		56	ntug_dej;dej_ntaug_lawm;yawg_laug;pog_laug;pog_koob_yawg_koob	U+0067 U+005F
+j-	˥˧/⁵³ +	3 _		24	tiaj-nrag;tij-laug;luj-txwv;khauj-khaum;npuj-npaim	U+006A U+002D
+j_	˥˧/⁵³ +	3 _		100	ntiaj_teb;dej_ntaug_lawm;dej_nplawm;qhov_dej_txhawv;dej_poob_tsag	U+006A U+005F
+b-	˥/⁵ +	6 _		57	pob-tsuas;pob-zeb;kev_sib-nrauj;tub_xeeb-ntxwv;ntxhais_xeeb-ntxwv	U+0062 U+002D
+b_	˥/⁵ +	6 _		118	xuab_zeb;dej_poob_tsag;hnub_qub;xob_laim;xob_ntsais	U+0062 U+005F
+m_	˨˩˧/²¹³ +	6 _		72	nplaim_taws;niam_txiv;niam_laus;niam_hluas;menyuam_ntxaib	U+006D U+005F
+s_	˩/¹ +	6 _		101	npuas_dej;pas_dej;yis_dej;pos_huab;ntais_ntawv	U+0073 U+005F
+a$	a ˧/³³	A 4	White Hmong	16	pa;ncho_pa;kwv_tij_neej_tsa;hma;nab-qa	U+0061 U+0024
+ai$	ai ˧/³³	A 4		6	nplai;dai;sai;ntshai;kev_cai	U+0061 U+0069 U+0024
+au$	au ˧/³³	A 4		36	kab_taws_tsau;plaub-hau;plhaws_taub-hau;taub-hau;khauj-khaum_taub-hau	U+0061 U+0075 U+0024
+aw$	aɯ ˧/³³	A 4		11	ko-taw;yas_taw;luj_taw;hneev_taw;ntiv_taw	U+0061 U+0077 U+0024
+^vw	v ɯ	B I	White Hmong	1	vwm	U+005E U+0076 U+0077
+^cw	c ɯ	C I	White Hmong	3	cwj_pwm;cwj_mem;cwj_nrig	U+005E U+0063 U+0077
+e$	e ˧/³³	E 4		16	qe;qhab-tse;nqaj-tse;nce;nce	U+0065 U+0024
+hw	h ɯ	H I	White Hmong	2	xib_hwb;xib_hwb	U+0068 U+0077
+^hw	h ɯ	H I	White Hmong	4	hwj-txwv;hwj_kais;hwj_txob;hwj	U+005E U+0068 U+0077
+i$	i ˧/³³	I 4		18	hli;nti;ci;ci;ncuav_ci	U+0069 U+0024
+w$	ɯ ˧/³³	I 4	White Hmong	1	ntxhw	U+0077 U+0024
+ia$	iə ˧/³³	I 4		10	ciaj-sia;o_txia;ntsia;dhia;khaws_cia	U+0069 U+0061 U+0024
+ws	ɯ ʂ	I S	White Hmong	0		U+0077 U+0073
+ws$	ɯ ʂ	I S	White Hmong	3	ntsws;ntws;aws	U+0077 U+0073 U+0024
+^kw	k ɯ	K I	White Hmong	7	kwv_tij;kwv;kwv_tij;kwv_tij_neej_tsa;kwj	U+005E U+006B U+0077
+^qw	q ɯ	K I	White Hmong	2	qwj;qw_nrov	U+005E U+0071 U+0077
+khw	kʰ ɯ	K I	White Hmong	1	thom_khwm	U+006B U+0068 U+0077
+^qhw	qʰ ɯ	K I	White Hmong	1	qhwv	U+005E U+0071 U+0068 U+0077
+lw	l ɯ	L I	White Hmong	2	muas_lwj;hauj_lwm	U+006C U+0077
+^lw	l ɯ	L I	White Hmong	4	lwg;lwj;lwm;lwm	U+005E U+006C U+0077
+pw	p ɯ	P I	White Hmong	2	xub_pwg;cwj_pwm	U+0070 U+0077
+xw	s ɯ	S I	White Hmong	2	tub_ceev_xwm;ntawv_xov_xwm	U+0078 U+0077
+^xw	s ɯ	S I	White Hmong	2	xwb_kuab;xwb	U+005E U+0078 U+0077
+rw	ʈ ɯ	T I	White Hmong	2	paj_rwb;ntsaum_kab-rwg	U+0072 U+0077
+tw	t ɯ	T I	White Hmong	3	thaum_twg;qhov_twg;leej_twg	U+0074 U+0077
+Tsw	Ts/tʃ ɯ	T I	White Hmong	2	Vaj_Tswv;thov_Vaj_Tswv	U+0054 U+0073 U+0077
+^rw	ʈ ɯ	T I	White Hmong	1	rwj	U+005E U+0072 U+0077
+^tw	t ɯ	T I	White Hmong	7	twv;tw_nkoj;twj_ywm;twv;twg	U+005E U+0074 U+0077
+tsw	tʃ ɯ	T I	White Hmong	2	kav_tswj;nom_tswv	U+0074 U+0073 U+0077
+^thw	tʰ ɯ	T I	White Hmong	1	thwj	U+005E U+0074 U+0068 U+0077
+^tsw	tʃ ɯ	T I	White Hmong	7	tswm_ciab;tswg;tswm;tsw_phem;tswv_yim	U+005E U+0074 U+0073 U+0077
+o$	o ˧/³³	U 4	White Hmong	25	po;rua_lo;nto;so;noj_hmo	U+006F U+0024
+u$	u ˧/³³	Y 4	White Hmong	10	npu;ciab-mu;plhu;noj_su;zib-mu	U+0075 U+0024
+ua$	uə ˧/³³	Y 4		25	qhov_tsua;cua;huab_cua;tua;maum_npua	U+0075 U+0061 U+0024
+aw_	aɯ ˧/³³ +	A 4 _		11	phaw_nyuj;phaw_yaj;phaw_tshis;phaw_nees;chaw_mos	U+0061 U+0077 U+005F
+ee$	e ŋ ˧/³³	E N 4	White Hmong	5	thee;tshee;txee;qee;phee	U+0065 U+0065 U+0024
+hws$	h ɯ ˩/¹	H I 6	White Hmong	1	tawm_hws	U+0068 U+0077 U+0073 U+0024
+i_	i ˧/³³ +	I 4 _		6	di_ncauj;ua_li_cas;npaum_li_cas;vim_li_cas;ua_li_cas	U+0069 U+005F
+w_	ɯ ˧/³³ +	I 4 _		0		U+0077 U+005F
+tw$	t ɯ ˧/³³	T I 4	White Hmong	1	pob-tw	U+0074 U+0077 U+0024
+tws$	t ɯ ˩/¹	T I 6	White Hmong	1	yiv_tws	U+0074 U+0077 U+0073 U+0024
+o_	o ˧/³³ +	U 4 _		16	ncho_pa;tso_paus;tso_zis;tso_quav;kho_mob	U+006F U+005F
+oo$	o ŋ ˧/³³	U N 4	White Hmong	19	ntoo;xob_nroo;ntxoov-ntxoo;nitv_tes_xoo;noj_qab_nyob_zoo	U+006F U+006F U+0024
+ua_	uə ˧/³³ +	Y 4 _		17	plua_tshauv;cua_daj_cua_dub;cua_daj_cua_dub;npua_teb;cua_nab	U+0075 U+0061 U+005F
+^ua_	uə ˧/³³ +	Y 4 _		16	ua_pa;ua_ntsos;ua_qaj;ua_npau_suav;ua_niam_txiv	U+005E U+0075 U+0061 U+005F
+ee_	e ŋ ˧/³³ +	E N 4 _		1	qee_zaus	U+0065 U+0065 U+005F
+^kws_	k ɯ ˩/¹ +	K I 6 _	White Hmong	2	kws_kho_mob;kws_ntaus_hlau	U+005E U+006B U+0077 U+0073 U+005F
+^qws_	q ɯ ˩/¹ +	K I 6 _	White Hmong	1	qws_txob	U+005E U+0071 U+0077 U+0073 U+005F
+^qhws_	qʰ ɯ ˩/¹ +	K I 6 _	White Hmong	1	qhws_ntsej	U+005E U+0071 U+0068 U+0077 U+0073 U+005F
+oo_	o ŋ ˧/³³ +	U N 4 _		11	ntoo_qhib;ntoo_thuv;ntoo_peeb_lab;ntoo_kuj_yem;ntoo_faj_khaum	U+006F U+006F U+005F

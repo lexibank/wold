@@ -1,159 +1,160 @@
-Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
-^	NULL	3	U+005E		
-.	NULL	8	U+002E	"gə́rè…..bèn,ngáwò...._bèn,ngáwò…..bèn"	Kanuri
-…	NULL	2	U+2026	"gə́rè…..bèn,ngáwò…..bèn"	Kanuri
-^-a$	+ a	1	U+005E U+002D U+0061 U+0024	"-a"	Kanuri
--	+	4	U+002D	"-làn,-mbèn,kàm-kám"	Kanuri
-_	_	138	U+005F	"kàkkádə̀_hàwârbè,kə̀lâ_mâìbè,wásàm_yikko"	Kanuri
-b	b	153	U+0062	"ngáwò…..bèn,tàmbə́rtə́,àbàdá"	Kanuri
-c	tʃ	24	U+0063	"kárè_cídàbè,nə̀mcə́lə́m,sóró_cínnàbè"	Kanuri
-d	d	195	U+0064	"bə̀ládéyà,gádà,tàdàmí"	Kanuri
-f	f	32	U+0066	"díwò_férò,fə̀làìfə̀láì,kùndúlì_fúwùbè"	Kanuri
-g	g	197	U+0067	"bàntə̀gə̀né,kànzə́gə́,kúlìkə̀mágə̀n"	Kanuri
-h	h	4	U+0068	"báhàr,kàkkádə̀_hàwârbè,záhìr"	Kanuri
-i	i	2	U+0069	"kə̀náshîm_yikko,wásàm_yikko"	Kanuri
-j	dʒ	72	U+006A	"dújì,gàjàjàk,àrájì"	Kanuri
-k	k	137	U+006B	"bìské_fàrtà,dùngòktə́,ngâm_kúrà"	Kanuri
-l	l	276	U+006C	"mə̀láttə́,ngə́lárò,súsú_tə́rwə́lə̀mbè"	Kanuri
-m	m	242	U+006D	"dámbáshì,fə̂r_ngə́rmà,kámbà"	Kanuri
-n	n	218	U+006E	"búndúgə̀,kúndùwú,màkàràndí"	Kanuri
-p	p	15	U+0070	"nàptə́,náptə́,tə̀ptà"	Kanuri
-r	r	340	U+0072	"kùrúwù,tàmbə́rtə́,yâkúrà"	Kanuri
-s	s	74	U+0073	"lúsùr,múskò,wásə́là"	Kanuri
-t	t	388	U+0074	"dóktà,féfétò,kámbétə́"	Kanuri
-u	u	1	U+0075	"kâu_kə̀ráttə́ràm"	Kanuri
-w	w	97	U+0077	"jáwá,ngáwánà,ngáwò…..bèn"	Kanuri
-y	j	46	U+0079	"kíyí,mâìyá,míyà"	Kanuri
-z	z	44	U+007A	"mánzàr,nzə̀gə́rtə́,àzàltə́"	Kanuri
-à	à/a	445	U+00E0	"hàlàktà,ngáwàr,nə̀mjàù"	Kanuri
-á	á/a	467	U+00E1	"báskùr,káwùrì,nâ_ádə̀"	Kanuri
-â	â/a	78	U+00E2	"kə̀lâ_mâìbè,nâ_ádə̀,shàrâ_kàmtà"	Kanuri
-è	è/e	45	U+00E8	"kàmcèjí,kùlùwèrám,sə̀rèn"	Kanuri
-é	é/e	69	U+00E9	"kél,sə́ngéttə́,tə́nénè"	Kanuri
-ê	ê/e	13	U+00EA	"dìrìngêl,jê_tàùtáùbè,kàzêm_ngámdə̀"	Kanuri
-ì	ì/i	126	U+00EC	"jìnjîr,sháìr,tìló"	Kanuri
-í	í/i	155	U+00ED	"díwò,làntə̀ríkì,wódíshà_sèkkìn"	Kanuri
-î	î/i	53	U+00EE	"bàyîl,jóngò_mààrá_njîbè,shî_kə̀skábè"	Kanuri
-ò	ò/o	110	U+00F2	"kàkkádə̀_tàmbòbè,kə̀móló_yòktà,ngùwòltó"	Kanuri
-ó	ó/o	105	U+00F3	"cókkól_shélìà,jólóló,rótə́gə́"	Kanuri
-ô	ô/o	15	U+00F4	"fôk,ngôr,sô_njátòmà"	Kanuri
-ù	ù/u	143	U+00F9	"dùndú,gàpcìwùnó,hòwùmtə́"	Kanuri
-ú	ú/u	190	U+00FA	"dìfúnò,kúrtútə́,kúrwú"	Kanuri
-û	û/u	25	U+00FB	"ngûr,sàwûl,zâr_bûbè"	Kanuri
-ǎ	ǎ/a	5	U+01CE	"bə́rì_kǎùsùbè,tǎttə́,ádə̀gǎì"	Kanuri
-ǔ	ǔ/u	1	U+01D4	"kǔltù"	Kanuri
-ə	ə/ɨ	1	U+0259	"yəmbò"	Kanuri
-'á	'á/a	1	U+0027 U+00E1	"nà'ám"	Kanuri
-^b	b	117	U+005E U+0062	"bàyèntə́,bùrôs,bû"	Kanuri
-^c	tʃ	59	U+005E U+0063	"cík,cíì,cə́dí_lólójì"	Kanuri
-^d	d	96	U+005E U+0064	"dàlíl,dégátà,dínàr"	Kanuri
-^f	f	87	U+005E U+0066	"fàntə́,fátáfátámà,fútə́"	Kanuri
-^g	g	59	U+005E U+0067	"gérgèr,gùdùgùdú,gə́rè…..bèn"	Kanuri
-^h	h	14	U+005E U+0068	"hàwà,hámmà,hòwùmtə́"	Kanuri
-^j	dʒ	35	U+005E U+006A	"jâu,jòlí,jòró"	Kanuri
-^k	k	394	U+005E U+006B	"kárgí,kásúwá,kúttù"	Kanuri
-^l	l	65	U+005E U+006C	"làmbàtû,lìò,lòrùtə́"	Kanuri
-^m	m	64	U+005E U+006D	"mbə́ltə́,mánà_mátə́,máské"	Kanuri
-^n	n	157	U+005E U+006E	"ngádákàwú,nzùndò,nágə̀"	Kanuri
-^p	p	2	U+005E U+0070	"pòlîs,póskàt"	Kanuri
-^r	r	26	U+005E U+0072	"ràwò,rézà,róbà"	Kanuri
-^s	s	84	U+005E U+0073	"sámnó,sówórì,súwúlí_kə́nzàbè"	Kanuri
-^t	t	100	U+005E U+0074	"tájírwà,tòlî,tə́lìn"	Kanuri
-^w	w	41	U+005E U+0077	"wàtə̀má,wáràwí,wòrmàtə́"	Kanuri
-^y	j	45	U+005E U+0079	"yádì,yéstə́,yìwò"	Kanuri
-^z	z	23	U+005E U+007A	"zàrí_càlícálì,zàìtûn,záwà_súbè"	Kanuri
-^Á	Á/a	1	U+005E U+00C1	"Álà"	Kanuri
-^à	à/a	32	U+005E U+00E0	"àbí,àbígǎìnyìn,àgógó"	Kanuri
-^á	á/a	22	U+005E U+00E1	"ádə̀gǎì,áìwú,áìwúà"	Kanuri
-^â	â/a	2	U+005E U+00E2	"âm,âu"	Kanuri
-^í	í/i	4	U+005E U+00ED	"ínjìn,ísò"	Kanuri
-^ó	ó/o	1	U+005E U+00F3	"ódà_dìò"	Kanuri
-^ù	ù/u	1	U+005E U+00F9	"ùgú"	Kanuri
-bb	b b	5	U+0062 U+0062	"cíbbù,kábbì,kábbí"	Kanuri
-cc	tʃ tʃ	1	U+0063 U+0063	"bàccíà"	Kanuri
-k$	k	8	U+006B U+0024	"cík,fárák,nə̀mmə̀náfùk"	Kanuri
-kk	k k	33	U+006B U+006B	"kámúrò_yùkkùrùwò,kə̀náshîm_yikko,sàkkân"	Kanuri
-kw	k w	1	U+006B U+0077	"kwákwà"	Kanuri
-l$	l	48	U+006C U+0024	"cìngâl,kàmbîl,sàwûl"	Kanuri
-ll	l l	11	U+006C U+006C	"còlló,lìwùllá,shíllà"	Kanuri
-ls	l s	1	U+006C U+0073	"súlsúl"	Kanuri
-lw	l w	9	U+006C U+0077	"jìlwá,súlwé,àlwútà"	Kanuri
-m$	m	99	U+006D U+0024	"báràm,mùskòrám,tàdàrám"	Kanuri
-mm	m m	4	U+006D U+006D	"hámmà,júmmà,nə̀mmə̀náfùk"	Kanuri
-ms	m s	2	U+006D U+0073	"gúmsù,kámsàl"	Kanuri
-n$	n	55	U+006E U+0024	"kə́nzə́n,lèmûn,àbígǎìnyìn"	Kanuri
-ng	ŋ	68	U+006E U+0067	"bə̀làlàngáì,hángàl,kə́ngâl"	
-nn	n n	16	U+006E U+006E	"kánnù,kánnú,zànnù"	Kanuri
-ny	ɲ	17	U+006E U+0079	"bə́rnyí,gə̀nyí,sànyàrám"	
-o$	o	2	U+006F U+0024	"kə̀náshîm_yikko,wásàm_yikko"	Kanuri
-p$	p	8	U+0070 U+0024	"jélàp,klóp,ájàp"	Kanuri
-r$	r	56	U+0072 U+0024	"jìnjîr,kànàndîr,kə̀mâr"	Kanuri
-rr	r r	2	U+0072 U+0072	"fêrrò_kə̀mbâ,nûrrà"	Kanuri
-rs	r s	4	U+0072 U+0073	"fə́rsə̀nà,kúrsáshíà,kə́rsàsà"	Kanuri
-rw	r w	23	U+0072 U+0077	"bàrwùnó,fə̂r_kùrwúdì,tárwúnà"	Kanuri
-s$	s	3	U+0073 U+0024	"bàrmús,bás,gə̀rəˆs"	Kanuri
-sh	ʃ	16	U+0073 U+0068	"dámbáshì,káshí,shíllà_shítíbè"	Kanuri
-t$	t	6	U+0074 U+0024	"hélmèt,kôt,sìkêt"	Kanuri
-tt	t t	27	U+0074 U+0074	"kúttù,kə̀máttə̀n,àbàttə́"	Kanuri
-u$	u	5	U+0075 U+0024	"jâu,kâu,âu"	Kanuri
-à$	à/a	242	U+00E0 U+0024	"gùrjámà,kwôngâ_nyìyáà,mìnístà"	Kanuri
-àh	à/a h	1	U+00E0 U+0068	"wàhàrtə́"	Kanuri
-às	à/a s	22	U+00E0 U+0073	"kàsàttə́,kàsâm,kàsùwùmá"	Kanuri
-àw	à/a w	41	U+00E0 U+0077	"jìràwûn,ngàwùrè,ngàwúlì"	Kanuri
-àà	àà/aː	6	U+00E0 U+00E0	"jààptà,jóngò_mààrá_njîbè,mààrá_cídíbè"	Kanuri
-á$	á/a	86	U+00E1 U+0024	"gàdìmá,kàká,sàwə̀rmá"	Kanuri
-áá	áá/aː	1	U+00E1 U+00E1	"sáátə́"	Kanuri
-â$	â/a	36	U+00E2 U+0024	"kwâ,kâ,nyìyâ"	Kanuri
-âs	â/a s	1	U+00E2 U+0073	"ngâsô"	Kanuri
-è$	è/e	67	U+00E8 U+0024	"kàkkádə̀_tàmbòbè,kárè_dáwùbè,kə̀lâ_mâìbè"	Kanuri
-ès	è/e s	2	U+00E8 U+0073	"fə̀rèsìdân,ngèstə́"	Kanuri
-èw	è/e w	5	U+00E8 U+0077	"mèwûn_ndîn,mèwûn_tìlôn,nə̀mlèwáà"	Kanuri
-é$	é/e	31	U+00E9 U+0024	"cìmé,gàdángàré,ngàrkìmé"	Kanuri
-és	é/e s	3	U+00E9 U+0073	"césà,dàngə̀résé,yéstə́"	Kanuri
-éw	é/e w	3	U+00E9 U+0077	"béwó,sə̀kùldə̀réwà,téwùr"	Kanuri
-ê$	ê/e	13	U+00EA U+0024	"bê,jê,kàngê"	Kanuri
-ì$	ì/i	126	U+00EC U+0024	"dóndì,kə̀gə̀shì,nə̀ndə́lì"	Kanuri
-ìs	ì/i s	4	U+00EC U+0073	"bìské,bìské_fàrtà,fìsàttə́"	Kanuri
-ìw	ì/i w	13	U+00EC U+0077	"lìwò,shìwá,áìwúà"	Kanuri
-ìì	ìì/iː	1	U+00EC U+00EC	"lììtàrí"	Kanuri
-í$	í/i	86	U+00ED U+0024	"kúttí,nyí,àndí"	Kanuri
-íí	íí/iː	2	U+00ED U+00ED	"jíínà,líítà"	Kanuri
-î$	î/i	23	U+00EE U+0024	"kə̀rî,njî,shî"	Kanuri
-ò$	ò/o	123	U+00F2 U+0024	"kàúdò,kúlò,ngúdò"	Kanuri
-òs	ò/o s	2	U+00F2 U+0073	"kòsòmá,mòsóró"	Kanuri
-òw	ò/o w	7	U+00F2 U+0077	"bòwòtà,fòwòlí,hòwùmtə́"	Kanuri
-ó$	ó/o	47	U+00F3 U+0024	"cúró,kùbènó,kə̀rmó"	Kanuri
-ós	ó/o s	6	U+00F3 U+0073	"kósò,sósì,wóstə́"	Kanuri
-ów	ó/o w	10	U+00F3 U+0077	"fówó,hówùm,shílówù"	Kanuri
-ô$	ô/o	7	U+00F4 U+0024	"màntô,ràtô,rô"	Kanuri
-ù$	ù/u	73	U+00F9 U+0024	"bárwù,bù,shílówù"	Kanuri
-ùs	ù/u s	16	U+00F9 U+0073	"bə́rì_kǎùsùbè,kùsû,wùskə́"	Kanuri
-ùw	ù/u w	22	U+00F9 U+0077	"lùwò,mósùwà,rùwùtə́"	Kanuri
-ú$	ú/u	41	U+00FA U+0024	"gòdú,gùdùgùdú,ndàwú"	Kanuri
-û$	û/u	8	U+00FB U+0024	"bû,kùsû,sû"	Kanuri
-ǒ$	ǒ/o	1	U+01D2 U+0024	"màsǒ"	Kanuri
-əˆ	əˆ/ɨ	1	U+0259 U+02C6	"gə̀rəˆs"	Kanuri
-ə̀	ə̀/ɨ	251	U+0259 U+0300	"kə̀ntágə̀,mə̀ktə́gə́ràm,nzə̀mbòràm"	Kanuri
-ə́	ə́/ɨ	203	U+0259 U+0301	"bə́nyì,sə́wà,zə́kkà"	Kanuri
-ə̂	ə̂/ɨ	10	U+0259 U+0302	"fə̂r_ngə́rmà,kàlə̂m,ngògə̂m"	Kanuri
-ə̔	ə̔/ə	1	U+0259 U+0314	"kə̔lâbê"	Kanuri
-'à$	'à/a	1	U+0027 U+00E0 U+0024	"á'à"	Kanuri
-^kw	k w	12	U+005E U+006B U+0077	"kwánò,kwâl,kwângâ"	Kanuri
-^ny	ɲ	6	U+005E U+006E U+0079	"nyètə́,nyètə́ràm,nyí"	
-^sh	ʃ	32	U+005E U+0073 U+0068	"sháìr,shètán,shîlàn_báktə́"	Kanuri
-^às	à/a s	1	U+005E U+00E0 U+0073	"àsír"	Kanuri
-^àw	à/a w	2	U+005E U+00E0 U+0077	"àwá_cíntà,àwó"	Kanuri
-ng$	ŋ	3	U+006E U+0067 U+0024	"góngóng,wáyáng"	
-nsh	n ʃ	1	U+006E U+0073 U+0068	"kə̀nshê"	Kanuri
-psh	p ʃ	1	U+0070 U+0073 U+0068	"tə́pshì"	Kanuri
-àsh	à/a ʃ	2	U+00E0 U+0073 U+0068	"kàshíngò,kàskàshí"	Kanuri
-àà$	àà/aː	1	U+00E0 U+00E0 U+0024	"wàltàà"	Kanuri
-âs$	â/a s	2	U+00E2 U+0073 U+0024	"bâs,gə̀lâs"	Kanuri
-ésh	é/e ʃ	1	U+00E9 U+0073 U+0068	"àdréshì"	Kanuri
-ìs$	ì/i s	1	U+00EC U+0073 U+0024	"kúrìs"	Kanuri
-îs$	î/i s	1	U+00EE U+0073 U+0024	"pòlîs"	Kanuri
-ôs$	ô/o s	1	U+00F4 U+0073 U+0024	"bùrôs"	Kanuri
-ə̀$	ə̀/e	53	U+0259 U+0300 U+0024	"kàzêm_ngámdə̀,kə̀lə́gə̀,rádə̀"	Kanuri
-ə́$	ə́/ɨ	226	U+0259 U+0301 U+0024	"fìsàttə́,tǎttə́,àshêm_gòtə́"	Kanuri
-ə̌$	ə̌/ɨ	1	U+0259 U+030C U+0024	"kə̀skə̌"	Kanuri
-^àsh	à/a ʃ	3	U+005E U+00E0 U+0073 U+0068	"àsháná,àshêm_gòtə́,àshêm_zə̀mtə́"	Kanuri
+Grapheme	IPA	SCA	LANGUAGES	FREQUENCY	EXAMPLES	CODEPOINTS
+^	NULL			3	-làn;-mbèn;-làn	U+005E
+$	NULL		NULL	2	cîr_;cîr_	NULL
+.	NULL		Kanuri	8	ngáwò…..bèn;ngáwò…..bèn;ngáwò...._bèn;ngáwò...._bèn;ngáwò...._bèn	U+002E
+…	NULL		Kanuri	2	ngáwò…..bèn;gə́rè…..bèn	U+2026
+^-a$	+ a	_ A	Kanuri	1	-a	U+005E U+002D U+0061 U+0024
+à	à/a	A	Kanuri	445	kàttî;báhàr;báhàr;kàzáà_njîbè;kàzáà_njîbè	U+00E0
+á	á/a	A	Kanuri	467	lárdə̀;fárák;fárák;fáyà;báhàr	U+00E1
+â	â/a	A	Kanuri	78	kâu;kâu;kə́ngâl;kàsâm;kùndúwâl	U+00E2
+ǎ	ǎ/a	A	Kanuri	5	bə́rì_kǎùsùbè;tǎttə́;ádə̀gǎì;kǎìdù;àbígǎìnyìn	U+01CE
+'á	'á/a	A	Kanuri	1	nà'ám	U+0027 U+00E1
+^Á	Á/a	A	Kanuri	1	Álà	U+005E U+00C1
+^à	à/a	A	Kanuri	32	àndí;àkú;àníní;àlwútà;àrgə̂m	U+005E U+00E0
+^á	á/a	A	Kanuri	22	áládə̀_kùrwúdì;áládə̀;áská;ámálánké;ákkì	U+005E U+00E1
+^â	â/a	A	Kanuri	2	âu;âm	U+005E U+00E2
+à$	à/a	A	Kanuri	242	césà;fáyà;njî_kúrà;njî_kúrà;ngàdà	U+00E0 U+0024
+àà	àà/aː	A	Kanuri	6	mààrá_njîbè;mààrá_njîbè;jóngò_mààrá_njîbè;jààptà;mààrá_sámíbè	U+00E0 U+00E0
+á$	á/a	A	Kanuri	86	kə́rtá;kə̀ská;àsháná;bàwá;tàdá	U+00E1 U+0024
+áá	áá/aː	A	Kanuri	1	sáátə́	U+00E1 U+00E1
+â$	â/a	A	Kanuri	36	dúnyâ;kàrwâ;dùnyâ;kwâ;kwângâ	U+00E2 U+0024
+'à$	'à/a	A	Kanuri	1	á'à	U+0027 U+00E0 U+0024
+àà$	àà/aː	A	Kanuri	1	wàltàà	U+00E0 U+00E0 U+0024
+f	f	B	Kanuri	32	kàfíà;máfì;máfì;díwò_férò;ngàmfàtú	U+0066
+^f	f	B	Kanuri	87	fárák;fáyà;fòwòlí;fówó;férò	U+005E U+0066
+è	è/e	E	Kanuri	45	njèzò;fèròmí;yèìyàrí;kùlùwèrám;wódíshà_sèkkìn	U+00E8
+é	é/e	E	Kanuri	69	kégə́rà_ngə̀rjî;férò;férò;díwò_férò;férò_cíntà	U+00E9
+ê	ê/e	E	Kanuri	13	jê_tàùtáùbè;cìmê_ngə́wə́lbè;sìkêt;bêl;dìrìngêl	U+00EA
+è$	è/e	E	Kanuri	67	cî_njîbè;kàzáà_njîbè;shîm_njîbè;njî_sámìbè;tə́làm_kánnúbè	U+00E8 U+0024
+é$	é/e	E	Kanuri	31	njìbòné;kàrwàcìmé;bàntə̀gə̀né;gàdángàré;kùndúlì_tígə̀bé	U+00E9 U+0024
+ê$	ê/e	E	Kanuri	13	kàngê;fê;fê;fê;kàngê	U+00EA U+0024
+ə̔	ə̔/ə	E	Kanuri	1	kə̔lâbê	U+0259 U+0314
+ə̀$	ə̀/e	E	Kanuri	53	lárdə̀;rádə̀;rádə̀;nə̀kə̀lmə́skə̀;də̀lágə̀	U+0259 U+0300 U+0024
+h	h	H	Kanuri	4	báhàr;báhàr;záhìr;kàkkádə̀_hàwârbè	U+0068
+^h	h	H	Kanuri	14	hámmà;hàrîl;hìjâp;hámà;hàláltə́	U+005E U+0068
+i	i	I	Kanuri	2	wásàm_yikko;kə̀náshîm_yikko	U+0069
+ì	ì/i	I	Kanuri	126	njìbòné;kàrwàcìmé;njî_sámìbè;nyìyàtə́;nyìyâ	U+00EC
+í	í/i	I	Kanuri	155	cídí;cídí;bílwù;cə́dí_lólójì;shílówù	U+00ED
+î	î/i	I	Kanuri	53	cî_njîbè;cî_njîbè;njî_kúrà;njî_kúrà;kàzáà_njîbè	U+00EE
+ə	ə/ɨ	I	Kanuri	1	yəmbò	U+0259
+^í	í/i	I	Kanuri	4	ínjìn;ísò;ínjìn;ínjìn	U+005E U+00ED
+ì$	ì/i	I	Kanuri	126	cə́dí_lólójì;máfì;máfì;kə̀gə̀shì;kə́límì	U+00EC U+0024
+ìì	ìì/iː	I	Kanuri	1	lììtàrí	U+00EC U+00EC
+í$	í/i	I	Kanuri	86	cídí;cídí;fòwòlí;kàùdí;tàdàmí	U+00ED U+0024
+íí	íí/iː	I	Kanuri	2	líítà;jíínà	U+00ED U+00ED
+î$	î/i	I	Kanuri	23	kàttî;kə̀rî;njî;sàmî;kégə́rà_ngə̀rjî	U+00EE U+0024
+əˆ	əˆ/ɨ	I	Kanuri	1	gə̀rəˆs	U+0259 U+02C6
+ə̀	ə̀/ɨ	I	Kanuri	251	bə́rbə̀r;kə̀rî;bə́rə̀m;kə̀múdù;kə̀ská	U+0259 U+0300
+ə́	ə́/ɨ	I	Kanuri	203	bə́rbə̀r;kə́rtá;bə́rə̀m;kàráà_sə́lə́m;kàráà_sə́lə́m	U+0259 U+0301
+ə̂	ə̂/ɨ	I	Kanuri	10	ngòrə̂m;də̂r;fə̂r;fə̂r_ngə́rmà;fə̂r_kùrwúdì	U+0259 U+0302
+ə́$	ə́/ɨ	I	Kanuri	226	búgə́;máltə́;máltə́;wàstə́;nyìyàtə́	U+0259 U+0301 U+0024
+ə̌$	ə̌/ɨ	I	Kanuri	1	kə̀skə̌	U+0259 U+030C U+0024
+y	j	J	Kanuri	46	fáyà;nyìyàtə́;nyìyâ;kwôngâ_nyìyáà;kámú_nyìyáà	U+0079
+^y	j	J	Kanuri	45	yàzò;yâ;yâànà;yàá;yâànà	U+005E U+0079
+g	g	K	Kanuri	197	ngôr;ngòrə̂m;ngàdà;kégə́rà_ngə̀rjî;bàntə̀gə̀né	U+0067
+k	k	K	Kanuri	137	cúkú;njî_kúrà;njî_kúrà;kə̀ská;nə̀kə̀lmə́skə̀	U+006B
+^g	g	K	Kanuri	59	gòdú;gùdòwúm;gə̀ràgə́rà;gàdángàré;gùrjámà	U+005E U+0067
+^k	k	K	Kanuri	394	kàttî;kâu;kə̀rî;kə́rtá;kùlúwù	U+005E U+006B
+k$	k	K	Kanuri	8	fárák;fôk;gàjàjàk;cík;kwáì_mbók	U+006B U+0024
+l	l	L	Kanuri	276	tóló;fòwòlí;kùlúwù;kàráà_sə́lə́m;cə́dí_lólójì	U+006C
+^l	l	L	Kanuri	65	lárdə̀;lòrúsà;lə̀mân;lə̀mân;làwátə́rà	U+005E U+006C
+l$	l	L	Kanuri	48	kə́ngâl;kə́mbàl;kùndúwâl;tíwàl;yâl	U+006C U+0024
+m	m	M	Kanuri	242	kə̀múdù;shîm_njîbè;sàmî;kə́mbàl;kàrwàcìmé	U+006D
+^m	m	M	Kanuri	64	máfì;máfì;máltə́;máltə́;màtàfífítò	U+005E U+006D
+m$	m	M	Kanuri	99	ngòrə̂m;bə́rə̀m;báràm;kàráà_sə́lə́m;nə̀mcə́lə́m	U+006D U+0024
+n	n	N	Kanuri	218	cî_njîbè;kàzáà_njîbè;shîm_njîbè;njìbòné;kə̀ndáwù	U+006E
+^n	n	N	Kanuri	157	ngôr;ngòrə̂m;njî;njî_kúrà;njî_kúrà	U+005E U+006E
+n$	n	N	Kanuri	55	lə̀mân;lə̀mân;kə̀mówùn;kúlìkə̀mágə̀n;kə́rgə́n	U+006E U+0024
+ng	ŋ	N		68	kə́ngâl;kégə́rà_ngə̀rjî;kùlóngù;kàngê;kwângâ	U+006E U+0067
+ny	ɲ	N		17	dúnyâ;dùnyâ;kwôngâ_nyìyáà;kámú_nyìyáà;ngə́nyì	U+006E U+0079
+^ny	ɲ	N		6	nyìyàtə́;nyìyâ;nyí;nyètə́;nyètə́ràm	U+005E U+006E U+0079
+ng$	ŋ	N		3	góngóng;wáyáng;góngóng	U+006E U+0067 U+0024
+b	b	P	Kanuri	153	bə́rbə̀r;cî_njîbè;kàzáà_njîbè;shîm_njîbè;njìbòné	U+0062
+p	p	P	Kanuri	15	də̀ptà;tàptà;zə̀ptə́;tə̀ptà;náptə́	U+0070
+^b	b	P	Kanuri	117	bə́rbə̀r;báhàr;bílwù;báhàr;bə́rə̀m	U+005E U+0062
+^p	p	P	Kanuri	2	pòlîs;póskàt	U+005E U+0070
+p$	p	P	Kanuri	8	cánà_lə́p;jîp;kûp;hìjâp;jə́làp	U+0070 U+0024
+r	r	R	Kanuri	342	lárdə̀;bə́rbə̀r;kə̀rî;jòró;fárák	U+0072
+^r	r	R	Kanuri	26	rádə̀;rádə̀;ráwà;ráwà;rôà	U+005E U+0072
+r$	r	R	Kanuri	54	bə́rbə̀r;ngôr;báhàr;báhàr;də̂r	U+0072 U+0024
+s	s	S	Kanuri	74	kàráà_sə́lə́m;kə̀ská;nə̀kə̀lmə́skə̀;njî_sámìbè;lòrúsà	U+0073
+z	z	S	Kanuri	44	kàzáà_njîbè;njèzò;yàzò;nzə̀místə́;kə́nzà	U+007A
+^s	s	S	Kanuri	84	sàmî;sùnyìrám;súnyí;sáùràkə̀lànjì;sə́mò	U+005E U+0073
+^z	z	S	Kanuri	23	zâr_bûbè;zə̀gàlí;zákàr;zúngù_fàntə́;zàná	U+005E U+007A
+s$	s	S	Kanuri	3	bàrmús;gə̀rəˆs;bás	U+0073 U+0024
+sh	ʃ	S	Kanuri	16	kə̀gə̀shì;njíshì;shíllà_shítíbè;kùndúlì_shîmbè;fə́rtə̀_shîmbè	U+0073 U+0068
+^sh	ʃ	S	Kanuri	32	shîm_njîbè;shílówù;shíllà;shíllà_shítíbè;shîm	U+005E U+0073 U+0068
+c	tʃ	T	Kanuri	24	kàrwàcìmé;nə̀mcə́lə́m;kánnú_cámbî;kə̀múrcò;àwá_cíntà	U+0063
+d	d	T	Kanuri	195	cídí;lárdə̀;cídí;ngàdà;kə̀múdù	U+0064
+j	dʒ	T	Kanuri	72	cî_njîbè;njî;njî_kúrà;njî_kúrà;kàzáà_njîbè	U+006A
+t	t	T	Kanuri	388	kə́rtá;bàntə̀gə̀né;máltə́;máltə́;wàstə́	U+0074
+^c	tʃ	T	Kanuri	59	cídí;cídí;césà;cúkú;cî_njîbè	U+005E U+0063
+^d	d	T	Kanuri	96	dúnyâ;də̂r;də̀lágə̀;dùnyâ;də̀ptà	U+005E U+0064
+^j	dʒ	T	Kanuri	35	jòró;jìlwá;jê_tàùtáùbè;jîp;jìràwûn	U+005E U+006A
+^t	t	T	Kanuri	100	tóló;tə́làm_kánnúbè;tádà;tàdàmí;tádà	U+005E U+0074
+t$	t	T	Kanuri	6	kôt;sìkêt;nágàt;táwàt;hélmèt	U+0074 U+0024
+ò	ò/o	U	Kanuri	110	jòró;fòwòlí;ngòrə̂m;njìbòné;fèròmí	U+00F2
+ó	ó/o	U	Kanuri	105	tóló;cə́dí_lólójì;cə́dí_lólójì;kùlóngù;kóró	U+00F3
+ô	ô/o	U	Kanuri	15	ngôr;kwôngâ_nyìyáà;díwò_kôngwâ;rôà;fôk	U+00F4
+^ó	ó/o	U	Kanuri	1	ódà_dìò	U+005E U+00F3
+o$	o	U	Kanuri	2	wásàm_yikko;kə̀náshîm_yikko	U+006F U+0024
+ò$	ò/o	U	Kanuri	123	njèzò;yàzò;férò;férò;kə̀múrcò	U+00F2 U+0024
+ó$	ó/o	U	Kanuri	47	tóló;jòró;fówó;dàló;kóró	U+00F3 U+0024
+ô$	ô/o	U	Kanuri	7	màntô;bùtô;ràtô;ngâsô;rô	U+00F4 U+0024
+ǒ$	ǒ/o	U	Kanuri	1	màsǒ	U+01D2 U+0024
+w	w	W	Kanuri	97	kùlúwù;kə̀ndáwù;kùndúwâl;tíwàl;káwú	U+0077
+^w	w	W	Kanuri	41	wàstə́;wú;wúllə́ràm;wásàm_yikko;wódíshà_sèkkìn	U+005E U+0077
+u	u	Y	Kanuri	1	kâu_kə̀ráttə́ràm	U+0075
+ù	ù/u	Y	Kanuri	143	kùlúwù;kàùdí;kùlóngù;dùnyâ;kùndúwâl	U+00F9
+ú	ú/u	Y	Kanuri	190	dúnyâ;cúkú;njî_kúrà;njî_kúrà;kùlúwù	U+00FA
+û	û/u	Y	Kanuri	25	nûr;dûr;zâr_bûbè;ngûm;ngûr	U+00FB
+ǔ	ǔ/u	Y	Kanuri	1	kǔltù	U+01D4
+^ù	ù/u	Y	Kanuri	1	ùgú	U+005E U+00F9
+u$	u	Y	Kanuri	5	kâu;kâu;jâu;jâu;âu	U+0075 U+0024
+ù$	ù/u	Y	Kanuri	73	bílwù;kùlúwù;kə̀múdù;kə̀ndáwù;shílówù	U+00F9 U+0024
+ú$	ú/u	Y	Kanuri	41	cúkú;kánnú;kánnú;kámú;kámú	U+00FA U+0024
+û$	û/u	Y	Kanuri	8	bû;kə̀mbû;làmbàtû;sû;kùsû	U+00FB U+0024
+-	+	_	Kanuri	4	kàm-kám;-làn;-mbèn;-làn	U+002D
+_	_	_	Kanuri	140	cî_njîbè;njî_kúrà;njî_kúrà;kàzáà_njîbè;shîm_njîbè	U+005F
+àh	à/a h	A H	Kanuri	1	wàhàrtə́	U+00E0 U+0068
+às	à/a s	A S	Kanuri	22	kàsâm;wàstə́;nzàsə̀rà;dàngálì_nàsàrá;màsíllá	U+00E0 U+0073
+âs	â/a s	A S	Kanuri	1	ngâsô	U+00E2 U+0073
+^às	à/a s	A S	Kanuri	1	àsír	U+005E U+00E0 U+0073
+àsh	à/a ʃ	A S	Kanuri	2	kàskàshí;kàshíngò	U+00E0 U+0073 U+0068
+âs$	â/a s	A S	Kanuri	2	gə̀lâs;bâs	U+00E2 U+0073 U+0024
+^àsh	à/a ʃ	A S	Kanuri	3	àsháná;àshêm_gòtə́;àshêm_zə̀mtə́	U+005E U+00E0 U+0073 U+0068
+àw	à/a w	A W	Kanuri	41	bàwá;bàwá_kúrà;bàwá_gàná;làwátə́rà;ngádákàwú	U+00E0 U+0077
+^àw	à/a w	A W	Kanuri	2	àwá_cíntà;àwó	U+005E U+00E0 U+0077
+ès	è/e s	E S	Kanuri	2	ngèstə́;fə̀rèsìdân	U+00E8 U+0073
+és	é/e s	E S	Kanuri	3	césà;dàngə̀résé;yéstə́	U+00E9 U+0073
+ésh	é/e ʃ	E S	Kanuri	1	àdréshì	U+00E9 U+0073 U+0068
+èw	è/e w	E W	Kanuri	5	nə̀mlèwáà;mèwú;mèwûn_tìlôn;mèwûn_ndîn;mèwú_wùrí	U+00E8 U+0077
+éw	é/e w	E W	Kanuri	3	téwùr;béwó;sə̀kùldə̀réwà	U+00E9 U+0077
+ìs	ì/i s	I S	Kanuri	4	mìstə́;bìské_fàrtà;bìské;fìsàttə́	U+00EC U+0073
+ìs$	ì/i s	I S	Kanuri	1	kúrìs	U+00EC U+0073 U+0024
+îs$	î/i s	I S	Kanuri	1	pòlîs	U+00EE U+0073 U+0024
+ìw	ì/i w	I W	Kanuri	13	lìwúlà;lìwò;gárìwù;yìwò;gàpcìwùnó	U+00EC U+0077
+kk	k k	K K	Kanuri	33	kókkóyè;kòkkòdó;kókkó;wásàm_yikko;wódíshà_sèkkìn	U+006B U+006B
+kw	k w	K W	Kanuri	1	kwákwà	U+006B U+0077
+^kw	k w	K W	Kanuri	12	kwâ;kwângâ;kwâ;kwôngâ_nyìyáà;kwàngwàrám	U+005E U+006B U+0077
+ll	l l	L L	Kanuri	11	bólàwúllàm;wúllə́ràm;shíllà;shíllà_shítíbè;còlló	U+006C U+006C
+ls	l s	L S	Kanuri	1	súlsúl	U+006C U+0073
+lw	l w	L W	Kanuri	9	bílwù;jìlwá;tə́lwù;sə̀lwáì;kàlwúsə̀n	U+006C U+0077
+mm	m m	M M	Kanuri	4	hámmà;sámmá;júmmà;nə̀mmə̀náfùk	U+006D U+006D
+ms	m s	M S	Kanuri	2	kámsàl;gúmsù	U+006D U+0073
+nn	n n	N N	Kanuri	16	kánnú;kánnú;kánnú_cámbî;tə́làm_kánnúbè;yînná	U+006E U+006E
+nsh	n ʃ	N S	Kanuri	1	kə̀nshê	U+006E U+0073 U+0068
+bb	b b	P P	Kanuri	5	dábbà;kábbì;cíbbù;kàrə́gə̀_cíbbú;kábbí	U+0062 U+0062
+psh	p ʃ	P S	Kanuri	1	tə́pshì	U+0070 U+0073 U+0068
+rr	r r	R R	Kanuri	2	fêrrò_kə̀mbâ;nûrrà	U+0072 U+0072
+rs	r s	R S	Kanuri	4	sérsér;kúrsáshíà;kə́rsàsà;fə́rsə̀nà	U+0072 U+0073
+rw	r w	R W	Kanuri	23	kàrwàcìmé;kàrwâ;kùrwúdì;kùrwúdì;áládə̀_kùrwúdì	U+0072 U+0077
+cc	tʃ tʃ	T T	Kanuri	1	bàccíà	U+0063 U+0063
+tt	t t	T T	Kanuri	27	kàttî;kə̀máttə̀n;sə́ngéttə́;njírə́ttə́;mə̀láttə́	U+0074 U+0074
+òs	ò/o s	U S	Kanuri	2	mòsóró;kòsòmá	U+00F2 U+0073
+ós	ó/o s	U S	Kanuri	6	sósì;mósùwà;wóstə́;wóstə́rám;kósò	U+00F3 U+0073
+ôs$	ô/o s	U S	Kanuri	1	bùrôs	U+00F4 U+0073 U+0024
+òw	ò/o w	U W	Kanuri	7	fòwòlí;gùdòwúm;mòwò;lòwómà;dòwó_dìò	U+00F2 U+0077
+ów	ó/o w	U W	Kanuri	10	shílówù;fówó;kówù;kə̀mówùn;zówó	U+00F3 U+0077
+ùs	ù/u s	Y S	Kanuri	16	tùstə́;bə́rì_kǎùsùbè;tùsátə́;mùsùwár;mùskòrám	U+00F9 U+0073
+ùw	ù/u w	Y W	Kanuri	22	kùwúì;kùwúì;kùwúì;kùwúì_yárwábè;kùlùwèrám	U+00F9 U+0077

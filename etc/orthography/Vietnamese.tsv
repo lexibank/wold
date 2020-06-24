@@ -1,306 +1,306 @@
-Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
-^	NULL	13	U+005E		
-$	NULL	406	U+0024		
-(	NULL	11	U+0028	"(mùa)_thu,(xe)_búyt,chữa_(bệnh)"	
-)	NULL	11	U+0029	"(mùa)_hẹ,(mùa)_xuân,tuân_(theo)"	
-^m$	m	1	U+005E U+006D U+0024	"m"	Vietnamese
-^ổ$	ổ/oʊ	1	U+005E U+1ED5 U+0024	"ổ"	Vietnamese
-H	H/h	1	U+0048	"nhà_thờ_Hồi_giáo"	Vietnamese
-_	_	731	U+005F	"bưu_thiếp,luống_cày,quay_vòng"	Vietnamese
-a	a	51	U+0061	"cổ_aó,nhanh,sự_ca_ngợi"	Vietnamese
-b	ɓ	41	U+0062	"buôn_bán,lẩm_bẩm,nhà_bếp"	Vietnamese
-c	k	94	U+0063	"gốc_cây,khung_cửi_dệt_vải,ngựa_con"	Vietnamese
-d	z	26	U+0064	"chị_dâu,con_dấu,sự_cưỡng_dâm"	Vietnamese
-e	e	19	U+0065	"chị_em_gái,lúa_mạch_đen,đem"	Vietnamese
-g	g	15	U+0067	"cháu_gái,chị_em_gái,em_gái"	Vietnamese
-h	h	38	U+0068	"(mùa)_hẹ,ngân_hàng,nữ_hoàng"	Vietnamese
-i	i	130	U+0069	"liềm,rìu_chiến,sinh"	Vietnamese
-k	k	15	U+006B	"chim_kền_kền,người_chứng_kiến,ăn_kiêng"	Vietnamese
-l	l	50	U+006C	"hải_ly,sự_phản_bội_lời_thề,thuốc_lá"	Vietnamese
-m	m	82	U+006D	"hôm_qua,làm_vỡ,người_ăn_mày"	Vietnamese
-n	n	114	U+006E	"Thuốc_độc_cho_con_cá,người_chăn_súc_vật,tồn_tại"	Vietnamese
-o	ɔ	63	U+006F	"bò_con,cá_voi,khoan_đào"	Vietnamese
-p	p	11	U+0070	"aó_ponsô,pháp_viện,sân_đập_lúa"	Vietnamese
-q	k	3	U+0071	"ma_qủy,ngọc_đá_qúy,qúy_tộc"	
-r	r	16	U+0072	"làm_rỗng,lợn_rừng,nguyền_rủa"	Vietnamese
-s	s	35	U+0073	"chó_sói,cảnh_sát,mũ_sắt"	Vietnamese
-t	t	95	U+0074	"bánh_bột_sắn,húyt_sáo,lòng_bàn_tay"	Vietnamese
-u	u	49	U+0075	"thiếu_nữ,tucăng,đầu_gối"	Vietnamese
-v	v	40	U+0076	"(vải)_lanh,phòng_vệ_sinh,quay_vòng"	Vietnamese
-x	s	16	U+0078	"bỏ_xuống,lạp_xưởng,sự_xăm_hình"	Vietnamese
-y	i	32	U+0079	"giày_đi_tuyết,qúy_tộc,tuyết"	Vietnamese
-à	à/a	57	U+00E0	"bà_con,hàng,răng_hàm"	Vietnamese
-á	á/a	80	U+00E1	"cá_đuối_gai_độc,ráp,vách_đá"	Vietnamese
-â	â/ʌ	57	U+00E2	"chân,mây,quân_đội"	Vietnamese
-ã	ã/a	1	U+00E3	"hãm"	Vietnamese
-è	è/e	4	U+00E8	"kèn,thợ_rèn,tắc_kè_hoa"	Vietnamese
-é	é/e	9	U+00E9	"bọ_chét,ghét,nạn_đói_kém"	Vietnamese
-ê	ê/e	41	U+00EA	"dê_đực,yêu,đầu_tiên"	Vietnamese
-ì	ì/i	19	U+00EC	"hình_như,làm_tình,tìm_thấy"	Vietnamese
-í	í/i	20	U+00ED	"kính,pích,tua_vít"	Vietnamese
-ò	ò/ɔ	13	U+00F2	"bò_cái,hòn_dái,lò_sưởi"	Vietnamese
-ó	ó/ɔ	38	U+00F3	"aó_dài,nói,đói"	Vietnamese
-ô	ô/o	18	U+00F4	"nô_lệ,tôm,xe_mô_tô"	Vietnamese
-õ	õ/ɔ	1	U+00F5	"võng"	Vietnamese
-ù	ù/u	8	U+00F9	"chùm,côn_trùng,phù_thủy"	Vietnamese
-ú	ú/u	17	U+00FA	"(xe)_búyt,túp_lều,xác_súc_vật"	Vietnamese
-ă	ă/ɐ	28	U+0103	"sự_xăm_hình,trăm,tucăng"	Vietnamese
-đ	ɗ	51	U+0111	"chiến_đấu,đom_đóm,ống_điếu"	Vietnamese
-ĩ	ĩ/i	2	U+0129	"thủ_lĩnh,tĩnh_mạch"	Vietnamese
-ũ	ũ/u	2	U+0169	"mũ_sắt,vũ_khí"	Vietnamese
-ơ	ơ/ɤ	26	U+01A1	"bươú,hoá_đơn,xương_vai"	Vietnamese
-ư	ư/ɯ	88	U+01B0	"dây_lưng,mương,sương"	Vietnamese
-ạ	ạ/a	42	U+1EA1	"bạn,gạch_sống,hạt"	Vietnamese
-ả	ả/a	18	U+1EA3	"can_đảm,hoả_xa,trả_lời"	Vietnamese
-ấ	ấ/ʌ	44	U+1EA5	"lấy,đất,ấm"	Vietnamese
-ầ	ầ/ʌ	35	U+1EA7	"lúc_bắt_đầu,quần_chúng,đầu_hàng"	Vietnamese
-ẩ	ẩ/ʌ	6	U+1EA9	"bẩn,chiến_lợi_phẩm,lẩm_bẩm"	Vietnamese
-ẫ	ẫ/ʌ	7	U+1EAB	"bẫy_cá,dẫn,sẫm"	Vietnamese
-ậ	ậ/ʌ	33	U+1EAD	"bí_mật,chủ_nhật,người_chăn_súc_vật"	Vietnamese
-ắ	ắ/ɐ	44	U+1EAF	"cắn,nói_lắp,ăn_cắp"	Vietnamese
-ằ	ằ/ɐ	7	U+1EB1	"bằng,nằm,thằn_lằn"	Vietnamese
-ẳ	ẳ/ɐ	1	U+1EB3	"thẳng"	Vietnamese
-ẵ	ẵ/ɐ	2	U+1EB5	"nhẵn,sẵn_sàng"	Vietnamese
-ặ	ặ/ɐ	13	U+1EB7	"lặn,mạng_che_mặt,mặt_trời"	Vietnamese
-ẹ	ẹ/e	9	U+1EB9	"kẹp,mẹ_vợ,vẹt"	Vietnamese
-ẻ	ẻ/e	3	U+1EBB	"kẻ_cắp,kẻ_thù,xẻng"	Vietnamese
-ế	ế/e	53	U+1EBF	"cho_biết,thời_tiết,ý_kiến"	Vietnamese
-ề	ề/e	24	U+1EC1	"lều,triều,về_nhà"	Vietnamese
-ể	ể/e	8	U+1EC3	"biển,mòng_biển,sự_nguy_hiểm"	Vietnamese
-ễ	ễ/e	3	U+1EC5	"diễn_văn,khiễu_vũ,khập_khiễng"	Vietnamese
-ệ	ệ/e	26	U+1EC7	"mạng_nhện,nhện,pháp_viện"	Vietnamese
-ỉ	ỉ/i	3	U+1EC9	"mỉm,tỉnh,đỉnh"	Vietnamese
-ị	ị/i	11	U+1ECB	"anh_chị_em,bị_cáo,chị_dâu"	Vietnamese
-ọ	ọ/ɔ	18	U+1ECD	"chọn,gọi,nhọn"	Vietnamese
-ỏ	ỏ/ɔ	10	U+1ECF	"chảy_nhỏ_giọt,cỏ_khô,vỏ_sắt"	Vietnamese
-ố	ố/o	26	U+1ED1	"gốc_cây,sự_đốt_phá,đốn"	Vietnamese
-ồ	ồ/o	10	U+1ED3	"linh_hồn,mồ_côi,đồ_trang_trí"	Vietnamese
-ổ	ổ/o	8	U+1ED5	"cổ_aó,cổ_tay,tổ_quốc"	Vietnamese
-ỗ	ỗ/o	4	U+1ED7	"chỗ_giộp_da,làm_rỗng,lỗ_mũi"	Vietnamese
-ộ	ộ/o	15	U+1ED9	"hộp,lột_da,một"	Vietnamese
-ớ	ớ/ɤ	13	U+1EDB	"bắt_chước,dòng_nước_xoáy,lớn_lên"	Vietnamese
-ờ	ờ/ɤ	13	U+1EDD	"nhà_vườn,thường,tường"	Vietnamese
-ở	ở/ɤ	7	U+1EDF	"lạp_xưởng,trở_thành,tưởng"	Vietnamese
-ỡ	ỡ/ɤ	1	U+1EE1	"sự_cưỡng_dâm"	Vietnamese
-ợ	ợ/ɤ	20	U+1EE3	"rượu_mật_ong,thợ_chạm,thợ_mộc"	Vietnamese
-ụ	ụ/u	3	U+1EE5	"mục_dích,phục_kích,thụ_thai"	Vietnamese
-ủ	ủ/u	9	U+1EE7	"chủ_nhật,ma_qủy,tàu_thủy"	Vietnamese
-ứ	ứ/ɯ	17	U+1EE9	"ngày_thứ_tư,sự_tức_giận,đứng"	Vietnamese
-ừ	ừ/ɯ	10	U+1EEB	"cừu_cái,sừng,từ_chối"	Vietnamese
-ữ	ữ/ɯ	3	U+1EEF	"chiếm_hữu,chữ_thập,nữ_hoàng"	Vietnamese
-ự	ự/ɯ	34	U+1EF1	"sự_lừa_dối,sự_phản_bội_lời_thề,sự_sợ"	Vietnamese
-^a	a	11	U+005E U+0061	"ai,anh_em,aó_ponsô"	Vietnamese
-^b	ɓ	131	U+005E U+0062	"ba_ba,bắp_chân,bột_nhào"	Vietnamese
-^c	k	113	U+005E U+0063	"cá,cây_nho,cổ"	Vietnamese
-^d	z	40	U+005E U+0064	"dì,dưới,dạ"	Vietnamese
-^e	e	5	U+005E U+0065	"em,em_trai,eo"	Vietnamese
-^g	ɣ	30	U+005E U+0067	"góc,gả,gối"	
-^h	h	54	U+005E U+0068	"hàng,hại,hắt_hơi"	Vietnamese
-^i	i	3	U+005E U+0069	"im,iả"	Vietnamese
-^k	k	21	U+005E U+006B	"kéo,kêu,kẻ_cắp"	Vietnamese
-^l	l	82	U+005E U+006C	"là,lò,lỗ_mũi"	Vietnamese
-^m	m	98	U+005E U+006D	"mang_tai,muối,mơ"	Vietnamese
-^n	n	50	U+005E U+006E	"nói,nói_dối,nổi"	Vietnamese
-^o	ɔ	2	U+005E U+006F	"ong"	Vietnamese
-^p	p	2	U+005E U+0070	"pin,pích"	Vietnamese
-^r	z	41	U+005E U+0072	"racoon,rau,rết"	Vietnamese
-^s	s	76	U+005E U+0073	"sao,sách,sải"	Vietnamese
-^t	t	77	U+005E U+0074	"tí_nửa,tắt,từ_chối"	Vietnamese
-^u	u	2	U+005E U+0075	"uốn_cong,uống"	Vietnamese
-^v	v	53	U+005E U+0076	"vòng_tay,vạc,vỏ"	Vietnamese
-^x	s	35	U+005E U+0078	"xin,xà_nóc,xương"	Vietnamese
-^y	y/i	5	U+005E U+0079	"y_phục,yến_mạch,yếu"	Vietnamese
-^á	á/a	3	U+005E U+00E1	"ác,ách,ánh_sáng"	Vietnamese
-^â	â/ʌ	5	U+005E U+00E2	"âm_mưu,âm_nhạc,âm_vật"	Vietnamese
-^é	é/e	2	U+005E U+00E9	"ép"	Vietnamese
-^í	í/i	1	U+005E U+00ED	"ít"	Vietnamese
-^ó	ó/ɔ	1	U+005E U+00F3	"óc"	Vietnamese
-^ô	ô/o	3	U+005E U+00F4	"ôliu,ôm,ôpôt"	Vietnamese
-^ý	ý/ɪi	1	U+005E U+00FD	"ý_kiến"	Vietnamese
-^ă	ă/ɐ	3	U+005E U+0103	"ăn,ăn_cắp,ăn_kiêng"	Vietnamese
-^đ	ɗ	118	U+005E U+0111	"đổ,đội,đục"	Vietnamese
-^ư	ư/ɯ	2	U+005E U+01B0	"ưng,ướt"	Vietnamese
-^ế	ế/e	1	U+005E U+1EBF	"ếch"	Vietnamese
-^ố	ố/o	1	U+005E U+1ED1	"ốc"	Vietnamese
-^ớ	ớ/ɤ	1	U+005E U+1EDB	"ớt"	Vietnamese
-a$	a	27	U+0061 U+0024	"da,lột_da,tắc_kè_hoa"	Vietnamese
-ai	aɪ	34	U+0061 U+0069	"con_trai,nai_sừng_tấm,xương_vai"	
-ao	aʊ	15	U+0061 U+006F	"cao,cù_lao,dao"	
-au	ɐʊ	8	U+0061 U+0075	"nỗi_đau_buồn,rau,đau"	
-ay	ɐɪ	27	U+0061 U+0079	"say,vòng_tay,xay"	
-c$	k	51	U+0063 U+0024	"diệc,thuộc,tiếc"	Vietnamese
-ch	c	37	U+0063 U+0068	"người_chứng_kiến,thợ_chạm,đàn_bà_có_chồng"	Vietnamese
-e$	e	9	U+0065 U+0024	"bằng_lái_xe,che,đe"	Vietnamese
-eo	ɛʊ	10	U+0065 U+006F	"keo_kiệt,leo,neo"	
-gi	z	15	U+0067 U+0069	"bây_giờ,thế_giới,thợ_đóng_giày"	
-i$	i	34	U+0069 U+0024	"ai,gọi,ti_vi"	Vietnamese
-ia	iə	6	U+0069 U+0061	"bia,chia,ngày_kia"	
-iu	iʊ	1	U+0069 U+0075	"ôliu"	
-kh	x	12	U+006B U+0068	"chìa_(khoá),đôi_khi,đổ_khuôn"	Vietnamese
-m$	m	93	U+006D U+0024	"dám,liếm,mềm"	Vietnamese
-n$	n	186	U+006E U+0024	"ba_lần,chọn,hơi_mặn"	Vietnamese
-ng	ŋ	47	U+006E U+0067	"dương_vật,giảng_đạo,sự_nguy_hiểm"	
-nh	ɲ	51	U+006E U+0068	"anh_chị,anh_chị_em_họ,về_nhà"	Vietnamese
-ns	n s	1	U+006E U+0073	"aó_ponsô"	Vietnamese
-o$	ɔ	12	U+006F U+0024	"eo,nho,tự_do"	Vietnamese
-oo	ɔ	1	U+006F U+006F	"racoon"	Vietnamese
-p$	p	32	U+0070 U+0024	"chữ_thập,giúp,đẹp"	Vietnamese
-ph	f	18	U+0070 U+0068	"ban_phúc,tiền_phạt,tù_phạm"	Vietnamese
-qu	kʷ	7	U+0071 U+0075	"bảo_quản,cực_quang,tổ_quốc"	Vietnamese
-t$	t	111	U+0074 U+0024	"chủ_nhật,cát,dương_vật"	Vietnamese
-th	tʰ	45	U+0074 U+0068	"chiến_thắng,da_thuộc,ngày_thứ_sáu"	Vietnamese
-tr	ʈʂ	26	U+0074 U+0072	"buổi_trưa,chiến_tranh,cháu_trai"	
-u$	u	57	U+0075 U+0024	"bao_nhiêu,túp_lều,yếu"	Vietnamese
-ua	uə	4	U+0075 U+0061	"mua,tua_vít,vua"	
-ui	uɪ	3	U+0075 U+0069	"rui,rút_lui,vui"	
-uâ	w â/ʌ	2	U+0075 U+00E2	"(mùa)_xuân,tuân_(theo)"	
-uê	w ê/eɪ	1	U+0075 U+00EA	"thuê"	
-uô	uɵ	8	U+0075 U+00F4	"luôn_luôn,vuông,vật_nuôi"	
-uấ	w ấ/ʌ	1	U+0075 U+1EA5	"khuấy"	
-uầ	w ầ/ʌ	1	U+0075 U+1EA7	"tuần_lễ"	
-uẩ	w ẩ/ʌ	1	U+0075 U+1EA9	"chuẩn_bị"	
-uậ	w ậ/ʌ	2	U+0075 U+1EAD	"ma_thuật,pháp_luật"	
-uế	w ế/eɪ	1	U+0075 U+1EBF	"thuế"	
-uệ	w ệ/eɪ	1	U+0075 U+1EC7	"hậu_duệ"	
-uố	uố/uɵ	23	U+0075 U+1ED1	"chết_đuối,cuốn,hút_thuốc"	
-uồ	uồ/uɵ	7	U+0075 U+1ED3	"buồm,buồng,xuồng"	
-uổ	uổ/uɵ	8	U+0075 U+1ED5	"buổi_sáng,buổi_tối,tuổi"	
-uỗ	uỗ/uɵ	4	U+0075 U+1ED7	"chuỗi_hạt,muỗi_nhỏ,muỗng"	
-uộ	uộ/uɵ	15	U+0075 U+1ED9	"chuột,ruột,đồng_ruộng"	
-y$	y/ɪi	30	U+0079 U+0024	"giấy,nhầy,thấy"	Vietnamese
-à$	à/a	16	U+00E0 U+0024	"chà,mái_nhà,về_nhà"	Vietnamese
-ài	ài/aɪ	9	U+00E0 U+0069	"aó_dài,dài,một_vài"	
-ào	ào/aʊ	12	U+00E0 U+006F	"khoan_đào,nhào,nào"	
-àu	àu/ɐʊ	6	U+00E0 U+0075	"giàu,màu,tàu"	
-ày	ày/ɐɪ	23	U+00E0 U+0079	"dày,giày_đi_tuyết,mày"	
-á$	á/a	21	U+00E1 U+0024	"bẫy_cá,cá,ná_bắn_đá"	Vietnamese
-ái	ái/aɪ	27	U+00E1 U+0069	"cháu_gái,lái,đi_đái"	
-áo	áo/aʊ	16	U+00E1 U+006F	"nhà_thờ_Hồi_giáo,sáo,tôn_giáo"	
-áu	áu/ɐʊ	9	U+00E1 U+0075	"cháu,cháu_gái,sáu"	
-áy	áy/ɐɪ	11	U+00E1 U+0079	"ráy,váy,đốt_cháy"	
-ãi	ãi/aɪ	1	U+00E3 U+0069	"sự_cãi_nhau"	
-ão	ão/aʊ	1	U+00E3 U+006F	"bão"	
-è$	è/e	3	U+00E8 U+0024	"bè,chè,què"	Vietnamese
-èo	èo/ɛʊ	6	U+00E8 U+006F	"mèo,móc_chèo,nghèo"	
-é$	é/e	3	U+00E9 U+0024	"con_bé,té,xé"	Vietnamese
-éo	éo/ɛʊ	3	U+00E9 U+006F	"kéo,kéo_dài_ra"	
-ê$	ê/eɪ	3	U+00EA U+0024	"cà_phê,dê,kê"	Vietnamese
-ì$	ì/i	6	U+00EC U+0024	"bánh_mì,lúa_mì,quì"	Vietnamese
-ìa	ìa/iə	2	U+00EC U+0061	"chìa_(khoá),thìa"	
-ìu	ìu/iʊ	3	U+00EC U+0075	"rìu,rìu_chiến,rìu_lưỡi_vòm"	
-í$	í/i	7	U+00ED U+0024	"bí,không_khí,mí"	Vietnamese
-ía	ía/iə	1	U+00ED U+0061	"mía"	
-ò$	ò/ɔ	6	U+00F2 U+0024	"bò,bỏ_lò,lò"	Vietnamese
-ó$	ó/ɔ	12	U+00F3 U+0024	"có,cổ_aó,sự_không_có"	Vietnamese
-ô$	ô/oʊ	12	U+00F4 U+0024	"cô,khô,ngô"	Vietnamese
-ôi	ôi/oɪ	9	U+00F4 U+0069	"chúng_tôi,sinh_đôi,sôi"	
-ù$	ù/u	4	U+00F9 U+0024	"kẻ_thù,mù,sương_mù"	Vietnamese
-ùa	ùa/uə	6	U+00F9 U+0061	"(mùa)_xuân,(mùa)_đông,rùa"	
-ùi	ùi/uɪ	4	U+00F9 U+0069	"có_mùi,dùi,đùi"	
-ú$	ú/u	7	U+00FA U+0024	"bú,bầu_vú,cú"	Vietnamese
-úa	úa/uə	9	U+00FA U+0061	"búa,sân_đập_lúa,thóc_lúa"	
-úi	úi/uɪ	3	U+00FA U+0069	"núi,thúi,túi"	
-ĩ$	ĩ/i	4	U+0129 U+0024	"bác_sĩ,giáo_sĩ,đĩ"	Vietnamese
-ĩa	ĩa/iə	5	U+0129 U+0061	"chĩa,nĩa,đĩa_nhỏ"	
-ũ$	ũ/u	3	U+0169 U+0024	"cũ,khiễu_vũ,mũ"	Vietnamese
-ũi	ũi/uɪ	3	U+0169 U+0069	"lỗ_mũi,mũi,mũi_đất"	
-ơ$	ơ/ɤɯ	5	U+01A1 U+0024	"bơ,mơ,nhà_thơ"	Vietnamese
-ơi	ơi/ɤɪ	10	U+01A1 U+0069	"chơi,hai_mươi,nơi"	
-ư$	ư/ɯː	3	U+01B0 U+0024	"hình_như,ngày_thứ_tư,thư"	Vietnamese
-ưa	ưa/ɯə	5	U+01B0 U+0061	"buổi_trưa,chưa_chín,cưa"	
-ạ$	ạ/a	3	U+1EA1 U+0024	"dạ,người_lạ,đe_doạ"	Vietnamese
-ại	ại/aɪ	20	U+1EA1 U+0069	"chim_đại_bàng,hại,đại_lục"	
-ạo	ạo/aʊ	6	U+1EA1 U+006F	"cạo,dao_cạo,gạo"	
-ạy	ạy/ɐɪ	2	U+1EA1 U+0079	"chạy,dạy"	
-ả$	ả/a	7	U+1EA3 U+0024	"mả,quả,tất_cả"	Vietnamese
-ải	ải/aɪ	11	U+1EA3 U+0069	"giải_phóng,hải_ly,vải"	
-ảo	ảo/aʊ	6	U+1EA3 U+006F	"bảo_quản,bảo_vệ,đảo"	
-ảy	ảy/ɐɪ	8	U+1EA3 U+0079	"chảy_nhỏ_giọt,nhảy,vảy"	
-ẹ$	ẹ/e	4	U+1EB9 U+0024	"(mùa)_hẹ,bố_mẹ,nhẹ"	Vietnamese
-ẹo	ẹo/ɛʊ	2	U+1EB9 U+006F	"kẹo,sẹo"	
-ẻ$	ẻ/e	5	U+1EBB U+0024	"chẻ,mẹ_ghẻ,đẻ"	Vietnamese
-ẻo	ẻo/ɛʊ	1	U+1EBB U+006F	"chất_dẻo"	
-ẽ$	ẽ/e	1	U+1EBD U+0024	"vẽ"	Vietnamese
-ế$	ế/eɪ	3	U+1EBF U+0024	"cúng_tế,ghế,hoàng_đế"	Vietnamese
-ề$	ề/eɪ	6	U+1EC1 U+0024	"lời_thề,thề,về"	Vietnamese
-ể$	ể/eɪ	5	U+1EC3 U+0024	"con_rể,thân_thể,để"	Vietnamese
-ễ$	ễ/eɪ	3	U+1EC5 U+0024	"dễ,rễ,tuần_lễ"	Vietnamese
-ệ$	ệ/eɪ	4	U+1EC7 U+0024	"bảo_vệ,lệ,nô_lệ"	Vietnamese
-ỉ$	ỉ/i	6	U+1EC9 U+0024	"chỉ,khỉ,nỉ"	Vietnamese
-ị$	ị/i	7	U+1ECB U+0024	"chuẩn_bị,có_vị,thành_thị"	Vietnamese
-ịa	ịa/iə	3	U+1ECB U+0061	"địa_chỉ,địa_ngục,địa_động"	
-ọ$	ọ/ɔ	4	U+1ECD U+0024	"cọ,họ,sâu_bọ"	Vietnamese
-ỏ$	ỏ/ɔ	14	U+1ECF U+0024	"chó_sói_đồng_cỏ,nhỏ,đường_nhỏ"	Vietnamese
-ố$	ố/oʊ	4	U+1ED1 U+0024	"bảng_số,bố,thành_phố"	Vietnamese
-ối	ối/oɪ	13	U+1ED1 U+0069	"gối,nối,thối"	
-ồ$	ồ/oʊ	3	U+1ED3 U+0024	"hồ,đồ,đồng_hồ"	Vietnamese
-ồi	ồi/oɪ	7	U+1ED3 U+0069	"mồi,ngồi_xổm,đồi"	
-ổ$	ổ/oʊ	4	U+1ED5 U+0024	"cổ,cửa_sổ,đổ"	Vietnamese
-ổi	ổi/oɪ	6	U+1ED5 U+0069	"chổi,không_nổi_sóng,thổi"	
-ỗ$	ỗ/oʊ	3	U+1ED7 U+0024	"chỗ,gỗ,lỗ"	Vietnamese
-ỗi	ỗi/oɪ	3	U+1ED7 U+0069	"lỗi,nỗi_đau_buồn"	
-ộ$	ộ/oʊ	4	U+1ED9 U+0024	"sự_xấu_hộ,âm_hộ,đi_bộ"	Vietnamese
-ội	ội/oɪ	12	U+1ED9 U+0069	"lội,sự_phản_bội_lời_thề,đội"	
-ớ$	ớ/ɤɯ	2	U+1EDB U+0024	"nhớ,vớ"	Vietnamese
-ới	ới/ɤɪ	9	U+1EDB U+0069	"mới,thế_giới,với"	
-ờ$	ờ/ɤɯ	10	U+1EDD U+0024	"sờ,sự_nghi_ngờ,thờ"	Vietnamese
-ời	ời/ɤɪ	24	U+1EDD U+0069	"mời,người,người_bạn_trai"	
-ở$	ở/ɤɯ	5	U+1EDF U+0024	"người_ở,thở,ở"	Vietnamese
-ỡ$	ỡ/ɤɯ	4	U+1EE1 U+0024	"làm_vỡ,thuốc_mỡ,vỡ"	Vietnamese
-ỡi	ỡi/ɤɪ	4	U+1EE1 U+0069	"cưỡi,lưỡi_câu,rìu_lưỡi_vòm"	
-ợ$	ợ/ɤɯ	9	U+1EE3 U+0024	"chợ,vợ,ông_goá_vợ"	Vietnamese
-ợi	ợi/ɤɪ	3	U+1EE3 U+0069	"chiến_lợi_phẩm,lợi,sự_ca_ngợi"	
-ụ$	ụ/u	3	U+1EE5 U+0024	"cột_trụ,dụng_cụ,quả_phụ"	Vietnamese
-ụi	ụi/uɪ	1	U+1EE5 U+0069	"bụi"	
-ủ$	ủ/u	6	U+1EE7 U+0024	"mủ,tủ,đủ"	Vietnamese
-ủa	ủa/uə	1	U+1EE7 U+0061	"nguyền_rủa"	
-ủi	ủi/uɪ	2	U+1EE7 U+0069	"củi,vận_rủi"	
-ứa	ứa/ɯə	2	U+1EE9 U+0061	"hứa,sự_ngứa"	
-ừ$	ừ/ɯː	1	U+1EEB U+0024	"từ"	Vietnamese
-ừa	ừa/ɯə	5	U+1EEB U+0061	"sự_lừa_dối,thừa_nhận,đồ_thừa"	
-ử$	ử/ɯː	4	U+1EED U+0024	"phân_xử,sư_tử,thử"	Vietnamese
-ửa	ửa/ɯə	13	U+1EED U+0061	"cửa,lửa,nửa"	
-ửi	ửi/ɯɪ	4	U+1EED U+0069	"gửi,khung_cửi_dệt_vải,ngửi"	
-ữ$	ữ/ɯː	4	U+1EEF U+0024	"giữ,ngôn_ngữ,thiếu_nữ"	Vietnamese
-ữa	ữa/ɯə	11	U+1EEF U+0061	"bữa_ăn_tối,giữa,vữa"	
-ự$	ự/ɯː	1	U+1EF1 U+0024	"tương_tự"	Vietnamese
-ựa	ựa/ɯə	5	U+1EF1 U+0061	"ngựa_con,ngựa_cái,ngựa_đực"	
-^Th	Tʰ/tʰ	1	U+005E U+0054 U+0068	"Thuốc_độc_cho_con_cá"	Vietnamese
-^ch	c	104	U+005E U+0063 U+0068	"chẻ,chết_đuối,chỉ"	Vietnamese
-^gh	g	3	U+005E U+0067 U+0068	"ghim,ghét,ghế"	
-^gi	z	28	U+005E U+0067 U+0069	"giảng_giải,giảng_đạo,giữa"	
-^gì	z i	1	U+005E U+0067 U+00EC	"gì"	
-^kh	x	34	U+005E U+006B U+0068	"khăn_tay,khạc,khập_khiễng"	Vietnamese
-^ng	ŋ	54	U+005E U+006E U+0067	"ngay,ngáy,ngựa_con"	
-^nh	ɲ	33	U+005E U+006E U+0068	"nhà_bếp,nhẵn,nhẹ"	Vietnamese
-^ph	f	20	U+005E U+0070 U+0068	"phá,pháp_luật,phục_kích"	Vietnamese
-^qu	kʷ	22	U+005E U+0071 U+0075	"quan_tòa,quét,quả_hạch"	Vietnamese
-^th	tʰ	84	U+005E U+0074 U+0068	"thuyền,thầy,thật"	Vietnamese
-^tr	ʈʂ	47	U+005E U+0074 U+0072	"trên,trượt,trả"	
-ch$	c	24	U+0063 U+0068 U+0024	"cách,lách,xách"	Vietnamese
-ng$	ŋ	106	U+006E U+0067 U+0024	"giếng,mắng,thang"	
-nh$	ɲ	45	U+006E U+0068 U+0024	"mình,âm_thanh,đánh"	Vietnamese
-ong	ɐ̃ʊ̃ ŋ m	11	U+006F U+006E U+0067	"nong,trong,tổ_ong"	
-ung	u ŋ m	6	U+0075 U+006E U+0067	"làm_rung,sung,thung_lũng"	
-òng	ò/ɐ̃ʊ̃ ŋ m	13	U+00F2 U+006E U+0067	"dòng_nước_xoáy,lòng_đỏ_trứng,vòng"	
-óc$	ó/ɐʊ kp	9	U+00F3 U+0063 U+0024	"móc,tóc,đầu_óc"	
-óng	ó/ɐ̃ʊ̃ ŋ m	4	U+00F3 U+006E U+0067	"bóng_tối,gióng_cửa,móng_tay"	
-ông	ô/ʌ̃ʊ̃ ŋ m	34	U+00F4 U+006E U+0067	"không_khí,không_nổi_sóng,nhà_đàn_ông"	
-úc$	ú/u kp	4	U+00FA U+0063 U+0024	"ban_phúc,kết_thúc,đúc"	
-úng	ú/u ŋ m	7	U+00FA U+006E U+0067	"chúng,quần_chúng,súng"	
-ọc$	ọ/ɐʊ kp	4	U+1ECD U+0063 U+0024	"học,trường_học,đọc"	
-ốc$	ố/ʌʊ kp	3	U+1ED1 U+0063 U+0024	"cốc,gốc,tổ_quốc"	
-ồng	ồ/ʌ̃ʊ̃ ŋ m	17	U+1ED3 U+006E U+0067	"chồng,mẹ_chồng,trồng"	
-ổng	ổ/ʌ̃ʊ̃ ŋ m	2	U+1ED5 U+006E U+0067	"tha_bổng,tổng_thống"	
-ộc$	ộ/ʌʊ kp	6	U+1ED9 U+0063 U+0024	"qúy_tộc,thị_tộc,thợ_mộc"	
-ộng	ộ/ʌ̃ʊ̃ ŋ m	1	U+1ED9 U+006E U+0067	"động_mật"	
-ục$	ụ/u kp	6	U+1EE5 U+0063 U+0024	"y_phục,đại_lục,đục"	
-ụng	ụ/u ŋ m	3	U+1EE5 U+006E U+0067	"bụng,cây_thông_rụng_lá,dụng_cụ"	
-^giế	z i e	2	U+005E U+0067 U+0069 U+1EBF	"giếng,giết"	
-^ngh	ŋ	7	U+005E U+006E U+0067 U+0068	"nghe,nghìn,nghẹt"	
-^ông	ô/ʌ̃ʊ̃ ŋ m	4	U+005E U+00F4 U+006E U+0067	"ông,ông_bà,ông_goá_vợ"	
-^ống	ố/ʌ̃ʊ̃ ŋ m	2	U+005E U+1ED1 U+006E U+0067	"ống_khói,ống_điếu"	
-óng$	ó/ɐ̃ʊ̃ ŋ m	7	U+00F3 U+006E U+0067 U+0024	"nóng,sóng,đóng"	
-ũng$	ũ/u ŋ m	1	U+0169 U+006E U+0067 U+0024	"thung_lũng"	
-ống$	ố/ʌ̃ʊ̃ ŋ m	12	U+1ED1 U+006E U+0067 U+0024	"giày_ống,trống,uống"	
-ộng$	ộ/ʌ̃ʊ̃ ŋ m	3	U+1ED9 U+006E U+0067 U+0024	"rộng,địa_động,động"	
+Grapheme	IPA	SCA	LANGUAGES	FREQUENCY	EXAMPLES	CODEPOINTS
+^	NULL			13	ấm;ấm;(vải)_lanh;ở;(mùa)_đông	U+005E
+$	NULL			406	thế_giới;bụi;núi;đồi;đảo	U+0024
+(	NULL			11	chữa_(bệnh);(vải)_lanh;chìa_(khoá);lưu_(lại);(mùa)_đông	U+0028
+)	NULL			11	chữa_(bệnh);(vải)_lanh;chìa_(khoá);lưu_(lại);(mùa)_đông	U+0029
+^m$	m	M	Vietnamese	1	m	U+005E U+006D U+0024
+^ổ$	ổ/oʊ	U	Vietnamese	1	ổ	U+005E U+1ED5 U+0024
+a	a	A	Vietnamese	51	hang;than_hồng;than;gia_đình;ngan	U+0061
+à	à/a	A	Vietnamese	57	đàn_ông;đàn_bà;đàn_ông_có_vợ;đàn_bà_có_chồng;đàn_bà_có_chồng	U+00E0
+á	á/a	A	Vietnamese	80	cát;vách_đá;đá_ngầm;thác_nước;ánh_sáng	U+00E1
+ã	ã/a	A	Vietnamese	1	hãm	U+00E3
+ạ	ạ/a	A	Vietnamese	42	người_bạn_trai;lạc_đà;bọ_cạp;mạng_nhện;tĩnh_mạch	U+1EA1
+ả	ả/a	A	Vietnamese	18	quả_phụ;cảm;quả_hạch;quả_đấu;thảm	U+1EA3
+^a	a	A	Vietnamese	11	anh_em;anh;anh_chị_em;anh_chị_em_họ;aó_choàng	U+005E U+0061
+^á	á/a	A	Vietnamese	3	ánh_sáng;ác;ách	U+005E U+00E1
+a$	a	A	Vietnamese	27	ta;chúng_ta;la;ba_ba;da	U+0061 U+0024
+ai	aɪ	A		34	trai;con_trai;người_bạn_trai;con_trai;em_trai	U+0061 U+0069
+ao	aʊ	A		15	cù_lao;triều_cao;sao;tao;dao	U+0061 U+006F
+à$	à/a	A	Vietnamese	16	đàn_bà;bà;bà;gà;gà	U+00E0 U+0024
+ài	ài/aɪ	A		9	aó_dài;kéo_dài_ra;ngoài;dài;một_vài	U+00E0 U+0069
+ào	ào/aʊ	A		12	sào;bột_nhào;nhào;rào;đào	U+00E0 U+006F
+á$	á/a	A	Vietnamese	21	vách_đá;phá;đá;đá;cá	U+00E1 U+0024
+ái	ái/aɪ	A		27	gái;con_gái;con_gái;chị_em_gái;em_gái	U+00E1 U+0069
+áo	áo/aʊ	A		16	cáo;cháo;giáo_viên;húyt_sáo;báo	U+00E1 U+006F
+ãi	ãi/aɪ	A		1	sự_cãi_nhau	U+00E3 U+0069
+ão	ão/aʊ	A		1	bão	U+00E3 U+006F
+ạ$	ạ/a	A	Vietnamese	3	dạ;đe_doạ;người_lạ	U+1EA1 U+0024
+ại	ại/aɪ	A		20	đại_lục;đại_dương;chim_đại_bàng;đại_tiện;lại	U+1EA1 U+0069
+ạo	ạo/aʊ	A		6	cạo;dao_cạo;gạo;kiêu_ngạo;giảng_đạo	U+1EA1 U+006F
+ả$	ả/a	A	Vietnamese	7	gả;iả;mả;quả;trả	U+1EA3 U+0024
+ải	ải/aɪ	A		11	vải;(vải)_lanh;khung_cửi_dệt_vải;chải;dải_viền	U+1EA3 U+0069
+ảo	ảo/aʊ	A		6	đảo;chảo;bảo_quản;bảo_vệ;người_bảo_vệ	U+1EA3 U+006F
+v	v	B	Vietnamese	40	lưu_vực;cầu_vồng;đàn_ông_có_vợ;bố_vợ;mẹ_vợ	U+0076
+^v	v	B	Vietnamese	53	vách_đá;vịnh;vợ;vật_nuôi;vịt	U+005E U+0076
+ph	f	B	Vietnamese	18	quả_phụ;thực_phẩm;y_phục;xà_phòng;bộ_phận	U+0070 U+0068
+^ph	f	B	Vietnamese	20	phá;phổi;phó_mát;phòng;phá_hoại	U+005E U+0070 U+0068
+ch	c	C	Vietnamese	37	vách_đá;đốt_cháy;đàn_bà_có_chồng;anh_chị_em;anh_chị_em_họ	U+0063 U+0068
+tr	ʈʂ	C		26	mặt_trời;mặt_trăng;con_trai;người_bạn_trai;con_trai	U+0074 U+0072
+^ch	c	C	Vietnamese	104	chớp;chớp;cháy;chồng;chị_em_gái	U+005E U+0063 U+0068
+^tr	ʈʂ	C		47	triều;triều_thấp;triều_cao;trời;tro	U+005E U+0074 U+0072
+ch$	c	C	Vietnamese	24	ếch;tĩnh_mạch;nách;lách;thương_tích	U+0063 U+0068 U+0024
+e	e	E	Vietnamese	19	anh_em;chị_em_gái;anh_chị_em;anh_chị_em_họ;len	U+0065
+â	â/ʌ	E	Vietnamese	57	mây;con_dâu;bồ_câu;vây_cá;sâu_bọ	U+00E2
+è	è/e	E	Vietnamese	4	thợ_rèn;rèn;kèn;tắc_kè_hoa	U+00E8
+é	é/e	E	Vietnamese	9	bọ_chét;nạn_đói_kém;chén;chén;quét	U+00E9
+ê	ê/e	E	Vietnamese	41	diêm;tổ_tiên;con_trai_riêng;con_gái_riêng;dê_đực	U+00EA
+ă	ă/ɐ	E	Vietnamese	28	mặt_trăng;người_chăn_súc_vật;răng;răng_hàm;đồ_ăn	U+0103
+ơ	ơ/ɤ	E	Vietnamese	26	đại_dương;sương;sương_mù;lươn;bươm_bướm	U+01A1
+ấ	ấ/ʌ	E	Vietnamese	44	đất;đất;mũi_đất;triều_thấp;sấm	U+1EA5
+ầ	ầ/ʌ	E	Vietnamese	35	đá_ngầm;đầm_lầy;đầm_lầy;cầu_vồng;đầu	U+1EA7
+ẩ	ẩ/ʌ	E	Vietnamese	6	thực_phẩm;bẩn;lòng_trắc_ẩn;lẩm_bẩm;lẩm_bẩm	U+1EA9
+ẫ	ẫ/ʌ	E	Vietnamese	7	nhẫn;rẫy;dẫn;sẫm;bẫy_cá	U+1EAB
+ậ	ậ/ʌ	E	Vietnamese	33	cậu;hậu_duệ;động_mật;vật_nuôi;người_chăn_súc_vật	U+1EAD
+ắ	ắ/ɐ	E	Vietnamese	44	tắt;rắn;mắt;bắp_chân;hắt_hơi	U+1EAF
+ằ	ằ/ɐ	E	Vietnamese	7	đồng_bằng;thằn_lằn;thằn_lằn;cằm;nằm	U+1EB1
+ẳ	ẳ/ɐ	E	Vietnamese	1	thẳng	U+1EB3
+ẵ	ẵ/ɐ	E	Vietnamese	2	sẵn_sàng;nhẵn	U+1EB5
+ặ	ặ/ɐ	E	Vietnamese	13	mặt_trời;mặt_trăng;mặt;mặc;mạng_che_mặt	U+1EB7
+ẹ	ẹ/e	E	Vietnamese	9	mẹ_vợ;mẹ_chồng;mẹ_ghẻ;vẹt;nghẹt	U+1EB9
+ẻ	ẻ/e	E	Vietnamese	3	xẻng;kẻ_thù;kẻ_cắp	U+1EBB
+ế	ế/e	E	Vietnamese	53	thế_giới;tuyết;thời_tiết;thiếu_nữ;rết	U+1EBF
+ề	ề/e	E	Vietnamese	24	triều;triều_thấp;triều_cao;chim_kền_kền;chim_kền_kền	U+1EC1
+ể	ể/e	E	Vietnamese	8	biển;mòng_biển;tiểu_tiện;chuyển;sự_nguy_hiểm	U+1EC3
+ễ	ễ/e	E	Vietnamese	3	khiễu_vũ;khập_khiễng;diễn_văn	U+1EC5
+ệ	ệ/e	E	Vietnamese	26	diệc;nhện;mạng_nhện;miệng;tiểu_tiện	U+1EC7
+ớ	ớ/ɤ	E	Vietnamese	13	nước;dòng_nước_xoáy;thác_nước;chớp;chớp	U+1EDB
+ờ	ờ/ɤ	E	Vietnamese	13	xương_sườn;đường;nhà_vườn;tường;giường	U+1EDD
+ở	ở/ɤ	E	Vietnamese	7	lạp_xưởng;lò_sưởi;cởi;tưởng;bộ_trưởng	U+1EDF
+ỡ	ỡ/ɤ	E	Vietnamese	1	sự_cưỡng_dâm	U+1EE1
+ợ	ợ/ɤ	E	Vietnamese	20	bố_dượng;lợn_rừng;lợn_cái;lợn;rượu_mật_ong	U+1EE3
+^e	e	E	Vietnamese	5	em_trai;em_trai;em_gái;eo;em	U+005E U+0065
+^â	â/ʌ	E	Vietnamese	5	âm_thanh;âm_mưu;âm_nhạc;âm_vật;âm_hộ	U+005E U+00E2
+^é	é/e	E	Vietnamese	2	ép;ép	U+005E U+00E9
+^ă	ă/ɐ	E	Vietnamese	3	ăn;ăn_cắp;ăn_kiêng	U+005E U+0103
+^ế	ế/e	E	Vietnamese	1	ếch	U+005E U+1EBF
+^ớ	ớ/ɤ	E	Vietnamese	1	ớt	U+005E U+1EDB
+au	ɐʊ	E		8	rau;sau;sau;đau;nỗi_đau_buồn	U+0061 U+0075
+ay	ɐɪ	E		27	tay;khuyủ_tay;cổ_tay;tay;lòng_bàn_tay	U+0061 U+0079
+e$	e	E	Vietnamese	9	khỏe;tre;đe;xe;che	U+0065 U+0024
+eo	ɛʊ	E		10	cá_heo_mỏ;gieo;treo;keo;leo	U+0065 U+006F
+àu	àu/ɐʊ	E		6	gàu;đi_tàu_thủy;tàu_thủy;tàu;giàu	U+00E0 U+0075
+ày	ày/ɐɪ	E		23	mày;các_mày;mày;chày;giày	U+00E0 U+0079
+áu	áu/ɐʊ	E		9	cháu_trai;cháu_gái;cháu_trai;cháu_gái;máu	U+00E1 U+0075
+áy	áy/ɐɪ	E		11	dòng_nước_xoáy;đốt_cháy;cháy;nháy;ráy	U+00E1 U+0079
+è$	è/e	E	Vietnamese	3	què;bè;chè	U+00E8 U+0024
+èo	èo/ɛʊ	E		6	mèo;móc_chèo;chèo;mái_chèo;chèo	U+00E8 U+006F
+é$	é/e	E	Vietnamese	3	con_bé;xé;té	U+00E9 U+0024
+éo	éo/ɛʊ	E		3	kéo;kéo_dài_ra;kéo	U+00E9 U+006F
+ê$	ê/eɪ	E	Vietnamese	3	dê;cà_phê;kê	U+00EA U+0024
+ơ$	ơ/ɤɯ	E	Vietnamese	5	mơ;bơ;tơ;nhà_thơ;phi_cơ	U+01A1 U+0024
+ơi	ơi/ɤɪ	E		10	hơi;dơi;hắt_hơi;rơi;bơi	U+01A1 U+0069
+ạy	ạy/ɐɪ	E		2	chạy;dạy	U+1EA1 U+0079
+ảy	ảy/ɐɪ	E		8	vảy;chảy_nhỏ_giọt;chảy_nhỏ_giọt;chảy;nhảy	U+1EA3 U+0079
+ẹ$	ẹ/e	E	Vietnamese	4	mẹ;bố_mẹ;(mùa)_hẹ;nhẹ	U+1EB9 U+0024
+ẹo	ẹo/ɛʊ	E		2	sẹo;kẹo	U+1EB9 U+006F
+ẻ$	ẻ/e	E	Vietnamese	5	mẹ_ghẻ;đẻ;chẻ;rẻ;trẻ	U+1EBB U+0024
+ẻo	ẻo/ɛʊ	E		1	chất_dẻo	U+1EBB U+006F
+ẽ$	ẽ/e	E	Vietnamese	1	vẽ	U+1EBD U+0024
+ế$	ế/eɪ	E	Vietnamese	3	ghế;hoàng_đế;cúng_tế	U+1EBF U+0024
+ề$	ề/eɪ	E	Vietnamese	6	thợ_nề;về;thề;thề;lời_thề	U+1EC1 U+0024
+ể$	ể/eɪ	E	Vietnamese	5	con_rể;con_rể;thân_thể;để;con_rể	U+1EC3 U+0024
+ễ$	ễ/eɪ	E	Vietnamese	3	rễ;tuần_lễ;dễ	U+1EC5 U+0024
+ệ$	ệ/eɪ	E	Vietnamese	4	lệ;nô_lệ;bảo_vệ;người_bảo_vệ	U+1EC7 U+0024
+ớ$	ớ/ɤɯ	E	Vietnamese	2	vớ;nhớ	U+1EDB U+0024
+ới	ới/ɤɪ	E		9	thế_giới;cưới;đám_cưới;dưới;mới	U+1EDB U+0069
+ờ$	ờ/ɤɯ	E	Vietnamese	10	bờ;nhà_thờ;bây_giờ;không_bao_giờ;sờ	U+1EDD U+0024
+ời	ời/ɤɪ	E		24	trời;mặt_trời;thời_tiết;người;người_bạn_trai	U+1EDD U+0069
+ở$	ở/ɤɯ	E	Vietnamese	5	thở;ở;mở;người_ở;ở	U+1EDF U+0024
+ỡ$	ỡ/ɤɯ	E	Vietnamese	4	mỡ;thuốc_mỡ;làm_vỡ;vỡ	U+1EE1 U+0024
+ỡi	ỡi/ɤɪ	E		4	lưỡi;rìu_lưỡi_vòm;cưỡi;lưỡi_câu	U+1EE1 U+0069
+ợ$	ợ/ɤɯ	E	Vietnamese	9	vợ;đàn_ông_có_vợ;bố_vợ;mẹ_vợ;ông_goá_vợ	U+1EE3 U+0024
+ợi	ợi/ɤɪ	E		3	lợi;sự_ca_ngợi;chiến_lợi_phẩm	U+1EE3 U+0069
+^g	ɣ	G		30	gỗ;gío;gái;gả;gà	U+005E U+0067
+kh	x	G	Vietnamese	12	không_khí;chìa_(khoá);ống_khói;cỏ_khô;đổ_khuôn	U+006B U+0068
+^kh	x	G	Vietnamese	34	không_nổi_sóng;không_khí;khói;khỉ;khuyủ_tay	U+005E U+006B U+0068
+H	H/h	H	Vietnamese	1	nhà_thờ_Hồi_giáo	U+0048
+h	h	H	Vietnamese	38	than_hồng;cá_heo_mỏ;anh_chị_em_họ;mẹ_ghẻ;răng_hàm	U+0068
+^h	h	H	Vietnamese	54	hang;hồ;hơi;hậu_duệ;họ	U+005E U+0068
+i	i	I	Vietnamese	130	biển;triều;triều_thấp;triều_cao;thời_tiết	U+0069
+y	i	I	Vietnamese	32	tuyết;ly_dị;vây_cá;khuyủ_tay;dây_lưng	U+0079
+ì	ì/i	I	Vietnamese	19	gia_đình;mình;làm_tình;bình;sự_xăm_hình	U+00EC
+í	í/i	I	Vietnamese	20	gío;thím;thương_tích;vết_thâm_tím;chín	U+00ED
+ĩ	ĩ/i	I	Vietnamese	2	tĩnh_mạch;thủ_lĩnh	U+0129
+ư	ư/ɯ	I	Vietnamese	88	lưu_vực;nước;đại_dương;dòng_nước_xoáy;thác_nước	U+01B0
+ỉ	ỉ/i	I	Vietnamese	3	tỉnh;đỉnh;mỉm	U+1EC9
+ị	ị/i	I	Vietnamese	11	vịnh;chị_em_gái;anh_chị_em;anh_chị_em_họ;vịt	U+1ECB
+ứ	ứ/ɯ	I	Vietnamese	17	trứng_chấy;trứng;lòng_đỏ_trứng;vứt;cứu	U+1EE9
+ừ	ừ/ɯ	I	Vietnamese	10	rừng;cừu;cừu_đực;cừu_cái;cừu_con	U+1EEB
+ữ	ữ/ɯ	I	Vietnamese	3	chiếm_hữu;chữ_thập;nữ_hoàng	U+1EEF
+ự	ự/ɯ	I	Vietnamese	34	lưu_vực;đực;bò_đực;bò_đực;cừu_đực	U+1EF1
+^i	i	I	Vietnamese	3	iả;im;im	U+005E U+0069
+^y	y/i	I	Vietnamese	5	yếu;y_phục;yến_mạch;yêu;y_tá	U+005E U+0079
+^í	í/i	I	Vietnamese	1	ít	U+005E U+00ED
+^ý	ý/ɪi	I	Vietnamese	1	ý_kiến	U+005E U+00FD
+^ư	ư/ɯ	I	Vietnamese	2	ưng;ướt	U+005E U+01B0
+i$	i	I	Vietnamese	34	khói;vật_nuôi;cá_voi;chó_sói;voi	U+0069 U+0024
+ia	iə	I		6	bia;chia;chia;ngày_kia;hôm_kia	U+0069 U+0061
+iu	iʊ	I		1	ôliu	U+0069 U+0075
+y$	y/ɪi	I	Vietnamese	30	đầm_lầy;mây;lấy;chấy;trứng_chấy	U+0079 U+0024
+ì$	ì/i	I	Vietnamese	6	dì;bánh_mì;lúa_mì;chì;quì	U+00EC U+0024
+ìa	ìa/iə	I		2	thìa;chìa_(khoá)	U+00EC U+0061
+ìu	ìu/iʊ	I		3	rìu;rìu_lưỡi_vòm;rìu_chiến	U+00EC U+0075
+í$	í/i	I	Vietnamese	7	không_khí;mí;đồ_trang_trí;bí;bí	U+00ED U+0024
+ía	ía/iə	I		1	mía	U+00ED U+0061
+ĩ$	ĩ/i	I	Vietnamese	4	bác_sĩ;suy_nghĩ;đĩ;giáo_sĩ	U+0129 U+0024
+ĩa	ĩa/iə	I		5	đĩa;đĩa;đĩa_nhỏ;nĩa;chĩa	U+0129 U+0061
+ư$	ư/ɯː	I	Vietnamese	3	ngày_thứ_tư;hình_như;thư	U+01B0 U+0024
+ưa	ưa/ɯə	I		5	mưa;chưa_chín;bữa_ăn_trưa;cưa;buổi_trưa	U+01B0 U+0061
+ỉ$	ỉ/i	I	Vietnamese	6	khỉ;nghỉ;nỉ;chỉ;chỉ	U+1EC9 U+0024
+ị$	ị/i	I	Vietnamese	7	ly_dị;chị;chuẩn_bị;có_vị;thành_thị	U+1ECB U+0024
+ịa	ịa/iə	I		3	địa_động;địa_ngục;địa_chỉ	U+1ECB U+0061
+ứa	ứa/ɯə	I		2	sự_ngứa;hứa	U+1EE9 U+0061
+ừ$	ừ/ɯː	I	Vietnamese	1	từ	U+1EEB U+0024
+ừa	ừa/ɯə	I		5	lừa;dừa;đồ_thừa;sự_lừa_dối;thừa_nhận	U+1EEB U+0061
+ử$	ử/ɯː	I	Vietnamese	4	sư_tử;thử;phân_xử;cuộc_tuyển_cử	U+1EED U+0024
+ửa	ửa/ɯə	I		13	lửa;ngọn_lửa;mửa;cửa;gióng_cửa	U+1EED U+0061
+ửi	ửi/ɯɪ	I		4	khung_cửi_dệt_vải;gửi;ngửi;ngửi	U+1EED U+0069
+ữ$	ữ/ɯː	I	Vietnamese	4	thiếu_nữ;giữ;ngôn_ngữ;chữ	U+1EEF U+0024
+ữa	ữa/ɯə	I		11	chữa_(bệnh);bữa_ăn;bữa_ăn_sáng;bữa_ăn_trưa;bữa_ăn_tối	U+1EEF U+0061
+ự$	ự/ɯː	I	Vietnamese	1	tương_tự	U+1EF1 U+0024
+ựa	ựa/ɯə	I		5	ngựa;ngựa_đực;ngựa_cái;ngựa_con;nhựa	U+1EF1 U+0061
+c	k	K	Vietnamese	94	triều_cao;dòng_nước_xoáy;thác_nước;đám_cưới;đàn_ông_có_vợ	U+0063
+g	g	K	Vietnamese	15	con_gái;con_gái;chị_em_gái;em_gái;cháu_gái	U+0067
+k	k	K	Vietnamese	15	chim_kền_kền;chim_kền_kền;nạn_đói_kém;keo_kiệt;sự_kết_thúc	U+006B
+q	k	K		3	ngọc_đá_qúy;qúy_tộc;ma_qủy	U+0071
+^c	k	K	Vietnamese	113	cát;cù_lao;cầu_vồng;củi;con_trai	U+005E U+0063
+^k	k	K	Vietnamese	21	kiến;kẹp;kim;kéo;kéo_dài_ra	U+005E U+006B
+c$	k	K	Vietnamese	51	lưu_vực;nước;thác_nước;bác;bác	U+0063 U+0024
+qu	kʷ	K	Vietnamese	7	giống_cam_quít;bảo_quản;hôm_qua;tổ_quốc;phán_quyết	U+0071 U+0075
+^gh	g	K		3	ghim;ghế;ghét	U+005E U+0067 U+0068
+^qu	kʷ	K	Vietnamese	22	quả_phụ;què;quay;quả;quả_hạch	U+005E U+0071 U+0075
+l	l	L	Vietnamese	50	thung_lũng;cù_lao;đại_lục;đầm_lầy;ngọn_lửa	U+006C
+^l	l	L	Vietnamese	82	lưu_vực;lửa;lấy;ly_dị;lợn_rừng	U+005E U+006C
+m	m	M	Vietnamese	82	đầm_lầy;sương_mù;đám_cưới;bố_mẹ;cá_heo_mỏ	U+006D
+^m	m	M	Vietnamese	98	mũi_đất;mặt_trời;mặt_trăng;mây;mưa	U+005E U+006D
+m$	m	M	Vietnamese	93	đá_ngầm;sấm;diêm;anh_em;anh_chị_em	U+006D U+0024
+n	n	N	Vietnamese	114	không_nổi_sóng;dòng_nước_xoáy;thác_nước;ngọn_lửa;than_hồng	U+006E
+^n	n	N	Vietnamese	50	núi;nước;nó;nai;nách	U+005E U+006E
+n$	n	N	Vietnamese	186	bùn;biển;than;con;con	U+006E U+0024
+ng	ŋ	N		47	đá_ngầm;sương_mù;trứng_chấy;mạng_nhện;xương_sườn	U+006E U+0067
+nh	ɲ	N	Vietnamese	51	ánh_sáng;anh_em;anh_chị_em;sinh_đôi;anh_chị_em_họ	U+006E U+0068
+^ng	ŋ	N		54	ngọn_lửa;người;người_bạn_trai;người_chăn_súc_vật;ngựa	U+005E U+006E U+0067
+^nh	ɲ	N	Vietnamese	33	nhện;nháy;nhầy;nhọt;nhai	U+005E U+006E U+0068
+ng$	ŋ	N		106	đồng_bằng;hang;đại_dương;giếng;rừng	U+006E U+0067 U+0024
+nh$	ɲ	N	Vietnamese	45	vịnh;anh;gia_đình;mình;cánh	U+006E U+0068 U+0024
+^ngh	ŋ	N		7	nghỉ;nghẹt;nghèo;nghìn;nghe	U+005E U+006E U+0067 U+0068
+b	ɓ	P	Vietnamese	41	đồng_bằng;đàn_bà;người_bạn_trai;con_bé;đàn_bà_có_chồng	U+0062
+p	p	P	Vietnamese	11	ôpôt;sáp_ong;bắp_chân;chỗ_giộp_da;lạp_xưởng	U+0070
+^b	ɓ	P	Vietnamese	131	bụi;bùn;bờ;biển;bọt	U+005E U+0062
+^p	p	P	Vietnamese	2	pích;pin	U+005E U+0070
+p$	p	P	Vietnamese	32	triều_thấp;chớp;chớp;cá_mập;bọ_cạp	U+0070 U+0024
+r	r	R	Vietnamese	16	con_rể;con_rể;con_trai_riêng;con_gái_riêng;lợn_rừng	U+0072
+d	z	S	Vietnamese	26	đại_dương;ly_dị;hậu_duệ;con_dâu;con_dấu	U+0064
+s	s	S	Vietnamese	35	không_nổi_sóng;ánh_sáng;người_chăn_súc_vật;chó_sói;cá_sấu	U+0073
+x	s	S	Vietnamese	16	dòng_nước_xoáy;máy_xay;lạp_xưởng;sự_xăm_hình;bỏ_xuống	U+0078
+^d	z	S	Vietnamese	40	dòng_nước_xoáy;diêm;dì;dê;dê_đực	U+005E U+0064
+^r	z	S	Vietnamese	41	rừng;rết;ruổi;rắn;rùa	U+005E U+0072
+^s	s	S	Vietnamese	76	sóng;sông;sao;sấm;sương	U+005E U+0073
+^x	s	S	Vietnamese	35	xương;xương_sườn;xương_sống;xương_vai;xương_đòn	U+005E U+0078
+gi	z	S		15	thế_giới;chảy_nhỏ_giọt;chỗ_giộp_da;thợ_đóng_giày;chảy_nhỏ_giọt	U+0067 U+0069
+^gi	z	S		28	gia_đình;gián;giun;giần;giày	U+005E U+0067 U+0069
+t	t	T	Vietnamese	95	mặt_trời;mặt_trăng;bóng_tối;thời_tiết;đốt_cháy	U+0074
+đ	ɗ	T	Vietnamese	51	vách_đá;mũi_đất;địa_động;sinh_đôi;gia_đình	U+0111
+^t	t	T	Vietnamese	77	tuyết;tắt;tổ_tiên;tao;tôi	U+005E U+0074
+^đ	ɗ	T	Vietnamese	118	đất;đất;đồi;đồng_bằng;đảo	U+005E U+0111
+t$	t	T	Vietnamese	111	đất;đất;cát;bọt;mũi_đất	U+0074 U+0024
+th	tʰ	T	Vietnamese	45	triều_thấp;thân_thể;thụ_thai;vết_thâm_tím;da_thuộc	U+0074 U+0068
+^Th	Tʰ/tʰ	T	Vietnamese	1	Thuốc_độc_cho_con_cá	U+005E U+0054 U+0068
+^th	tʰ	T	Vietnamese	84	thế_giới;thung_lũng;thác_nước;thời_tiết;than_hồng	U+005E U+0074 U+0068
+o	ɔ	U	Vietnamese	63	dòng_nước_xoáy;con_trai;con_gái;con;con_bé	U+006F
+ò	ò/ɔ	U	Vietnamese	13	bò_đực;bò_đực;bò_cái;bò_con;xương_đòn	U+00F2
+ó	ó/ɔ	U	Vietnamese	38	khói;đàn_ông_có_vợ;đàn_bà_có_chồng;chó_sói;chó_sói	U+00F3
+ô	ô/o	U	Vietnamese	18	ôpôt;côn_trùng;chôn;hôm_nay;hôm_qua	U+00F4
+õ	õ/ɔ	U	Vietnamese	1	võng	U+00F5
+ọ	ọ/ɔ	U	Vietnamese	18	bọt;ngọn_lửa;bọ_chét;bọ_cạp;họng	U+1ECD
+ỏ	ỏ/ɔ	U	Vietnamese	10	chảy_nhỏ_giọt;khỏe;bỏ_lò;lòng_đỏ_trứng;cỏ_khô	U+1ECF
+ố	ố/o	U	Vietnamese	26	đốt_cháy;đốt;bố_mẹ;bố_vợ;bố_chồng	U+1ED1
+ồ	ồ/o	U	Vietnamese	10	mồ_côi;bồ_câu;ra_mồ_hôi;đồ_ăn;đồ_uống	U+1ED3
+ổ	ổ/o	U	Vietnamese	8	tổ_tiên;tổ_ong;cổ_tay;cổ_chân;cổ_aó	U+1ED5
+ỗ	ỗ/o	U	Vietnamese	4	ngỗng;lỗ_mũi;chỗ_giộp_da;làm_rỗng	U+1ED7
+ộ	ộ/o	U	Vietnamese	15	chỗ_giộp_da;bột_nhào;bột;cột_trụ;Thuốc_độc_cho_con_cá	U+1ED9
+^o	ɔ	U	Vietnamese	2	ong;ong	U+005E U+006F
+^ó	ó/ɔ	U	Vietnamese	1	óc	U+005E U+00F3
+^ô	ô/o	U	Vietnamese	3	ôpôt;ôliu;ôm	U+005E U+00F4
+^ố	ố/o	U	Vietnamese	1	ốc	U+005E U+1ED1
+o$	ɔ	U	Vietnamese	12	gío;tro;eo;ho;nho	U+006F U+0024
+oo	ɔ	U	Vietnamese	1	racoon	U+006F U+006F
+ò$	ò/ɔ	U	Vietnamese	6	bò;bỏ_lò;lò;lò;cửa_tò_vò	U+00F2 U+0024
+ó$	ó/ɔ	U	Vietnamese	12	nó;chó;quần_aó;cổ_aó;có	U+00F3 U+0024
+ô$	ô/oʊ	U	Vietnamese	12	cô;cô;aó_ponsô;ngô;cỏ_khô	U+00F4 U+0024
+ôi	ôi/oɪ	U		9	sinh_đôi;mồ_côi;tôi;chúng_tôi;môi	U+00F4 U+0069
+ọ$	ọ/ɔ	U	Vietnamese	4	anh_chị_em_họ;họ;sâu_bọ;cọ	U+1ECD U+0024
+ỏ$	ỏ/ɔ	U	Vietnamese	14	cá_heo_mỏ;đồng_cỏ;thỏ;vỏ;muỗi_nhỏ	U+1ECF U+0024
+ố$	ố/oʊ	U	Vietnamese	4	bố;thành_phố;số;bảng_số	U+1ED1 U+0024
+ối	ối/oɪ	U		13	bóng_tối;đầu_gối;thối;bữa_ăn_tối;bữa_ăn_tối	U+1ED1 U+0069
+ồ$	ồ/oʊ	U	Vietnamese	3	hồ;đồ;đồng_hồ	U+1ED3 U+0024
+ồi	ồi/oɪ	U		7	đồi;sồi;sồi;ngồi_xổm;ngồi	U+1ED3 U+0069
+ổ$	ổ/oʊ	U	Vietnamese	4	cổ;cửa_sổ;đổ;rổ	U+1ED5 U+0024
+ổi	ổi/oɪ	U		6	không_nổi_sóng;phổi;chổi;nổi;thổi	U+1ED5 U+0069
+ỗ$	ỗ/oʊ	U	Vietnamese	3	gỗ;chỗ;lỗ	U+1ED7 U+0024
+ỗi	ỗi/oɪ	U		3	nỗi_đau_buồn;lỗi;lỗi	U+1ED7 U+0069
+ộ$	ộ/oʊ	U	Vietnamese	4	đi_bộ;toàn_bộ;sự_xấu_hộ;âm_hộ	U+1ED9 U+0024
+ội	ội/oɪ	U		12	đội;lội;đội;vội;phản_bội	U+1ED9 U+0069
+u	u	Y	Vietnamese	49	lưu_vực;triều_thấp;triều_cao;cầu_vồng;tuyết	U+0075
+ù	ù/u	Y	Vietnamese	8	bùn;cù_lao;côn_trùng;chùm;cuối_cùng	U+00F9
+ú	ú/u	Y	Vietnamese	17	người_chăn_súc_vật;xúp;nút;ngọc_đá_qúy;túp_lều	U+00FA
+ũ	ũ/u	Y	Vietnamese	2	vũ_khí;mũ_sắt	U+0169
+ụ	ụ/u	Y	Vietnamese	3	thụ_thai;mục_dích;phục_kích	U+1EE5
+ủ	ủ/u	Y	Vietnamese	9	khuyủ_tay;đi_tàu_thủy;tàu_thủy;chủ_nhật;phủ_nhận	U+1EE7
+^u	u	Y	Vietnamese	2	uống;uốn_cong	U+005E U+0075
+u$	u	Y	Vietnamese	57	triều;cậu;con_dâu;con_dấu;cừu	U+0075 U+0024
+ua	uə	Y		4	mua;chua;vua;tua_vít	U+0075 U+0061
+ui	uɪ	Y		3	rui;vui;rút_lui	U+0075 U+0069
+uô	uɵ	Y		8	vật_nuôi;đổ_khuôn;buông;buôn_bán;nhà_buôn	U+0075 U+00F4
+uố	uố/uɵ	Y		23	cá_đuối_gai_độc;vuốt;chết_đuối;nuốt;muối	U+0075 U+1ED1
+uồ	uồ/uɵ	Y		7	chuồng;buồng;xuồng;cột_buồm;buồm	U+0075 U+1ED3
+uổ	uổ/uɵ	Y		8	ruổi;đuổi;đuổi;tuổi;buổi_sáng	U+0075 U+1ED5
+uỗ	uỗ/uɵ	Y		4	muỗi_nhỏ;muỗi;muỗng;chuỗi_hạt	U+0075 U+1ED7
+uộ	uộ/uɵ	Y		15	chuột;ruột;thuộc;da_thuộc;nhuộm	U+0075 U+1ED9
+ù$	ù/u	Y	Vietnamese	4	sương_mù;mù;kẻ_thù;nhà_tù	U+00F9 U+0024
+ùa	ùa/uə	Y		6	rùa;(mùa)_đông;(mùa)_xuân;(mùa)_hẹ;(mùa)_thu	U+00F9 U+0061
+ùi	ùi/uɪ	Y		4	đùi;dùi;có_mùi;dùi	U+00F9 U+0069
+ú$	ú/u	Y	Vietnamese	7	chú;cú;vú;bầu_vú;bươú	U+00FA U+0024
+úa	úa/uə	Y		9	sân_đập_lúa;thóc_lúa;lúa_mì;lúa_mạch_đen;lúa	U+00FA U+0061
+úi	úi/uɪ	Y		3	núi;túi;thúi	U+00FA U+0069
+ũ$	ũ/u	Y	Vietnamese	3	mũ;khiễu_vũ;cũ	U+0169 U+0024
+ũi	ũi/uɪ	Y		3	mũi_đất;mũi;lỗ_mũi	U+0169 U+0069
+ụ$	ụ/u	Y	Vietnamese	3	quả_phụ;cột_trụ;dụng_cụ	U+1EE5 U+0024
+ụi	ụi/uɪ	Y		1	bụi	U+1EE5 U+0069
+ủ$	ủ/u	Y	Vietnamese	6	ngủ;mủ;tủ;đủ;chủ	U+1EE7 U+0024
+ủa	ủa/uə	Y		1	nguyền_rủa	U+1EE7 U+0061
+ủi	ủi/uɪ	Y		2	củi;vận_rủi	U+1EE7 U+0069
+_	_	_	Vietnamese	731	thế_giới;vách_đá;đồng_bằng;thung_lũng;lưu_vực	U+005F
+óc$	ó/ɐʊ kp	E K		9	tóc;đầu_óc;bóc;xà_nóc;móc	U+00F3 U+0063 U+0024
+ọc$	ọ/ɐʊ kp	E K		4	học;học;trường_học;đọc	U+1ECD U+0063 U+0024
+ốc$	ố/ʌʊ kp	E K		3	gốc;tổ_quốc;cốc	U+1ED1 U+0063 U+0024
+ộc$	ộ/ʌʊ kp	E K		6	cá_đuối_gai_độc;độc;thợ_mộc;dân_tộc;thị_tộc	U+1ED9 U+0063 U+0024
+ns	n s	N S	Vietnamese	1	aó_ponsô	U+006E U+0073
+^gì	z i	S I		1	gì	U+005E U+0067 U+00EC
+uâ	w â/ʌ	W E		2	(mùa)_xuân;tuân_(theo)	U+0075 U+00E2
+uê	w ê/eɪ	W E		1	thuê	U+0075 U+00EA
+uấ	w ấ/ʌ	W E		1	khuấy	U+0075 U+1EA5
+uầ	w ầ/ʌ	W E		1	tuần_lễ	U+0075 U+1EA7
+uẩ	w ẩ/ʌ	W E		1	chuẩn_bị	U+0075 U+1EA9
+uậ	w ậ/ʌ	W E		2	pháp_luật;ma_thuật	U+0075 U+1EAD
+uế	w ế/eɪ	W E		1	thuế	U+0075 U+1EBF
+uệ	w ệ/eɪ	W E		1	hậu_duệ	U+0075 U+1EC7
+úc$	ú/u kp	Y K		4	đúc;sự_kết_thúc;kết_thúc;ban_phúc	U+00FA U+0063 U+0024
+ục$	ụ/u kp	Y K		6	đại_lục;y_phục;đục;trục;phong_tục	U+1EE5 U+0063 U+0024
+ong	ɐ̃ʊ̃ ŋ m	E N M		11	sáp_ong;tổ_ong;rượu_mật_ong;uốn_cong;nong	U+006F U+006E U+0067
+òng	ò/ɐ̃ʊ̃ ŋ m	E N M		13	dòng_nước_xoáy;mòng_biển;lòng_bàn_tay;lòng_đỏ_trứng;vòng_tay	U+00F2 U+006E U+0067
+óng	ó/ɐ̃ʊ̃ ŋ m	E N M		4	bóng_tối;móng_tay;thợ_đóng_giày;gióng_cửa	U+00F3 U+006E U+0067
+ông	ô/ʌ̃ʊ̃ ŋ m	E N M		34	không_nổi_sóng;sông;không_khí;đàn_ông;đàn_ông_có_vợ	U+00F4 U+006E U+0067
+ồng	ồ/ʌ̃ʊ̃ ŋ m	E N M		17	đồng_bằng;cầu_vồng;than_hồng;chồng;đàn_bà_có_chồng	U+1ED3 U+006E U+0067
+ổng	ổ/ʌ̃ʊ̃ ŋ m	E N M		2	tha_bổng;tổng_thống	U+1ED5 U+006E U+0067
+ộng	ộ/ʌ̃ʊ̃ ŋ m	E N M		1	động_mật	U+1ED9 U+006E U+0067
+^ông	ô/ʌ̃ʊ̃ ŋ m	E N M		4	ông;ông;ông_goá_vợ;ông_bà	U+005E U+00F4 U+006E U+0067
+^ống	ố/ʌ̃ʊ̃ ŋ m	E N M		2	ống_khói;ống_điếu	U+005E U+1ED1 U+006E U+0067
+óng$	ó/ɐ̃ʊ̃ ŋ m	E N M		7	không_nổi_sóng;sóng;bóng;đóng;bóng	U+00F3 U+006E U+0067 U+0024
+ống$	ố/ʌ̃ʊ̃ ŋ m	E N M		12	gà_trống;xương_sống;sống;sống;uống	U+1ED1 U+006E U+0067 U+0024
+ộng$	ộ/ʌ̃ʊ̃ ŋ m	E N M		3	động;địa_động;rộng	U+1ED9 U+006E U+0067 U+0024
+^giế	z i e	S I E		2	giếng;giết	U+005E U+0067 U+0069 U+1EBF
+ung	u ŋ m	Y N M		6	thung_lũng;sung;khung_cửi_dệt_vải;làm_rung;trung_thành	U+0075 U+006E U+0067
+úng	ú/u ŋ m	Y N M		7	chúng_tôi;chúng_ta;chúng;quần_chúng;đúng	U+00FA U+006E U+0067
+ụng	ụ/u ŋ m	Y N M		3	dụng_cụ;cây_thông_rụng_lá;bụng	U+1EE5 U+006E U+0067
+ũng$	ũ/u ŋ m	Y N M		1	thung_lũng	U+0169 U+006E U+0067 U+0024

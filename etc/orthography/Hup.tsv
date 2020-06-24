@@ -1,174 +1,174 @@
-Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
-^	NULL	19	U+005E		
-$	NULL	385	U+0024		
-ˇ	NULL	8	U+02C7	"hæ̃ˇy’b’ah,hũˇt,hũˇyʔah"	Hup
--		391	U+002D	"camam-,hitab-,wiç-"	Hup
-_	_	139	U+005F	"j’áh_y’ũy’ũ´y’,mɔh_ká,nuh_hohód"	Hup
-a	a	205	U+0061	"mɔyə̌kb’ah,naʔyɨʔɨy,wayyæ̃h-"	Hup
-b	b	47	U+0062	"dɔwɔh_búg’,g’ub-,g’ubnaʔ-"	Hup
-c	c	82	U+0063	"mécab’ah,nɔw_cacác,ʔarócu"	Hup
-d	d	93	U+0064	"dedéb,hupʔɨd_cáʔ,pud_núh"	Hup
-e	e	94	U+0065	"cet-,hǎt_ʔey-,peʔ_wɨdnæ̌n"	Hup
-g	g	40	U+0067	"hãwɨg_hihũʔ-,kǝwǝg_pã´t,wág_hiyǽt"	Hup
-h	h	160	U+0068	"dɔwɔ̌h_ʔun’-,nuh-,wædhɔm’æ̌h_nɔcáw"	Hup
-i	i	120	U+0069	"hitab-,huphipãˇh,ʔintúg"	Hup
-j	ɟ	11	U+006A	"j’ujtǐh,múj_ni-,tujd’ak-"	Hup
-k	k	84	U+006B	"j’ib_kãkã´w,j’ɨk_kudú,tok-"	Hup
-m	m	75	U+006D	"g’ǝm-,ʔæmtæ̃h,ʔũhmæh"	Hup
-n	n	80	U+006E	"-nɨh,kǝkǝynɨ́h,yénu"	Hup
-o	o	111	U+006F	"bohów’,popow-,tok_tɨ́t"	Hup
-p	p	108	U+0070	"cópa,hupʔɨd_cáʔ,hæp-"	Hup
-r	r	19	U+0072	"barutéru,kwádru,prita-"	Hup
-t	t	157	U+0074	"cɔbɔt-,nutæ̌n,yutá"	Hup
-u	u	104	U+0075	"buyj’óg,puhú,tu-"	Hup
-v	v	2	U+0076	"cervéca,tedevicãw"	Hup
-w	w	78	U+0077	"-wá,keytǝw-,tǎh_wæ̌dhɔb"	Hup
-y	j	151	U+0079	"tãʔãy_dóʔ,way-,wayd’óʔteg"	Hup
-á	á/a	115	U+00E1	"b’ɔkkáb,dapũh_j’ɨ̃p_wág,j’ám_hɔ̌tʔah"	Hup
-ã	ã	41	U+00E3	"hãwɨg_hihũʔ-,wãˇʔ,w’ãʔw’ãʔ-"	Hup
-æ	æ	68	U+00E6	"cǎc_g’æg,wǐh_g’æg,y’æt-"	Hup
-ç	ç	9	U+00E7	"g’ǝç-,kukuç-,maç-"	Hup
-é	é/e	21	U+00E9	"cédu,méya,pǝrégu"	Hup
-í	í/i	24	U+00ED	"n’íp,tæ̃hʔín,ʔíp"	Hup
-ñ	ɲ	1	U+00F1	"gaña-"	Hup
-ó	ó/o	44	U+00F3	"dehd’óʔ,nuh_totóy’,wókteg"	Hup
-ú	ú/u	46	U+00FA	"tuhúp,yúp_hũyʔah,y’úʔ"	Hup
-ě	ě/e	11	U+011B	"dɔʔkěy,tahcěb,těg"	Hup
-ĩ	ĩ	25	U+0129	"hɔ̃p_kə́kǝpʔĩh,pĩk-,tɨhpɨ´b_ʔĩh"	Hup
-ŋ	ŋ	14	U+014B	"haŋcak-,haŋcɔw-,pɨnɨŋ-"	Hup
-ũ	ũ	40	U+0169	"hũ_b’ɔ́k,hũ_pã´t,j’áh_y’ũy’ũ´y’"	Hup
-ǎ	ǎ/a	51	U+01CE	"cadakǎʔ,pǎç_mɔy,tǎy"	Hup
-ǐ	ǐ/i	8	U+01D0	"bǐʔ,j’ǐb,tiyǐʔ"	Hup
-ǒ	ǒ/o	29	U+01D2	"b’ǒy_mɔy,j’ib_popǒg,mig’ǒd"	Hup
-ǔ	ǔ/u	30	U+01D4	"caccǔd,pǔd,tǔk"	Hup
-ǝ	ə	85	U+01DD	"g’ǝç-,kǝbǝt-,kǝwǝg_b’ɔ́k"	Hup
-ǽ	ǽ/æ	12	U+01FD	"dɨʔ_tǽyɨʔ,hǽy,wág_hiyǽt"	Hup
-ɔ	ɔ	122	U+0254	"d’ɔk-,wɔç-,yumb’ǒy_mɔy"	Hup
-ɨ	ɨ	108	U+0268	"hatípwɨg,hãwɨg_náw,pɨhɨ́t"	Hup
-ʔ	ʔ	179	U+0294	"hutiʔ-,mæ̌y_d’oʔ-,yɔ̃ˇhʔãy"	Hup
-^b	b	54	U+005E U+0062	"bohót,báb’d’ǝh,bɨʔ-"	Hup
-^c	c	109	U+005E U+0063	"cǔk,cǝwǝʔ-,cɨ̃cɨ́n"	Hup
-^d	d	40	U+005E U+0064	"dadáp,dehmí,déc"	Hup
-^g	g	1	U+005E U+0067	"gaña-"	Hup
-^h	h	156	U+005E U+0068	"hitaʔ-,hæ̃ˇy’b’ah,hɔ̃pkə́k"	Hup
-^k	k	66	U+005E U+006B	"kokoj-,koyéw,koʔǎp"	Hup
-^m	m	58	U+005E U+006D	"miŋ-,míw,mǐh"	Hup
-^n	n	57	U+005E U+006E	"núpmæhyɨ́ʔ,nɔg’a-,nɔʔ-"	Hup
-^p	p	94	U+005E U+0070	"puděh,pãpáŋ,pǝrégu"	Hup
-^t	t	151	U+005E U+0074	"tóg’,tǎw,tɔ̃´h"	Hup
-^v	v	2	U+005E U+0076	"vedúra,vĩ´ci"	Hup
-^w	w	59	U+005E U+0077	"wædhɔm’æ̌h_nɔcáw,wɔnd’ǝh-,wɨ̌ç"	Hup
-^y	j	55	U+005E U+0079	"yɔ́w,yɔ̃ʔɔ́m,yɔ̌ʔ"	Hup
-^ʔ	ʔ	78	U+005E U+0294	"ʔacúka,ʔám,ʔãh"	Hup
-a$	a	24	U+0061 U+0024	"bóta,cikáda,ʔóra"	Hup
-b$	b	21	U+0062 U+0024	"də́b,pɨ́b,tǝgpáb"	Hup
-bw	b w	1	U+0062 U+0077	"tábwab’ah"	Hup
-b’	b’	46	U+0062 U+2019	"heb’-,j’ib_b’ɔ́k,ʔə̌g_b’ɔk"	
-c$	c	9	U+0063 U+0024	"cɔ̌c,déc,nɔw_cacác"	Hup
-cc	c + c	1	U+0063 U+0063	"caccǔd"	Hup
-c’	cʼ	1	U+0063 U+2019	"mɔ̌y_c’ujtǐh"	
-d$	d	39	U+0064 U+0024	"d’ǎd,hǒd,mig’ǒd"	Hup
-dh	dh	7	U+0064 U+0068	"n’apũh_g’odhɔ́,wædhɔm’æ̌h,wædhɔ́"	Hup
-d’	d’	37	U+0064 U+2019	"tegd’uhhɔ̃ˇk,tɨhg’ætd’óh,ʔeyd’ǝh-"	
-g$	g	92	U+0067 U+0024	"j’ǝj’ə́g,wayd’óʔteg,ʔɨd_d’ǝhd’ǝhhámteg"	Hup
-gh	g + h	4	U+0067 U+0068	"teghɔ̃´,teghɔ̃´teg,těghod"	Hup
-g’	g’	28	U+0067 U+2019	"b’ɔtɔk_g’ãˇʔ,cug’æ̌t,d’oʔg’ãʔ-"	
-h$	h	95	U+0068 U+0024	"kɔ̌tʔah,mɔ̌yb’ah,yə́h"	Hup
-hh	h + h	2	U+0068 U+0068	"tegd’uhhɔ̃ˇk,ʔɨd_d’ǝhd’ǝhhámteg"	Hup
-hw	h + w	7	U+0068 U+0077	"tɨhwá,tɨhwǝhə́d,yɔ̃ˇhwɨg"	Hup
-i$	i	12	U+0069 U+0024	"déti,nówi,vĩ´ci"	Hup
-j$	ɟ	5	U+006A U+0024	"máj,nɔj’ǐj,tǒj"	Hup
-j’	ɟ’	10	U+006A U+2019	"dapũh_j’ɨ̃p-,dapũh_j’ɨ̃p_wág,j’ɨ̃j’ɨ̃´p"	
-k$	k	49	U+006B U+0024	"b’atúk,cǔk,tǔk"	Hup
-kk	k + k	1	U+006B U+006B	"b’ɔkkáb"	Hup
-m$	m	25	U+006D U+0024	"wɔ̌m,yaʔám,yɔ̃ʔɔ́m"	Hup
-mh	m + h	4	U+006D U+0068	"hamhũynɨ́h,j’ɔmham-,yamhĩdɔʔ-"	Hup
-m’	m’	7	U+006D U+2019	"hɨ̃m’ǽ,n’æm’-,wædhɔm’æ̌h"	
-n$	n	17	U+006E U+0024	"peʔ_wɨdnæ̌n,wǎn,ʔɨ́n"	Hup
-nh	n h	1	U+006E U+0068	"ʔinhã´ç"	Hup
-n’	n’	5	U+006E U+2019	"dɔwɔ̌h_ʔun’-,nin’-,ʔun’-"	
-o$	o	1	U+006F U+0024	"karendário"	Hup
-p$	p	31	U+0070 U+0024	"-tip,cáp,hup_bɨ́ʔɨp"	Hup
-ph	p + h	1	U+0070 U+0068	"huphipãˇh"	Hup
-pw	p + w	1	U+0070 U+0077	"hatípwɨg"	Hup
-t$	t	44	U+0074 U+0024	"cɔkw’ə́t,motúdutat,tɔ́pg’æt"	Hup
-u$	u	21	U+0075 U+0024	"pátu,wídriu,ʔarócu"	Hup
-w$	w	27	U+0077 U+0024	"kǝwǝgpə̌w,tǝg_pə́w,wowǒw"	Hup
-ww	w + w	1	U+0077 U+0077	"tǝwway-"	Hup
-w’	w’	6	U+0077 U+2019	"hɔ̃w’-,pipiw’-,pohow’-"	
-y$	j	51	U+0079 U+0024	"pæ̃y,yɔ̃ˇh_mɔy,ʔũhʔãy"	Hup
-yy	j + j	2	U+0079 U+0079	"payyɨʔ-,wayyæ̃h-"	Hup
-y’	j’	23	U+0079 U+2019	"cæ̃cæ̃ˇy’,cæ̃y’-,hæ̃ˇy’b’ah"	
-á$	á/a	10	U+00E1 U+0024	"kadawá,pá,tɨhwá"	Hup
-ã´	ã´/ã	21	U+00E3 U+00B4	"babmã´y,hũtæ̃´h_pã´t,pã´ç"	Hup
-æ$	æ	1	U+00E6 U+0024	"tɨhdóʔ_tæ"	Hup
-æ̃	æ̃	42	U+00E6 U+0303	"hæ̃y’-,kæ̃ʔ-,pæ̃y"	Hup
-æ̌	æ̌/æ	40	U+00E6 U+030C	"hæ̌ŋyɨʔ,næ̌m,wædhɔm’æ̌h_nɔcáw"	Hup
-ç$	ç	16	U+00E7 U+0024	"pã´ç,pə̌ç,wɨ̌ç"	Hup
-é$	é/e	3	U+00E9 U+0024	"boné,kapé,ké"	Hup
-í$	í/i	4	U+00ED U+0024	"dehmí,g’í,hibab’ní"	Hup
-ó$	ó/o	8	U+00F3 U+0024	"dó,kedó,tɨhdó"	Hup
-ów	ó/o w	2	U+00F3 U+0077	"cówag,nówi"	Hup
-õ´	õ´/õ	1	U+00F5 U+00B4	"ʔõ´ci"	
-ú$	ú/u	11	U+00FA U+0024	"j’ɨk_kudú,kukú,tú"	Hup
-ěh	ě/e h	4	U+011B U+0068	"b’ěhteg,děh_mɔy,w’ěheyʔĩh"	Hup
-ĩ´	ĩ´/ĩ	2	U+0129 U+00B4	"cĩ´pm’æh,vĩ´ci"	
-ŋ$	ŋ	11	U+014B U+0024	"mamáŋ,næ̌ŋ,paç_náŋ"	Hup
-ŋw	ŋ + w	1	U+014B U+0077	"pɨnɨŋwɨ̌ʔ"	Hup
-ũ´	ũ´/ũ	9	U+0169 U+00B4	"hũ´_mæh-,nihũ´ʔ,tũhũ´ʔ_ni-"	
-ǎh	ǎ/a h	3	U+01CE U+0068	"tǎh_mɔy,tǎh_wæ̌dhɔb,tǎhd’ǝh"	Hup
-ǐh	ǐ/i h	2	U+01D0 U+0068	"cǐh_hə́b,wǐh_g’æg"	Hup
-ǔh	ǔ/u h	1	U+01D4 U+0068	"mǔhteg"	Hup
-ǽ$	ǽ/æ	7	U+01FD U+0024	"hɔ̃wǽ,hɨ̃m’ǽ,wɔ̃ʔdǽ"	Hup
-ɔ́	ɔ́/ɔ	26	U+0254 U+0301	"kǝwǝg_b’ɔ́k,yɔ̃ʔɔ́m,ʔɔ́h"	Hup
-ɔ̃	ɔ̃	26	U+0254 U+0303	"cɔ̃wɔ̃ˇh,hɔ̃hɔ̃k-,hɔ̃pkə́k"	Hup
-ɔ̌	ɔ̌/ɔ	36	U+0254 U+030C	"bɔyɔ̌h,b’ɔ̌k,nuh_b’ɔ̌ʔ"	Hup
-ə́	ə́/ə	33	U+0259 U+0301	"hɔ̃tə́g,j’ǝj’ə́g,j’ə́bay"	Hup
-ə̌	ə̌/ə	21	U+0259 U+030C	"hə̌ʔ,kǝwə̌g,ʔə̌g_b’ɔk"	Hup
-ɨ´	ɨ´/ɨ	1	U+0268 U+00B4	"tɨhpɨ´b_ʔĩh"	
-ɨ́	ɨ́/ɨ	45	U+0268 U+0301	"bohǒt_pɨ́b,b’ɔ̌tdɨ́d,hamhũynɨ́h"	Hup
-ɨ̃	ɨ̃	13	U+0268 U+0303	"hɨ̃m’ǽ,j’ɨ̃j’ɨ̃´p,tɨ̃hɨ̃´y"	Hup
-ɨ̌	ɨ̌/ɨ	23	U+0268 U+030C	"hinín’ɨ̌h,hɔm_bɨ̌g,wæ̌d_bɨ̌ʔ_mɔy"	Hup
-ʔ$	ʔ	81	U+0294 U+0024	"b’úʔ,b’ɔtɔk_g’ãˇʔ,nuh_b’ɔ̌ʔ"	Hup
-ʔh	ʔ + h	2	U+0294 U+0068	"bɨʔhitam-,wɨʔhamd’ə̌hteg"	Hup
-ˇh	ˇh/h	3	U+02C7 U+0068	"hipãˇhteg,pĩˇhteg,tæ̃ˇhd’ǝh"	Hup
-^b’	b’	40	U+005E U+0062 U+2019	"b’ah-,b’ɔʔwæ̌d,b’ɔ̌y"	
-^c’	cʼ	2	U+005E U+0063 U+2019	"c’ǎt,c’ɔ́"	
-^d’	d’	29	U+005E U+0064 U+2019	"d’apũh_nihũ´ʔ,d’apũ´h,d’oʔcak-"	
-^g’	g’	33	U+005E U+0067 U+2019	"g’æ̌gtæ̃h,g’ǝm-,g’ǝmnaʔ-"	
-^j’	ɟ’	45	U+005E U+006A U+2019	"j’ib_kãkã´w,j’ɔm-,j’ɨ̌g"	
-^kw	k w	2	U+005E U+006B U+0077	"kwádru,kwátawag"	Hup
-^m’	m’	9	U+005E U+006D U+2019	"m’æh-,m’ǎy’b’ɔk_bɨʔ-,m’ɨ́ʔ"	
-^n’	n’	5	U+005E U+006E U+2019	"n’ang’ɔ́b,n’íp,n’ít"	
-^p’	pʼ	1	U+005E U+0070 U+2019	"p’ǎy"	
-^w’	w’	6	U+005E U+0077 U+2019	"w’ãʔw’ãʔ-,w’ěh,w’ə̌t"	
-^y’	j’	8	U+005E U+0079 U+2019	"y’aw’-,y’aʔáw’_d’ǝhj’ák,y’ũy’ũy’-"	
-b’$	b’	9	U+0062 U+2019 U+0024	"báb’,hěb’,páb’"	
-kw’	k w’	1	U+006B U+0077 U+2019	"cɔkw’ə́t"	Hup
-n’$	n’	1	U+006E U+2019 U+0024	"cǎn’"	
-w’$	w’	4	U+0077 U+2019 U+0024	"hɔ_wowǒw’,hɔ̃´w’,j’ɔ̌w’"	
-ãˇ$	ãˇ/ã	1	U+00E3 U+02C7 U+0024	"pãˇ"	Hup
-æ̃´	æ̃´/æ̃	8	U+00E6 U+0303 U+00B4	"j’ib_tæ̃tæ̃´h,pæ̃´y_caʔ,tæ̃´h-yud"	Hup
-éw$	é/e w	1	U+00E9 U+0077 U+0024	"koyéw"	Hup
-óh$	ó/o h	6	U+00F3 U+0068 U+0024	"g’ætd’óh,póh,tɨhg’ætd’óh"	Hup
-ěh$	ě/e h	5	U+011B U+0068 U+0024	"kǝwǝg_děh,puděh,w’ěh"	Hup
-ěw$	ě/e w	2	U+011B U+0077 U+0024	"cecěw,wɔhwěw"	Hup
-ũ´$	ũ´/ũ	1	U+0169 U+00B4 U+0024	"hũ´"	Hup
-ǎh$	ǎ/a h	6	U+01CE U+0068 U+0024	"tǎh"	Hup
-ǎw$	ǎ/a w	1	U+01CE U+0077 U+0024	"tǎw"	Hup
-ǐh$	ǐ/i h	6	U+01D0 U+0068 U+0024	"j’ujtǐh,mǐh,mɔ̌y_c’ujtǐh"	Hup
-ǐw$	ǐ/i w	1	U+01D0 U+0077 U+0024	"biyǐw"	Hup
-ǔh$	ǔ/u h	5	U+01D4 U+0068 U+0024	"hǔh,mǔh,tegd’ǔh"	Hup
-ǔw$	ǔ/u w	1	U+01D4 U+0077 U+0024	"ʔǔw"	Hup
-ǽw$	ǽ/æ w	1	U+01FD U+0077 U+0024	"-pæcǽw"	Hup
-ɔ́$	ɔ́/ɔ	12	U+0254 U+0301 U+0024	"mɔyɔ́,wirimɔ́,wædhɔ́"	Hup
-ɔ̃$	ɔ̃	3	U+0254 U+0303 U+0024	"teg_hɔ̃"	Hup
-ɔ̃´	ɔ̃´/ɔ̃	10	U+0254 U+0303 U+00B4	"g’ɔ̃´j,teghɔ̃´teg,ʔɔ̃´g’"	
-ɔ̃ˇ	ɔ̃ˇ/ɔ̃	11	U+0254 U+0303 U+02C7	"hɔ̃ˇp,tegd’uhhɔ̃ˇk,yɔ̃ˇhʔãy"	Hup
-ɨ́$	ɨ́/ɨ	4	U+0268 U+0301 U+0024	"bɨ́,g’ɨ́"	Hup
-ɨ̃´	ɨ̃´/ɨ̃	2	U+0268 U+0303 U+00B4	"j’ɨ̃j’ɨ̃´p,tɨ̃hɨ̃´y"	
-ʔw’	ʔ + w’	1	U+0294 U+0077 U+2019	"w’ãʔw’ãʔ-"	Hup
-ˇh$	ˇh/h	5	U+02C7 U+0068 U+0024	"huphipãˇh,hũˇh,kǝwǝg_b’ɔk_cũˇh"	Hup
-ẽ´$	ẽ´/ẽ	1	U+1EBD U+00B4 U+0024	"cẽ´"	
-ów’$	ó/o w’	2	U+00F3 U+0077 U+2019 U+0024	"bohów’,nuh_pohów’"	
-ɔ̃´$	ɔ̃´/ɔ̃	1	U+0254 U+0303 U+00B4 U+0024	"teghɔ̃´"	
+Grapheme	IPA	SCA	LANGUAGES	FREQUENCY	EXAMPLES	CODEPOINTS
+^	NULL			19	-pæcǽw;-dóʔ;-wǝhə́d;-wá;-b’ak	U+005E
+$	NULL			385	m’ǎj’;wɔ̃wɔ̃´y’;j’áh_y’ũy’ũ´y’;tujd’ak-;hɔ̃-	U+0024
+ˇ	NULL		Hup	8	cæ̃cæ̃ˇy’;wãˇʔ;b’ɔtɔk_g’ãˇʔ;hũˇt;hæ̃ˇy’b’ah	U+02C7
+-			Hup	391	tujd’ak-;hɔ̃-;tujd’ak-;tǝʔ-;d’ɔk-	U+002D
+a	a	A	Hup	205	ʔaʔáb;capáw’;baʔtúk;paç_náŋ;tujd’ak-	U+0061
+á	á/a	A	Hup	115	j’áh;j’áh;ʔaʔáb;capáw’;j’áh_y’ũy’ũ´y’	U+00E1
+ã	ã	A	Hup	41	tãʔáy;tãʔáy;tãʔãy_dóʔ;tãʔãy_dóʔ;yãwám	U+00E3
+ǎ	ǎ/a	A	Hup	51	m’ǎj’;pǎç;pǎç;pǎç_mɔy;hǎy	U+01CE
+a$	a	A	Hup	24	picána;cópa;vedúra;ʔacúka;cervéca	U+0061 U+0024
+á$	á/a	A	Hup	10	má;-wá;kadawá;yutá;pá	U+00E1 U+0024
+ã´	ã´/ã	A	Hup	21	babmã´y;pã´ç;ʔinhã´ç;wã´ʔ;næŋʔã´w	U+00E3 U+00B4
+ãˇ$	ãˇ/ã	A	Hup	1	pãˇ	U+00E3 U+02C7 U+0024
+v	v	B	Hup	2	cervéca;tedevicãw	U+0076
+^v	v	B	Hup	2	vedúra;vĩ´ci	U+005E U+0076
+c	c	C	Hup	82	wædhɔm’æ̌h_nɔcáw;teg_cáʔ;teg_cə̌h;-pæcǽw;taʔacáw	U+0063
+j	ɟ	C	Hup	11	tujd’ak-;tujd’ak-;j’ujtǐh;toj_mɔ̌y;tǔjtod’	U+006A
+ç	ç	C	Hup	9	pǎç_mɔy;paç_náŋ;j’ɔç-;g’ǝç-;tɔç-	U+00E7
+^c	c	C	Hup	109	capáw’;cə́p;cɔ́;cédu;cə̌t	U+005E U+0063
+c$	c	C	Hup	9	péc;cũ´c;cǎc;cɔ̌c;nɔw_cacác	U+0063 U+0024
+c’	cʼ	C		1	mɔ̌y_c’ujtǐh	U+0063 U+2019
+j$	ɟ	C	Hup	5	g’ɔ̃´j;tǒj;nɔj’ǐj;máj;tǎj	U+006A U+0024
+j’	ɟ’	C		10	m’ǎj’;mɔy_j’ɨ̌k;dapũh_j’ɨ̃p-;dapũh_j’ɨ̃p_wág;j’ɨ̃j’ɨ̃´p	U+006A U+2019
+ç$	ç	C	Hup	16	pǎç;pǎç;pǎç;pǎç;pã´ç	U+00E7 U+0024
+^c’	cʼ	C		2	c’ɔ́;c’ǎt	U+005E U+0063 U+2019
+^j’	ɟ’	C		45	j’áh;j’áh;j’ǔg;j’áh_y’ũy’ũ´y’;j’ɨk_kudú	U+005E U+006A U+2019
+e	e	E	Hup	94	deh_pə̌w;dehmí;teg_hɔ̃;teg_hɔ̃;teg_hɔ́w	U+0065
+æ	æ	E	Hup	68	wæg_yɔ̌h;wædhɔ́;wædhɔ́;wædhɔm’æ̌h;wædhɔm’æ̌h_nɔcáw	U+00E6
+é	é/e	E	Hup	21	cédu;péc;déti;cervéca;méya	U+00E9
+ě	ě/e	E	Hup	11	těg;těg;b’eb’ěp;těghod;hěb’	U+011B
+ǝ	ə	E	Hup	85	tǝʔ-;cǝtʔãy;báb’d’ǝh;-wǝhə́d;dúd’ǝh	U+01DD
+ǽ	ǽ/æ	E	Hup	12	pæ̃ʔǽy’;pæ̃ʔǽy’;pæ̃ʔǽy’;tæ̃hʔǽm;tæ̃hʔǽm	U+01FD
+æ$	æ	E	Hup	1	tɨhdóʔ_tæ	U+00E6 U+0024
+æ̃	æ̃	E	Hup	42	pæ̃y;pæ̃y;tæ̃hʔíp;tæ̃hʔín;pæ̃ʔǽy’	U+00E6 U+0303
+æ̌	æ̌/æ	E	Hup	40	wædhɔm’æ̌h;wædhɔm’æ̌h_nɔcáw;j’æ̌ʔ;næ̌m;næ̌ŋ_cak	U+00E6 U+030C
+é$	é/e	E	Hup	3	ké;boné;kapé	U+00E9 U+0024
+ǽ$	ǽ/æ	E	Hup	7	děh_m’ǽ;hɔ̃wǽ;wɔ̃ʔdǽ;m’ǽ;hɨ̃m’ǽ	U+01FD U+0024
+ə́	ə́/ə	E	Hup	33	cə́p;-wǝhə́d;pǝpə́p;cə́ʔ;bə́g	U+0259 U+0301
+ə̌	ə̌/ə	E	Hup	21	deh_pə̌w;teg_cə̌h;cə̌t;kǝwə̌g;kǝwǝgpə̌w	U+0259 U+030C
+æ̃´	æ̃´/æ̃	E	Hup	8	tæ̃´h;tæ̃´h;tæ̃´h;hũtæ̃´h;j’ib_tæ̃tæ̃´h	U+00E6 U+0303 U+00B4
+ẽ´$	ẽ´/ẽ	E		1	cẽ´	U+1EBD U+00B4 U+0024
+h	h	H	Hup	160	hohód;deh_pə̌w;dehmí;j’áh_y’ũy’ũ´y’;bohǒt_pɨ́b	U+0068
+ʔ	ʔ	H	Hup	179	ʔaʔáb;baʔtúk;tǝʔ-;tãʔáy;tãʔáy	U+0294
+^h	h	H	Hup	156	hohód;hǔh;hǎy;hɔ̃-;húp	U+005E U+0068
+^ʔ	ʔ	H	Hup	78	ʔaʔáb;ʔíp;ʔín;ʔũhʔãy;ʔũˇh	U+005E U+0294
+h$	h	H	Hup	95	j’áh;j’áh;wæg_yɔ̌h;mɔ́h;wædhɔm’æ̌h	U+0068 U+0024
+ʔ$	ʔ	H	Hup	81	teg_cáʔ;tiyǐʔ;tiyǐʔ;tiyiʔ_dóʔ;tãʔãy_dóʔ	U+0294 U+0024
+ˇh	ˇh/h	H	Hup	3	hipãˇhteg;pĩˇhteg;tæ̃ˇhd’ǝh	U+02C7 U+0068
+ˇh$	ˇh/h	H	Hup	5	ʔũˇh;kǝwǝg_b’ɔk_cũˇh;huphipãˇh;hũˇh;hæ̃ˇh	U+02C7 U+0068 U+0024
+i	i	I	Hup	120	tiyǐʔ;tiyǐʔ;tiyiʔ_dóʔ;tiyiʔ_dóʔ;ʔinhã´ç	U+0069
+í	í/i	I	Hup	24	tæ̃hʔíp;tæ̃hʔín;ʔíp;ʔín;næm_típ	U+00ED
+ĩ	ĩ	I	Hup	25	cĩcĩʔ;cĩcĩʔ;hãcĩh-;yɔ̃ˇhʔĩh;cĩy’-	U+0129
+ǐ	ǐ/i	I	Hup	8	tiyǐʔ;tiyǐʔ;tiyǐʔ;bǐʔ;nɔj’ǐj	U+01D0
+ɨ	ɨ	I	Hup	108	j’ɨk_kudú;cɨʔb’ɨ́h;hã´wɨg;hatípwɨg;wɨʔwɨʔ-	U+0268
+i$	i	I	Hup	12	déti;cabonéci;kudúbi;cáwi;céci	U+0069 U+0024
+í$	í/i	I	Hup	4	dehmí;g’í;hibab’ní;g’í	U+00ED U+0024
+ĩ´	ĩ´/ĩ	I		2	cĩ´pm’æh;vĩ´ci	U+0129 U+00B4
+ɨ´	ɨ´/ɨ	I		1	tɨhpɨ´b_ʔĩh	U+0268 U+00B4
+ɨ́	ɨ́/ɨ	I	Hup	45	bohǒt_pɨ́b;nɨ́m;tɨ́h;ʔɨ́n;ʔɨ́n	U+0268 U+0301
+ɨ̃	ɨ̃	I	Hup	13	dapũh_j’ɨ̃p-;dapũh_j’ɨ̃p_wág;cɨ̃cɨ́n;tɨ̃hɨ̃´y;j’ɨ̃j’ɨ̃´p	U+0268 U+0303
+ɨ̌	ɨ̌/ɨ	I	Hup	23	mɔy_j’ɨ̌k;j’ɨ̌k;j’ɨ̌k;cɨ̌ʔ;hɔm_bɨ̌g	U+0268 U+030C
+ɨ́$	ɨ́/ɨ	I	Hup	4	bɨ́;g’ɨ́;g’ɨ́;g’ɨ́	U+0268 U+0301 U+0024
+ɨ̃´	ɨ̃´/ɨ̃	I		2	tɨ̃hɨ̃´y;j’ɨ̃j’ɨ̃´p	U+0268 U+0303 U+00B4
+y	j	J	Hup	151	mɔy_j’ɨ̌k;wæg_yɔ̌h;tiyǐʔ;tiyǐʔ;tiyiʔ_dóʔ	U+0079
+^y	j	J	Hup	55	yãwám;yãwãmʔãy;yǎk;yaʔamhóʔ;yawǎç	U+005E U+0079
+y$	j	J	Hup	51	pǎç_mɔy;děh_mɔy;hǎy;pæ̃y;pæ̃y	U+0079 U+0024
+y’	j’	J		23	wɔ̃wɔ̃´y’;j’áh_y’ũy’ũ´y’;j’áh_y’ũy’ũ´y’;j’áh_y’ũy’ũ´y’;pæ̃ʔǽy’	U+0079 U+2019
+^y’	j’	J		8	y’aʔáw’_d’ǝhj’ák;y’æʔ-;y’aw’-;y’ɔʔ-;y’ũy’ũy’-	U+005E U+0079 U+2019
+g	g	K	Hup	40	wæg_yɔ̌h;teg_hɔ̃;teg_hɔ̃;teg_hɔ́w;teg_hɔ̃	U+0067
+k	k	K	Hup	84	j’ɨk_kudú;j’ɨk_kudú;tujd’ak-;tujd’ak-;d’ɔk-	U+006B
+^g	g	K	Hup	1	gaña-	U+005E U+0067
+^k	k	K	Hup	66	kawádu;kawádu;kawádu;kawádu;kedó	U+005E U+006B
+g$	g	K	Hup	92	j’ǔg;těg;b’ág;těg;dapũh_j’ɨ̃p_wág	U+0067 U+0024
+g’	g’	K		28	n’ang’ɔ́b;hohóʔg’æg;mig’ǒd;kág’;dɔwɔh_búg’	U+0067 U+2019
+k$	k	K	Hup	49	mɔy_j’ɨ̌k;b’ɔ̌k;b’ɔ̌k;baʔtúk;j’ɨ̌k	U+006B U+0024
+^g’	g’	K		33	g’ɔ́t;g’ɔ́t;g’ɔ́t;g’í;g’ɔ̃´j	U+005E U+0067 U+2019
+m	m	M	Hup	75	pǎç_mɔy;dehmí;děh_mɔy;yãwãmʔãy;babmã´y	U+006D
+^m	m	M	Hup	58	mɔy_j’ɨ̌k;mɔ́h;má;mɔ̃hɔ̌y;mǐh	U+005E U+006D
+m$	m	M	Hup	25	nɨ́m;yãwám;tæ̃hʔǽm;tæ̃hʔǽm;ʔipʔǽm	U+006D U+0024
+m’	m’	M		7	wædhɔm’æ̌h;wædhɔm’æ̌h_nɔcáw;děh_m’ǽ;n’æm’-;cĩ´pm’æh	U+006D U+2019
+^m’	m’	M		9	m’ǎj’;m’ɨ́ʔ;m’æ̌h;m’æh-;m’ǎy’_yæ̃ʔ	U+005E U+006D U+2019
+n	n	N	Hup	80	wædhɔm’æ̌h_nɔcáw;paç_náŋ;ʔintúg;picána;n’ang’ɔ́b	U+006E
+ñ	ɲ	N	Hup	1	gaña-	U+00F1
+ŋ	ŋ	N	Hup	14	næŋʔã´w;næ̌ŋ_cak;næ̌ŋ_b’ak;ʔɔ̃hwiŋ-;haŋcak-	U+014B
+^n	n	N	Hup	57	nɨ́m;nɨ́ŋ;næ̌m;næm_típ;næŋʔã´w	U+005E U+006E
+n$	n	N	Hup	17	tæ̃hʔín;ʔín;ʔɨ́n;ʔɨ́n;ʔɨ́n	U+006E U+0024
+n’	n’	N		5	ʔun’-;hinín’ɨ̌h;dɔwɔ̌h_ʔun’-;hɨ̃n’ɨ̌h;nin’-	U+006E U+2019
+ŋ$	ŋ	N	Hup	11	paç_náŋ;nɨ́ŋ;pãpáŋ;mamáŋ;pɨ̌ŋ	U+014B U+0024
+^n’	n’	N		5	n’ang’ɔ́b;n’apũh_g’odhɔ́;n’æm’-;n’íp;n’ít	U+005E U+006E U+2019
+n’$	n’	N		1	cǎn’	U+006E U+2019 U+0024
+b	b	P	Hup	47	babmã´y;cuʔbút;bobób;dɔwɔh_búg’;cob_popǒg	U+0062
+p	p	P	Hup	108	deh_pə̌w;capáw’;bohǒt_pɨ́b;-pæcǽw;dapũh_j’ɨ̃p-	U+0070
+^b	b	P	Hup	54	bohǒt_pɨ́b;baʔtúk;bohót;báb’;babmã´y	U+005E U+0062
+^p	p	P	Hup	94	pǎç;pǎç;pód;pǎç_mɔy;pǔh	U+005E U+0070
+b$	b	P	Hup	21	ʔaʔáb;bohǒt_pɨ́b;n’ang’ɔ́b;bobób;d’ǔb	U+0062 U+0024
+b’	b’	P		46	báb’d’ǝh;báb’d’ǝh;cɨʔb’ɨ́h;næ̌ŋ_b’ak;b’eb’ěp	U+0062 U+2019
+p$	p	P	Hup	31	cə́p;húp;tæ̃hʔíp;ʔíp;pǝpə́p	U+0070 U+0024
+^b’	b’	P		40	b’ɔ̌k;b’ɔ̌k;b’ág;b’ɔ́k;b’eb’ěp	U+005E U+0062 U+2019
+^p’	pʼ	P		1	p’ǎy	U+005E U+0070 U+2019
+b’$	b’	P		9	báb’;báb’;báb’;páb’;pə́b’	U+0062 U+2019 U+0024
+r	r	R	Hup	19	prita-;vedúra;cervéca;candária;ʔarócu	U+0072
+d	d	T	Hup	93	j’ɨk_kudú;cédu;tiyiʔ_dóʔ;tãʔãy_dóʔ;-dóʔ	U+0064
+t	t	T	Hup	157	bohǒt_pɨ́b;baʔtúk;cǝtʔãy;togtúg;togtúg	U+0074
+^d	d	T	Hup	40	deh_pə̌w;děh;dehmí;děh_mɔy;děh	U+005E U+0064
+^t	t	T	Hup	151	těg;teg_hɔ̃;teg_hɔ̃;teg_hɔ́w;teg_hɔ̃	U+005E U+0074
+d$	d	T	Hup	39	hohód;pód;-wǝhə́d;hɨ́d;hǔd	U+0064 U+0024
+dh	dh	T	Hup	7	wædhɔ́;wædhɔ́;wædhɔm’æ̌h;wædhɔm’æ̌h_nɔcáw;n’apũh_g’odhɔ́	U+0064 U+0068
+d’	d’	T		37	tujd’ak-;tujd’ak-;báb’d’ǝh;dúd’ǝh;dúd’ǝh	U+0064 U+2019
+t$	t	T	Hup	44	bohót;cə̌t;g’ɔ́t;g’ɔ́t;g’ɔ́t	U+0074 U+0024
+^d’	d’	T		29	d’ɔk-;d’oʔ-;d’áp;d’ǔb;d’apũ´h	U+005E U+0064 U+2019
+o	o	U	Hup	111	hohód;bohǒt_pɨ́b;bohót;d’oʔ-;togtúg	U+006F
+ó	ó/o	U	Hup	44	hohód;pód;bohót;tiyiʔ_dóʔ;tãʔãy_dóʔ	U+00F3
+ǒ	ǒ/o	U	Hup	29	bohǒt_pɨ́b;wowǒw;mig’ǒd;tǒj;nɔg’ǒd	U+01D2
+ɔ	ɔ	U	Hup	122	mɔy_j’ɨ̌k;pǎç_mɔy;děh_mɔy;wædhɔm’æ̌h;wædhɔm’æ̌h_nɔcáw	U+0254
+o$	o	U	Hup	1	karendário	U+006F U+0024
+ó$	ó/o	U	Hup	8	kedó;tɨhdó;tohó;tohó;dó	U+00F3 U+0024
+õ´	õ´/õ	U		1	ʔõ´ci	U+00F5 U+00B4
+ɔ́	ɔ́/ɔ	U	Hup	26	mɔ́h;teg_hɔ́w;ʔɔ́h;g’ɔ́t;g’ɔ́t	U+0254 U+0301
+ɔ̃	ɔ̃	U	Hup	26	wɔ̃wɔ̃´y’;hɔ̃-;hɔ̃wǽ;mɔ̃hɔ̌y;cɔ̃wɔ̃ˇh	U+0254 U+0303
+ɔ̌	ɔ̌/ɔ	U	Hup	36	b’ɔ̌k;wæg_yɔ̌h;b’ɔ̌k;tæ̃hʔɔ̌h;tæ̃hʔɔ̌h	U+0254 U+030C
+ɔ́$	ɔ́/ɔ	U	Hup	12	wædhɔ́;wædhɔ́;cɔ́;n’apũh_g’odhɔ́;hɔ́	U+0254 U+0301 U+0024
+ɔ̃$	ɔ̃	U	Hup	3	teg_hɔ̃;teg_hɔ̃;teg_hɔ̃	U+0254 U+0303 U+0024
+ɔ̃´	ɔ̃´/ɔ̃	U		10	wɔ̃wɔ̃´y’;tɔ̃´h;tɔ̃´h;tɔ̃´h;g’ɔ̃´j	U+0254 U+0303 U+00B4
+ɔ̃ˇ	ɔ̃ˇ/ɔ̃	U	Hup	11	hɔ̃ˇp;cɔ̃wɔ̃ˇh;yɔ̃ˇhʔĩh;yɔ̃ˇh;tegd’uhhɔ̃ˇk	U+0254 U+0303 U+02C7
+ɔ̃´$	ɔ̃´/ɔ̃	U		1	teghɔ̃´	U+0254 U+0303 U+00B4 U+0024
+w	w	W	Hup	78	wɔ̃wɔ̃´y’;hɔ̃wǽ;dapũh_j’ɨ̃p_wág;yãwám;yãwãmʔãy	U+0077
+^w	w	W	Hup	59	wæg_yɔ̌h;wɔ̃wɔ̃´y’;wædhɔ́;wædhɔ́;wædhɔm’æ̌h	U+005E U+0077
+w$	w	W	Hup	27	deh_pə̌w;wædhɔm’æ̌h_nɔcáw;teg_hɔ́w;taʔacáw;næŋʔã´w	U+0077 U+0024
+w’	w’	W		6	y’aʔáw’_d’ǝhj’ák;y’aw’-;hɔ̃w’-;koʔwow’-;pohow’-	U+0077 U+2019
+^w’	w’	W		6	w’ob-;w’ěh;w’ə̌t;w’ə̌t;w’ãʔw’ãʔ-	U+005E U+0077 U+2019
+w’$	w’	W		4	capáw’;hɔ_wowǒw’;hɔ̃´w’;j’ɔ̌w’	U+0077 U+2019 U+0024
+u	u	Y	Hup	104	j’ɨk_kudú;tujd’ak-;tujd’ak-;cuʔbút;huhǔy	U+0075
+ú	ú/u	Y	Hup	46	baʔtúk;húp;dúd’ǝh;dúd’ǝh;togtúg	U+00FA
+ũ	ũ	Y	Hup	40	j’áh_y’ũy’ũ´y’;dapũh_j’ɨ̃p-;dapũh_j’ɨ̃p_wág;ʔũhʔãy;ʔũˇh	U+0169
+ǔ	ǔ/u	Y	Hup	30	j’ǔg;cǔk;tǔg;yǔy;hǔd	U+01D4
+u$	u	Y	Hup	21	cédu;kawádu;kawádu;kawádu;kawádu	U+0075 U+0024
+ú$	ú/u	Y	Hup	11	j’ɨk_kudú;dú;dú;puhú;tú	U+00FA U+0024
+ũ´	ũ´/ũ	Y		9	j’áh_y’ũy’ũ´y’;cũ´c;tũhũ´ʔ;d’apũ´h;tũhũ´ʔ_ni-	U+0169 U+00B4
+ũ´$	ũ´/ũ	Y	Hup	1	hũ´	U+0169 U+00B4 U+0024
+_	_	_	Hup	139	mɔy_j’ɨ̌k;wæg_yɔ̌h;deh_pə̌w;pǎç_mɔy;děh_mɔy	U+005F
+ǎh	ǎ/a h	A H	Hup	3	tǎh_mɔy;tǎhd’ǝh;tǎh_wæ̌dhɔb	U+01CE U+0068
+ǎh$	ǎ/a h	A H	Hup	6	tǎh;tǎh;tǎh;tǎh;tǎh	U+01CE U+0068 U+0024
+ǎw$	ǎ/a w	A W	Hup	1	tǎw	U+01CE U+0077 U+0024
+ěh	ě/e h	E H	Hup	4	děh_mɔy;děh_m’ǽ;b’ěhteg;w’ěheyʔĩh	U+011B U+0068
+ěh$	ě/e h	E H	Hup	5	děh;děh;puděh;w’ěh;kǝwǝg_děh	U+011B U+0068 U+0024
+éw$	é/e w	E W	Hup	1	koyéw	U+00E9 U+0077 U+0024
+ěw$	ě/e w	E W	Hup	2	wɔhwěw;cecěw	U+011B U+0077 U+0024
+ǽw$	ǽ/æ w	E W	Hup	1	-pæcǽw	U+01FD U+0077 U+0024
+ǐh	ǐ/i h	I H	Hup	2	wǐh_g’æg;cǐh_hə́b	U+01D0 U+0068
+ǐh$	ǐ/i h	I H	Hup	6	wǐh;mǐh;j’ujtǐh;mɔ̌y_c’ujtǐh;cǐh	U+01D0 U+0068 U+0024
+ǐw$	ǐ/i w	I W	Hup	1	biyǐw	U+01D0 U+0077 U+0024
+^kw	k w	K W	Hup	2	kwádru;kwátawag	U+005E U+006B U+0077
+kw’	k w’	K W	Hup	1	cɔkw’ə́t	U+006B U+0077 U+2019
+nh	n h	N H	Hup	1	ʔinhã´ç	U+006E U+0068
+bw	b w	P W	Hup	1	tábwab’ah	U+0062 U+0077
+óh$	ó/o h	U H	Hup	6	póh;póh;g’ætd’óh;tɨhg’ætd’óh;g’ætd’óh	U+00F3 U+0068 U+0024
+ów	ó/o w	U W	Hup	2	nówi;cówag	U+00F3 U+0077
+ów’$	ó/o w’	U W		2	bohów’;nuh_pohów’	U+00F3 U+0077 U+2019 U+0024
+ǔh	ǔ/u h	Y H	Hup	1	mǔhteg	U+01D4 U+0068
+ǔh$	ǔ/u h	Y H	Hup	5	pǔh;hǔh;nunǔh;tegd’ǔh;mǔh	U+01D4 U+0068 U+0024
+ǔw$	ǔ/u w	Y W	Hup	1	ʔǔw	U+01D4 U+0077 U+0024
+cc	c + c	C _ C	Hup	1	caccǔd	U+0063 U+0063
+hh	h + h	H _ H	Hup	2	tegd’uhhɔ̃ˇk;ʔɨd_d’ǝhd’ǝhhámteg	U+0068 U+0068
+ʔh	ʔ + h	H _ H	Hup	2	wɨʔhamd’ə̌hteg;bɨʔhitam-	U+0294 U+0068
+hw	h + w	H _ W	Hup	7	wɔhwěw;ʔɔ̃hwiŋ-;tɨhwǝhə́d;tɨhwá;cĩhwɨʔ-	U+0068 U+0077
+ʔw’	ʔ + w’	H _ W	Hup	1	w’ãʔw’ãʔ-	U+0294 U+0077 U+2019
+yy	j + j	J _ J	Hup	2	payyɨʔ-;wayyæ̃h-	U+0079 U+0079
+gh	g + h	K _ H	Hup	4	těghod;teghɔ̃´teg;teghɔ̃-;teghɔ̃´	U+0067 U+0068
+kk	k + k	K _ K	Hup	1	b’ɔkkáb	U+006B U+006B
+mh	m + h	M _ H	Hup	4	yaʔamhóʔ;j’ɔmham-;hamhũynɨ́h;yamhĩdɔʔ-	U+006D U+0068
+ŋw	ŋ + w	N _ W	Hup	1	pɨnɨŋwɨ̌ʔ	U+014B U+0077
+ph	p + h	P _ H	Hup	1	huphipãˇh	U+0070 U+0068
+pw	p + w	P _ W	Hup	1	hatípwɨg	U+0070 U+0077
+ww	w + w	W _ W	Hup	1	tǝwway-	U+0077 U+0077

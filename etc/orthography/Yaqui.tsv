@@ -1,97 +1,97 @@
-Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
-^	NULL	4	U+005E		
-$	NULL	1	U+0024		
-(	NULL	1	U+0028	"jiabijte(i)"	
-)	NULL	1	U+0029	"jiabijte(i)"	
-^o$	o	1	U+005E U+006F U+0024	"o"	Yaqui
--	+	4	U+002D	"-chi,-ko,-po"	Yaqui
-_	_	213	U+005F	"kaa_lutu’uria,wojmamni_ama_mamni,yee_sisibowame"	Yaqui
-a	a	1020	U+0061	"apala,pu’akte,takwaachi"	Yaqui
-b	b	176	U+0062	"chitabetalai,ejtorbaroa,lobolai"	Yaqui
-d	d	4	U+0064	"dudaroa,kandao,seeda"	Yaqui
-e	e	473	U+0065	"baise’eboli,bwia_emo_yoa,dies"	Yaqui
-i	i	686	U+0069	"jina’ikiawame,piltro,si’ime"	Yaqui
-j	j	189	U+006A	"baji,ojbo_wii’i,yeu_tomtia_ji’osia"	Yaqui
-k	k	376	U+006B	"baikuria,ba’a_muuke,susuke"	Yaqui
-l	l	164	U+006C	"chitabetalai,kopalai,poloobe"	Yaqui
-m	m	282	U+006D	"kom_joa,mampusiam,resarmaroorim"	Yaqui
-n	n	245	U+006E	"jinilwachi,konrenaroa,punta"	Yaqui
-o	o	611	U+006F	"chao_boam,kaa_obiachi,mojakta"	Yaqui
-p	p	147	U+0070	"lipti,nakapit,sapateo"	Yaqui
-r	r	272	U+0072	"bawero’aktim,juraroawame,tribunaal"	Yaqui
-s	s	179	U+0073	"bwe’u_wokpusiam,emo_su’utoja,keesum"	Yaqui
-t	t	427	U+0074	"jinte,po’okte,pu’akta"	Yaqui
-u	u	450	U+0075	"intuchia,kuchi’im,pueta"	Yaqui
-w	w	115	U+0077	"jitasa_teuwa,wawaira,yanti_jote’ewame"	Yaqui
-y	j	69	U+0079	"ayam,kapyeo,maayam_boosa"	Yaqui
-’	ʔ	369	U+2019	"cho’oko,pu’atom_babaksiawa’apo,tu’uli_nokame"	Yaqui
-^a	a	73	U+005E U+0061	"amau_weyeme,animaal,apa"	Yaqui
-^b	b	164	U+005E U+0062	"baawe,bajisia,beinte"	Yaqui
-^d	d	3	U+005E U+0064	"dies,dose,dudaroa"	Yaqui
-^e	e	43	U+005E U+0065	"elesikia,eme’e,e’eria"	Yaqui
-^g	g	1	U+005E U+0067	"geer"	Yaqui
-^i	i	27	U+005E U+0069	"ilitchi_reemom,intuchia,inyeksionim"	Yaqui
-^j	j	190	U+005E U+006A	"jiabijte(i),ji’ibweje,joiwai"	Yaqui
-^k	k	202	U+005E U+006B	"koreo,ko’elai,kutana_bajila"	Yaqui
-^l	l	43	U+005E U+006C	"laata,lauti,lautia"	Yaqui
-^m	m	95	U+005E U+006D	"maa’a,mukia,mukila"	Yaqui
-^n	n	63	U+005E U+006E	"nakapit,na’aka,nojim"	Yaqui
-^o	o	32	U+005E U+006F	"oko_taaka,onse,orniaroa"	Yaqui
-^p	p	87	U+005E U+0070	"pantaroonim,pusse’ebem,pu’atom_babaksiawa’apo"	Yaqui
-^r	r	33	U+005E U+0072	"remaroa,reuwa,ronse"	Yaqui
-^s	s	110	U+005E U+0073	"seenu,senu_takaa,siiam"	Yaqui
-^t	t	166	U+005E U+0074	"tatabujte,te’ochia,traisionaroa"	Yaqui
-^u	u	9	U+005E U+0075	"usi_ju’ubwa_yo’otume,utte’ak,u’ute"	Yaqui
-^w	w	82	U+005E U+0077	"waata,wantem,wo’orim"	Yaqui
-^y	j	58	U+005E U+0079	"yaabem,yejte,yumjoe"	Yaqui
-a$	a	619	U+0061 U+0024	"chijakta,jororo’oti_jiia,kuchichi’iti_nooka"	Yaqui
-aa	aː	146	U+0061 U+0061	"baaso,baawe,kaa_obiachi"	Yaqui
-bb	b b	1	U+0062 U+0062	"ubba"	Yaqui
-bw	bʷ	23	U+0062 U+0077	"ase’ebwa,naka_bwita,yeu_bwijri"	Yaqui
-ch	tʃ	128	U+0063 U+0068	"katchan,kucha’ara,kuchi’isoa"	Yaqui
-e$	e	264	U+0065 U+0024	"ji’ibweje,tejale,wike"	Yaqui
-ee	eː	73	U+0065 U+0065	"abeena,beelam,limeete"	Yaqui
-i$	i	210	U+0069 U+0024	"kaa_momoi,miisi,se’eboi"	Yaqui
-ii	iː	55	U+0069 U+0069	"leriito,miisi,tiikom"	Yaqui
-jw	j w	5	U+006A U+0077	"tejwa,tetejwa"	Yaqui
-k$	k	21	U+006B U+0024	"chichek,tu’i_suertek,utte’ak"	Yaqui
-kk	k k	12	U+006B U+006B	"jikku’ubwame,kaa_mekka,kaa_tua_mekka_ko’omi"	Yaqui
-ks	k s	6	U+006B U+0073	"baksia,eleksion,pu’atom_babaksiawa’apo"	Yaqui
-kw	k w	4	U+006B U+0077	"chikwatte,mukwame,takwaachi"	Yaqui
-l$	l	11	U+006C U+0024	"chichijal,picheel,tribunaal"	Yaqui
-ll	l l	1	U+006C U+006C	"allea"	Yaqui
-ls	l s	3	U+006C U+0073	"bolsiom,kalsetiinim,pulseera"	Yaqui
-lw	l w	1	U+006C U+0077	"jinilwachi"	Yaqui
-m$	m	176	U+006D U+0024	"kolmeenam,liprom,saaweam"	Yaqui
-mm	m m	3	U+006D U+006D	"mammatte,tonommea_japte,tonommea_kikte"	Yaqui
-ms	m s	2	U+006D U+0073	"bamse,kumsakam"	Yaqui
-mw	m w	2	U+006D U+0077	"ba’akomwechia,ta’ata_aman_komwechebetana"	Yaqui
-n$	n	15	U+006E U+0024	"abion,eleksion,sien"	Yaqui
-nn	n n	1	U+006E U+006E	"tenne"	Yaqui
-ns	n s	11	U+006E U+0073	"insekto,lansam,ronse"	Yaqui
-nw	n w	3	U+006E U+0077	"ama_yeyenwame,binwatu,joronwom"	Yaqui
-o$	o	165	U+006F U+0024	"biino,ejpeeko,koato"	Yaqui
-oo	oː	70	U+006F U+006F	"boote,kuchichi’iti_nooka,wikiata_jooa"	Yaqui
-pp	p p	10	U+0070 U+0070	"jippue,puepplo,tappla"	Yaqui
-ps	p s	5	U+0070 U+0073	"jiapsa,jiapsi,kaba_jiapsi"	Yaqui
-pw	p w	1	U+0070 U+0077	"jujupwame"	Yaqui
-r$	r	9	U+0072 U+0024	"altaar,lotor,teneror"	Yaqui
-rw	r w	1	U+0072 U+0077	"sorwo"	Yaqui
-s$	s	26	U+0073 U+0024	"aokos,kawis,los"	Yaqui
-ss	s s	6	U+0073 U+0073	"bwassuma,nassa’akaria,pusse’ebem"	Yaqui
-t$	t	19	U+0074 U+0024	"baakot,ili_jamut,nakapit"	Yaqui
-tt	t t	26	U+0074 U+0074	"kaa_utte’ak,kitta,totta"	Yaqui
-tw	t w	6	U+0074 U+0077	"jibwitwojo’oria,ketwi_bwa’ame,ketwo"	Yaqui
-u$	u	56	U+0075 U+0024	"ansu,kuchu,siiku"	Yaqui
-uu	uː	39	U+0075 U+0075	"buuru,kuuta,suumeiya"	Yaqui
-yy	jː	1	U+0079 U+0079	"koyyoi"	Yaqui
-^aa	aː	9	U+005E U+0061 U+0061	"aapo,aawam,aawe"	Yaqui
-^bw	bʷ	48	U+005E U+0062 U+0077	"bwaawi,bwe’ituk,bwe’u_jo’ara"	Yaqui
-^ch	tʃ	54	U+005E U+0063 U+0068	"chomko’okoa,chukula_katriam,chumkuria"	Yaqui
-^ee	eː	6	U+005E U+0065 U+0065	"eecha,eeje,eeri"	Yaqui
-^oo	oː	5	U+005E U+006F U+006F	"oona,ooro,oosam"	Yaqui
-^uu	uː	7	U+005E U+0075 U+0075	"uuba,uusi,uusi_beeme"	Yaqui
-aa$	aː	18	U+0061 U+0061 U+0024	"jimaa,kaa,ramaa"	Yaqui
-ee$	eː	1	U+0065 U+0065 U+0024	"kapee"	Yaqui
-ii$	iː	1	U+0069 U+0069 U+0024	"jitebii"	Yaqui
-oo$	oː	2	U+006F U+006F U+0024	"bichoo,too"	Yaqui
+Grapheme	IPA	SCA	LANGUAGES	FREQUENCY	EXAMPLES	CODEPOINTS
+^	NULL			4	-ko;-chi;-po;-po	U+005E
+$	NULL			1	jiabijte(i)	U+0024
+(	NULL			1	jiabijte(i)	U+0028
+)	NULL			1	jiabijte(i)	U+0029
+^o$	o	U	Yaqui	1	o	U+005E U+006F U+0024
+a	a	A	Yaqui	1020	kawi;pa’aria;pa’aria;pa’ala_bwia;pa’ala_bwia	U+0061
+^a	a	A	Yaqui	73	ania;achai;ae;asoa;ako	U+005E U+0061
+a$	a	A	Yaqui	619	ania;bwia;bwia;toochia;techoa	U+0061 U+0024
+aa	aː	A	Yaqui	146	baawe;bwe’u_baawe;taa’a;yuku_jimaari;yuku_jimaari	U+0061 U+0061
+^aa	aː	A	Yaqui	9	aapo;aawam;aache;aache;aawe	U+005E U+0061 U+0061
+aa$	aː	A	Yaqui	18	kabaa;kabaa;takaa;kobananaa;kutanaa	U+0061 U+0061 U+0024
+e	e	E	Yaqui	473	techoa;kontinente;bawe_mayoa;bwe’u_baawe;tetmajau	U+0065
+^e	e	E	Yaqui	43	empo;eme’e;elepante;ete;emo_yooa	U+005E U+0065
+e$	e	E	Yaqui	264	see’e;kontinente;baawe;ba’amojakte;bwe’u_baawe	U+0065 U+0024
+ee	eː	E	Yaqui	73	see’e;teeso;ba’ajeelo;teeka;meecha	U+0065 U+0065
+^ee	eː	E	Yaqui	6	eeye;eecha;eecha;eecha;eeje	U+005E U+0065 U+0065
+ee$	eː	E	Yaqui	1	kapee	U+0065 U+0065 U+0024
+’	ʔ	H	Yaqui	369	see’e;pa’aria;pa’ala_bwia;chopo’oria;ba’am	U+2019
+i	i	I	Yaqui	686	ania;bwia;bwia;toochia;pa’aria	U+0069
+^i	i	I	Yaqui	27	ili_jamut;ili_uusi;inepo;itepo;itepo	U+005E U+0069
+i$	i	I	Yaqui	210	kawi;kopalai;choki;yuku_jimaari;yuku_jimaari	U+0069 U+0024
+ii	iː	I	Yaqui	55	siiba;siijo’ote;wiikit;miisi;ojbo_wii’i	U+0069 U+0069
+ii$	iː	I	Yaqui	1	jitebii	U+0069 U+0069 U+0024
+j	j	J	Yaqui	189	ba’amojakte;tetmajau;bawe_jikat_bo’oka;ba’ajeelo;yuku_jimaari	U+006A
+y	j	J	Yaqui	69	bawe_mayoa;juya;bwia_emo_yoa;taya;taya	U+0079
+^j	j	J	Yaqui	190	jakia;juya;jekka;jeeka;jeeka	U+005E U+006A
+^y	j	J	Yaqui	58	yuku_be’oktia;yuku_jimaari;yuku_jimaari;yuku_jeka;yuku	U+005E U+0079
+yy	jː	J	Yaqui	1	koyyoi	U+0079 U+0079
+k	k	K	Yaqui	376	ba’amojakte;bawero’aktim;bawero’aktim;bawe_jikat_bo’oka;bawe_jikat_bo’oka	U+006B
+^g	g	K	Yaqui	1	geer	U+005E U+0067
+^k	k	K	Yaqui	202	kawi;kontinente;kopalai;kuta;kurues	U+005E U+006B
+k$	k	K	Yaqui	21	sochik;mochik;chichek;tomtek;utte’ak	U+006B U+0024
+l	l	L	Yaqui	164	pa’ala_bwia;kopalai;wolpo;ba’ajeelo;ili_jamut	U+006C
+^l	l	L	Yaqui	43	leepe;lotor;lottila;lipti;luula_katek_bwa’ame	U+005E U+006C
+l$	l	L	Yaqui	11	animaal;maachil;picheel;albanyil;majtil	U+006C U+0024
+m	m	M	Yaqui	282	bawe_mayoa;ba’amojakte;somo’ichia;tetmajau;sumia	U+006D
+^m	m	M	Yaqui	95	meecha;maatum;maala;mo’one;mo’one	U+005E U+006D
+m$	m	M	Yaqui	176	ba’am;bawero’aktim;bawero’aktim;sapam;sapam	U+006D U+0024
+n	n	N	Yaqui	245	ania;kontinente;kontinente;kontinente;punta	U+006E
+^n	n	N	Yaqui	63	naamu;naposa;ne’esa;ne’esa;natchi’ika	U+005E U+006E
+n$	n	N	Yaqui	15	relpin;kaayojan;booton;tiimon;sien	U+006E U+0024
+b	b	P	Yaqui	176	siiba;bwe’u_baawe;bauba’a;bauba’a;bawe_jikat_bo’oka	U+0062
+p	p	P	Yaqui	147	chopo’oria;kopalai;wolpo;sapam;sapam	U+0070
+^b	b	P	Yaqui	164	bawe_mayoa;ba’am;baawe;ba’amojakte;bauba’a	U+005E U+0062
+^p	p	P	Yaqui	87	pa’aria;pa’ala_bwia;punta;pooso;pojporo	U+005E U+0070
+bw	bʷ	P	Yaqui	23	pa’ala_bwia;usi_ju’ubwa_yo’otume;usi_ju’ubwa_yo’otume;ase’ebwa;naka_bwita	U+0062 U+0077
+^bw	bʷ	P	Yaqui	48	bwia;bwia;bwe’u_baawe;bwia_emo_yoa;bwichia	U+005E U+0062 U+0077
+r	r	R	Yaqui	272	pa’aria;chopo’oria;bawero’aktim;bawero’aktim;ba’a_emo_kuria	U+0072
+^r	r	R	Yaqui	33	relpin;rancho;raaya;robonim;reepam	U+005E U+0072
+r$	r	R	Yaqui	9	lotor;teneror;alpiler;ejkultoor;suur	U+0072 U+0024
+s	s	S	Yaqui	179	teeso;pooso;naposa;usi_ju’ubwa_yo’otume;usi_ju’ubwa_yo’otume	U+0073
+^s	s	S	Yaqui	110	see’e;siiba;somo’ichia;sumia;sene’eka	U+005E U+0073
+s$	s	S	Yaqui	26	kurues;boes;waakas;kawis;kuupis	U+0073 U+0024
+d	d	T	Yaqui	4	seeda;pundiaroa;dudaroa;kandao	U+0064
+t	t	T	Yaqui	427	kontinente;kontinente;ba’amojakte;tetmajau;punta	U+0074
+^d	d	T	Yaqui	3	dies;dose;dudaroa	U+005E U+0064
+^t	t	T	Yaqui	166	toochia;techoa;teeso;tetmajau;teta	U+005E U+0074
+ch	tʃ	T	Yaqui	128	toochia;techoa;somo’ichia;ba’akomwechia;meecha	U+0063 U+0068
+t$	t	T	Yaqui	19	jamut;jamut;ili_jamut;jamut;kowi_jamut	U+0074 U+0024
+^ch	tʃ	T	Yaqui	54	chopo’oria;choki;chi’ila;chi’ila;chukula_katriam	U+005E U+0063 U+0068
+o	o	U	Yaqui	611	techoa;chopo’oria;chopo’oria;chopo’oria;kontinente	U+006F
+^o	o	U	Yaqui	32	oubam;o’ou;o’ou;o’ou;obeso	U+005E U+006F
+o$	o	U	Yaqui	165	teeso;wolpo;pooso;ba’ajeelo;tiempo	U+006F U+0024
+oo	oː	U	Yaqui	70	toochia;pooso;toosa;kooni;woo’o	U+006F U+006F
+^oo	oː	U	Yaqui	5	ooso;oona;oosam;ooro;oora	U+005E U+006F U+006F
+oo$	oː	U	Yaqui	2	too;bichoo	U+006F U+006F U+0024
+w	w	W	Yaqui	115	kawi;bawe_mayoa;baawe;bwe’u_baawe;bawero’aktim	U+0077
+^w	w	W	Yaqui	82	wolpo;wai;wo’orim;waim_achai;waim_maala	U+005E U+0077
+u	u	Y	Yaqui	450	bwe’u_baawe;bauba’a;bauba’a;punta;sumia	U+0075
+^u	u	Y	Yaqui	9	usi_ju’ubwa_yo’otume;usi_ju’ubwa_yo’otume;uba;ubba;utte’ak	U+005E U+0075
+u$	u	Y	Yaqui	56	tetmajau;naamu;yuku;o’ou;o’ou	U+0075 U+0024
+uu	uː	Y	Yaqui	39	tuucha;ili_uusi;kuuna;juube;kuuna	U+0075 U+0075
+^uu	uː	Y	Yaqui	7	uusi_beeme;uusi;uusi;uuba;uusi_ju’ubwa_yo’otume	U+005E U+0075 U+0075
+-	+	_	Yaqui	4	-ko;-chi;-po;-po	U+002D
+_	_	_	Yaqui	213	pa’ala_bwia;bawe_mayoa;bwe’u_baawe;bawe_jikat_bo’oka;bawe_jikat_bo’oka	U+005F
+jw	j w	J W	Yaqui	5	tetejwa;tejwa;tetejwa;tejwa;tejwa	U+006A U+0077
+kk	k k	K K	Yaqui	12	jekka;wokkoi;mikko’im;kaa_mekka;mekka	U+006B U+006B
+ks	k s	K S	Yaqui	6	baksia;jaksa;inyeksionim;mamam_babaksiawa’apo;pu’atom_babaksiawa’apo	U+006B U+0073
+kw	k w	K W	Yaqui	4	takwaachi;tamtekwa;chikwatte;mukwame	U+006B U+0077
+ll	l l	L L	Yaqui	1	allea	U+006C U+006C
+ls	l s	L S	Yaqui	3	kalsetiinim;bolsiom;pulseera	U+006C U+0073
+lw	l w	L W	Yaqui	1	jinilwachi	U+006C U+0077
+mm	m m	M M	Yaqui	3	tonommea_kikte;tonommea_japte;mammatte	U+006D U+006D
+ms	m s	M S	Yaqui	2	kumsakam;bamse	U+006D U+0073
+mw	m w	M W	Yaqui	2	ba’akomwechia;ta’ata_aman_komwechebetana	U+006D U+0077
+nn	n n	N N	Yaqui	1	tenne	U+006E U+006E
+ns	n s	N S	Yaqui	11	kanso;insekto;ronse;onse;kinse	U+006E U+0073
+nw	n w	N W	Yaqui	3	joronwom;ama_yeyenwame;binwatu	U+006E U+0077
+bb	b b	P P	Yaqui	1	ubba	U+0062 U+0062
+pp	p p	P P	Yaqui	10	tappla;koppre;jippue;jippue;jippue	U+0070 U+0070
+ps	p s	P S	Yaqui	5	jiapsi;jiapsa;kaba_jiapsi;jiapsi;jiapsi	U+0070 U+0073
+pw	p w	P W	Yaqui	1	jujupwame	U+0070 U+0077
+rw	r w	R W	Yaqui	1	sorwo	U+0072 U+0077
+ss	s s	S S	Yaqui	6	pusse’ebem;bwassuma;nassa’akaria;bwassuma;nassuawame	U+0073 U+0073
+tt	t t	T T	Yaqui	26	chikwatte;utte’ak;kaa_utte’ak;jittoa;lottila	U+0074 U+0074
+tw	t w	T W	Yaqui	6	batwe;kutwaate;ketwo_bwa’ame;ketwi_bwa’ame;jibwitwojo’oria	U+0074 U+0077

@@ -1,218 +1,218 @@
-Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
-^	NULL	11	U+005E		
-$	NULL	247	U+0024		
-^a$	a	1	U+005E U+0061 U+0024	"a"	Kildin Saami
-^tāxx’t$	t ā/aː xʲː t	1	U+005E U+0074 U+0101 U+0078 U+0078 U+2019 U+0074 U+0024	"tāxx’t"	
-^jērrh’t-tāxx’t$	j ē/eː r̥ʲː t + t ā/aː xʲː t	1	U+005E U+006A U+0113 U+0072 U+0072 U+0068 U+2019 U+0074 U+002D U+0074 U+0101 U+0078 U+0078 U+2019 U+0074 U+0024	"jērrh’t-tāxx’t"	
--	+	126	U+002D	"lām’pes’-alka,tuarr-viešš,čōgk-rāss’"	Kildin Saami
-_	_	52	U+005F	"njāl’kes’_kartoške,oaʒe_sājjm,šūrr_nāvv’t"	Kildin Saami
-a	a	450	U+0061	"mann’,suaŋŋe,tadt"	Kildin Saami
-b	b	31	U+0062	"ruvv’t-kabp’er’,vɨborɨ,šoabpše"	Kildin Saami
-c	tʃ	16	U+0063	"kien’ces’,pūcke,īnces’-pierrk"	Kildin Saami
-d	d	87	U+0064	"kīdt,sūdtej,vōdte"	Kildin Saami
-e	e	616	U+0065	"tierrhpe,viešš’k,čieʒ’"	Kildin Saami
-f	f	8	U+0066	"pоаfčas,tiel’fonn,toafant"	Kildin Saami
-g	g	82	U+0067	"lōgke,mīgke,plūgk"	Kildin Saami
-h	h	80	U+0068	"oteral’nehk,pluht,vuejhtxuvve"	Kildin Saami
-i	i	198	U+0069	"kielselle,rieŋŋkmušš,svid’ét’el’stva"	Kildin Saami
-j	j	117	U+006A	"kēnjal,njаff’ke,tiejnčliŋk"	Kildin Saami
-k	k	184	U+006B	"kōšške,vūlkxe,šall’t-koahtess"	Kildin Saami
-l	l	100	U+006C	"mealkas,sārnem-loann’t,ājkalt"	Kildin Saami
-m	m	86	U+006D	"av’tmuss,bambúk,mīdt-jugkmušš"	Kildin Saami
-n	n	118	U+006E	"lɨgkne,pl’eménihk,vūntas"	Kildin Saami
-o	o	173	U+006F	"joaff,stienn-koahtess,voajxe"	Kildin Saami
-p	p	77	U+0070	"nɨmm’poark,čōgk-pierec,ēxxtemploagk’"	Kildin Saami
-r	r	85	U+0072	"korbenč,pierec,pravá"	Kildin Saami
-s	s	45	U+0073	"jāvv_siem_tahkem_pērrht,kɨrr’tej-sāhpliŋk,vūsoarrk"	Kildin Saami
-t	t	209	U+0074	"nījta,svid’ét’el’stva,vōdte"	Kildin Saami
-u	u	273	U+0075	"lōhk-čuevvt,mudta,suegk’"	Kildin Saami
-v	v	86	U+0076	"nūra_vuerr’pen’,tuarr-viešš,vuajva"	Kildin Saami
-x	x	45	U+0078	"lievxe,nаl’xuvvе,vūlkxe"	Kildin Saami
-z	z	17	U+007A	"koaza-alka,kukurúza,nɨzan-"	Kildin Saami
-á	á/a	7	U+00E1	"kal’endár’,plasmás,savánna"	Kildin Saami
-â	â/a	1	U+00E2	"ellân"	Kildin Saami
-é	é/e	11	U+00E9	"batar’éja,gaz’ét,v’elasip’éd"	Kildin Saami
-í	í/i	8	U+00ED	"krokadíl,pravít’el’stva,tiel’evízor"	Kildin Saami
-ó	ó/o	5	U+00F3	"jenót,katóre,maniók"	Kildin Saami
-ú	ú/u	4	U+00FA	"avtobúss,bambúk,lagúna"	Kildin Saami
-ā	ā/aː	171	U+0101	"pāz’xе,rānn,tāgke"	Kildin Saami
-č	tʃ	36	U+010D	"man’em’-čall’m,tivvt_čāʒ’,īvvče"	Kildin Saami
-ē	ē/eː	98	U+0113	"jērrk,pērrht,šērrh"	Kildin Saami
-ī	ī/iː	85	U+012B	"oar’es’-līx’em’,pīdte,vīrše"	Kildin Saami
-ŋ	ŋ	8	U+014B	"keŋgurú,sāhpliŋk,āhkliŋk"	Kildin Saami
-ō	ō/oː	53	U+014D	"nōm’er,sōnn,tōllkassk"	Kildin Saami
-š	ʃ	28	U+0161	"bašn’a,kūll’-šɨllej,njāl’kes’_kartoške"	Kildin Saami
-ū	ū/uː	171	U+016B	"kūjes’,pēss’-mūrr,pūcke"	Kildin Saami
-ž	ʒ	2	U+017E	"kuedt’-žɨva,moažant"	Kildin Saami
-ǯ	dʒ	7	U+01EF	"kɨǯem’,paǯe,āǯ-piell’"	Kildin Saami
-ɨ	ɨ	110	U+0268	"kɨrr’te,motɨga,vɨjjte"	Kildin Saami
-ʒ	dz	4	U+0292	"koaʒe,moaʒte,oaʒe_sājjm"	Kildin Saami
-а	a	12	U+0430	"nаl’xuvvе,pl’аssje,pāljаs"	
-е	e	14	U+0435	"kɨšškе,nаl’xuvvе,vuеll’k-taхх’t"	
-о	o	1	U+043E	"pоаfčas"	Kildin Saami
-ё	ɤ	1	U+0451	"kijje_mill’te_ёadte"	Kildin Saami
-^=	+	1	U+005E U+003D	"=še"	Kildin Saami
-^a	a	32	U+005E U+0061	"al’ex,al’n,asskte"	Kildin Saami
-^b	b	10	U+005E U+0062	"batát,baŋŋk,blagasluvve"	Kildin Saami
-^c	tʃ	23	U+005E U+0063	"ciennrājjk,cuegk’,cɨrmšuvve"	Kildin Saami
-^d	d	2	U+005E U+0064	"dača,dvīgat’el’"	Kildin Saami
-^f	f	3	U+005E U+0066	"fassel’,fīga"	Kildin Saami
-^g	g	3	U+005E U+0067	"gaz’ét,grabl’a,guejke"	Kildin Saami
-^i	i	4	U+005E U+0069	"imm’el’-sānn’,innjes’,instrum’ént"	Kildin Saami
-^j	j	73	U+005E U+006A	"jēgk’,jēnn’,jūdt’"	Kildin Saami
-^k	k	233	U+005E U+006B	"kijje_mill’te_ёadte,kāssv,kūdc"	Kildin Saami
-^l	l	79	U+005E U+006C	"lehke,liejjp,loaddv"	Kildin Saami
-^m	m	95	U+005E U+006D	"mier’es’,māk’semuž,mōǯes’"	Kildin Saami
-^n	n	88	U+005E U+006E	"njāll’k,njāl’kes’,nēmmp"	Kildin Saami
-^o	o	31	U+005E U+006F	"oann’e,oar’es’,oteral’nehk"	Kildin Saami
-^p	p	174	U+005E U+0070	"pal’tes’,pridtehk,pāll"	Kildin Saami
-^r	r	59	U+005E U+0072	"ruxxk,rātt’ke,rūmm’p"	Kildin Saami
-^s	s	115	U+005E U+0073	"soajjv,sārr’t,sūdtej"	Kildin Saami
-^t	t	81	U+005E U+0074	"tiejnčliŋk,tievvt,toajjv"	Kildin Saami
-^u	u	9	U+005E U+0075	"ull,urr’t,usse"	Kildin Saami
-^v	v	165	U+005E U+0076	"vuerr’pen’_ja_vīlj,vārr’,vɨnnht"	Kildin Saami
-^x	x	2	U+005E U+0078	"xam’el’ón,xozjen’"	Kildin Saami
-^z	z	7	U+005E U+007A	"zavodt,zierkal,zubr"	Kildin Saami
-^ā	ā/aː	18	U+005E U+0101	"ābb’r,ānne,ārr’p"	Kildin Saami
-^č	tʃ	70	U+005E U+010D	"čoafen,čuvv’es’,čābar"	Kildin Saami
-^ē	ē/eː	11	U+005E U+0113	"ēd,ēllm,ēllne"	Kildin Saami
-^ī	ī/iː	7	U+005E U+012B	"īnn,īvvče,īŋŋk"	Kildin Saami
-^ō	ō/oː	5	U+005E U+014D	"ōdt,ōss’el,ōxxte"	Kildin Saami
-^š	ʃ	33	U+005E U+0161	"šentnegk,šienn’,šoajval"	Kildin Saami
-^ū	ū/uː	1	U+005E U+016B	"ūdles’"	Kildin Saami
-^ž	ʒ	3	U+005E U+017E	"žoarr,žɨva"	Kildin Saami
-^ɨ	ɨ	10	U+005E U+0268	"ɨgk’-pāll’,ɨvv’n,ɨššte"	Kildin Saami
-a$	a	90	U+0061 U+0024	"grabl’a,oar’es’-koaza,šūvv_olma"	Kildin Saami
-b$	b	2	U+0062 U+0024	"koab,kōrreb"	Kildin Saami
-b’	bʲ	5	U+0062 U+2019	"ab’ezjána,jēb’eš’-alkа,niŋŋless_jēb’eš’"	
-c$	tʃ	16	U+0063 U+0024	"cɨpp’c,piehc,pierec"	Kildin Saami
-cc	tsː	7	U+0063 U+0063	"kēccke,piecck,čuacckte"	Kildin Saami
-c’	tʃʲ	8	U+0063 U+2019	"kahc’e,miehc’,vuehc’"	
-d$	d	8	U+0064 U+0024	"pojezd,riad,ēd"	Kildin Saami
-dd	dː	1	U+0064 U+0064	"loaddv"	Kildin Saami
-d’	dʲ	5	U+0064 U+2019	"maŋŋ’ed’,svid’ét’el’stva,sūvv’ed’"	
-e$	e	363	U+0065 U+0024	"kielselle,sugke,vevtne"	Kildin Saami
-ff	fː	4	U+0066 U+0066	"cɨffra,puffs,vūffp"	Kildin Saami
-fs	f s	1	U+0066 U+0073	"voafsxess"	Kildin Saami
-f’	fʲ	2	U+0066 U+2019	"nief’t,saf’kse"	
-g$	g	3	U+0067 U+0024	"bumeraŋg,tuarrem-vīg,šig"	Kildin Saami
-g’	gʲ	3	U+0067 U+2019	"cueg’es’,mieg’er’,pueg’en’"	
-j$	j	38	U+006A U+0024	"piellj,sūjjn-njuččkej,ōhpnuvvej"	Kildin Saami
-jj	jː	90	U+006A U+006A	"mājjt,nījjt,sūjjn"	Kildin Saami
-k$	k	126	U+006B U+0024	"kōttk,lōhk,tollhk"	Kildin Saami
-kk	kː	7	U+006B U+006B	"oakkše,okkne,piekkarak"	Kildin Saami
-ks	k s	1	U+006B U+0073	"saf’kse"	Kildin Saami
-k’	kʲ	44	U+006B U+2019	"jēgk’,suegk’,šagk’"	
-l$	l	21	U+006C U+0024	"kēnjal,vuejjv-nīvv’l,šoajval"	Kildin Saami
-ll	lː	77	U+006C U+006C	"lolle,piellj,vīllke"	Kildin Saami
-ls	l s	2	U+006C U+0073	"kielselle,kielsellemušš"	Kildin Saami
-l’	lʲ	52	U+006C U+2019	"kūnn’te_kar’nel’_vul’n,oteral’nehk,xam’el’ón"	
-m$	m	35	U+006D U+0024	"kāll’m,kūim,man’em’-čall’m"	Kildin Saami
-mm	mː	11	U+006D U+006D	"nēmmp,rūmmt,tommte"	Kildin Saami
-m’	mʲ	25	U+006D U+2019	"kam’enš’ik,lām’pes’,mašɨna_nōm’er"	
-n$	n	36	U+006E U+0024	"pārr’n,soan,vul’n"	Kildin Saami
-nn	nː	50	U+006E U+006E	"muejjnennte,mēnn-vier’t,šannt"	Kildin Saami
-ns	n s	3	U+006E U+0073	"instrum’ént,lājnse,moajnse"	Kildin Saami
-n’	nʲ	32	U+006E U+2019	"jēmm’n’e-pušštnehk’,man’em’-čall’m,vuerr’pen’"	
-o$	o	3	U+006F U+0024	"pončo,rādio,što"	Kildin Saami
-p$	p	31	U+0070 U+0024	"jūll’k-ciehp,kājjp,kēbp"	Kildin Saami
-pp	pː	5	U+0070 U+0070	"kōppče,rūppse,sōppt"	Kildin Saami
-ps	p s	1	U+0070 U+0073	"lūpste"	Kildin Saami
-p’	pʲ	21	U+0070 U+2019	"kabp’er’,nābp’,ruvv’t-kabp’er’"	
-r$	r	24	U+0072 U+0024	"mašɨna_nōm’er,mōtor,veаl-vuer"	Kildin Saami
-rh	r̥	4	U+0072 U+0068	"jorhte,jorhtte,kɨrhte"	Kildin Saami
-rr	rː	72	U+0072 U+0072	"kōrre,njoarrk,ārrv"	Kildin Saami
-rs	r s	3	U+0072 U+0073	"korse,puarsa_vuerr’pen’,puarsa_vīllj"	Kildin Saami
-r’	rʲ	33	U+0072 U+2019	"kier’es’,mugka-vier’t,nager’"	
-s$	s	51	U+0073 U+0024	"palves,porjas,ukks"	Kildin Saami
-ss	sː	40	U+0073 U+0073	"lēsst,maŋŋa_piejjvkessk,oasske"	Kildin Saami
-s’	sʲ	70	U+0073 U+2019	"lōss’es’,roamm’es’,vuen’tes’"	
-t$	t	120	U+0074 U+0024	"all’t,jērrh’t,kōxxt"	Kildin Saami
-ts	ts	1	U+0074 U+0073	"kūdtselle"	Kildin Saami
-tt	tː	8	U+0074 U+0074	"jorhtte,jorhttelle,piettex"	Kildin Saami
-t’	tʲ	30	U+0074 U+2019	"sviet’el,vuajjlaht’e,čūdt’"	
-v$	v	33	U+0076 U+0024	"sērrv,vuejjv,čujjv"	Kildin Saami
-vv	vː	41	U+0076 U+0076	"lōhk-čuevvt,pīvvse,pūŋŋluvve"	Kildin Saami
-v’	vʲ	6	U+0076 U+2019	"atv’értka,av’tmuss,siev’njes’"	
-x$	x	8	U+0078 U+0024	"mācex,soaltex,čāpex"	Kildin Saami
-xx	xː	17	U+0078 U+0078	"jexxta,vɨxxčte,čēxxč"	Kildin Saami
-x’	xʲ	8	U+0078 U+2019	"līx’em’-pɨnnej,noso-rɨbp’ex’,rɨbp’ex’"	
-z$	z	5	U+007A U+0024	"poaz,puaz,sɨz"	Kildin Saami
-z’	zʲ	7	U+007A U+2019	"kuajjve_čāz’,rāz’-aka,vūz’xuvve"	
-á$	á/a	2	U+00E1 U+0024	"m’eds’estrá,pravá"	Kildin Saami
-ú$	ú/u	1	U+00FA U+0024	"keŋgurú"	Kildin Saami
-āh	ā/aː h	15	U+0101 U+0068	"māhc’e,nāhp’,sāhp’e-koarrej"	Kildin Saami
-č$	tʃ	13	U+010D U+0024	"jēk’nenč,pārnenč,čēxxč"	Kildin Saami
-čč	tʃː	7	U+010D U+010D	"njuččke,pɨččke,ruččkes’_pāll"	Kildin Saami
-ē$	ē/eː	1	U+0113 U+0024	"kē"	Kildin Saami
-ēh	ē/eː h	3	U+0113 U+0068	"jēhk,kēhče,šlēhkle"	Kildin Saami
-ī$	ī/iː	1	U+012B U+0024	"mī"	Kildin Saami
-īh	ī/iː h	2	U+012B U+0068	"kīhče,mīhk’"	Kildin Saami
-ŋŋ	ŋː	20	U+014B U+014B	"maŋŋa_piejjvkessk,pūŋŋluvve,čoaŋŋe"	Kildin Saami
-ŋ’	ŋʲ	2	U+014B U+2019	"maŋ’el’t,sieŋ’kes’"	
-ōh	ō/oː h	5	U+014D U+0068	"lōhk,lōhk-čuevvt,čōhke"	Kildin Saami
-š$	ʃ	14	U+0161 U+0024	"jevneš,koalleš,čūrrh’š"	Kildin Saami
-šš	ʃː	12	U+0161 U+0161	"jēmm’n’e-pušštnehk’,kuašške,kɨšškе"	Kildin Saami
-š’	ʃʲ	9	U+0161 U+2019	"jēbaš’,oar’es’-jēb’eš’,pueš’en’"	
-ž$	ʒ	1	U+017E U+0024	"māk’semuž"	Kildin Saami
-ž’	ʒ’	3	U+017E U+2019	"až’xem-jēn’xem,mier’ež’,viež’ar"	
-ǯ$	dʒ	3	U+01EF U+0024	"aǯ,kieǯ"	Kildin Saami
-ɨ$	ɨ	2	U+0268 U+0024	"vilɨ,vɨborɨ"	Kildin Saami
-ɨ̄	ɨ̄	1	U+0268 U+0304	"pɨ̄nnej"	Kildin Saami
-ʒ$	dz	1	U+0292 U+0024	"cɨʒ"	Kildin Saami
-ʒ’	dzʲ	10	U+0292 U+2019	"aʒ’,čāʒ’-koplеgk,čāʒ’-loann’t"	
-^m’	mʲ	1	U+005E U+006D U+2019	"m’eds’estrá"	
-^r’	rʲ	1	U+005E U+0072 U+2019	"r’elígija"	
-^v’	vʲ	1	U+005E U+0076 U+2019	"v’elasip’éd"	
-^āh	ā/aː h	5	U+005E U+0101 U+0068	"āhkev,āhkliŋk,āhk’"	Kildin Saami
-^ōh	ō/oː h	3	U+005E U+014D U+0068	"ōhpnuvve,ōhpnuvvej"	Kildin Saami
-^ōʒ	ō/oː dz	1	U+005E U+014D U+0292	"ōʒe"	Kildin Saami
-bb’	bʲː	1	U+0062 U+0062 U+2019	"ābb’r"	
-cc$	tʃː	1	U+0063 U+0063 U+0024	"kūcc"	Kildin Saami
-cc’	tʃʲː	2	U+0063 U+0063 U+2019	"kācc’ke,čacc’ke"	
-dd’	dʲː	2	U+0064 U+0064 U+2019	"kiedd’k,ladd’v"	
-ff$	fː	2	U+0066 U+0066 U+0024	"joaff,lieff"	Kildin Saami
-ff’	fʲː	2	U+0066 U+0066 U+2019	"lāff’k,njаff’ke"	
-fs$	f s	4	U+0066 U+0073 U+0024	"kuefs,piefs,sefs"	Kildin Saami
-jj$	jː	19	U+006A U+006A U+0024	"mɨjj,tujj,vūjj"	Kildin Saami
-jjh	j̥ː	9	U+006A U+006A U+0068	"kɨjjhm,pājjhk,vuejjhtemušš"	Kildin Saami
-kk’	kʲː	4	U+006B U+006B U+2019	"mākk’semvudt,sākk’s,vuekk’s"	
-lh’	l̥ʲ	1	U+006C U+0068 U+2019	"pɨlh’kej-čūššk"	
-ll$	lː	20	U+006C U+006C U+0024	"ruččkes’_pāll,tīr’m’es’-ŋull,ēll"	Kildin Saami
-llh	l̥ː	3	U+006C U+006C U+0068	"cullhk,kāllht,tollhk"	Kildin Saami
-ll’	lʲː	89	U+006C U+006C U+2019	"jēll’e,nījjt-piell’,vāll’te_vīgen’"	
-mm$	mː	5	U+006D U+006D U+0024	"nēmm,pomm,čūmm"	Kildin Saami
-mm’	mʲː	25	U+006D U+006D U+2019	"joamm’e,pɨjje_jēmm’nje,rūmm’p"	
-nn$	nː	30	U+006E U+006E U+0024	"rānn,soann,zakonn"	Kildin Saami
-nn'	nʲː	1	U+006E U+006E U+0027	"sɨnn'"	
-nnh	n̥ː	1	U+006E U+006E U+0068	"vɨnnht"	Kildin Saami
-nn’	nʲː	50	U+006E U+006E U+2019	"ann’te,mann’,pɨnn’e"	
-ns$	n s	1	U+006E U+0073 U+0024	"vens"	Kildin Saami
-pp$	pː	1	U+0070 U+0070 U+0024	"sipp"	Kildin Saami
-pp’	pʲː	10	U+0070 U+0070 U+2019	"cɨpp’c,kɨpp’tma,siepp’t"	
-ps$	p s	1	U+0070 U+0073 U+0024	"aps"	Kildin Saami
-rr$	rː	28	U+0072 U+0072 U+0024	"kurr,kērr,tuarr"	Kildin Saami
-rr’	rʲː	55	U+0072 U+0072 U+2019	"kuerr’te,puarsa_vuerr’pen’,vārr’"	
-ss$	sː	12	U+0073 U+0073 U+0024	"kiehp’ness,voafsxess,šall’t-koahtess"	Kildin Saami
-ss’	sʲː	18	U+0073 U+0073 U+2019	"jess’k,kiess’e,vuess’te"	
-tt’	tʲː	4	U+0074 U+0074 U+2019	"cuett’k,kūtt’k,lātt’k"	
-vv$	vː	8	U+0076 U+0076 U+0024	"jāvv,sūvv,čūvv"	Kildin Saami
-vv’	vʲː	30	U+0076 U+0076 U+2019	"avv’-sajj,cavv’ce,nīvv’l"	
-ós$	ó/o s	1	U+00F3 U+0073 U+0024	"kokós"	Kildin Saami
-ēʒ$	ē/eː dz	1	U+0113 U+0292 U+0024	"vēʒ"	Kildin Saami
-ŋŋ$	ŋː	3	U+014B U+014B U+0024	"pūŋŋ,īŋŋ,šēŋŋ"	Kildin Saami
-ŋŋ’	ŋʲː	8	U+014B U+014B U+2019	"tieŋŋ’k,toaŋŋ’k,vaŋŋ’k"	
-šš$	ʃː	17	U+0161 U+0161 U+0024	"kielsellemušš,mīdt-jugkmušš,tuarr-viešš"	Kildin Saami
-šš’	ʃʲː	16	U+0161 U+0161 U+2019	"mušš’te,ošš’tje,viešš’k"	
-хх’	xʲː	1	U+0445 U+0445 U+2019	"vuеll’k-taхх’t"	
-jjh’	j̥ʲː	1	U+006A U+006A U+0068 U+2019	"lūjjh’ke"	
-llh’	l̥ʲː	7	U+006C U+006C U+0068 U+2019	"ciellh’ke,kāllh’č,pāllh’kte"	
-nnh’	n̥ʲː	1	U+006E U+006E U+0068 U+2019	"riennh’k"	
-rrh$	r̥ː	1	U+0072 U+0072 U+0068 U+0024	"šērrh"	Kildin Saami
-rrh’	r̥ʲː	3	U+0072 U+0072 U+0068 U+2019	"jērrh’t,nurrh’t,čūrrh’š"	
-ss’$	sʲː	11	U+0073 U+0073 U+2019 U+0024	"nikuess’,njuess’,piess’"	
-āss$	ā/aː sː	2	U+0101 U+0073 U+0073 U+0024	"čāss"	Kildin Saami
-āss’	ā/aː s’ː	9	U+0101 U+0073 U+0073 U+2019	"pāss’,tāss’t,čōgk-rāss’"	Kildin Saami
-ēss$	ē/eː sː	1	U+0113 U+0073 U+0073 U+0024	"kēss"	Kildin Saami
-īss$	ī/iː sː	1	U+012B U+0073 U+0073 U+0024	"rīss"	Kildin Saami
-ōss$	ō/oː sː	1	U+014D U+0073 U+0073 U+0024	"kōss"	Kildin Saami
+Grapheme	IPA	SCA	LANGUAGES	FREQUENCY	EXAMPLES	CODEPOINTS
+^	NULL			11	ellân;ehkan;evtes;eftnalšem;ele	U+005E
+$	NULL			247	pāhk’;pueš’en’;vūmm’;liegk’;čāʒ’	U+0024
+^a$	a	A	Kildin Saami	1	a	U+005E U+0061 U+0024
+^tāxx’t$	t ā/aː xʲː t	T A G T		1	tāxx’t	U+005E U+0074 U+0101 U+0078 U+0078 U+2019 U+0074 U+0024
+^jērrh’t-tāxx’t$	j ē/eː r̥ʲː t + t ā/aː xʲː t	J E R T _ T A G T		1	jērrh’t-tāxx’t	U+005E U+006A U+0113 U+0072 U+0072 U+0068 U+2019 U+0074 U+002D U+0074 U+0101 U+0078 U+0078 U+2019 U+0074 U+0024
+a	a	A	Kildin Saami	450	ēllmannt;lavv’n;vūntas;poal’a;lagúna	U+0061
+á	á/a	A	Kildin Saami	7	ak’eán;kabán;ab’ezjána;batát;plasmás	U+00E1
+â	â/a	A	Kildin Saami	1	ellân	U+00E2
+ā	ā/aː	A	Kildin Saami	171	kānn’t;čāʒ’;jāvv’r;tivvt_čāʒ’;čāʒ’-čullm	U+0101
+а	a	A		12	jēb’eš’-alkа;miedаš;pāljаs;pērrht-ēll’а;njаmm	U+0430
+^a	a	A	Kildin Saami	32	ak’eán;aʒ’;all’m;aǯ;all’k	U+005E U+0061
+^ā	ā/aː	A	Kildin Saami	18	ābb’r;āka;āka;ājjev;āǯ-piell’	U+005E U+0101
+a$	a	A	Kildin Saami	90	poal’a;lagúna;spička;olma;oalmolma	U+0061 U+0024
+á$	á/a	A	Kildin Saami	2	m’eds’estrá;pravá	U+00E1 U+0024
+f	f	B	Kildin Saami	8	čoafen;sārfann;eftnalšem;toafant;pоаfčas	U+0066
+v	v	B	Kildin Saami	86	puarsa_vīllj;nūra_vīll’j;puarsa_vuerr’pen’;nūra_vuerr’pen’;vuerr’pen’_ja_vīlj	U+0076
+^f	f	B	Kildin Saami	3	fassel’;fīga;fīga	U+005E U+0066
+^v	v	B	Kildin Saami	165	vūntas;vūmm’;vueŋŋk;vūnn;vɨrr	U+005E U+0076
+ff	fː	B	Kildin Saami	4	vūffp;puffs;kōffke;cɨffra	U+0066 U+0066
+f’	fʲ	B		2	saf’kse;nief’t	U+0066 U+2019
+v$	v	B	Kildin Saami	33	kājjv;piejjv;āhkev;ājjev;veazvušk-tārr’v	U+0076 U+0024
+vv	vː	B	Kildin Saami	41	tivvt_čāʒ’;pēvvl;čivvras;cɨrmšuvve;pūvvl	U+0076 U+0076
+v’	vʲ	B		6	av’tmuss;siev’njes’;av’tmuss_olma;atv’értka;sav’ex’	U+0076 U+2019
+^v’	vʲ	B		1	v’elasip’éd	U+005E U+0076 U+2019
+ff$	fː	B	Kildin Saami	2	lieff;joaff	U+0066 U+0066 U+0024
+ff’	fʲː	B		2	njаff’ke;lāff’k	U+0066 U+0066 U+2019
+vv$	vː	B	Kildin Saami	8	čūvv;sūvv;vɨvv;vɨvv;lievv	U+0076 U+0076 U+0024
+vv’	vʲː	B		30	lavv’n;njivv’l;jāvv’r;sievv’n;kɨvv’n	U+0076 U+0076 U+2019
+ʒ	dz	C	Kildin Saami	4	oaʒe_sājjm;čūʒlemušš;moaʒte;koaʒe	U+0292
+ts	ts	C	Kildin Saami	1	kūdtselle	U+0074 U+0073
+ʒ$	dz	C	Kildin Saami	1	cɨʒ	U+0292 U+0024
+ʒ’	dzʲ	C		10	čāʒ’;cuegk’_ja_aʒ’;tivvt_čāʒ’;aʒ’;čāʒ’-čullm	U+0292 U+2019
+e	e	E	Kildin Saami	616	puenn;pueš’en’;pueš’en’;liegk’;liek’š	U+0065
+é	é/e	E	Kildin Saami	11	pl’eménihk;pl’eménihk;instrum’ént;batar’éja;priezid’ént	U+00E9
+ē	ē/eː	E	Kildin Saami	98	jēmm’n’e;šēŋŋ;nēmmp;jēmm’n’e-pušštnehk’;pēvvl	U+0113
+е	e	E		14	līx’еm’-alka;vuеll’k-taхх’t;čāʒ’-koplеgk;vēcckе;kuarrеj	U+0435
+ё	ɤ	E	Kildin Saami	1	kijje_mill’te_ёadte	U+0451
+^ē	ē/eː	E	Kildin Saami	11	ēllmannt;ēd;ēllne;ēlltne;ēvvtel’	U+005E U+0113
+e$	e	E	Kildin Saami	363	jēmm’n’e;čārrke;puell’te;pūll’e;puell’te	U+0065 U+0024
+ē$	ē/eː	E	Kildin Saami	1	kē	U+0113 U+0024
+x	x	G	Kildin Saami	45	až’xem-jēn’xem;až’xem-jēn’xem;njuxčem’;ruekxe;lexkle	U+0078
+^x	x	G	Kildin Saami	2	xozjen’;xam’el’ón	U+005E U+0078
+x$	x	G	Kildin Saami	8	piettex;čāpex;or’ex;mācex;tābex	U+0078 U+0024
+xx	xː	G	Kildin Saami	17	lūxxt;tōlnjūxxčem’;ruxxk;vɨxxčte;ēxxte	U+0078 U+0078
+x’	xʲ	G		8	rōd’x’el’;oar’es’-līx’em’;līx’em’;līx’еm’-alka;rɨbp’ex’	U+0078 U+2019
+хх’	xʲː	G		1	vuеll’k-taхх’t	U+0445 U+0445 U+2019
+h	h	H	Kildin Saami	80	jēmm’n’e-pušštnehk’;jūm’ehk;oahka;pl’eménihk;pl’eménihk	U+0068
+i	i	I	Kildin Saami	198	njivv’l;liegk’;liek’š;mierr;tivvt_čāʒ’	U+0069
+í	í/i	I	Kildin Saami	8	krokadíl;pravít’el’stva;r’elígija;tiel’evízor;el’ektríčeske	U+00ED
+ī	ī/iː	I	Kildin Saami	85	tīr’m’es’-ŋull;tīr’mes’;tīr’mes’-jūkks;pīŋŋk;cīgk	U+012B
+ɨ	ɨ	I	Kildin Saami	110	mɨrr;rɨnnt;vɨrr;kɨvv’n;mūrr-ɨll	U+0268
+^i	i	I	Kildin Saami	4	instrum’ént;innjes’;imm’el’-sānn’;imm’el’	U+005E U+0069
+^ī	ī/iː	I	Kildin Saami	7	īŋŋ;īnn;īnces’-pierrk;īnckenč;īŋŋk	U+005E U+012B
+^ɨ	ɨ	I	Kildin Saami	10	ɨlas;ɨll;ɨll’te;ɨšštne;ɨššte	U+005E U+0268
+ī$	ī/iː	I	Kildin Saami	1	mī	U+012B U+0024
+ɨ$	ɨ	I	Kildin Saami	2	vilɨ;vɨborɨ	U+0268 U+0024
+ɨ̄	ɨ̄	I	Kildin Saami	1	pɨ̄nnej	U+0268 U+0304
+j	j	J	Kildin Saami	117	njivv’l;njoarrk;cuegk’_ja_aʒ’;tīr’mes’-jūkks;vūjnas	U+006A
+^j	j	J	Kildin Saami	73	jēmm’n’e;jāvv’r;jōgk;jēmm’n’e-pušštnehk’;jērrk	U+005E U+006A
+j$	j	J	Kildin Saami	38	vīllj;puarsa_vīllj;nūra_vīll’j;vuerr’pen’_ja_vīlj;neapaj	U+006A U+0024
+jj	jː	J	Kildin Saami	90	kājjv;piejjv;nījjt;vɨjjte_kūjje;vɨjjte_kūjje	U+006A U+006A
+jj$	jː	J	Kildin Saami	19	kūjj;ajj;mɨjj;tɨjj;sɨjj	U+006A U+006A U+0024
+jjh	j̥ː	J	Kildin Saami	9	noajjhtma;pājjhk;kɨjjhm;kɨjjhte;peajjht	U+006A U+006A U+0068
+jjh’	j̥ʲː	J		1	lūjjh’ke	U+006A U+006A U+0068 U+2019
+g	g	K	Kildin Saami	82	liegk’;lagúna;cuegk’_ja_aʒ’;cuegk’;jōgk	U+0067
+k	k	K	Kildin Saami	184	čārrke;tōllkassk;čuacckte;spička;vɨjjte_kūjje	U+006B
+^g	g	K	Kildin Saami	3	grabl’a;guejke;gaz’ét	U+005E U+0067
+^k	k	K	Kildin Saami	233	kānn’t;kuellh’k;kuerrk;kājjv;kūššk	U+005E U+006B
+g$	g	K	Kildin Saami	3	šig;tuarrem-vīg;bumeraŋg	U+0067 U+0024
+g’	gʲ	K		3	mieg’er’;pueg’en’;cueg’es’	U+0067 U+2019
+k$	k	K	Kildin Saami	126	vueŋŋk;kuellh’k;kuerrk;njoarrk;jōgk	U+006B U+0024
+kk	kː	K	Kildin Saami	7	tīr’mes’-jūkks;piekkarak;ukks;oakkše;okkne	U+006B U+006B
+k’	kʲ	K		44	pāhk’;liegk’;liek’š;ak’eán;cuegk’_ja_aʒ’	U+006B U+2019
+kk’	kʲː	K		4	vukk’se;vuekk’s;sākk’s;mākk’semvudt	U+006B U+006B U+2019
+l	l	L	Kildin Saami	100	tōlnjūxxčem’;ɨlas;olma;oalmolma;oalmolma	U+006C
+^l	l	L	Kildin Saami	79	lavv’n;liegk’;liek’š;lūxxt;lagúna	U+005E U+006C
+l$	l	L	Kildin Saami	21	njivv’l;suel;pēvvl;ōss’el;krokadíl	U+006C U+0024
+ll	lː	L	Kildin Saami	77	ēllmannt;čāʒ’-čullm;tōllkassk;vīllj;puarsa_vīllj	U+006C U+006C
+l’	lʲ	L		52	poal’a;rōd’x’el’;pl’eménihk;pl’eménihk;njuemmel’	U+006C U+2019
+lh’	l̥ʲ	L		1	pɨlh’kej-čūššk	U+006C U+0068 U+2019
+ll$	lː	L	Kildin Saami	20	tīr’m’es’-ŋull;tōll;ɨll;mūrr-ɨll;tāll	U+006C U+006C U+0024
+llh	l̥ː	L	Kildin Saami	3	cullhk;kāllht;tollhk	U+006C U+006C U+0068
+ll’	lʲː	L		89	all’m;puell’te;pūll’e;puell’te;all’k	U+006C U+006C U+2019
+llh’	l̥ʲː	L		7	kuellh’k;kāllh’č;mullh’t;pāllh’kte;pāllh’k	U+006C U+006C U+0068 U+2019
+m	m	M	Kildin Saami	86	ēllmannt;tīr’mes’;tīr’mes’-jūkks;olma;oalmolma	U+006D
+^m	m	M	Kildin Saami	95	mɨrr;mōnter;mierr;mūrr;mānn	U+005E U+006D
+m$	m	M	Kildin Saami	35	čāʒ’-čullm;all’m;nāim;kūim;až’xem-jēn’xem	U+006D U+0024
+mm	mː	M	Kildin Saami	11	nēmmp;njuemmel’;kuemmer’;njumme;lammp	U+006D U+006D
+m’	mʲ	M		25	tīr’m’es’-ŋull;tōlnjūxxčem’;jūm’ehk;oar’es’-līx’em’;līx’em’	U+006D U+2019
+^m’	mʲ	M		1	m’eds’estrá	U+005E U+006D U+2019
+mm$	mː	M	Kildin Saami	5	čūmm;limm;njаmm;nēmm;pomm	U+006D U+006D U+0024
+mm’	mʲː	M		25	jēmm’n’e;vūmm’;lāmm’p;jēmm’n’e-pušštnehk’;skumm’p	U+006D U+006D U+2019
+n	n	N	Kildin Saami	118	vūntas;mōnter;lagúna;jēmm’n’e-pušštnehk’;vūjnas	U+006E
+ŋ	ŋ	N	Kildin Saami	8	tīr’m’es’-ŋull;kɨrr’tej-sāhpliŋk;sāhpliŋk;āhkliŋk;tiejnčliŋk	U+014B
+^n	n	N	Kildin Saami	88	njivv’l;njoarrk;nēmmp;nɨzan;nɨzan-	U+005E U+006E
+n$	n	N	Kildin Saami	36	lavv’n;ak’eán;sievv’n;kɨvv’n;nɨzan	U+006E U+0024
+nn	nː	N	Kildin Saami	50	ēllmannt;rɨnnt;mannj;pɨ̄nnej;pienne	U+006E U+006E
+n’	nʲ	N		32	jēmm’n’e;pueš’en’;jēmm’n’e-pušštnehk’;vuerr’pen’;puarsa_vuerr’pen’	U+006E U+2019
+ŋŋ	ŋː	N	Kildin Saami	20	vueŋŋk;pīŋŋk;niŋŋless;niŋŋless_jēb’eš’;pūŋŋluvve	U+014B U+014B
+ŋ’	ŋʲ	N		2	maŋ’el’t;sieŋ’kes’	U+014B U+2019
+nn$	nː	N	Kildin Saami	30	puenn;vūnn;mānn;kunn;īnn	U+006E U+006E U+0024
+nn'	nʲː	N		1	sɨnn'	U+006E U+006E U+0027
+nnh	n̥ː	N	Kildin Saami	1	vɨnnht	U+006E U+006E U+0068
+nn’	nʲː	N		50	kānn’t;jēnn’;vūnn’;vūnn’;jēnn’-piell’	U+006E U+006E U+2019
+ŋŋ$	ŋː	N	Kildin Saami	3	šēŋŋ;īŋŋ;pūŋŋ	U+014B U+014B U+0024
+ŋŋ’	ŋʲː	N		8	roaŋŋ’k;toaŋŋ’k;roaŋŋ’k;tieŋŋ’k;tieŋŋ’k	U+014B U+014B U+2019
+nnh’	n̥ʲː	N		1	riennh’k	U+006E U+006E U+0068 U+2019
+b	b	P	Kildin Saami	31	kabán;jēbaš’;čābar;vierbl’ud;vuejjv-kābp’	U+0062
+p	p	P	Kildin Saami	77	jēmm’n’e-pušštnehk’;spička;vuerr’pen’;puarsa_vuerr’pen’;nūra_vuerr’pen’	U+0070
+^b	b	P	Kildin Saami	10	banann;batát;bambúk;bārban;būb’en	U+005E U+0062
+^p	p	P	Kildin Saami	174	puenn;pāhk’;pueš’en’;poal’a;piejjv	U+005E U+0070
+b$	b	P	Kildin Saami	2	koab;kōrreb	U+0062 U+0024
+b’	bʲ	P		5	oar’es’-jēb’eš’;niŋŋless_jēb’eš’;jēb’eš’-alkа;ab’ezjána;būb’en	U+0062 U+2019
+p$	p	P	Kildin Saami	31	nēmmp;lāmm’p;vūffp;vūhp;skumm’p	U+0070 U+0024
+pp	pː	P	Kildin Saami	5	sōppt;vūppt;kōppče;rūppse;rāppče	U+0070 U+0070
+p’	pʲ	P		21	vuejjv-kābp’;lūbp’;kīdt-lābp’;nābp’;kiehp’ness	U+0070 U+2019
+bb’	bʲː	P		1	ābb’r	U+0062 U+0062 U+2019
+pp$	pː	P	Kildin Saami	1	sipp	U+0070 U+0070 U+0024
+pp’	pʲː	P		10	lapp’s;viepp’s;kɨpp’tma;cɨpp’c;lapp’se	U+0070 U+0070 U+2019
+r	r	R	Kildin Saami	85	pārnenč;pārnenč;nūra_vīll’j;nūra_vuerr’pen’;pīras	U+0072
+^r	r	R	Kildin Saami	59	rɨnnt;roattkje;rōd’x’el’;rōdt;rīmm’n	U+005E U+0072
+r$	r	R	Kildin Saami	24	mōnter;jāvv’r;ābb’r;mādter;čābar	U+0072 U+0024
+rh	r̥	R	Kildin Saami	4	jorhttelle;jorhtte;jorhte;kɨrhte	U+0072 U+0068
+rr	rː	R	Kildin Saami	72	kuerrk;njoarrk;čārrke;pōrrk;jērrk	U+0072 U+0072
+r’	rʲ	R		33	tīr’m’es’-ŋull;tīr’mes’;tīr’mes’-jūkks;oar’es’;oar’es’-līx’em’	U+0072 U+2019
+^r’	rʲ	R		1	r’elígija	U+005E U+0072 U+2019
+rr$	rː	R	Kildin Saami	28	mɨrr;mierr;vɨrr;mūrr;mūrr	U+0072 U+0072 U+0024
+rr’	rʲː	R		55	urr’t;vārr’;pārr’ša;pārr’n;vuerr’pen’	U+0072 U+0072 U+2019
+rrh$	r̥ː	R	Kildin Saami	1	šērrh	U+0072 U+0072 U+0068 U+0024
+rrh’	r̥ʲː	R		3	čūrrh’š;jērrh’t;nurrh’t	U+0072 U+0072 U+0068 U+2019
+s	s	S	Kildin Saami	45	kɨrr’tej-sāhpliŋk;jēnas-jūll’k;oaʒe_sājjm;vērr-sūnn;āmm’se	U+0073
+z	z	S	Kildin Saami	17	nɨzan;nɨzan-;koaza;oar’es’-koaza;koaza-alka	U+007A
+š	ʃ	S	Kildin Saami	28	pārr’ša;jēnn’-šagk’;veazvušk-tārr’v;veazvušk-piess’;cɨrmšuvve	U+0161
+ž	ʒ	S	Kildin Saami	2	kuedt’-žɨva;moažant	U+017E
+^s	s	S	Kildin Saami	115	suel;sōppt;sievv’n;sūvv;spička	U+005E U+0073
+^z	z	S	Kildin Saami	7	zeaht’;zeaht’;zierkal;zoabel’;zakonn	U+005E U+007A
+^š	ʃ	S	Kildin Saami	33	šēŋŋ;šūrr_nāvv’t;šagk’;šlēhkle;šoajval	U+005E U+0161
+^ž	ʒ	S	Kildin Saami	3	žɨva;žɨva;žoarr	U+005E U+017E
+s$	s	S	Kildin Saami	51	vūntas;tīr’mes’-jūkks;lapp’s;vūjnas;ɨlas	U+0073 U+0024
+ss	sː	S	Kildin Saami	40	tōllkassk;liessk;liessk-āhk’;liessk-kāll’es’;niŋŋless_jēb’eš’	U+0073 U+0073
+s’	sʲ	S		70	tīr’m’es’-ŋull;tīr’mes’;tīr’mes’-jūkks;kūjes’;kāll’es’	U+0073 U+2019
+z$	z	S	Kildin Saami	5	oaz;poaz;oaz;puaz;sɨz	U+007A U+0024
+z’	zʲ	S		7	sɨz’n;vūz’xe;vūz’xuvve;pāz’xе;rāz’-aka	U+007A U+2019
+š$	ʃ	S	Kildin Saami	14	liek’š;čūrrh’š;jevneš;miedаš;veazveš	U+0161 U+0024
+šš	ʃː	S	Kildin Saami	12	kūššk;jēmm’n’e-pušštnehk’;čūššk;pɨlh’kej-čūššk;kōšške	U+0161 U+0161
+š’	ʃʲ	S		9	pueš’en’;jēbaš’;oar’es’-jēb’eš’;niŋŋless_jēb’eš’;jēb’eš’-alkа	U+0161 U+2019
+ž$	ʒ	S	Kildin Saami	1	māk’semuž	U+017E U+0024
+ž’	ʒ’	S		3	až’xem-jēn’xem;viež’ar;mier’ež’	U+017E U+2019
+ss$	sː	S	Kildin Saami	12	niŋŋless;koass;kiehp’ness;kāssv-koahtess;kūss	U+0073 U+0073 U+0024
+ss’	sʲː	S		18	kuess’k;kuess’k;ōss’el;oass’te;pēss’-mūrr	U+0073 U+0073 U+2019
+šš$	ʃː	S	Kildin Saami	17	nɨšš;čūʒlemušš;līšš;pōrrmušš;jugkmušš	U+0161 U+0161 U+0024
+šš’	ʃʲː	S		16	nɨšš’k;kašš’ne;pāšš’ke;pāšš’te;šɨšš’en’	U+0161 U+0161 U+2019
+ss’$	sʲː	S		11	sīss’;piess’;veazvušk-piess’;koass’;pēss’	U+0073 U+0073 U+2019 U+0024
+c	tʃ	T	Kildin Saami	16	jūll’k-ciehp;pūcke;lɨhce;lɨhcej;īnces’-pierrk	U+0063
+d	d	T	Kildin Saami	87	mūdt;mādter;rōdt;kuedt’-žɨva;kuedt’-loann’t	U+0064
+t	t	T	Kildin Saami	209	vūntas;mōnter;tivvt_čāʒ’;jēmm’n’e-pušštnehk’;puell’te	U+0074
+č	tʃ	T	Kildin Saami	36	tivvt_čāʒ’;čāʒ’-čullm;tōlnjūxxčem’;spička;pɨlh’kej-čūššk	U+010D
+ǯ	dʒ	T	Kildin Saami	7	āǯ-piell’;paǯe;paǯe;vīǯe;vīǯe	U+01EF
+^c	tʃ	T	Kildin Saami	23	cuegk’_ja_aʒ’;cuegk’;cīgk;cuemp;cɨrmšuvve	U+005E U+0063
+^d	d	T	Kildin Saami	2	dača;dvīgat’el’	U+005E U+0064
+^t	t	T	Kildin Saami	81	tivvt_čāʒ’;tāss’t;tīr’m’es’-ŋull;tīr’mes’;tōllkassk	U+005E U+0074
+^č	tʃ	T	Kildin Saami	70	čāʒ’;čāʒ’-čullm;čārrke;čūvv;čuacckte	U+005E U+010D
+c$	tʃ	T	Kildin Saami	16	kēnnc;kēnnc;pōnnc;pūdc;kūdc	U+0063 U+0024
+cc	tsː	T	Kildin Saami	7	čuacckte;piecck;kēccke;njūcck;vēcckе	U+0063 U+0063
+c’	tʃʲ	T		8	kuec’kem’;vuehc’;uc’ne;māhc’e;kahc’e	U+0063 U+2019
+d$	d	T	Kildin Saami	8	vierbl’ud;ēd;sād;riad;nuejd	U+0064 U+0024
+dd	dː	T	Kildin Saami	1	loaddv	U+0064 U+0064
+d’	dʲ	T		5	rōd’x’el’;maŋŋ’ed’;sūvv’ed’;priezid’ént;svid’ét’el’stva	U+0064 U+2019
+t$	t	T	Kildin Saami	120	ēllmannt;urr’t;rɨnnt;kānn’t;sōppt	U+0074 U+0024
+tt	tː	T	Kildin Saami	8	roattkje;piettex;kōttk;šōttke;puattke	U+0074 U+0074
+t’	tʲ	T		30	zeaht’;zeaht’;kuedt’-žɨva;kuedt’-loann’t;rūdt’e-piell’	U+0074 U+2019
+č$	tʃ	T	Kildin Saami	13	pārnenč;pārnenč;kāllh’č;vuennč;ninnč	U+010D U+0024
+čč	tʃː	T	Kildin Saami	7	sūjjn-njuččkej;ruččkes’_pāll;njuččke;koččex;pɨččker	U+010D U+010D
+ǯ$	dʒ	T	Kildin Saami	3	aǯ;kieǯ;kieǯ	U+01EF U+0024
+cc$	tʃː	T	Kildin Saami	1	kūcc	U+0063 U+0063 U+0024
+cc’	tʃʲː	T		2	kācc’ke;čacc’ke	U+0063 U+0063 U+2019
+dd’	dʲː	T		2	kiedd’k;ladd’v	U+0064 U+0064 U+2019
+tt’	tʲː	T		4	kūtt’k;lātt’k;cuett’k;rātt’ke	U+0074 U+0074 U+2019
+o	o	U	Kildin Saami	173	poal’a;njoarrk;oalmolma;oalmolma-;koab	U+006F
+ó	ó/o	U	Kildin Saami	5	maniók;kajót;jenót;xam’el’ón;katóre	U+00F3
+ō	ō/oː	U	Kildin Saami	53	mōnter;sōppt;jōgk;tōllkassk;pōrrk	U+014D
+о	o	U	Kildin Saami	1	pоаfčas	U+043E
+^o	o	U	Kildin Saami	31	olma;oalmolma;oalmolma-;oahka;oar’es’	U+005E U+006F
+^ō	ō/oː	U	Kildin Saami	5	ōss’el;ōllk;ōxxte;ōdt;ōxxte	U+005E U+014D
+o$	o	U	Kildin Saami	3	pončo;rādio;što	U+006F U+0024
+u	u	Y	Kildin Saami	273	puenn;pueš’en’;suel;vueŋŋk;kuellh’k	U+0075
+ú	ú/u	Y	Kildin Saami	4	lagúna;kukurúza;bambúk;avtobúss	U+00FA
+ū	ū/uː	Y	Kildin Saami	171	vūntas;vūmm’;vūnn;lūxxt;kūššk	U+016B
+^u	u	Y	Kildin Saami	9	urr’t;ull;ukks;uc’ne;ujjte	U+005E U+0075
+^ū	ū/uː	Y	Kildin Saami	1	ūdles’	U+005E U+016B
+ú$	ú/u	Y	Kildin Saami	1	keŋgurú	U+00FA U+0024
+-	+	_	Kildin Saami	126	čāʒ’-čullm;jēmm’n’e-pušštnehk’;tīr’m’es’-ŋull;tīr’mes’-jūkks;mūrr-ɨll	U+002D
+_	_	_	Kildin Saami	52	cuegk’_ja_aʒ’;cuegk’_ja_aʒ’;tivvt_čāʒ’;vɨjjte_kūjje;puarsa_vīllj	U+005F
+^=	+	_	Kildin Saami	1	=še	U+005E U+003D
+āh	ā/aː h	A H	Kildin Saami	15	pāhk’;liessk-āhk’;kɨrr’tej-sāhpliŋk;sāhpliŋk;nāhp’	U+0101 U+0068
+^āh	ā/aː h	A H	Kildin Saami	5	āhk’;āhk’;āhkev;āhkliŋk;āhkev	U+005E U+0101 U+0068
+āss$	ā/aː sː	A S	Kildin Saami	2	čāss;čāss	U+0101 U+0073 U+0073 U+0024
+āss’	ā/aː s’ː	A S	Kildin Saami	9	tāss’t;kāss’;rāss’;rāss’;rāss’	U+0101 U+0073 U+0073 U+2019
+fs	f s	B S	Kildin Saami	1	voafsxess	U+0066 U+0073
+fs$	f s	B S	Kildin Saami	4	sefs;piefs;sefs;kuefs	U+0066 U+0073 U+0024
+ēʒ$	ē/eː dz	E C	Kildin Saami	1	vēʒ	U+0113 U+0292 U+0024
+ēh	ē/eː h	E H	Kildin Saami	3	šlēhkle;kēhče;jēhk	U+0113 U+0068
+ēss$	ē/eː sː	E S	Kildin Saami	1	kēss	U+0113 U+0073 U+0073 U+0024
+īh	ī/iː h	I H	Kildin Saami	2	kīhče;mīhk’	U+012B U+0068
+īss$	ī/iː sː	I S	Kildin Saami	1	rīss	U+012B U+0073 U+0073 U+0024
+ks	k s	K S	Kildin Saami	1	saf’kse	U+006B U+0073
+ls	l s	L S	Kildin Saami	2	kielselle;kielsellemušš	U+006C U+0073
+ns	n s	N S	Kildin Saami	3	instrum’ént;lājnse;moajnse	U+006E U+0073
+ns$	n s	N S	Kildin Saami	1	vens	U+006E U+0073 U+0024
+ps	p s	P S	Kildin Saami	1	lūpste	U+0070 U+0073
+ps$	p s	P S	Kildin Saami	1	aps	U+0070 U+0073 U+0024
+rs	r s	R S	Kildin Saami	3	puarsa_vīllj;puarsa_vuerr’pen’;korse	U+0072 U+0073
+^ōʒ	ō/oː dz	U C	Kildin Saami	1	ōʒe	U+005E U+014D U+0292
+ōh	ō/oː h	U H	Kildin Saami	5	lōhk;lōhk;lōhk-čuevvt;čōhke;lōhk	U+014D U+0068
+^ōh	ō/oː h	U H	Kildin Saami	3	ōhpnuvve;ōhpnuvve;ōhpnuvvej	U+005E U+014D U+0068
+ós$	ó/o s	U S	Kildin Saami	1	kokós	U+00F3 U+0073 U+0024
+ōss$	ō/oː sː	U S	Kildin Saami	1	kōss	U+014D U+0073 U+0073 U+0024

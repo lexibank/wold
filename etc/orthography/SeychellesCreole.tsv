@@ -1,141 +1,142 @@
-Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
-$	NULL	8	U+0024		
-^e$	e	1	U+005E U+0065 U+0024	"e"	Seychelles Creole
-^i$	i	4	U+005E U+0069 U+0024	"i"	Seychelles Creole
-^o$	o	1	U+005E U+006F U+0024	"o"	Seychelles Creole
-^ou$	u	2	U+005E U+006F U+0075 U+0024	"ou"	
--	+	16	U+002D	"frenn-en,kou-d-pye,tranbleman-d-ter"	Seychelles Creole
-_	_	124	U+005F	"met_anpandan,piti_sonnyen,ris_lalenn"	Seychelles Creole
-a	a	621	U+0061	"kase,kato,mason"	Seychelles Creole
-b	b	107	U+0062	"aborde,lanbisyon,tobrouk"	Seychelles Creole
-c	c	1	U+0063	"mice"	Seychelles Creole
-d	d	124	U+0064	"anndan,lide,rado"	Seychelles Creole
-e	e	452	U+0065	"bebet,latres,reponn"	Seychelles Creole
-f	f	89	U+0066	"dofen,fifti-fifti,ptifis"	Seychelles Creole
-g	g	68	U+0067	"gaga,gengan,larg_divan"	Seychelles Creole
-i	i	456	U+0069	"medikaman,pti_kabri,resif"	Seychelles Creole
-k	k	170	U+006B	"atoukou,dokter,lakot"	Seychelles Creole
-l	l	305	U+006C	"anvale,mole,moule"	Seychelles Creole
-m	m	177	U+006D	"fer_mal,imite,komela"	Seychelles Creole
-n	n	99	U+006E	"finisyon,lannez,zenn_fiy"	Seychelles Creole
-o	o	241	U+006F	"lotel,robinen,wok"	Seychelles Creole
-p	p	163	U+0070	"anpant,kas_lapay,zip_rafia"	Seychelles Creole
-r	ɣ	270	U+0072	"grenwiy,kouvreli,pti_frer"	Seychelles Creole
-s	s	259	U+0073	"arase,respire,sousouna"	Seychelles Creole
-t	t	323	U+0074	"piti_sonnyen,pti_poul,sirte"	Seychelles Creole
-u	u	3	U+0075	"jug,oule,ouver"	
-v	v	101	U+0076	"bes_paviyon,elve,fanm-de-vi"	Seychelles Creole
-w	w	2	U+0077	"grenwiy,lerwa"	
-y	j	190	U+0079	"lapousyer,soulye,zwaye"	Seychelles Creole
-z	z	137	U+007A	"lanmizik,larzil,peze"	Seychelles Creole
-^K	K/k	1	U+005E U+004B	"Kaka_zorey"	Seychelles Creole
-^M	M/m	1	U+005E U+004D	"Mous_fe"	Seychelles Creole
-^a	a	60	U+005E U+0061	"apoze,avan_yer,avek"	Seychelles Creole
-^b	b	163	U+005E U+0062	"bataye,boulon,boutey"	Seychelles Creole
-^c	c	1	U+005E U+0063	"countryside"	Seychelles Creole
-^d	d	125	U+005E U+0064	"deswit,diven,drwa"	Seychelles Creole
-^e	e	18	U+005E U+0065	"eternen,etidye,etoufe"	Seychelles Creole
-^f	f	104	U+005E U+0066	"fidel,fimen,four"	Seychelles Creole
-^g	g	68	U+005E U+0067	"goute,gouvernay,granmoun"	Seychelles Creole
-^i	i	12	U+005E U+0069	"imen,imid,imite"	Seychelles Creole
-^j	j	1	U+005E U+006A	"jug"	Seychelles Creole
-^k	k	202	U+005E U+006B	"kadnan,kelkel,kopo"	Seychelles Creole
-^l	l	359	U+005E U+006C	"labank,latrap,letan"	Seychelles Creole
-^m	m	136	U+005E U+006D	"mai,mare_o,masin"	Seychelles Creole
-^n	n	35	U+005E U+006E	"nanm,nilon,noye"	Seychelles Creole
-^o	o	12	U+005E U+006F	"ogarde,oli,ozanz"	Seychelles Creole
-^p	p	195	U+005E U+0070	"penitans,pentire,plannen"	Seychelles Creole
-^r	ɣ	64	U+005E U+0072	"razwar,reken,robinen"	Seychelles Creole
-^s	s	156	U+005E U+0073	"savon,soz,stor"	Seychelles Creole
-^t	t	122	U+005E U+0074	"taba,tarde,touk"	Seychelles Creole
-^v	v	45	U+005E U+0076	"vas,vayan,vye"	Seychelles Creole
-^w	w	6	U+005E U+0077	"war,was,wit"	Seychelles Creole
-^y	j	1	U+005E U+0079	"yer"	Seychelles Creole
-^z	z	79	U+005E U+007A	"zanset,zero,zizman"	Seychelles Creole
-a$	a	88	U+0061 U+0024	"bangala,komela,sousouna"	Seychelles Creole
-aa	aː	2	U+0061 U+0061	"laans,laas"	Seychelles Creole
-an	ã	285	U+0061 U+006E	"brann,demanzezon,pirog_balansye"	
-ar	aː	116	U+0061 U+0072	"larout,larzan,marmit"	
-b$	b	16	U+0062 U+0024	"disab,konstab,sanblab"	Seychelles Creole
-bs	b s	1	U+0062 U+0073	"lobskirite"	Seychelles Creole
-bw	b w	4	U+0062 U+0077	"bonnonm_dibwa,dan_bwa,labwet"	Seychelles Creole
-ch	tʃ	1	U+0063 U+0068	"poncho"	Seychelles Creole
-d$	d	21	U+0064 U+0024	"bodigard,kaskad,remed"	Seychelles Creole
-dw	d w	4	U+0064 U+0077	"ledwa,ledwa_lipye,permi_kondwir"	Seychelles Creole
-e$	e	458	U+0065 U+0024	"depese,lizye,verse"	Seychelles Creole
-ee	eː	1	U+0065 U+0065	"speech"	Seychelles Creole
-en	ɛ̃	120	U+0065 U+006E	"peng,pwenti,semenn"	
-er	ɛː	90	U+0065 U+0072	"lera,leren,terminen"	
-f$	f	21	U+0066 U+0024	"baif,grif,nerf"	Seychelles Creole
-fw	f w	6	U+0066 U+0077	"kekfwa,lefwa,trwa_fwa"	Seychelles Creole
-g$	g	26	U+0067 U+0024	"lafrang,lalang,zoug"	Seychelles Creole
-gw	g w	5	U+0067 U+0077	"dyagwar,langwas,zegwiy"	Seychelles Creole
-i$	i	127	U+0069 U+0024	"dibri,dimoun_vini,manti"	Seychelles Creole
-iy	i	25	U+0069 U+0079	"degobiye,pas_kwiyer,pliye"	
-k$	k	59	U+006B U+0024	"lakok,larak,latok"	Seychelles Creole
-ks	k s	4	U+006B U+0073	"eksplike,leleksyon,louksi"	Seychelles Creole
-kw	k w	4	U+006B U+0077	"ferkwa,lakwis,lakwizin"	Seychelles Creole
-l$	l	88	U+006C U+0024	"kaskavel,lafoul,laparol"	Seychelles Creole
-ls	l s	1	U+006C U+0073	"belser"	Seychelles Creole
-lw	l w	4	U+006C U+0077	"boulwar,delwil,lalwa"	Seychelles Creole
-m$	m	50	U+006D U+0024	"blanm,fer_son_lafanm,lekim"	Seychelles Creole
-ms	m s	1	U+006D U+0073	"lanmson"	Seychelles Creole
-mw	m w	2	U+006D U+0077	"lanmwotye,temwen"	Seychelles Creole
-n$	n	96	U+006E U+0024	"lapenn,lofrann,zenn"	Seychelles Creole
-ng	ŋ	2	U+006E U+0067	"kingsayz,soungoula"	
-ns	n s	1	U+006E U+0073	"kannson"	Seychelles Creole
-nw	n w	3	U+006E U+0077	"fernwar,lannwa,lannwit"	Seychelles Creole
-ny	j̃	33	U+006E U+0079	"gannyen,tennyen,tonkonny"	
-o$	o	83	U+006F U+0024	"barbo,ledo,poncho"	Seychelles Creole
-on	ɔ̃	125	U+006F U+006E	"lanmonnen,plonze,tonkonny"	
-or	ɔː	52	U+006F U+0072	"loraz,mortye,zorey"	
-ou	u	164	U+006F U+0075	"dout,sekoup,souye"	Seychelles Creole
-p$	p	19	U+0070 U+0024	"kap,latrap,prop"	Seychelles Creole
-ps	p s	1	U+0070 U+0073	"soupsonnen"	Seychelles Creole
-pw	p w	7	U+0070 U+0077	"apwal,apwentman,lapwatrin"	Seychelles Creole
-rw	ɣ w	14	U+0072 U+0077	"brwiyan,landrwa,trwazyenm"	Seychelles Creole
-s$	s	95	U+0073 U+0024	"delanos,lapolis,lekors"	Seychelles Creole
-sw	s w	11	U+0073 U+0077	"aswar,deswit,mouswar"	Seychelles Creole
-t$	t	132	U+0074 U+0024	"gamat,sant,sat"	Seychelles Creole
-tw	t w	5	U+0074 U+0077	"latwal,tatwaz,zetwal"	Seychelles Creole
-v$	v	22	U+0076 U+0024	"koulev,sov,tanbav"	Seychelles Creole
-vw	v w	5	U+0076 U+0077	"avwe,konsevwar,lavwal"	Seychelles Creole
-w$	w	1	U+0077 U+0024	"daw"	Seychelles Creole
-y$	j	38	U+0079 U+0024	"kalay,zekay,zorey"	Seychelles Creole
-z$	z	53	U+007A U+0024	"lanmaraz,lesanz,lonbraz"	Seychelles Creole
-zw	z w	3	U+007A U+0077	"bezwen,nazwar,razwar"	Seychelles Creole
-^an	ã	38	U+005E U+0061 U+006E	"anba_ros,anroule,anzandre"	
-^ar	aː	6	U+005E U+0061 U+0072	"arase,arive,aryer"	
-^bw	b w	10	U+005E U+0062 U+0077	"bwar,bwazafe,bwenm"	Seychelles Creole
-^dw	d w	1	U+005E U+0064 U+0077	"dwa"	Seychelles Creole
-^en	ɛ̃	7	U+005E U+0065 U+006E	"enerzik,enn,envite"	
-^er	ɛː	4	U+005E U+0065 U+0072	"erbann,ere,ermel"	
-^kw	k w	13	U+005E U+006B U+0077	"kwa,kwadrip,kwiv"	Seychelles Creole
-^lw	l w	2	U+005E U+006C U+0077	"lwe,lwen"	Seychelles Creole
-^mw	m w	1	U+005E U+006D U+0077	"mwan"	Seychelles Creole
-^nw	n w	2	U+005E U+006E U+0077	"nwar"	Seychelles Creole
-^ny	j̃	4	U+005E U+006E U+0079	"nyanmnyanm,nyaz,nyes"	
-^on	ɔ̃	1	U+005E U+006F U+006E	"onz"	
-^or	ɔː	1	U+005E U+006F U+0072	"orfelen"	
-^pw	p w	9	U+005E U+0070 U+0077	"pwal,pwazon,pwi"	Seychelles Creole
-^sh	ʃ	1	U+005E U+0073 U+0068	"shelf"	Seychelles Creole
-^sw	s w	4	U+005E U+0073 U+0077	"swar,swazir,swe"	Seychelles Creole
-^tw	t w	3	U+005E U+0074 U+0077	"twa,twa_fey,twalet"	Seychelles Creole
-^vw	v w	2	U+005E U+0076 U+0077	"vwal,vwazen"	Seychelles Creole
-^zw	z w	6	U+005E U+007A U+0077	"zwaye,zwenn,zwit"	Seychelles Creole
-an$	ã	94	U+0061 U+006E U+0024	"devan,kouran,zanfan"	
-ar$	aː	37	U+0061 U+0072 U+0024	"bar,bwar,konsevwar"	
-ch$	tʃ	1	U+0063 U+0068 U+0024	"speech"	Seychelles Creole
-en$	ɛ̃	128	U+0065 U+006E U+0024	"konnen,nen,zarden"	
-er$	ɛː	108	U+0065 U+0072 U+0024	"fer,ouver,serviter"	
-ir$	iː	33	U+0069 U+0072 U+0024	"dir,navir,pikir"	
-iy$	i	17	U+0069 U+0079 U+0024	"angiy,fosiy,grenwiy"	
-ks$	k s	3	U+006B U+0073 U+0024	"fer_seks,laks,taks"	Seychelles Creole
-ll$	l	1	U+006C U+006C U+0024	"waterfall"	Seychelles Creole
-ng$	ŋ	3	U+006E U+0067 U+0024	"lakaz_miting,stoking,tanng"	
-ns$	n s	1	U+006E U+0073 U+0024	"laans"	Seychelles Creole
-on$	ɔ̃	88	U+006F U+006E U+0024	"fon,koton,patison"	
-or$	ɔː	17	U+006F U+0072 U+0024	"for,lanmor,por"	
-ou$	u	32	U+006F U+0075 U+0024	"banbou,bar_likou,larou"	Seychelles Creole
-our	uː	31	U+006F U+0075 U+0072	"fourir,gourman,sourir"	
-our$	uː	17	U+006F U+0075 U+0072 U+0024	"grankour,kwi_dan_four,lour"	
+Grapheme	IPA	SCA	LANGUAGES	FREQUENCY	EXAMPLES	CODEPOINTS
+^	NULL		NULL	0		NULL
+$	NULL			8	montanny;penny;tonkonny;ganny;laliny	U+0024
+^e$	e	E	Seychelles Creole	1	e	U+005E U+0065 U+0024
+^i$	i	I	Seychelles Creole	4	i;i;i;i	U+005E U+0069 U+0024
+^o$	o	U	Seychelles Creole	1	o	U+005E U+006F U+0024
+^ou$	u	Y		2	ou;ou	U+005E U+006F U+0075 U+0024
+a	a	A	Seychelles Creole	621	later;later;lapousyer;labou;disab	U+0061
+^a	a	A	Seychelles Creole	60	ays;alimen;aveg;apwal;abiye	U+005E U+0061
+a$	a	A	Seychelles Creole	88	mare_ba;dan_bwa;bwa;baba;pti_baba	U+0061 U+0024
+aa	aː	A	Seychelles Creole	2	laans;laas	U+0061 U+0061
+an	ã	A		285	montanny;borlanmer;lanmer;mouvmante;lanmar	U+0061 U+006E
+ar	aː	A		116	laroul;mare;mare_ba;mare_o;larivyer	U+0061 U+0072
+^an	ã	A		38	anba_ros;angiy;anzandre;ansent;anvwa-d-famiy	U+005E U+0061 U+006E
+^ar	aː	A		6	arive;arase;aryer;arpante;arete	U+005E U+0061 U+0072
+an$	ã	A		94	kontinan;losean;brizan;divan;letan	U+0061 U+006E U+0024
+ar$	aː	A		37	lanmar;fernwar;brouyar;kannar;nazwar	U+0061 U+0072 U+0024
+f	f	B	Seychelles Creole	89	delo_fannen;waterfall;lafoumbal;dife;laflanm	U+0066
+v	v	B	Seychelles Creole	101	boulverse;mouvmante;move;larivyer;divan	U+0076
+^f	f	B	Seychelles Creole	104	fore;fernwar;fanm;fanm;fiy	U+005E U+0066
+^v	v	B	Seychelles Creole	45	vale;vye_tantin;vev;vef;vas	U+005E U+0076
+f$	f	B	Seychelles Creole	21	resif;vef;bef;bef;pti_bef	U+0066 U+0024
+v$	v	B	Seychelles Creole	22	vev;sev;koulev;lalev;zansiv	U+0076 U+0024
+c	c	C	Seychelles Creole	1	mice	U+0063
+^c	c	C	Seychelles Creole	1	countryside	U+005E U+0063
+e	e	E	Seychelles Creole	452	lemonn;delo;lekim;losean;resif	U+0065
+^e	e	E	Seychelles Creole	18	etal;eternen;etoufe;eparpiye;evante	U+005E U+0065
+e$	e	E	Seychelles Creole	458	countryside;vale;boulverse;mouvmante;move	U+0065 U+0024
+ee	eː	E	Seychelles Creole	1	speech	U+0065 U+0065
+en	ɛ̃	E		120	laplenn;lapwent;tennyen;zenn_onm;zenn_fiy	U+0065 U+006E
+er	ɛː	E		90	boulverse;waterfall;fernwar;seren;per_nourisye	U+0065 U+0072
+^en	ɛ̃	E		7	enn;en_ta;en_pe;enerzik;entelizan	U+005E U+0065 U+006E
+^er	ɛː	E		4	erbann;er;ere;ermel	U+005E U+0065 U+0072
+en$	ɛ̃	E		128	delo_fannen;seren;lafimen;alimen;tennyen	U+0065 U+006E U+0024
+er$	ɛː	E		108	later;later;lapousyer;oter;borlanmer	U+0065 U+0072 U+0024
+r	ɣ	G	Seychelles Creole	270	kap_ros;countryside;lagrot;anba_ros;brizan	U+0072
+^r	ɣ	G	Seychelles Creole	64	resif;ros;rose;reken;renar	U+005E U+0072
+i	i	I	Seychelles Creole	456	disab;countryside;zil;kontinan;lekim	U+0069
+^i	i	I	Seychelles Creole	12	imen;ibou;is_karang;irine;ini	U+005E U+0069
+i$	i	I	Seychelles Creole	127	pwi;lapli;piti;mari;papi	U+0069 U+0024
+iy	i	I		25	tourbiyon;sangliye;kokiyaz;papiyon;degobiye	U+0069 U+0079
+ir$	iː	I		33	lasir;figir;blesir;lanflir;nouritir	U+0069 U+0072 U+0024
+iy$	i	I		17	fiy;zenn_fiy;fiy;ptifiy;belfiy	U+0069 U+0079 U+0024
+y	j	J	Seychelles Creole	190	lapousyer;countryside;larivyer;pyer;lesyel	U+0079
+^j	j	J	Seychelles Creole	1	jug	U+005E U+006A
+^y	j	J	Seychelles Creole	1	yer	U+005E U+0079
+ny	j̃	J		33	montanny;tennyen;papa_sonnyen;piti_sonnyen;pwannye	U+006E U+0079
+y$	j	J	Seychelles Creole	38	soley;marmay;marmay;volay;zekay	U+0079 U+0024
+^ny	j̃	J		4	nyaz;nyes;nyanmnyanm;nyes	U+005E U+006E U+0079
+g	g	K	Seychelles Creole	68	lagrot;lagon;sangliye;angiy;leskargo	U+0067
+k	k	K	Seychelles Creole	170	lakot;lekim;kaskad;zekler;zekler	U+006B
+^K	K/k	K	Seychelles Creole	1	Kaka_zorey	U+005E U+004B
+^g	g	K	Seychelles Creole	68	glason;garson;garson;gran_frer;gran_ser	U+005E U+0067
+^k	k	K	Seychelles Creole	202	kap;kap_ros;kontinan;kalm;kaskad	U+005E U+006B
+g$	g	K	Seychelles Creole	26	boug;leg;lalang;zong;is_karang	U+0067 U+0024
+k$	k	K	Seychelles Creole	59	lak;bouk;bourik;kok;nik	U+006B U+0024
+l	l	L	Seychelles Creole	305	laplenn;vale;borlanmer;delo;kalm	U+006C
+^l	l	L	Seychelles Creole	359	lemonn;later;later;lapousyer;labou	U+005E U+006C
+l$	l	L	Seychelles Creole	88	zil;etal;laroul;lesyel;zetwal	U+006C U+0024
+ll$	l	L	Seychelles Creole	1	waterfall	U+006C U+006C U+0024
+m	m	M	Seychelles Creole	177	lemonn;borlanmer;lanmer;mouvmante;lanmar	U+006D
+^M	M/m	M	Seychelles Creole	1	Mous_fe	U+005E U+004D
+^m	m	M	Seychelles Creole	136	montanny;mouvmante;move;mare;mare_ba	U+005E U+006D
+m$	m	M	Seychelles Creole	50	kalm;lekim;lonm;laflanm;zonm	U+006D U+0024
+n	n	N	Seychelles Creole	99	countryside;kontinan;delo_fannen;lannez;zenn_onm	U+006E
+^n	n	N	Seychelles Creole	35	ne_ansanm;neve;nou;nou;nou	U+005E U+006E
+n$	n	N	Seychelles Creole	96	lemonn;laplenn;lalin;lasann;vye_tantin	U+006E U+0024
+ng	ŋ	N		2	soungoula;kingsayz	U+006E U+0067
+ng$	ŋ	N		3	tanng;stoking;lakaz_miting	U+006E U+0067 U+0024
+b	b	P	Seychelles Creole	107	labou;anba_ros;labe;mare_ba;tourbiyon	U+0062
+p	p	P	Seychelles Creole	163	lapousyer;kap_ros;laplenn;tanpet;lapli	U+0070
+^b	b	P	Seychelles Creole	163	borlanmer;boulverse;brizan;brouyar;brile	U+005E U+0062
+^p	p	P	Seychelles Creole	195	pyer;piti;pti_baba;papa;papi	U+005E U+0070
+b$	b	P	Seychelles Creole	16	disab;letab;bib;lakaz_bib;labarb	U+0062 U+0024
+p$	p	P	Seychelles Creole	19	kap;latanp;trip;kapkap;tyaptyap	U+0070 U+0024
+s	s	S	Seychelles Creole	259	lapousyer;disab;countryside;boulverse;losean	U+0073
+z	z	S	Seychelles Creole	137	brizan;laroze;bwazafe;kouzen;berze	U+007A
+^s	s	S	Seychelles Creole	156	soley;seren;sarbon;ser;sangliye	U+005E U+0073
+^z	z	S	Seychelles Creole	79	zil;zetwal;zekler;zekler;zalimet	U+005E U+007A
+s$	s	S	Seychelles Creole	95	kap_ros;anba_ros;lasours;ros;ays	U+0073 U+0024
+z$	z	S	Seychelles Creole	53	loraz;lonbraz;nyaz;lannez;labrez	U+007A U+0024
+^sh	ʃ	S	Seychelles Creole	1	shelf	U+005E U+0073 U+0068
+d	d	T	Seychelles Creole	124	countryside;tranbleman-d-ter;madanm;madanm;madanm	U+0064
+t	t	T	Seychelles Creole	323	later;later;montanny;oter;countryside	U+0074
+^d	d	T	Seychelles Creole	125	disab;delo;delo_fannen;dan_bwa;divan	U+005E U+0064
+^t	t	T	Seychelles Creole	122	tourbiyon;tranbleman-d-ter;tanpet;tennyen;toto	U+005E U+0074
+ch	tʃ	T	Seychelles Creole	1	poncho	U+0063 U+0068
+d$	d	T	Seychelles Creole	21	kaskad;bonbard;koud;malad;remed	U+0064 U+0024
+t$	t	T	Seychelles Creole	132	lakot;lagrot;lapwent;tanpet;zalimet	U+0074 U+0024
+ch$	tʃ	T	Seychelles Creole	1	speech	U+0063 U+0068 U+0024
+o	o	U	Seychelles Creole	241	kap_ros;lakot;lagrot;anba_ros;move	U+006F
+^o	o	U	Seychelles Creole	12	oter;otmil;ouver;oplivit;ozordi	U+005E U+006F
+o$	o	U	Seychelles Creole	83	delo;mare_o;toto;toto;zannimo	U+006F U+0024
+on	ɔ̃	U		125	lemonn;montanny;kontinan;lonbraz;lonm	U+006F U+006E
+or	ɔː	U		52	borlanmer;fore;loraz;divors;toro	U+006F U+0072
+^on	ɔ̃	U		1	onz	U+005E U+006F U+006E
+^or	ɔː	U		1	orfelen	U+005E U+006F U+0072
+on$	ɔ̃	U		88	lagon;tourbiyon;glason;sarbon;garson	U+006F U+006E U+0024
+or$	ɔː	U		17	lekor;mor;lanmor;lekor;for	U+006F U+0072 U+0024
+w	w	W		2	grenwiy;lerwa	U+0077
+^w	w	W	Seychelles Creole	6	waterfall;wok;was;wit;war	U+005E U+0077
+w$	w	W	Seychelles Creole	1	daw	U+0077 U+0024
+u	u	Y		3	jug;ouver;oule	U+0075
+ou	u	Y	Seychelles Creole	164	lapousyer;countryside;boulverse;mouvmante;laroul	U+006F U+0075
+ou$	u	Y	Seychelles Creole	32	labou;nou;nou;nou;kasoukou	U+006F U+0075 U+0024
+our	uː	Y		31	tourbiyon;lasours;per_nourisye;bourik;sousouri	U+006F U+0075 U+0072
+our$	uː	Y		17	votour;kwi_dan_four;four;lakour;lakour	U+006F U+0075 U+0072 U+0024
+-	+	_	Seychelles Creole	16	tranbleman-d-ter;tranbleman-d-ter;anvwa-d-famiy;anvwa-d-famiy;ponm-de-ter	U+002D
+_	_	_	Seychelles Creole	124	kap_ros;anba_ros;mare_ba;mare_o;delo_fannen	U+005F
+fw	f w	B W	Seychelles Creole	6	lefwa;de_fwa;trwa_fwa;parfwa;kekfwa	U+0066 U+0077
+vw	v w	B W	Seychelles Creole	5	anvwa-d-famiy;konsevwar;lavwal;lavwa;avwe	U+0076 U+0077
+^vw	v w	B W	Seychelles Creole	2	vwal;vwazen	U+005E U+0076 U+0077
+rw	ɣ w	G W	Seychelles Creole	14	trwi;mirwar;pyedrwa;landrwa_bat_dible;landrwa	U+0072 U+0077
+ks	k s	K S	Seychelles Creole	4	louksi;eksplike;donn_malediksyon;leleksyon	U+006B U+0073
+ks$	k s	K S	Seychelles Creole	3	fer_seks;laks;taks	U+006B U+0073 U+0024
+gw	g w	K W	Seychelles Creole	5	mangwak;zegwiy;langwas;zegwiy;dyagwar	U+0067 U+0077
+kw	k w	K W	Seychelles Creole	4	lakwis;pas_kwiyer;lakwizin;ferkwa	U+006B U+0077
+^kw	k w	K W	Seychelles Creole	13	kwendeng;kwi;kwi;kwi_dan_four;kwiyer	U+005E U+006B U+0077
+ls	l s	L S	Seychelles Creole	1	belser	U+006C U+0073
+lw	l w	L W	Seychelles Creole	4	boulwar;delwil;lalwa;delwil	U+006C U+0077
+^lw	l w	L W	Seychelles Creole	2	lwe;lwen	U+005E U+006C U+0077
+ms	m s	M S	Seychelles Creole	1	lanmson	U+006D U+0073
+mw	m w	M W	Seychelles Creole	2	lanmwotye;temwen	U+006D U+0077
+^mw	m w	M W	Seychelles Creole	1	mwan	U+005E U+006D U+0077
+ns	n s	N S	Seychelles Creole	1	kannson	U+006E U+0073
+ns$	n s	N S	Seychelles Creole	1	laans	U+006E U+0073 U+0024
+nw	n w	N W	Seychelles Creole	3	fernwar;lannwa;lannwit	U+006E U+0077
+^nw	n w	N W	Seychelles Creole	2	nwar;nwar	U+005E U+006E U+0077
+bs	b s	P S	Seychelles Creole	1	lobskirite	U+0062 U+0073
+ps	p s	P S	Seychelles Creole	1	soupsonnen	U+0070 U+0073
+bw	b w	P W	Seychelles Creole	4	dan_bwa;labwason;labwet;bonnonm_dibwa	U+0062 U+0077
+pw	p w	P W	Seychelles Creole	7	lapwent;lapwatrin;apwal;dipwav;lapwent	U+0070 U+0077
+^bw	b w	P W	Seychelles Creole	10	bwa;bwazafe;bwete;bwar;bwi	U+005E U+0062 U+0077
+^pw	p w	P W	Seychelles Creole	9	pwi;pwason;pwal;pwannye;pwazon	U+005E U+0070 U+0077
+sw	s w	S W	Seychelles Creole	11	marswen;lanmaswar;laswaf;laswa;mouswar	U+0073 U+0077
+zw	z w	S W	Seychelles Creole	3	nazwar;razwar;bezwen	U+007A U+0077
+^sw	s w	S W	Seychelles Creole	4	swa;swe;swar;swazir	U+005E U+0073 U+0077
+^zw	z w	S W	Seychelles Creole	6	zwa;zwazo;zwit;zwaye;zwe	U+005E U+007A U+0077
+dw	d w	T W	Seychelles Creole	4	ledwa;ledwa_lipye;kondwir;permi_kondwir	U+0064 U+0077
+tw	t w	T W	Seychelles Creole	5	zetwal;latwal;tatwaz;sitwayen;laviktwar	U+0074 U+0077
+^dw	d w	T W	Seychelles Creole	1	dwa	U+005E U+0064 U+0077
+^tw	t w	T W	Seychelles Creole	3	twa;twa_fey;twalet	U+005E U+0074 U+0077

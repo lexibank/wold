@@ -1,166 +1,166 @@
-Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
-^	NULL	54	U+005E		
-$	NULL	7	U+0024		
-(	NULL	16	U+0028	"(n)zäm'bu̲,nze̲di_zaa_(hingi_hu̲),yogo('ä)?"	
-)	NULL	16	U+0029	"(n)kots'i,nze̲di_zaa_(hingi_hu̲),yogo('ä)?"	
-_	NULL	439	U+005F	"hñu_ya_bes,xi_'ñixt'i,xi_nts'it'i"	Otomi
-'_	NULL	1	U+0027 U+005F	"ni'_nandi"	Otomi
-?$	NULL	21	U+003F U+0024	"tange'ä?,tange?,yogo'ä?"	Otomi
-^u$	u	1	U+005E U+0075 U+0024	"u"	Otomi
-^a̲$	ɔ	1	U+005E U+0061 U+0332 U+0024	"a̲"	Otomi
-^e̲$	æ	1	U+005E U+0065 U+0332 U+0024	"e̲"	Otomi
-^-‘bya$	+ ˀb j a	1	U+005E U+002D U+2018 U+0062 U+0079 U+0061 U+0024	"-‘bya"	
-'	ʔ	81	U+0027	"jä'i,ts'udi_t'oho,‘re̲t’a_ma_n'aha"	
--	+	7	U+002D	"-'be,hin-,xa̲tu̲-wi_ar_tsita"	Otomi
-a	a	498	U+0061	"tsita_mahä'mu̲,yaxudo,‘be̲fa_bätsi"	Otomi
-b	b	145	U+0062	"bembi,ta̲mbi,’be̲go"	Otomi
-d	d	304	U+0064	"ida_bätsitho,ndä_ts'ut'ubi,o̲de"	Otomi
-e	e	377	U+0065	"'be̲mfeni,ge'ä,he'mi_'mehni"	Otomi
-f	f	94	U+0066	"'be̲ni_jar_fidi,mfoñä,sofo"	Otomi
-g	g	246	U+0067	"hogi,pede_nthogi,t'ungu"	Otomi
-h	h	260	U+0068	"mahye̲tho,nugu̲hu̲,xedi_dehe"	Otomi
-i	i	515	U+0069	"nthähi_'be̲jwä,xedi_dehe,xida̲"	Otomi
-j	x	129	U+006A	"hu̲xji,njante,ze̲xjo"	Otomi
-k	k	169	U+006B	"barko,peryodiko,xe̲ki"	Otomi
-l	l	62	U+006C	"kokodrilo,plastiko,t'olo_fidi"	Otomi
-m	m	185	U+006D	"made_mpa,timu,tu̲xu̲mu"	Otomi
-n	n	692	U+006E	"k'ani,nts'ohni,ñänzaa"	Otomi
-o	o	438	U+006F	"dängo_ndu̲i,sorro,t’olo_baga"	Otomi
-p	p	64	U+0070	"bispu̲ra,japu̲'be̲fi,mpo̲ni"	Otomi
-r	r	114	U+0072	"ir_thuhu,ju̲ní_trigo,torniyo"	Otomi
-s	s	45	U+0073	"motosikleta,polisiya,zisei"	Otomi
-t	t̪	224	U+0074	"dätä_jwädä,nthäti,plastiko"	Otomi
-u	u	361	U+0075	"munts'udehe,nju_bätsitho,ts'ut'ubi"	Otomi
-w	w	22	U+0077	"jawar,nkät'u̲wa,nu'u̲wi"	Otomi
-x	x	247	U+0078	"ho̲t'ixu,ngaxte,xi_'ñuxi"	Otomi
-y	j	99	U+0079	"bont’yo,lisensya,nu'bya"	Otomi
-z	z	80	U+007A	"manza,ndembu_nzaya,‘ye̲zaa"	Otomi
-á	á/a	2	U+00E1	"jár_hyo,xokwi_yá_da̲"	Otomi
-ä	ɐ	297	U+00E4	"dängo_ndu̲i,hingi_ñäts'i,mpädi"	Otomi
-í	í/i	4	U+00ED	"ju̲ní_hogu̲t'e̲i,ju̲ní_trigo,ya_bí_wadi"	Otomi
-ñ	ɲ	122	U+00F1	"dehe_'yomu(n)hño_ngizá,hñupa,ñä_xi_hño"	Otomi
-ú	ú/u	1	U+00FA	"nthúts'i"	Otomi
-’	ʔ	55	U+2019	"ndu’mi,nu’u,n’a̲te"	
-'b	ˀb	40	U+0027 U+0062	"(n)zäm'bu̲,häm'bu̲?,mpoxu'bifi"	Otomi
-'m	ˀm	69	U+0027 U+006D	"mfo'mi,njo'mi,nä'mi"	Otomi
-'n	ˀn	12	U+0027 U+006E	"ni_'na_bes,xi'ni,xi'ni_t'ot'i"	Otomi
-'r	ˀr	2	U+0027 U+0072	"ar_mi_'rang(u̲)di,ma_'ra"	Otomi
-'w	ˀw	13	U+0027 U+0077	"t'olo_gin'we̲,zu'we_'wada,zu'we_ngo̲"	Otomi
-'x	ˀx	3	U+0027 U+0078	"mbo'xi,wa'xo,xi'xi"	Otomi
-'y	ˀj	33	U+0027 U+0079	"ndo'yo,xi'yo,xu̲'ye̲"	Otomi
-'ñ	ˀɲ	24	U+0027 U+00F1	"noku̲nsa'ñe̲,o̲t'u̲'ñuthe,xi_'ñixt'i"	Otomi
-Jw	J/x w	5	U+004A U+0077	"mat'i_Jwä,nguu_Jwä,zofo_Jwä"	Otomi
-^a	a	20	U+005E U+0061	"ar_hugi,arko,asete"	Otomi
-^b	b	69	U+005E U+0062	"bayenä,bixfani,boho"	Otomi
-^d	d	82	U+005E U+0064	"dox'yu̲ga̲,däthe,däza"	Otomi
-^e	e	12	U+005E U+0065	"ehe,emu̲nsu,erramyenta"	Otomi
-^f	f	33	U+005E U+0066	"fats'i,fots'i,fu̲gi"	Otomi
-^g	g	59	U+005E U+0067	"ge'ñe,gehnu̲,geka̲'be"	Otomi
-^h	h	239	U+005E U+0068	"het'e,hingi_ho,hnoho"	Otomi
-^i	i	15	U+005E U+0069	"ida_bätsitho,igo,is_ar_ora'ä"	Otomi
-^j	x	60	U+005E U+006A	"joki,juts’i,ju̲"	Otomi
-^k	k	96	U+005E U+006B	"k'a'mi,kanguro,kats'i"	Otomi
-^l	l	14	U+005E U+006C	"lansa,letxusa,lino"	Otomi
-^m	m	203	U+005E U+006D	"mfane,mpomuhñä,mu̲i"	Otomi
-^n	n	457	U+005E U+006E	"ndobuts'udi,nthänts'i,nts’e̲di"	Otomi
-^o	o	16	U+005E U+006F	"ora,oro,oxi"	Otomi
-^p	p	112	U+005E U+0070	"pe,pede,pe̲fi_hingi_tsa̲ya̲"	Otomi
-^r	r	5	U+005E U+0072	"raya,renta,riñu"	Otomi
-^s	s	41	U+005E U+0073	"seyo,su'mi,su̲ndado"	Otomi
-^t	t̪	110	U+005E U+0074	"tange'ä?,tange?,tasa"	Otomi
-^u	u	15	U+005E U+0075	"udi,ungu̲makwäni,uni_'nar_(n)xint'i"	Otomi
-^w	w	11	U+005E U+0077	"wa,want'ä,wazaa"	Otomi
-^x	x	180	U+005E U+0078	"xi'yo,xi_ntse̲,xito"	Otomi
-^y	j	34	U+005E U+0079	"yaki,ye,yopa"	Otomi
-^z	z	43	U+005E U+007A	"zim(u̲)xudi,zisei,zu'we_'wada"	Otomi
-^á	á/a	1	U+005E U+00E1	"ár_thuhu"	Otomi
-^ä	ɐ	6	U+005E U+00E4	"ägi,ät’i,äxi"	Otomi
-^ñ	ɲ	38	U+005E U+00F1	"ñot’i,ñänzaa,ñäñho"	Otomi
-a$	a	228	U+0061 U+0024	"bomba,manza,‘mefa"	Otomi
-aa	aː	5	U+0061 U+0061	"maazaa,nze̲di_zaa_(hingi_hu̲),zaa_nt'a̲'mu̲ha̲i"	Otomi
-a̲	ɔ	104	U+0061 U+0332	"sa̲gi,tha̲i,ts'a̲i"	Otomi
-e$	e	296	U+0065 U+0024	"hñote,o̲t'e_ya_behe,thuhme"	Otomi
-e̲	æ	193	U+0065 U+0332	"'be̲di,ze̲xthi,‘be̲pi"	Otomi
-gh	gʰ	2	U+0067 U+0068	"nughe,nughu̲"	Otomi
-gw	gʷ	1	U+0067 U+0077	"nugwi"	Otomi
-i$	i	1168	U+0069 U+0024	"njo’mi,nsu̲ni,ts'i"	Otomi
-jw	xʷ	32	U+006A U+0077	"heni_ko_ar_jwai,ndäne_jwä,t'u̲_jwai"	Otomi
-k'	kʼ	18	U+006B U+0027	"dätä_k'ants'u̲'batha,nk'ants'i,nk'u̲ne"	
-kw	kʷ	19	U+006B U+0077	"(mbo̲)kwe̲,ndo̲kwa,skwela"	Otomi
-l$	l	4	U+006C U+0024	"ospital,sinsel,tribunäl"	Otomi
-ls	l s	2	U+006C U+0073	"alse"	Otomi
-mh	mʰ	5	U+006D U+0068	"mamhi,mpumha̲i,ximha̲i"	Otomi
-n$	n	8	U+006E U+0024	"kañon,liyon,tiburon"	Otomi
-nh	nʰ	3	U+006E U+0068	"hmämu̲nhño,‘yomu̲nhño"	Otomi
-ns	ns	15	U+006E U+0073	"bronse,emu̲nsu,hu̲xu̲nsa'ñe̲"	Otomi
-nw	nʷ	3	U+006E U+0077	"du̲nwa,nsanwa,unwento"	Otomi
-o$	o	255	U+006F U+0024	"metsitho,seyo,zäntho"	Otomi
-o̲	ə	154	U+006F U+0332	"nso̲ni,nts'o̲ke,tso̲ke"	Otomi
-r$	r	6	U+0072 U+0024	"jawar,kolor,lugar"	Otomi
-rr	r r	7	U+0072 U+0072	"arros,gorro,karreta"	Otomi
-rs	r s	2	U+0072 U+0073	"ejersito,garsa"	Otomi
-s$	s	6	U+0073 U+0024	"hñu_ya_bes,ni_'na_bes,yoho_ya_bes"	Otomi
-sw	s w	2	U+0073 U+0077	"hogu̲swerte,ts’oswerte"	Otomi
-t'	t̪ʼ	288	U+0074 U+0027	"ho̲nt'ä,nguu_nt'o̲the,njut'i_bojä"	
-th	θ	182	U+0074 U+0068	"nthähi_nthu̲ts'i,tumunthu,ñä_tx'u̲tho"	Otomi
-ts	ts	57	U+0074 U+0073	"hingi_ntsu,jujwe_bätsitho,motsa"	Otomi
-t’	t̪ʼ	43	U+0074 U+2019	"k’axt’i,nwent’i,tsant’i"	
-u$	u	147	U+0075 U+0024	"bongu,hingi_hu,ne’ñu"	Otomi
-uu	uː	12	U+0075 U+0075	"nguu_'me̲hni,nguu_nt'o̲the,nguu_xa̲di"	Otomi
-u̲	u̲/u	336	U+0075 U+0332	"hmunts'u̲sundado,hu̲xi,‘yu̲ga̲"	Otomi
-y$	j	1	U+0079 U+0024	"ley"	Otomi
-á$	á/a	2	U+00E1 U+0024	"dehe_'yomu(n)hño_ngizá,padá"	Otomi
-ä$	ɐ	182	U+00E4 U+0024	"'ñenä,mabo̲jä,palomä"	Otomi
-äh	ɐ h	33	U+00E4 U+0068	"ndähi,ndändu̲ñähmu,ñähí"	Otomi
-äs	ɐ s	2	U+00E4 U+0073	"mästro,säsi"	Otomi
-í$	í/i	8	U+00ED U+0024	"ho̲bätsí,ho̲metsí,zitsí"	Otomi
-ñh	ɲʰ	5	U+00F1 U+0068	"bo̲jä_nt'e̲ñha̲i,mpo̲ñha̲i,nt'e̲ñha̲i"	Otomi
-ó$	ó/o	1	U+00F3 U+0024	"po̲hó"	Otomi
-‘b	ˀb	1	U+2018 U+0062	"ilo_‘bejwä"	
-‘m	ˀm	8	U+2018 U+006D	"‘mefa,‘me̲t’e̲i,‘mu̲i_'bombi"	
-‘n	ˀn	1	U+2018 U+006E	"ma_‘na"	
-‘r	ˀr	12	U+2018 U+0072	"‘rase̲,‘re̲t’a,‘rok'a"	
-‘w	ˀw	1	U+2018 U+0077	"t’afi_‘wada"	Otomi
-‘y	ˀj	13	U+2018 U+0079	"‘yoda̲,‘yomu̲nhño,‘yowa"	
-‘ñ	ˀɲ	12	U+2018 U+00F1	"‘ñets'i,‘ñi,‘ñixi"	
-'ch	ˀc	1	U+0027 U+0063 U+0068	"chä'chä"	Otomi
-'kw	ˀkʷ	2	U+0027 U+006B U+0077	"'bo̲'kwä,bo̲'kwä"	Otomi
-'ä$	ʔ ɐ	14	U+0027 U+00E4 U+0024	"ge'ä,is_ar_ora'ä,konge'ä"	Otomi
-^'b	ˀb	56	U+005E U+0027 U+0062	"'ba'mi,'be̲hñä,'bo̲ts'e"	Otomi
-^'m	ˀm	17	U+005E U+0027 U+006D	"'me̲hä,'me̲the,'mo̲e_animä"	Otomi
-^'n	ˀn	11	U+005E U+0027 U+006E	"'nats'i,'no̲t'e,'nähmi"	Otomi
-^'r	ˀr	13	U+005E U+0027 U+0072	"'ragi,'ratangu,'re̲t'anthebe"	Otomi
-^'w	ˀw	11	U+005E U+0027 U+0077	"'waki,'we,'wäts'i"	Otomi
-^'y	ˀj	31	U+005E U+0027 U+0079	"'yoda,'yo̲t'u̲bo̲jä,'yu̲"	Otomi
-^'ñ	ˀɲ	44	U+005E U+0027 U+00F1	"'ñani,'ñete,'ñofa̲di"	Otomi
-^a̲	ɔ	3	U+005E U+0061 U+0332	"a̲di,a̲fi,a̲ni"	Otomi
-^ch	c	1	U+005E U+0063 U+0068	"chä'chä"	Otomi
-^e̲	æ	9	U+005E U+0065 U+0332	"e̲i_ya_fixi,e̲nt'i,e̲t'i"	Otomi
-^hw	hʷ	2	U+005E U+0068 U+0077	"hwä,hwähi"	Otomi
-^jw	xʷ	20	U+005E U+006A U+0077	"jwangi,jwe̲i,jwiki"	Otomi
-^kw	kʷ	13	U+005E U+006B U+0077	"kwat'i,kweba,kwenta"	Otomi
-^nh	nʰ	2	U+005E U+006E U+0068	"nhñe,nhñu"	Otomi
-^ns	ns	22	U+005E U+006E U+0073	"nsadi,nsu̲t'u̲ts'i,nsä'mi"	Otomi
-^nw	nʷ	3	U+005E U+006E U+0077	"nwent’i,nwes,nwe̲t'i"	Otomi
-^o̲	ə	16	U+005E U+006F U+0332	"o̲t'e_ar_nts'o,o̲t'u̲'ñuthe,o̲t'u̲do"	Otomi
-^rw	r w	1	U+005E U+0072 U+0077	"rweda"	Otomi
-^sw	s w	1	U+005E U+0073 U+0077	"swida"	Otomi
-^t'	t̪ʼ	48	U+005E U+0074 U+0027	"t'e̲gi_hñäki,t'olo_fani,t'u̲lo"	
-^th	θ	42	U+005E U+0074 U+0068	"thi,thu'mi,thäti"	Otomi
-^ts	ts	118	U+005E U+0074 U+0073	"tsu̲di,tsäni,ts’oswerte"	Otomi
-^u̲	u̲/u	11	U+005E U+0075 U+0332	"u̲'ye̲,u̲ni,u̲ñä"	Otomi
-^äh	ɐ h	1	U+005E U+00E4 U+0068	"ähä"	Otomi
-^‘b	ˀb	26	U+005E U+2018 U+0062	"‘be̲fa_bätsi,‘be̲jini,‘bitu_'be̲hñä"	Otomi
-^‘w	ˀw	3	U+005E U+2018 U+0077	"‘wege,‘we̲di"	Otomi
-aa$	aː	25	U+0061 U+0061 U+0024	"'ba̲i_zaa,maa_zaa,ñänzaa"	Otomi
-a̲$	ɔ	46	U+0061 U+0332 U+0024	"'be̲tsa̲,k'wi'mu̲da̲,ne'ñu̲ga̲"	Otomi
-ee$	eː	1	U+0065 U+0065 U+0024	"thee"	Otomi
-e̲$	æ	35	U+0065 U+0332 U+0024	"matse̲,ta̲gi_ar_tse̲,xithe̲"	Otomi
-nhw	nʷʰ	1	U+006E U+0068 U+0077	"ñänhwaro"	Otomi
-o̲$	ə	23	U+006F U+0332 U+0024	"nthä_nzo̲ho̲,t'o̲ho̲,zo̲"	Otomi
-ts'	tsʼ	229	U+0074 U+0073 U+0027	"nthähi_nthu̲ts'i,nts'ä,yu̲ni_xi_nts'o"	Otomi
-ts’	tsʼ	32	U+0074 U+0073 U+2019	"hyats’i,juts’i,k’ats’i"	
-uu$	uː	13	U+0075 U+0075 U+0024	"kut'unguu,pa_jar_nguu,pengi_nguu"	Otomi
-u̲$	u̲/u	56	U+0075 U+0332 U+0024	"he̲'mi_hyax'bu̲,nu'mu̲,ya'bu̲"	Otomi
-äs$	ɐ s	1	U+00E4 U+0073 U+0024	"mäs"	Otomi
-^nhw	nʷʰ	4	U+005E U+006E U+0068 U+0077	"nhwat'u̲mohi,nhwebe,nhwät'i"	Otomi
+Grapheme	IPA	SCA	LANGUAGES	FREQUENCY	EXAMPLES	CODEPOINTS
+^	NULL			54	‘ño̲ho̲;‘ño̲ho̲;’ranxu;‘rame;‘mu̲i	U+005E
+$	NULL			7	nsoki_(bojä);nze̲di_zaa_(hingi_hu̲);o;o;nsoki_(bojä)	U+0024
+(	NULL			16	ts'ib(u̲)do;zim(u̲)xudi;nsoki_(bojä);nze̲di_zaa_(hingi_hu̲);dehe_'yomu(n)hño_ngizá	U+0028
+)	NULL			16	ts'ib(u̲)do;zim(u̲)xudi;nsoki_(bojä);nze̲di_zaa_(hingi_hu̲);dehe_'yomu(n)hño_ngizá	U+0029
+_	NULL		Otomi	439	hai_mbo_dehe;hai_mbo_dehe;nts'ä_hai;'ñäni_dehe;dehe_hingi_hets’i	U+005F
+'_	NULL		Otomi	1	ni'_nandi	U+0027 U+005F
+?$	NULL		Otomi	21	temu?;hanja('ä)?;honja('ä)?;yogo('ä)?;tengu?	U+003F U+0024
+^e̲$	æ	E	Otomi	1	e̲	U+005E U+0065 U+0332 U+0024
+^a̲$	ɔ	U	Otomi	1	a̲	U+005E U+0061 U+0332 U+0024
+^u$	u	Y	Otomi	1	u	U+005E U+0075 U+0024
+^-‘bya$	+ ˀb j a	_ P J A		1	-‘bya	U+005E U+002D U+2018 U+0062 U+0079 U+0061 U+0024
+a	a	A	Otomi	498	hai;hai;fonthai;'batha;'batha	U+0061
+á	á/a	A	Otomi	2	xokwi_yá_da̲;jár_hyo	U+00E1
+^a	a	A	Otomi	20	animä;asete;arko;arros;ar_nga̲t'i	U+005E U+0061
+^á	á/a	A	Otomi	1	ár_thuhu	U+005E U+00E1
+a$	a	A	Otomi	228	'batha;'batha;kweba;xa;‘bipa	U+0061 U+0024
+aa	aː	A	Otomi	5	nze̲di_zaa_(hingi_hu̲);maazaa;maa_zaa;zaa_'mat'i;zaa_nt'a̲'mu̲ha̲i	U+0061 U+0061
+á$	á/a	A	Otomi	2	padá;dehe_'yomu(n)hño_ngizá	U+00E1 U+0024
+aa$	aː	A	Otomi	25	mbozaa;zaa;zaa;däzaa;mbozaa	U+0061 U+0061 U+0024
+f	f	B	Otomi	94	'bifi;mfe̲ts'i;delfin;tafni;ndo̲fni	U+0066
+^f	f	B	Otomi	33	fonthai;fu̲gi;faspi;fe̲ts'i;fani	U+005E U+0066
+ts	ts	C	Otomi	57	metsi;metsi;nxutsi;nxutsi;bätsi	U+0074 U+0073
+'ch	ˀc	C	Otomi	1	chä'chä	U+0027 U+0063 U+0068
+^ch	c	C	Otomi	1	chä'chä	U+005E U+0063 U+0068
+^ts	ts	C	Otomi	118	tso̲ho̲;tsibi;tse̲;tsibi;tsät'i	U+005E U+0074 U+0073
+th	θ	D	Otomi	182	fonthai;xotha̲i;'batha;'batha;ñänthe	U+0074 U+0068
+^th	θ	D	Otomi	42	the̲ti;thehñä;thekunthäti;thehe;thits’i	U+005E U+0074 U+0068
+e	e	E	Otomi	377	hai_mbo_dehe;nenthe;nengi;kweba;dehe	U+0065
+ä	ɐ	E	Otomi	297	ñänthe;ñäni;däzabi;däzabi;nts'ä_hai	U+00E4
+^e	e	E	Otomi	12	elefante;embindä;embinthuni;ext'e;era	U+005E U+0065
+^ä	ɐ	E	Otomi	6	äxi;ägi;ät’i;ät’i;ät’i	U+005E U+00E4
+e$	e	E	Otomi	296	hai_mbo_dehe;ñänthe;nenthe;dehe;munts'udehe	U+0065 U+0024
+e̲	æ	E	Otomi	193	jwe̲i;jwe̲i;‘be̲jini;'be̲xui;de̲spi	U+0065 U+0332
+o̲	ə	E	Otomi	154	bo̲ha̲i;t'o̲ho̲;ndo̲do;mpo̲ñha̲i;mpo̲ni	U+006F U+0332
+ä$	ɐ	E	Otomi	182	zänä;thehñä;'be̲hñä;‘be̲hñä;'be̲hñä	U+00E4 U+0024
+^e̲	æ	E	Otomi	9	e̲i;e̲i_ya_fixi;e̲nt'i;e̲nt'i;e̲nts'i	U+005E U+0065 U+0332
+^o̲	ə	E	Otomi	16	o̲ni;o̲ni;o̲t'u̲'ñuthe;o̲t'e;o̲ni	U+005E U+006F U+0332
+ee$	eː	E	Otomi	1	thee	U+0065 U+0065 U+0024
+e̲$	æ	E	Otomi	35	tse̲;le̲le̲;jujwe̲;dätä_jujwe̲;ho̲jujwe̲	U+0065 U+0332 U+0024
+o̲$	ə	E	Otomi	23	t'o̲ho̲;tso̲ho̲;zo̲;'ño̲ho̲;‘ño̲ho̲	U+006F U+0332 U+0024
+j	x	G	Otomi	129	‘be̲jini;xija;nju;dätä_nju;dätä_jujwe̲	U+006A
+x	x	G	Otomi	247	dehe_xi_hñets’i;'be̲xui;nxutsi;nxutsi;t'ixu	U+0078
+'x	ˀx	G	Otomi	3	wa'xo;xi'xi;mbo'xi	U+0027 U+0078
+^j	x	G	Otomi	60	jä'i;jujwe̲;jujwe_bätsitho;jä'i;ju̲ni	U+005E U+006A
+^x	x	G	Otomi	180	ximha̲i;xotha̲i;ximhai;xedi_dehe;xudi	U+005E U+0078
+jw	xʷ	G	Otomi	32	dätä_jwädä;jujwe̲;dätä_jujwe̲;jujwe_bätsitho;ho̲jujwe̲	U+006A U+0077
+^jw	xʷ	G	Otomi	20	jwe̲i;jwe̲i;jwet'i;jwädä;jwädä_bätsitho	U+005E U+006A U+0077
+'	ʔ	H		81	jä'i;ts'u̲nt'u̲;ts'u̲nt'u̲;ts'u̲nt'u̲;ts'ijwe̲	U+0027
+h	h	H	Otomi	260	bo̲ha̲i;t'o̲ho̲;hai_mbo_dehe;dehe;nts'ä_hai	U+0068
+’	ʔ	H		55	ma’ye;’ranxu;nu’u;ma̲’yo;t’olo_baga	U+2019
+^h	h	H	Otomi	239	hai;hai;hai_mbo_dehe;hai;hñe	U+005E U+0068
+^hw	hʷ	H	Otomi	2	hwä;hwähi	U+005E U+0068 U+0077
+i	i	I	Otomi	515	ximha̲i;nidi;hai_mbo_dehe;ximhai;'nihi	U+0069
+í	í/i	I	Otomi	4	ju̲ní_hogu̲t'e̲i;ju̲ní_trigo;ju̲ní_de̲thä;ya_bí_wadi	U+00ED
+^i	i	I	Otomi	15	ida̲;ida_bätsitho;ixi;igo;ilo	U+005E U+0069
+i$	i	I	Otomi	1168	ximha̲i;hai;hai;fonthai;bo̲ha̲i	U+0069 U+0024
+í$	í/i	I	Otomi	8	zitsí;zitsí;zitsí;ho̲bätsí;ho̲metsí	U+00ED U+0024
+y	j	J	Otomi	99	ma’ye;hyadi;siriyo;seriyo;tiyo	U+0079
+'y	ˀj	J	Otomi	33	tsu'yo;ndo̲'yo;tsu'yo;ndo'yo;ndo'yo	U+0027 U+0079
+^y	j	J	Otomi	34	ya_bätsi_ne_ya_'be̲to;yu̲ni;ya;ye;yuki	U+005E U+0079
+y$	j	J	Otomi	1	ley	U+0079 U+0024
+‘y	ˀj	J		13	‘yone;‘yoda̲;‘yu̲ga̲;‘yomu̲nhño;‘ye̲zaa	U+2018 U+0079
+^'y	ˀj	J	Otomi	31	'ye;'yo;'yo;'yext'o;'yongu	U+005E U+0027 U+0079
+g	g	K	Otomi	246	nengi;fu̲gi;dehe_hingi_hets’i;nga̲ni;'bo̲ngui	U+0067
+k	k	K	Otomi	169	nku̲ts'i;tso̲ke;nts'o̲ke;nthe̲ku̲nthäti;thekunthäti	U+006B
+^g	g	K	Otomi	59	gui;geka̲;geku̲ga̲;geki;ge'i	U+005E U+0067
+^k	k	K	Otomi	96	ku;ka̲;ka;kameyo;kolmenä	U+005E U+006B
+gh	gʰ	K	Otomi	2	nughu̲;nughe	U+0067 U+0068
+gw	gʷ	K	Otomi	1	nugwi	U+0067 U+0077
+k'	kʼ	K		18	gek'be;xifik'eñä;nk'u̲ts'i;‘rok'a;nk'a'mi	U+006B U+0027
+kw	kʷ	K	Otomi	19	gekwi;zakwa;tso̲kwa;xokwi_yá_da̲;(mbo̲)kwe̲	U+006B U+0077
+'kw	ˀkʷ	K	Otomi	2	'bo̲'kwä;bo̲'kwä	U+0027 U+006B U+0077
+^kw	kʷ	K	Otomi	13	kweba;kwate;kwa;kwixi;kwatu̲ja̲t'i_ar_ngo̲	U+005E U+006B U+0077
+l	l	L	Otomi	62	le̲le̲;delfin;pale;pale;t'olo_doro	U+006C
+^l	l	L	Otomi	14	le̲le̲;loro;letxusa;lobo;liyon	U+005E U+006C
+l$	l	L	Otomi	4	sinsel;mil;tribunäl;ospital	U+006C U+0024
+m	m	M	Otomi	185	'bomu;hai_mbo_dehe;ho̲me;ho̲metsí;‘rame	U+006D
+'m	ˀm	M	Otomi	69	k'wi'mu̲da̲;te̲'mi;mfo'mi;'no̲'mi;nk'a'mi	U+0027 U+006D
+^m	m	M	Otomi	203	mbots'i;munts'i;munts'udehe;mehe;mbozaa	U+005E U+006D
+mh	mʰ	M	Otomi	5	ximha̲i;ximhai;mpumha̲i;mamhi;bämhñä	U+006D U+0068
+‘m	ˀm	M		8	‘mu̲i;‘muhu;‘met'e_paxa;‘me̲t’e̲i;‘mu̲ni	U+2018 U+006D
+^'m	ˀm	M	Otomi	17	'me̲hä;'me̲hä;'mafi;'muhu;'ma̲i	U+005E U+0027 U+006D
+n	n	N	Otomi	692	fonthai;ñänthe;nenthe;ñäni;nengi	U+006E
+ñ	ɲ	N	Otomi	122	dehe_xi_hñets’i;hñe;thehñä;'be̲hñä;‘be̲hñä	U+00F1
+'n	ˀn	N	Otomi	12	me'ni;t'o'ni;de̲'ni;xi'ni;uni_'nar_(n)xint'i	U+0027 U+006E
+'ñ	ˀɲ	N	Otomi	24	ge'ñe;nguu'ño;nxi'ñe;nxa'ñe;nxi'ñe	U+0027 U+00F1
+^n	n	N	Otomi	457	ni;nidi;nenthe;nengi;nku̲ts'i	U+005E U+006E
+^ñ	ɲ	N	Otomi	38	ñänthe;ñäni;ñu̲ts'i;ñu̲ni;ñot’i	U+005E U+00F1
+n$	n	N	Otomi	8	delfin;tiburon;liyon;pulmon;kañon	U+006E U+0024
+nh	nʰ	N	Otomi	3	‘yomu̲nhño;‘yomu̲nhño;hmämu̲nhño	U+006E U+0068
+ns	ns	N	Otomi	15	ganso;noku̲nsa'ñe̲;pinsa;bronse;sinsel	U+006E U+0073
+nw	nʷ	N	Otomi	3	du̲nwa;nsanwa;unwento	U+006E U+0077
+ñh	ɲʰ	N	Otomi	5	mpo̲ñha̲i;nt'e̲ñha̲i;bo̲jä_nt'e̲ñha̲i;nt'e̲ñha̲i;ñäñho	U+00F1 U+0068
+‘n	ˀn	N		1	ma_‘na	U+2018 U+006E
+‘ñ	ˀɲ	N		12	‘ño̲ho̲;‘ño̲ho̲;‘ñuji;‘ñembätsi;‘ñi	U+2018 U+00F1
+^'n	ˀn	N	Otomi	11	'nihi;'no̲t'e;'no̲'mi;'no̲t'e;'nats'i	U+005E U+0027 U+006E
+^'ñ	ˀɲ	N	Otomi	44	'ño;'ñäni_dehe;'ño̲ho̲;'ñunde;'ñuxtha	U+005E U+0027 U+00F1
+^nh	nʰ	N	Otomi	2	nhñe;nhñu	U+005E U+006E U+0068
+^ns	ns	N	Otomi	22	nsa'ñe̲;nsanwa;nsani;nsani;nsu̲t'u̲ts'i	U+005E U+006E U+0073
+^nw	nʷ	N	Otomi	3	nwent’i;nwes;nwe̲t'i	U+005E U+006E U+0077
+nhw	nʷʰ	N	Otomi	1	ñänhwaro	U+006E U+0068 U+0077
+^nhw	nʷʰ	N	Otomi	4	nhwät'i;nhwebe;nhwat'u̲mohi;nhwat'u̲nts'i	U+005E U+006E U+0068 U+0077
+b	b	P	Otomi	145	mbots'i;hai_mbo_dehe;kweba;däzabi;däzabi	U+0062
+p	p	P	Otomi	64	mpo̲ñha̲i;mpo̲ni;mpumha̲i;‘bipa;faspi	U+0070
+'b	ˀb	P	Otomi	40	ya_bätsi_ne_ya_'be̲to;nuga'be;nuga̲'be;geku̲'be;geka̲'be	U+0027 U+0062
+^b	b	P	Otomi	69	bo̲ha̲i;bu̲nthi;bätsi;bätsi;bätsi	U+005E U+0062
+^p	p	P	Otomi	112	pothe;pa;pale;pale;pasto	U+005E U+0070
+‘b	ˀb	P		1	ilo_‘bejwä	U+2018 U+0062
+^'b	ˀb	P	Otomi	56	'bomu;'batha;'batha;'be̲xui;'bo̲ngui	U+005E U+0027 U+0062
+^‘b	ˀb	P	Otomi	26	‘be̲jini;‘bipa;‘be̲hñä;‘be̲hñä;‘be̲to	U+005E U+2018 U+0062
+r	r	R	Otomi	114	siriyo;seriyo;sobrinu;sobrinä;’ranxu	U+0072
+'r	ˀr	R	Otomi	2	ma_'ra;ar_mi_'rang(u̲)di	U+0027 U+0072
+^r	r	R	Otomi	5	riñu;ro;renta;raya;radyo	U+005E U+0072
+r$	r	R	Otomi	6	doku̲tor;lugar;sur;kolor;motor	U+0072 U+0024
+‘r	ˀr	R		12	‘rame;‘rok'a;‘ruts'i;‘rozä;‘rato	U+2018 U+0072
+^'r	ˀr	R	Otomi	13	'ruthe;'rangu;'ratangu;'rede;'räts'i	U+005E U+0027 U+0072
+s	s	S	Otomi	45	faspi;'bospi;de̲spi;pasto;letxusa	U+0073
+z	z	S	Otomi	80	däzabi;däzabi;nzothe;mbozaa;mäzo	U+007A
+^s	s	S	Otomi	41	siriyo;seriyo;sobrinu;sobrinä;sorro	U+005E U+0073
+^z	z	S	Otomi	43	zabi;zabi;zaa;zänä;zo̲	U+005E U+007A
+s$	s	S	Otomi	6	nwes;arros;yoho_ya_bes;hñu_ya_bes;ni_'na_bes	U+0073 U+0024
+d	d	T	Otomi	304	nidi;hai_mbo_dehe;munts'udehe;'ñäni_dehe;xedi_dehe	U+0064
+t	t̪	T	Otomi	224	the̲ti;nthe̲ti;nthäti;nthäti;nthe̲ku̲nthäti	U+0074
+^d	d	T	Otomi	82	dehe;däzabi;däzabi;dehe_hingi_hets’i;dehe_xi_hñets’i	U+005E U+0064
+^t	t̪	T	Otomi	110	tada;ta;txu;txu;tiyo	U+005E U+0074
+t'	t̪ʼ	T		288	tsät'i;jwet'i;ts'u̲nt'u̲;ts'u̲nt'u̲;ts'u̲nt'u̲	U+0074 U+0027
+t’	t̪ʼ	T		43	ñot’i;nt’it’uxa;nt’it’uxa;bont’yo;njät’i	U+0074 U+2019
+^t'	t̪ʼ	T		48	t'o̲ho̲;t'ixu;t'olo_doro;t'u̲_boi;t'udeti	U+005E U+0074 U+0027
+ts'	tsʼ	T	Otomi	229	mbots'i;nku̲ts'i;ñu̲ts'i;nts'ä_hai;munts'i	U+0074 U+0073 U+0027
+ts’	tsʼ	T		32	dehe_hingi_hets’i;dehe_xi_hñets’i;thits’i;nts’i;nk’ants’i	U+0074 U+0073 U+2019
+o	o	U	Otomi	438	fonthai;'bomu;mbots'i;xotha̲i;hai_mbo_dehe	U+006F
+^o	o	U	Otomi	16	oku̲xiñu;ornu;oro;ot’uñu̲;oki	U+005E U+006F
+a̲	ɔ	U	Otomi	104	ximha̲i;bo̲ha̲i;xotha̲i;mpo̲ñha̲i;nga̲ni	U+0061 U+0332
+o$	o	U	Otomi	255	'ño;do;ndo̲do;siriyo;seriyo	U+006F U+0024
+ó$	ó/o	U	Otomi	1	po̲hó	U+00F3 U+0024
+^a̲	ɔ	U	Otomi	3	a̲fi;a̲ni;a̲di	U+005E U+0061 U+0332
+a̲$	ɔ	U	Otomi	46	ida̲;dätä_ida̲;ho̲ida̲;ka̲;nuga̲	U+0061 U+0332 U+0024
+w	w	W	Otomi	22	nugawi;geku̲wi;geka̲wi;nu'iwi;nu'u̲wi	U+0077
+'w	ˀw	W	Otomi	13	zu'we;zu'we;zu'we_ts'othe;gin'we̲;t'olo_gin'we̲	U+0027 U+0077
+^w	w	W	Otomi	11	wa'xo;wa;wa;went'i;wänts'i	U+005E U+0077
+‘w	ˀw	W	Otomi	1	t’afi_‘wada	U+2018 U+0077
+^'w	ˀw	W	Otomi	11	'we;'we;'we;'we̲;'wi	U+005E U+0027 U+0077
+^‘w	ˀw	W	Otomi	3	‘we̲di;‘wege;‘wege	U+005E U+2018 U+0077
+u	u	Y	Otomi	361	munts'i;munts'udehe;munts'udehe;'be̲xui;mpumha̲i	U+0075
+ú	ú/u	Y	Otomi	1	nthúts'i	U+00FA
+^u	u	Y	Otomi	15	udi;ut'i;uba;uba;unwento	U+005E U+0075
+u$	u	Y	Otomi	147	'bomu;mengu;t'ixu;nju;dätä_nju	U+0075 U+0024
+uu	uː	Y	Otomi	12	nguume̲ti;nguu'ño;nguu_ya_‘ñoho;nguu_hmunts’i;nguu_xa̲di	U+0075 U+0075
+u̲	u̲/u	Y	Otomi	336	nku̲ts'i;ñu̲ts'i;fu̲gi;ñu̲ni;bu̲nthi	U+0075 U+0332
+^u̲	u̲/u	Y	Otomi	11	u̲ts'i;u̲ni;u̲ñä;u̲hmi;u̲ts'i	U+005E U+0075 U+0332
+uu$	uː	Y	Otomi	13	nguu;nguu;kut'unguu;hyoku̲nguu;hyonguu	U+0075 U+0075 U+0024
+u̲$	u̲/u	Y	Otomi	56	ts'u̲nt'u̲;ts'u̲nt'u̲;ts'u̲nt'u̲;gehnu̲;nughu̲	U+0075 U+0332 U+0024
+-	+	_	Otomi	7	-'bya;xa̲tu̲-wi_ar_tsita;hin-;-hu;-wi	U+002D
+äh	ɐ h	E H	Otomi	33	ndähi;ndähi;zu'we_t'ähi;jähne;nts'ähmi	U+00E4 U+0068
+^äh	ɐ h	E H	Otomi	1	ähä	U+005E U+00E4 U+0068
+äs	ɐ s	E S	Otomi	2	säsi;mästro	U+00E4 U+0073
+äs$	ɐ s	E S	Otomi	1	mäs	U+00E4 U+0073 U+0024
+Jw	J/x w	G W	Otomi	5	noni_Jwä;ndäne_Jwä;zofo_Jwä;mat'i_Jwä;nguu_Jwä	U+004A U+0077
+'ä$	ʔ ɐ	H E	Otomi	14	nu'ä;ge'ä;konge'ä;is_ar_ora'ä;nge'ä	U+0027 U+00E4 U+0024
+ls	l s	L S	Otomi	2	alse;alse	U+006C U+0073
+rr	r r	R R	Otomi	7	burru;sorro;sorra;gorro;arros	U+0072 U+0072
+rs	r s	R S	Otomi	2	garsa;ejersito	U+0072 U+0073
+^rw	r w	R W	Otomi	1	rweda	U+005E U+0072 U+0077
+sw	s w	S W	Otomi	2	hogu̲swerte;ts’oswerte	U+0073 U+0077
+^sw	s w	S W	Otomi	1	swida	U+005E U+0073 U+0077

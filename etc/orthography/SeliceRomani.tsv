@@ -1,146 +1,147 @@
-Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
-^	NULL	1	U+005E		
-(	NULL	1	U+0028	"daj_(taj)_dad"	
-)	NULL	1	U+0029	"daj_(taj)_dad"	
--	+	1	U+002D	"-ha"	
-_	_	88	U+005F	"džan_upre,oven_trušálo,páncílke_gáda"	Selice Romani
-a	a	642	U+0061	"tasson,than,čhajóri"	Selice Romani
-b	b	88	U+0062	"ašaribe,dikhen_báro,ódalbordo"	Selice Romani
-c	c	28	U+0063	"ficko,kocka,ráncošno"	Selice Romani
-d	d	203	U+0064	"idegenno,murdajon,pherdo"	Selice Romani
-e	e	782	U+0065	"resen,tumen,vakeren"	Selice Romani
-f	f	16	U+0066	"kofázinen,kėfė,ofto"	Selice Romani
-g	g	173	U+0067	"hátgerinci,kanengere_khula,tégla"	Selice Romani
-h	h	19	U+0068	"míhėlė,palotáha,praho"	Selice Romani
-i	i	496	U+0069	"kačingatinen,ňalábolinen,šeprinen"	Selice Romani
-j	j	86	U+006A	"ajtóragastó,murdajon,pijen"	Selice Romani
-k	k	288	U+006B	"biknen,sokáši,válka"	Selice Romani
-l	l	301	U+006C	"orosláňa,palodílo,ďilkoššágo"	Selice Romani
-m	m	121	U+006D	"emlékezinen,nímavo,ėmėlėto"	Selice Romani
-n	n	563	U+006E	"moštóno,sabadítinen,tresinen_pe"	Selice Romani
-o	o	351	U+006F	"kampon,mol,onokateštvíro"	Selice Romani
-p	p	124	U+0070	"dakero_pral,papíri,upre"	Selice Romani
-r	r	500	U+0072	"horšoginen,irinen_pe,sojharen"	Selice Romani
-s	s	114	U+0073	"ajtóragastó,šusteri,ťúsinen"	Selice Romani
-t	t	245	U+0074	"izleto,létra,ofto"	Selice Romani
-u	u	198	U+0075	"butavo,pišum,čudákozinen"	Selice Romani
-v	v	176	U+0076	"dúvar,erďavo,tover"	Selice Romani
-x	x	1	U+0078	"baxo"	Selice Romani
-z	z	77	U+007A	"lėďezó,uze,özvėdni"	Selice Romani
-á	á/a	297	U+00E1	"kávéfézó,náso,világoššágo"	Selice Romani
-é	é/e	71	U+00E9	"asso_féliko,džan_khére,džéne"	Selice Romani
-í	í/i	177	U+00ED	"jílo,kítelkedíši,órabíro"	Selice Romani
-ó	ó/o	82	U+00F3	"hódačka,póši,šógorkiňa"	Selice Romani
-ú	ú/u	57	U+00FA	"dúr,súdo,ďújtó"	Selice Romani
-č	tʃ	57	U+010D	"kėčkė,phučen,polička"	Selice Romani
-ď	dʲ	40	U+010F	"banďon,erďavo,feďveri"	Selice Romani
-ė	ė/e	103	U+0117	"fizėtíši,mėrt,vėndígsoba"	Selice Romani
-ň	ɲ	82	U+0148	"aňago,kiráckiňa,onokateštvírkiňa"	
-š	ʃ	188	U+0161	"lėhėtéšígo,éllešító,ďapjúšno_aňago"	Selice Romani
-ť	tʲ	26	U+0165	"gembešťú,raťaha,ušťen"	Selice Romani
-ž	ʒ	51	U+017E	"daráža,džan_ánde,rúžasinko"	Selice Romani
-^a	a	54	U+005E U+0061	"adádí,amoňi,aratáši"	Selice Romani
-^b	b	112	U+005E U+0062	"bistal,biš,bíntetíši"	Selice Romani
-^c	c	23	U+005E U+0063	"cilo,cimbla,cipa"	Selice Romani
-^d	d	86	U+005E U+0064	"dagastinen,darajibe,džan_ánde"	Selice Romani
-^e	e	18	U+005E U+0065	"engedinen,ezeri,ešíši"	Selice Romani
-^f	f	47	U+005E U+0066	"faďinen,felhó,fóro"	Selice Romani
-^g	g	44	U+005E U+0067	"gádžo,gér,gípo"	Selice Romani
-^h	h	68	U+005E U+0068	"hajó,hangošno,hanďa"	Selice Romani
-^i	i	23	U+005E U+0069	"igeňešno,izgó,ištálló"	Selice Romani
-^j	j	17	U+005E U+006A	"jevend,jiv,járko"	Selice Romani
-^k	k	158	U+005E U+006B	"kasálinen,kettéšno,kopaj"	Selice Romani
-^l	l	64	U+005E U+006C	"luka,lázo,lėďezinen"	Selice Romani
-^m	m	101	U+005E U+006D	"madraci,máren,míaňago"	Selice Romani
-^n	n	35	U+005E U+006E	"na,nafta,naranči"	Selice Romani
-^o	o	34	U+005E U+006F	"oká,onokateštvírno,oven"	Selice Romani
-^p	p	131	U+005E U+0070	"papu,pišen,praleskero_čhá"	Selice Romani
-^r	r	49	U+005E U+0072	"rokoňi,rožda,rušen"	Selice Romani
-^s	s	97	U+005E U+0073	"sasťaren,sikjaren,smírom"	Selice Romani
-^t	t	81	U+005E U+0074	"találinen,tengeri,tu"	Selice Romani
-^u	u	23	U+005E U+0075	"ušinen,ušťen,užaren"	Selice Romani
-^v	v	75	U+005E U+0076	"vakeren,vicco,vláda"	Selice Romani
-^z	z	22	U+005E U+007A	"zavarošno,zengíši,záro"	Selice Romani
-^á	á/a	26	U+005E U+00E1	"árvasto,áčhon,ášítozinen"	Selice Romani
-^é	é/e	5	U+005E U+00E9	"élinen,éllešító,éršígo"	Selice Romani
-^í	í/i	13	U+005E U+00ED	"ídž,ílló,íňa"	Selice Romani
-^ó	ó/o	9	U+005E U+00F3	"ódalbordo,ój,ólmo"	Selice Romani
-^ö	ö/ø	4	U+005E U+00F6	"özvėdni_džuvli,özvėdno,özvėdno_murš"	Selice Romani
-^ú	ú/u	8	U+005E U+00FA	"újra,účeto,účo"	Selice Romani
-^č	tʃ	75	U+005E U+010D	"čaló,čirikli,čuňik"	Selice Romani
-^ď	dʲ	21	U+005E U+010F	"ďapjúšno_aňago,ďiméčo,ďoršan"	Selice Romani
-^ė	ė/e	8	U+005E U+0117	"ėmėlėto,ėvėdzó,ėzišto"	Selice Romani
-^ň	ɲ	19	U+005E U+0148	"ňerítinen,ňila,ňominen"	Selice Romani
-^š	ʃ	73	U+005E U+0161	"šlíva,šut,šúžo"	Selice Romani
-^ť	tʲ	6	U+005E U+0165	"ťiral,ťirmo,ťúsinen"	Selice Romani
-^ž	ʒ	11	U+005E U+017E	"žila,žinego,žuvárno"	Selice Romani
-a$	a	251	U+0061 U+0024	"kasa,pekenuca,álla"	Selice Romani
-b$	b	2	U+0062 U+0024	"čhib"	Selice Romani
-bb	bː	1	U+0062 U+0062	"muken_abba"	Selice Romani
-cc	cː	4	U+0063 U+0063	"ucca,vicco,špicco"	Selice Romani
-d$	d	10	U+0064 U+0024	"daj_(taj)_dad,moštóno_dad,thud"	Selice Romani
-dd	dː	2	U+0064 U+0064	"iddzadinen,kėddo"	Selice Romani
-e$	e	74	U+0065 U+0024	"gullipe,zelenipe,ňerinibe"	Selice Romani
-g$	g	10	U+0067 U+0024	"féhaňig,jag,čang"	Selice Romani
-gg	gː	1	U+0067 U+0067	"reggeli"	Selice Romani
-gs	g s	1	U+0067 U+0073	"vėndígsoba"	Selice Romani
-i$	i	194	U+0069 U+0024	"kémívėši,kódúši,tetováláši"	Selice Romani
-j$	j	38	U+006A U+0024	"kopaj,raj,šaj"	Selice Romani
-jh	j h	5	U+006A U+0068	"kájha,sojhar,sojharibe"	Selice Romani
-js	j s	1	U+006A U+0073	"hajsálo"	Selice Romani
-k$	k	9	U+006B U+0024	"burňik,nek,čak"	Selice Romani
-kh	kʰ	19	U+006B U+0068	"akharen,dikhen_súno,peren_khamni"	Selice Romani
-kk	kː	2	U+006B U+006B	"cekkeri,makko"	Selice Romani
-l$	l	28	U+006C U+0024	"balval,kerďol,upral"	Selice Romani
-lh	l h	3	U+006C U+0068	"bulho,felhó"	Selice Romani
-ll	l l	47	U+006C U+006C	"erésakolláši,gullo,sempilla"	Selice Romani
-m$	m	13	U+006D U+0024	"dudum,lim,purum"	Selice Romani
-mm	mː	1	U+006D U+006D	"šemmiššítinen"	Selice Romani
-ms	m s	1	U+006D U+0073	"somsído"	Selice Romani
-n$	n	397	U+006E U+0024	"bétlinen,pharaven,úsinen"	Selice Romani
-nn	nː	4	U+006E U+006E	"alačonno,idegenno,íhéhótlanno"	Selice Romani
-o$	o	468	U+006F U+0024	"bango,kero,világoššágo"	Selice Romani
-ph	pʰ	3	U+0070 U+0068	"dadeskeri_phen,dakeri_phen,prala_pheňa"	Selice Romani
-pp	pː	2	U+0070 U+0070	"keppeňi,puppa"	Selice Romani
-r$	r	40	U+0072 U+0024	"kher,zór,áver"	Selice Romani
-rh	r h	6	U+0072 U+0068	"korházo,serha,ťirhaj"	Selice Romani
-rs	r s	2	U+0072 U+0073	"orságúto,sersámo"	Selice Romani
-s$	s	5	U+0073 U+0024	"balevas,mas,perhas"	Selice Romani
-ss	sː	3	U+0073 U+0073	"asso_féliko,tassaren,tasson"	Selice Romani
-t$	t	21	U+0074 U+0024	"kašt,mėrt,sít"	Selice Romani
-th	tʰ	2	U+0074 U+0068	"keden_eketháne,nátha"	Selice Romani
-tt	tː	4	U+0074 U+0074	"cigaretta,cigarettázinen,kettéšno"	Selice Romani
-u$	u	5	U+0075 U+0024	"papu,préku,tu"	Selice Romani
-v$	v	10	U+0076 U+0024	"jiv,vėndígelinav,álav"	Selice Romani
-á$	á/a	13	U+00E1 U+0024	"moštóno_čhá,oká,pheňakero_čhá"	Selice Romani
-é$	é/e	3	U+00E9 U+0024	"fé,karalábé,kėzé"	Selice Romani
-éh	é/e h	3	U+00E9 U+0068	"féhaňig,plého,íhéhótlanno"	Selice Romani
-és	é/e s	1	U+00E9 U+0073	"erésakolláši"	Selice Romani
-í$	í/i	1	U+00ED U+0024	"adádí"	Selice Romani
-ó$	ó/o	72	U+00F3 U+0024	"vešó,čavaró,ďújtó"	Selice Romani
-óh	ó/o h	1	U+00F3 U+0068	"hállóhinta"	Selice Romani
-ós	ó/o s	3	U+00F3 U+0073	"hajóskero_kórmáňi,próstkiňa,prósto"	Selice Romani
-ú$	ú/u	16	U+00FA U+0024	"phú,sú,újbú"	Selice Romani
-č$	tʃ	1	U+010D U+0024	"kuč"	Selice Romani
-čh	tʃʰ	15	U+010D U+0068	"bičhaven,pheňakero_čhá,praleskeri_čhaj"	Selice Romani
-čs	tʃ s	1	U+010D U+0073	"narančsiňíno"	Selice Romani
-čč	tʃː	3	U+010D U+010D	"freččelinen,íriččígo,čuččengero_semo"	Selice Romani
-ď$	dʲ	1	U+010F U+0024	"vaď"	Selice Romani
-ė$	ė/e	19	U+0117 U+0024	"míhėlė,thoven_tėnkrė,vécė"	Selice Romani
-ėh	ė/e h	2	U+0117 U+0068	"kėhėginen,lėhėtéšígo"	Selice Romani
-ň$	ɲ	3	U+0148 U+0024	"khaň,papiň,ármiň"	Selice Romani
-ňh	ɲʰ	4	U+0148 U+0068	"kaňhajáro,kaňhi,koňha"	Selice Romani
-ňň	ɲː	5	U+0148 U+0148	"eňňa,geňňo,ďiňňa"	Selice Romani
-š$	ʃ	11	U+0161 U+0024	"biš,manuš,véš"	Selice Romani
-šš	ʃː	9	U+0161 U+0161	"idegeššígo,igeňeššígo,naššon"	Selice Romani
-ť$	tʲ	3	U+0165 U+0024	"angušť,phuro_angušť"	Selice Romani
-ťh	tʲʰ	2	U+0165 U+0068	"diťhol,máťhi"	Selice Romani
-ťť	tʲː	1	U+0165 U+0165	"pariťťa"	Selice Romani
-ž$	ʒ	6	U+017E U+0024	"dešupándž,pándž,ídž"	Selice Romani
-^kh	kʰ	14	U+005E U+006B U+0068	"kham,khangéri,khelen"	Selice Romani
-^ph	pʰ	39	U+005E U+0070 U+0068	"pherdo,pheren,phuro_angušť"	Selice Romani
-^th	tʰ	9	U+005E U+0074 U+0068	"thoven_tėnkrė,thud,tháren"	Selice Romani
-^és	é/e s	2	U+005E U+00E9 U+0073	"ésno,éso"	Selice Romani
-^čh	tʃʰ	26	U+005E U+010D U+0068	"čham,čhiden,čhá"	Selice Romani
-^ťh	tʲʰ	1	U+005E U+0165 U+0068	"ťhil"	Selice Romani
-kh$	kʰ	8	U+006B U+0068 U+0024	"dukh,likh,nakh"	Selice Romani
+Grapheme	IPA	SCA	LANGUAGES	FREQUENCY	EXAMPLES	CODEPOINTS
+^	NULL			1	-ha	U+005E
+$	NULL		NULL	0		NULL
+(	NULL			1	daj_(taj)_dad	U+0028
+)	NULL			1	daj_(taj)_dad	U+0029
+a	a	A	Selice Romani	642	praho;parto;barlango;barlango;zavarošno	U+0061
+á	á/a	A	Selice Romani	297	világo;páňi;hullámo;páňi;močára	U+00E1
+^a	a	A	Selice Romani	54	apóši;apóši;aňóša;aňóškiňa;aňóša	U+005E U+0061
+^á	á/a	A	Selice Romani	26	árňíko;árvasto;áloto;áloto;állarckapča	U+005E U+00E1
+a$	a	A	Selice Romani	251	lagúna;močára;hódačka;čillaga;lánga	U+0061 U+0024
+á$	á/a	A	Selice Romani	13	čhá;čhá;čhá;praleskero_čhá;pheňakero_čhá	U+00E1 U+0024
+f	f	B	Selice Romani	16	delfíno;elefanto;kávéfézó;kėfė;kafidi	U+0066
+v	v	B	Selice Romani	176	zavarošno;kėvėčo;zivatalo;sivárváňi;sivárváňi	U+0076
+^f	f	B	Selice Romani	47	fojó;forgó;féhaňig;feldrengíši;felhó	U+005E U+0066
+^v	v	B	Selice Romani	75	világo;véš;villámo;villámláši;villámo	U+005E U+0076
+v$	v	B	Selice Romani	10	jiv;bijav;džuv;holev;šužo_jiv	U+0076 U+0024
+c	c	C	Selice Romani	28	ficko;pociko;kijócko_máčho;hátgerinci;állarckapča	U+0063
+^c	c	C	Selice Romani	23	cipa;cimbla;combo;ciden;cukro	U+005E U+0063
+cc	cː	C	Selice Romani	4	ďócceri;špicco;ucca;vicco	U+0063 U+0063
+e	e	E	Selice Romani	782	heďo;igeňeššígo;igeňeššígo;sigeto;tengeri	U+0065
+é	é/e	E	Selice Romani	71	véš;džéne;kettéšno;čéderi;bérmadara	U+00E9
+ė	ė/e	E	Selice Romani	103	kėvėčo;kėvėčo;dėro;vėjo;vėjo	U+0117
+^e	e	E	Selice Romani	18	ešíši;elefanto;era;ebído;eňva	U+005E U+0065
+^é	é/e	E	Selice Romani	5	élinen;éšéno;élešno;éršígo;éllešító	U+005E U+00E9
+^ė	ė/e	E	Selice Romani	8	ėmėlėto;ėzišto;ėmėlinen;ėvėdzó;ėvėdzó	U+005E U+0117
+e$	e	E	Selice Romani	74	díve;džéne;džan_romeste;len_romňake;len_romeske	U+0065 U+0024
+é$	é/e	E	Selice Romani	3	kėzé;fé;karalábé	U+00E9 U+0024
+ė$	ė/e	E	Selice Romani	19	meňėčkė;meňėčkė;kėčkė;mėdvė;púpoštėvė	U+0117 U+0024
+x	x	G	Selice Romani	1	baxo	U+0078
+h	h	H	Selice Romani	19	praho;úhori;míhėčkė;míha;pihėlinen	U+0068
+^h	h	H	Selice Romani	68	heďo;habo;hullámo;haňig;hódačka	U+005E U+0068
+i	i	I	Selice Romani	496	világo;čik;sigeto;haňig;féhaňig	U+0069
+í	í/i	I	Selice Romani	177	igeňeššígo;ešíši;feldrengíši;zengíši;šetítšígo	U+00ED
+^i	i	I	Selice Romani	23	igeňeššígo;izgó;ištálló;iddzadinen;italo	U+005E U+0069
+^í	í/i	I	Selice Romani	13	íňa;íretno;ítėtinen;ípítinen;ílló	U+005E U+00ED
+i$	i	I	Selice Romani	194	póši;páňi;tengeri;páňi;ešíši	U+0069 U+0024
+í$	í/i	I	Selice Romani	1	adádí	U+00ED U+0024
+j	j	J	Selice Romani	86	fojó;ďújtó;čhajóri;bijav;daj_(taj)_dad	U+006A
+^j	j	J	Selice Romani	17	jiv;jego;jag;jakh;jílo	U+005E U+006A
+j$	j	J	Selice Romani	38	čhaj;daj;čhaj;praleskeri_čhaj;pheňakeri_čhaj	U+006A U+0024
+g	g	K	Selice Romani	173	világo;igeňeššígo;igeňeššígo;sigeto;barlango	U+0067
+k	k	K	Selice Romani	288	patako;hódačka;árňíko;muršikáno;džuvlikáno	U+006B
+^g	g	K	Selice Romani	44	gurumni;gra;galamba;gódi;gerkáňi	U+005E U+0067
+^k	k	K	Selice Romani	158	kašt;kėvėčo;kedo;kašt;kaštuno_angar	U+005E U+006B
+g$	g	K	Selice Romani	10	haňig;féhaňig;jag;čang;sig	U+0067 U+0024
+gg	gː	K	Selice Romani	1	reggeli	U+0067 U+0067
+k$	k	K	Selice Romani	9	čik;khak;burňik;čak;masek	U+006B U+0024
+kh	kʰ	K	Selice Romani	19	pókháló;kanengere_khula;dikhen_súno;peren_khamni;bokhajon	U+006B U+0068
+kk	kː	K	Selice Romani	2	makko;cekkeri	U+006B U+006B
+^kh	kʰ	K	Selice Romani	14	kham;khak;khaňaren;khaň;khamno	U+005E U+006B U+0068
+kh$	kʰ	K	Selice Romani	8	likh;jakh;nakh;nakh;bokh	U+006B U+0068 U+0024
+l	l	L	Selice Romani	301	világo;barlango;feldrengíši;villámláši;zivatalo	U+006C
+^l	l	L	Selice Romani	64	lagúna;levegó;lánga;len_romňa;len_romňake	U+005E U+006C
+l$	l	L	Selice Romani	28	balval;pral;dakero_pral;dadeskero_pral;džukel	U+006C U+0024
+m	m	M	Selice Romani	121	dombo;hullámo;villámo;villámláši;villámo	U+006D
+^m	m	M	Selice Romani	101	močára;murdaren_ári;manuš;manušni;murš	U+005E U+006D
+m$	m	M	Selice Romani	13	kham;rom;rom;pišum;čham	U+006D U+0024
+mm	mː	M	Selice Romani	1	šemmiššítinen	U+006D U+006D
+n	n	N	Selice Romani	563	barlango;tengeri;ňugotno;zavarošno;lagúna	U+006E
+ň	ɲ	N		82	igeňeššígo;páňi;páňi;haňig;féhaňig	U+0148
+^n	n	N	Selice Romani	35	nebo;nakh;nakh;naj;naj	U+005E U+006E
+^ň	ɲ	N	Selice Romani	19	ňugotno;ňakačiga;ňoma;ňálozinen;ňáli_čujon	U+005E U+0148
+n$	n	N	Selice Romani	397	čhon;tháren;thabon;dživďaren;sojharen	U+006E U+0024
+nn	nː	N	Selice Romani	4	alačonno;íhéhótlanno;idegenno;bíntelėnno	U+006E U+006E
+ň$	ɲ	N	Selice Romani	3	papiň;khaň;ármiň	U+0148 U+0024
+ňh	ɲʰ	N	Selice Romani	4	kaňhi;kaňhajáro;guňhó;koňha	U+0148 U+0068
+ňň	ɲː	N	Selice Romani	5	geňňo;eňňa;keňňíno;keňňíno;ďiňňa	U+0148 U+0148
+b	b	P	Selice Romani	88	dombo;habo;nebo;thabon;baba	U+0062
+p	p	P	Selice Romani	124	papu;dakero_pral;dadeskero_pral;apóši;apóši	U+0070
+^b	b	P	Selice Romani	112	barlango;bár;balval;brišind;bijav	U+005E U+0062
+^p	p	P	Selice Romani	131	praho;póši;parto;páňi;páňi	U+005E U+0070
+b$	b	P	Selice Romani	2	čhib;čhib	U+0062 U+0024
+bb	bː	P	Selice Romani	1	muken_abba	U+0062 U+0062
+ph	pʰ	P	Selice Romani	3	prala_pheňa;dakeri_phen;dadeskeri_phen	U+0070 U+0068
+pp	pː	P	Selice Romani	2	puppa;keppeňi	U+0070 U+0070
+^ph	pʰ	P	Selice Romani	39	phú;phú;phen;phúro;phúri	U+005E U+0070 U+0068
+r	r	R	Selice Romani	500	praho;parto;barlango;tengeri;zavarošno	U+0072
+^r	r	R	Selice Romani	49	raklo;rakli;rom;romni;rom	U+005E U+0072
+r$	r	R	Selice Romani	40	bár;kaštuno_angar;zár;zár;pór	U+0072 U+0024
+s	s	S	Selice Romani	114	džan_romeste;len_romeske;dadeskero_pral;dadeskeri_phen;praleskero_čhá	U+0073
+z	z	S	Selice Romani	77	izgó;özvėdni;özvėdni_džuvli;özvėdno;özvėdno_murš	U+007A
+š	ʃ	S	Selice Romani	188	póši;zavarošno;ešíši;ešíši;kašt	U+0161
+ž	ʒ	S	Selice Romani	51	dživďaren;džéne;džuvli;džuvlikáno;džan_romeste	U+017E
+^s	s	S	Selice Romani	97	sigeto;sivárváňi;sojharen;silei;sástro	U+005E U+0073
+^z	z	S	Selice Romani	22	zavarošno;zengíši;zivatalo;zár;zár	U+005E U+007A
+^š	ʃ	S	Selice Romani	73	šetítšígo;šošoj;šelprengeri_patmačka;škorpióni;švábo	U+005E U+0161
+^ž	ʒ	S	Selice Romani	11	žraloko;žila;žuvačkázinen;žuto;žepkendó	U+005E U+017E
+s$	s	S	Selice Romani	5	mas;mas;balevas;phus;perhas	U+0073 U+0024
+ss	sː	S	Selice Romani	3	tasson;tassaren;asso_féliko	U+0073 U+0073
+š$	ʃ	S	Selice Romani	11	véš;manuš;murš;özvėdno_murš;paš	U+0161 U+0024
+šš	ʃː	S	Selice Romani	9	igeňeššígo;világoššágo;orvoššágo;naššon;šemmiššítinen	U+0161 U+0161
+ž$	ʒ	S	Selice Romani	6	pándž;dešupándž;ídž;prekuídž;mindž	U+017E U+0024
+d	d	T	Selice Romani	203	feldrengíši;hódačka;kedo;murdaren_ári;daj_(taj)_dad	U+0064
+t	t	T	Selice Romani	245	sigeto;parto;ňugotno;patako;zivatalo	U+0074
+č	tʃ	T	Selice Romani	57	močára;kėvėčo;hódačka;meňėčkė;meňėčkė	U+010D
+ď	dʲ	T	Selice Romani	40	heďo;dživďaren;hanďa;térďa;kerďol	U+010F
+ť	tʲ	T	Selice Romani	26	ušťen;sasťaren;péťa;palášťa;kesťú	U+0165
+^d	d	T	Selice Romani	86	dombo;dėro;díve;dživďaren;džéne	U+005E U+0064
+^t	t	T	Selice Romani	81	tengeri;tiknóro;tata;teštvírno;tu	U+005E U+0074
+^č	tʃ	T	Selice Romani	75	čik;čillaga;čaládo;čéderi;čikó	U+005E U+010D
+^ď	dʲ	T	Selice Romani	21	ďújtó;ďíko;ďomra;ďilkolinen;ďengavo	U+005E U+010F
+^ť	tʲ	T	Selice Romani	6	ťirmo;ťiral;ťirhaj;ťúsinen;ťúsinen	U+005E U+0165
+d$	d	T	Selice Romani	10	brišind;dad;daj_(taj)_dad;moštóno_dad;dand	U+0064 U+0024
+dd	dː	T	Selice Romani	2	iddzadinen;kėddo	U+0064 U+0064
+t$	t	T	Selice Romani	21	kašt;kašt;rat;čekat;vošt	U+0074 U+0024
+th	tʰ	T	Selice Romani	2	nátha;keden_eketháne	U+0074 U+0068
+tt	tː	T	Selice Romani	4	kettéšno;cigarettázinen;tabletta;cigaretta	U+0074 U+0074
+č$	tʃ	T	Selice Romani	1	kuč	U+010D U+0024
+čh	tʃʰ	T	Selice Romani	15	praleskero_čhá;pheňakero_čhá;praleskeri_čhaj;pheňakeri_čhaj;moštóno_čhá	U+010D U+0068
+čč	tʃː	T	Selice Romani	3	čuččengero_semo;freččelinen;íriččígo	U+010D U+010D
+ď$	dʲ	T	Selice Romani	1	vaď	U+010F U+0024
+ť$	tʲ	T	Selice Romani	3	angušť;phuro_angušť;angušť	U+0165 U+0024
+ťh	tʲʰ	T	Selice Romani	2	máťhi;diťhol	U+0165 U+0068
+ťť	tʲː	T	Selice Romani	1	pariťťa	U+0165 U+0165
+^th	tʰ	T	Selice Romani	9	tháren;thabon;thud;than;thoven	U+005E U+0074 U+0068
+^čh	tʃʰ	T	Selice Romani	26	čhon;čhavóro;čhá;čhajóri;čhaj	U+005E U+010D U+0068
+^ťh	tʲʰ	T	Selice Romani	1	ťhil	U+005E U+0165 U+0068
+o	o	U	Selice Romani	351	dombo;ňugotno;zavarošno;fojó;forgó	U+006F
+ó	ó/o	U	Selice Romani	82	póši;hódačka;čhavóro;čhajóri;čhavóro	U+00F3
+^o	o	U	Selice Romani	34	onoka;onoka;onokateštvírno;onokateštvíro;onokateštvírkiňa	U+005E U+006F
+^ó	ó/o	U	Selice Romani	9	ón;ódalbordo;ólmo;órabíro;óčóno	U+005E U+00F3
+^ö	ö/ø	U	Selice Romani	4	özvėdni;özvėdni_džuvli;özvėdno;özvėdno_murš	U+005E U+00F6
+o$	o	U	Selice Romani	468	világo;praho;heďo;dombo;igeňeššígo	U+006F U+0024
+ó$	ó/o	U	Selice Romani	72	fojó;forgó;levegó;felhó;izgó	U+00F3 U+0024
+u	u	Y	Selice Romani	198	ňugotno;hullámo;murdaren_ári;kaštuno_angar;manuš	U+0075
+ú	ú/u	Y	Selice Romani	57	lagúna;ďújtó;phúro;phúri;borjúko	U+00FA
+^u	u	Y	Selice Romani	23	ušťen;urďen;udvara;ušinen;ušťen	U+005E U+0075
+^ú	ú/u	Y	Selice Romani	8	úhori;úsinen;účeto;účo;účo	U+005E U+00FA
+u$	u	Y	Selice Romani	5	hamu;papu;tu;astaren_préku;préku	U+0075 U+0024
+ú$	ú/u	Y	Selice Romani	16	phú;phú;varjú;sú;kesťú	U+00FA U+0024
+-	+	_		1	-ha	U+002D
+_	_	_	Selice Romani	88	murdaren_ári;kaštuno_angar;džan_romeste;len_romňa;len_romňake	U+005F
+éh	é/e h	E H	Selice Romani	3	féhaňig;plého;íhéhótlanno	U+00E9 U+0068
+ėh	ė/e h	E H	Selice Romani	2	kėhėginen;lėhėtéšígo	U+0117 U+0068
+és	é/e s	E S	Selice Romani	1	erésakolláši	U+00E9 U+0073
+^és	é/e s	E S	Selice Romani	2	éso;ésno	U+005E U+00E9 U+0073
+jh	j h	J H	Selice Romani	5	sojharen;kájha;sojharen;sojharibe;sojhar	U+006A U+0068
+js	j s	J S	Selice Romani	1	hajsálo	U+006A U+0073
+gs	g s	K S	Selice Romani	1	vėndígsoba	U+0067 U+0073
+lh	l h	L H	Selice Romani	3	felhó;bulho;bulho	U+006C U+0068
+ll	l l	L L	Selice Romani	47	hullámo;čillaga;villámo;villámláši;villámo	U+006C U+006C
+ms	m s	M S	Selice Romani	1	somsído	U+006D U+0073
+rh	r h	R H	Selice Romani	6	ťirhaj;šporhelto;serha;korházo;čavarhúzó	U+0072 U+0068
+rs	r s	R S	Selice Romani	2	sersámo;orságúto	U+0072 U+0073
+čs	tʃ s	T S	Selice Romani	1	narančsiňíno	U+010D U+0073
+óh	ó/o h	U H	Selice Romani	1	hállóhinta	U+00F3 U+0068
+ós	ó/o s	U S	Selice Romani	3	hajóskero_kórmáňi;prósto;próstkiňa	U+00F3 U+0073

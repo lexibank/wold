@@ -1,65 +1,65 @@
-Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES
-^	NULL	1298	U+005E	
-$	NULL	1362	U+0024	
-?	NULL	12	U+003F	"¿chumngechi?,¿chumngelu?,¿tuchi?"
-¿	NULL	12	U+00BF	"¿chew?,¿chumül?,¿tuchi?"
--	+	3	U+002D	"-la,resiwi-,waylü-"
-_	_	135	U+005F	"inan_peñi,kulliñ_kamañ,ḻa_kulliñ"
-a	a	912	U+0061	"anüwe,mara,ufas_foki"
-b	b	3	U+0062	"abajo,abrigo,pweblo"
-c	k	1	U+0063	"sertificaw"
-d	θ	17	U+0064	"doktor,presidente,rweda"
-e	e	714	U+0065	"ngen_ruka,nüntungen,pürapürawe"
-f	f	235	U+0066	"fentreñma,feyengu,fütra"
-g	ɰ	10	U+0067	"abrigo,galleta,viga"
-i	i	454	U+0069	"aling_kutran,itrotripa,kazi"
-j	j	6	U+006A	"abajo,antiojo,eje"
-k	k	518	U+006B	"asukura,kütralwe,rakin"
-l	l	357	U+006C	"kimelün,lilpu,plan"
-m	m	338	U+006D	"fütangen_zomo,sosialimu,trafkem"
-n	n	736	U+006E	"küla_inalelu,mupin,rangi_antü"
-o	o	328	U+006F	"choz,polisia,potreru"
-p	p	271	U+0070	"inan_peñi,pülatillu,tripako"
-q	ɣ	17	U+0071	"kiñeke_naq,naqeltu,naqün"
-r	ɻ	250	U+0072	"chaküra,faratu,pichirume"
-s	s	72	U+0073	"sanchu,sause,seruchu"
-t	t	241	U+0074	"entutornillan,fütangen_zomo,kulpatun"
-u	u	520	U+0075	"kisulen,rupan_antü,zuam"
-v	v	2	U+0076	"vidrio,viga"
-w	w	305	U+0077	"piwün,waria,züllwi"
-y	y	129	U+0079	"chezkuy,illkuley,püḻay_kuwü"
-z	z	124	U+007A	"kuzakuza,seza,wiñolzungun"
-ñ	ɲ	148	U+00F1	"müḻfeñ,peshkiñ,ñochi"
-ü	ɨ	658	U+00FC	"mukür,pürüm,witrañpüramün"
-ḻ	l̪	20	U+1E3B	"maḻeṉ,paḻu,püḻü"
-ṉ	n̪	19	U+1E49	"fuṉa,ngaṉün,weṉüy"
-^ḻ	l̪	18	U+005E U+1E3B	"ḻa,ḻafkeṉ,ḻantu_wentru"
-^ṉ	n̪	8	U+005E U+1E49	"ṉeyün,ṉümütun,ṉümüṉ"
-ch	tʃ	176	U+0063 U+0068	"chaküra,changüll_ṉamuṉ,chillkatuwe_ruka"
-fw	f w	1	U+0066 U+0077	"fwente"
-ks	k s	1	U+006B U+0073	"zireksion"
-kw	k w	3	U+006B U+0077	"kwellu,kwifike_che_yem,ponkwin"
-ll	ʎ	153	U+006C U+006C	"chüngküll,entutornillan,kollella"
-ls	l s	2	U+006C U+0073	"folsa,folso"
-lw	l w	6	U+006C U+0077	"kütralwe,rentrülwe,witranalwe"
-mw	m w	1	U+006D U+0077	"yungumwe_kura"
-ng	ŋ	123	U+006E U+0067	"fütangen_zomo,kaḻ_longko,pangi"
-ns	ns	4	U+006E U+0073	"fonsiku,kansatun,kansu"
-nw	n w	3	U+006E U+0077	"lamngenwen,ponwi"
-pw	p w	5	U+0070 U+0077	"depwe,ispwela,pwede"
-rs	ɻ s	2	U+0072 U+0073	"almuerso,karsel"
-rw	ɻ w	3	U+0072 U+0077	"mefürwe,rweda,würwan"
-sh	ʃ	11	U+0073 U+0068	"llushu,ofisha,peshkiñ"
-sw	s w	1	U+0073 U+0077	"sweldo"
-tr	ʈʂ	116	U+0074 U+0072	"ngütrarün,retrü,witral"
-zw	z w	1	U+007A U+0077	"wezwez"
-ñw	ɲ w	1	U+00F1 U+0077	"sañwe"
-üs	ɨ s	3	U+00FC U+0073	"müski,yüskalaw"
-üw	ɨ w	9	U+00FC U+0077	"ayüwkülen,füwün,lepüwe"
-ḻ$	l̪	8	U+1E3B U+0024	"kuyüḻ,peḻ,toḻ"
-ḻw	l̪ w	1	U+1E3B U+0077	"iḻwen"
-ṉ$	n̪	29	U+1E49 U+0024	"nüyüṉ,puṉ,rüngkoy_ṉamuṉ"
-^ng	ŋ	28	U+005E U+006E U+0067	"ngaṉün,ngulu,ngüneñman"
-^tr	ʈʂ	60	U+005E U+0074 U+0072	"trarin,trekan,tripan"
-ng$	ŋ	13	U+006E U+0067 U+0024	"fülang,lengleng,ngüren_lalüng"
-nsh	n ʃ	1	U+006E U+0073 U+0068	"manshun"
+Grapheme	IPA	SCA	FREQUENCY	EXAMPLES	CODEPOINTS
+^	NULL		1298	mapu;mapu;püllü;kuyüm;fotra	U+005E
+$	NULL		1362	mapu;mapu;püllü;kuyüm;trufür	U+0024
+?	NULL		12	¿chumngechi?;¿tunten?;¿mufü?;¿tunten?;¿mufü?	U+003F
+¿	NULL		12	¿chumngechi?;¿tunten?;¿mufü?;¿tunten?;¿mufü?	U+00BF
+a	a	A	912	mapu;mapu;fotra;achef_kuyüm;mawiza	U+0061
+f	f	B	235	trufür;trufken;fotra;achef_kuyüm;laf_mapu	U+0066
+v	v	B	2	viga;vidrio	U+0076
+tr	ʈʂ	C	116	fotra;witrun_ko;traytray_ko;witrun_ko;kütral	U+0074 U+0072
+^tr	ʈʂ	C	60	trufür;trufken;trorfan;tronün;tripako	U+005E U+0074 U+0072
+d	θ	D	17	korderu;doktor;tenedor;fresada;vidrio	U+0064
+e	e	E	714	trufken;achef_kuyüm;kalel;lelfün;ḻafkeṉ	U+0065
+q	ɣ	G	17	liq_kuyüm;lleqün;pachüqün;liqen;raq	U+0071
+i	i	I	454	mawiza;wingkul;lil;wapi;inaltu	U+0069
+ü	ɨ	I	658	püllü;püllü;kuyüm;trufür;kuyüm	U+00FC
+g	ɰ	J	10	llegllegkan;llegllegkan;mogelün;abrigo;viga	U+0067
+j	j	J	6	lamkja;eje;abajo;relijion;antiojo	U+006A
+c	k	K	1	sertificaw	U+0063
+k	k	K	518	kuyüm;trufken;kuyüm;achef_kuyüm;wingkul	U+006B
+l	l	L	357	wingkul;kalel;kalel;lil;lil	U+006C
+ḻ	l̪	L	20	pichi_ḻafkeṉ;wangüḻen;müḻfeñ;ayḻen;maḻeṉ	U+1E3B
+^ḻ	l̪	L	18	ḻafkeṉ;ḻafkeṉ;ḻafkeṉ;ḻewfü;ḻaku	U+005E U+1E3B
+ll	ʎ	L	153	püllü;illkuley;llozko;mamüll;llüfke	U+006C U+006C
+ḻ$	l̪	L	8	kuyüḻ;kaḻ;toḻ;peḻ;topeḻ	U+1E3B U+0024
+m	m	M	338	mapu;mapu;kuyüm;kuyüm;achef_kuyüm	U+006D
+n	n	N	736	trufken;lelfün;inaltu;trorfan;tronün	U+006E
+ñ	ɲ	N	148	ñüküf;zumiñ;llawfeñ;aywiñ;müḻfeñ	U+00F1
+ṉ	n̪	N	19	müṉa;ṉaṉüng;ṉaṉüng;ṉümiṉümitun;rüngkoy_ṉamuṉ	U+1E49
+^ṉ	n̪	N	8	ṉaṉüng;ṉaṉüng;ṉümiṉümitun;ṉamuṉ;ṉeyün	U+005E U+1E49
+ng	ŋ	N	123	wingkul;rüngan_ko;wangüḻen;trangliñi;trangliñ	U+006E U+0067
+ns	ns	N	4	kansu;kansalen;kansatun;fonsiku	U+006E U+0073
+ṉ$	n̪	N	29	ḻafkeṉ;ḻafkeṉ;ḻafkeṉ;pichi_ḻafkeṉ;nüyüṉ	U+1E49 U+0024
+^ng	ŋ	N	28	ngürü;ngüren_lalüng;nge;ngeziñ;ngülla	U+005E U+006E U+0067
+ng$	ŋ	N	13	tüng;ṉaṉüng;ṉaṉüng;lalüng;ngüren_lalüng	U+006E U+0067 U+0024
+b	b	P	3	abrigo;abajo;pweblo	U+0062
+p	p	P	271	mapu;mapu;püllü;laf_mapu;wapi	U+0070
+r	ɻ	R	250	trufür;trorfan;rew;rüngan_ko;kura	U+0072
+s	s	S	72	kuse;ufisa;sañi;zomo_sanchu;sanchu	U+0073
+z	z	S	124	mawiza;llozko;zumiñ;zomo;zomo	U+007A
+sh	ʃ	S	11	llushu;kushe;ofisha;pichi_ofisha;kushalkiñ	U+0073 U+0068
+t	t	T	241	inaltu;tüng;antü;antü;metatu	U+0074
+ch	tʃ	T	176	achef_kuyüm;pichi_ḻafkeṉ;chongümün;che;weche_wentru	U+0063 U+0068
+o	o	U	328	fotra;lolo;lolo;ko;trorfan	U+006F
+w	w	W	305	mawiza;wingkul;waw;waw;wapi	U+0077
+u	u	Y	520	mapu;mapu;kuyüm;trufür;trufken	U+0075
+y	y	Y	129	kuyüm;kuyüm;achef_kuyüm;illkuley;traytray_ko	U+0079
+-	+	_	3	waylü-;-la;resiwi-	U+002D
+_	_	_	135	achef_kuyüm;laf_mapu;pichi_ḻafkeṉ;witrun_ko;pewül_ko	U+005F
+fw	f w	B W	1	fwente	U+0066 U+0077
+üs	ɨ s	I S	3	müski;müski;yüskalaw	U+00FC U+0073
+üw	ɨ w	I W	9	anüwe;echüwün;katrüwe;füwün;füw	U+00FC U+0077
+ks	k s	K S	1	zireksion	U+006B U+0073
+kw	k w	K W	3	kwifike_che_yem;ponkwin;kwellu	U+006B U+0077
+ls	l s	L S	2	folso;folsa	U+006C U+0073
+lw	l w	L W	6	kütralwe;rentrülwe;rentrülwe;kupilwe;kelü_pañilwe	U+006C U+0077
+ḻw	l̪ w	L W	1	iḻwen	U+1E3B U+0077
+mw	m w	M W	1	yungumwe_kura	U+006D U+0077
+nsh	n ʃ	N S	1	manshun	U+006E U+0073 U+0068
+nw	n w	N W	3	lamngenwen;ponwi;ponwi	U+006E U+0077
+ñw	ɲ w	N W	1	sañwe	U+00F1 U+0077
+pw	p w	P W	5	pwerta;depwe;pweblo;ispwela;pwede	U+0070 U+0077
+rs	ɻ s	R S	2	almuerso;karsel	U+0072 U+0073
+rw	ɻ w	R W	3	mefürwe;rweda;würwan	U+0072 U+0077
+sw	s w	S W	1	sweldo	U+0073 U+0077
+zw	z w	S W	1	wezwez	U+007A U+0077

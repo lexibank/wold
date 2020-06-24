@@ -1,107 +1,108 @@
-Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
-^	NULL	11	U+005E		
-^o$	o	1	U+005E U+006F U+0024	"o"	Imbabura Quechua
--	+	11	U+002D	"-chu,-kpi,-llatak"	Imbabura Quechua
-_	_	130	U+005F	"allpa_chukchuy,subakupi_apana,ñaupashpa_apana"	Imbabura Quechua
-a	a	1078	U+0061	"akllana,churajuna,warkuna"	Imbabura Quechua
-b	b	81	U+0062	"debi,pamballa,tabla"	Imbabura Quechua
-c	c	3	U+0063	"mircules,pascana,shicanyachina"	Imbabura Quechua
-d	d	73	U+0064	"inti_llujshina_ladu,muyundi,padastru"	Imbabura Quechua
-e	e	20	U+0065	"serbisa,shwiter,tilefunu"	Imbabura Quechua
-f	ɸ	15	U+0066	"afilana_rumi,uchufa,ufrinda"	Imbabura Quechua
-g	g	44	U+0067	"kintsilgu,shagra,shigra"	Imbabura Quechua
-i	i	680	U+0069	"asina,bila,sibada"	Imbabura Quechua
-j	x	67	U+006A	"allpa_jaku,lluchijana,rilijyún"	Imbabura Quechua
-k	k	271	U+006B	"allku,bichashka,kutuk_rumi"	Imbabura Quechua
-l	l	113	U+006C	"almuza,awilu,chunchuli"	Imbabura Quechua
-m	m	148	U+006D	"paya_warmi,tamya_killa,umapi_apana"	Imbabura Quechua
-n	n	529	U+006E	"bininu,kunga_nuka,wañuna"	Imbabura Quechua
-o	o	4	U+006F	"koku,koshtumbri,umbrospi_markana"	Imbabura Quechua
-p	p	135	U+0070	"ira_pamba,kalpana,piji_japik"	Imbabura Quechua
-q	q	3	U+0071	"kulqui,kuriquinga,piqui"	Imbabura Quechua
-r	ɾ	272	U+0072	"kiru_kara,kurtina,urmachina"	Imbabura Quechua
-s	s	96	U+0073	"asua,prisidinti,sisa"	Imbabura Quechua
-t	t	158	U+0074	"jatun_jucha,jatuna_pamba,kanastu"	Imbabura Quechua
-u	u	585	U+0075	"lluki_ladu,shuti,uchufa"	Imbabura Quechua
-w	w	61	U+0077	"kawza,shuwak,yawar"	Imbabura Quechua
-y	j	145	U+0079	"kayna_chay_shuk_puncha,pukyu,shayachina"	Imbabura Quechua
-z	z	22	U+007A	"iglizya,kawza,kazarashka_runa"	Imbabura Quechua
-á	á/a	1	U+00E1	"alakrán"	Imbabura Quechua
-í	í/i	1	U+00ED	"pilíkula"	Imbabura Quechua
-ñ	ɲ	31	U+00F1	"albañil,mañana,tiñina"	Imbabura Quechua
-ó	ó/o	1	U+00F3	"liyón"	Imbabura Quechua
-ú	ú/u	4	U+00FA	"fúsfuru,rilijyún,tilibisyún"	Imbabura Quechua
-^a	a	126	U+005E U+0061	"achka,aliyana,armarina"	Imbabura Quechua
-^b	b	43	U+005E U+0062	"bijsayuk,bininu,bulana"	Imbabura Quechua
-^d	d	10	U+005E U+0064	"didu,dimandanti,durri"	Imbabura Quechua
-^e	e	1	U+005E U+0065	"elefanti"	Imbabura Quechua
-^f	ɸ	25	U+005E U+0066	"fajcha,fakishka,fukushka"	Imbabura Quechua
-^g	g	7	U+005E U+0067	"ganana,gansu,gubyernu"	Imbabura Quechua
-^i	i	36	U+005E U+0069	"inti_llujshina_ladu,ishkay,iskusadu"	Imbabura Quechua
-^j	x	72	U+005E U+006A	"jatunyana,jirraminta,jundulungu"	Imbabura Quechua
-^k	k	179	U+005E U+006B	"killpana,kunan,kuychi"	Imbabura Quechua
-^l	l	19	U+005E U+006C	"lichi,liyón,lulun"	Imbabura Quechua
-^m	m	111	U+005E U+006D	"mana_ali_rimak,mañachina,mullapa"	Imbabura Quechua
-^n	n	11	U+005E U+006E	"nina_muru,ninan_tamya,nuwis"	Imbabura Quechua
-^p	p	103	U+005E U+0070	"partida,piji_japik,pukyu"	Imbabura Quechua
-^r	ʐ	46	U+005E U+0072	"rikcharina,rina,rinri_mapa"	Imbabura Quechua
-^s	s	67	U+005E U+0073	"samay_aysana,sintinu,sintura"	Imbabura Quechua
-^t	t	88	U+005E U+0074	"tabla,tigrarichina,turtuga"	Imbabura Quechua
-^u	u	57	U+005E U+0075	"unkushka,upallayana,uras"	Imbabura Quechua
-^v	β	2	U+005E U+0076	"vira"	Imbabura Quechua
-^w	w	65	U+005E U+0077	"wakinpi,wambra,wañushka"	Imbabura Quechua
-^y	j	56	U+005E U+0079	"yachana,yana_shungu,yuyay_chingashka"	Imbabura Quechua
-^z	z	4	U+005E U+007A	"zambu,zunfa,zunfu"	Imbabura Quechua
-^ñ	ɲ	27	U+005E U+00F1	"ñajcha,ñausa,ñawi_milma"	Imbabura Quechua
-a$	a	748	U+0061 U+0024	"kanuwa,tapuna,ñawi_milma"	Imbabura Quechua
-ch	tʃ	168	U+0063 U+0068	"puchukana,uchu,wacharina"	Imbabura Quechua
-e$	e	2	U+0065 U+0024	"nigusyante,te"	Imbabura Quechua
-fs	ɸ s	1	U+0066 U+0073	"chafsina"	Imbabura Quechua
-i$	i	149	U+0069 U+0024	"chaypi,tauri,yaku_llabi"	Imbabura Quechua
-j$	x	9	U+006A U+0024	"chushaj,mitsaj,yuraj"	Imbabura Quechua
-js	x s	3	U+006A U+0073	"bijsayuk,indijsyún,sijsi"	Imbabura Quechua
-k$	k	34	U+006B U+0024	"ashnajuk,atuk,shuk"	Imbabura Quechua
-ks	k s	2	U+006B U+0073	"tuksina,wiksa"	Imbabura Quechua
-l$	l	9	U+006C U+0024	"asul,karsil,sinsil"	Imbabura Quechua
-ll	ʒ	129	U+006C U+006C	"ardilla,filulla,turu_allpa"	Imbabura Quechua
-ls	l s	1	U+006C U+0073	"bulsiku"	Imbabura Quechua
-mp	m b	8	U+006D U+0070	"impwesto,lampara,trampa"	
-ms	m s	5	U+006D U+0073	"amsa,kimsa,kimsaniki"	Imbabura Quechua
-n$	ŋ	43	U+006E U+0024	"abyun,azadun,indijsyún"	Imbabura Quechua
-ng	ŋ g	48	U+006E U+0067	"kingu,kunguri,singa"	
-nk	ŋ g	11	U+006E U+006B	"añanku,kankuna,unkuy"	
-np	m b	3	U+006E U+0070	"pinpillitu,punpuni,wakinpi"	
-nr	ŋ ɾ	3	U+006E U+0072	"rinri,rinri_kara,rinri_mapa"	
-ns	n s	2	U+006E U+0073	"gansu,sinsil"	Imbabura Quechua
-nt	n d	41	U+006E U+0074	"achka_jinti,intindina,sirbyenti"	
-o$	o	2	U+006F U+0024	"dumingo,impwesto"	Imbabura Quechua
-ps	p s	1	U+0070 U+0073	"tipsina"	Imbabura Quechua
-r$	ɾ	9	U+0072 U+0024	"altar,labradur,tilar"	Imbabura Quechua
-rr	ʐ	9	U+0072 U+0072	"arrusa,jirraminta,sirruchu"	Imbabura Quechua
-rs	ɾ s	4	U+0072 U+0073	"garsa,karsil,sarsillu"	Imbabura Quechua
-rw	r w	1	U+0072 U+0077	"trwinu"	Imbabura Quechua
-s$	s	28	U+0073 U+0024	"igus,krus,nuwis"	Imbabura Quechua
-sh	ʃ	98	U+0073 U+0068	"ishpana,raumarishka,yurak_shungu"	Imbabura Quechua
-sw	s w	1	U+0073 U+0077	"aswila"	Imbabura Quechua
-ts	ts	10	U+0074 U+0073	"atsiana,mitsaj,putsuju"	Imbabura Quechua
-u$	u	239	U+0075 U+0024	"iskusadu,kintsilgu,kuchu"	Imbabura Quechua
-ws	w s	4	U+0077 U+0073	"alli_kawsay,kawsana,kawsay"	Imbabura Quechua
-y$	j	42	U+0079 U+0024	"manchay,millay,tukuy"	Imbabura Quechua
-zh	ʒ	1	U+007A U+0068	"jwizhu"	Imbabura Quechua
-é$	é/e	1	U+00E9 U+0024	"kafé"	Imbabura Quechua
-^ch	tʃ	69	U+005E U+0063 U+0068	"chakra,chugunda,chunga_pishka"	Imbabura Quechua
-^dw	d w	1	U+005E U+0064 U+0077	"dwindi"	Imbabura Quechua
-^jw	x w	3	U+005E U+006A U+0077	"jwibes,jwis,jwizhu"	Imbabura Quechua
-^kw	k w	2	U+005E U+006B U+0077	"kwadradu,kwinta"	Imbabura Quechua
-^ll	ʒ	35	U+005E U+006C U+006C	"llagllak,lluchu_uma,llutana_jambi"	Imbabura Quechua
-^rw	ʐ w	2	U+005E U+0072 U+0077	"rwana,rwida"	Imbabura Quechua
-^sh	ʃ	29	U+005E U+0073 U+0068	"shamuna,shayarina,shutuna"	Imbabura Quechua
-^sw	s w	6	U+005E U+0073 U+0077	"swidra,swidru,swiltu"	Imbabura Quechua
-^ts	ts	3	U+005E U+0074 U+0073	"tsini,tsirapachina,tsiya"	Imbabura Quechua
-^tw	t w	1	U+005E U+0074 U+0077	"twalla"	Imbabura Quechua
-jsh	x ʃ	6	U+006A U+0073 U+0068	"inti_llujshina_ladu,ujsha,ujsha_kata"	Imbabura Quechua
-lll	ʒ	1	U+006C U+006C U+006C	"kailllalla"	Imbabura Quechua
-nch	n dʒ	26	U+006E U+0063 U+0068	"kayna_chay_shuk_puncha,punchalla,sinchi"	
-nts	n dz	1	U+006E U+0074 U+0073	"kintsilgu"	
-sh$	ʃ	3	U+0073 U+0068 U+0024	"-pash,ñapash"	Imbabura Quechua
-^shw	ʃ w	1	U+005E U+0073 U+0068 U+0077	"shwiter"	Imbabura Quechua
+Grapheme	IPA	SCA	LANGUAGES	FREQUENCY	EXAMPLES	CODEPOINTS
+^	NULL			11	-lla;-pash;-manta;-kpi;-pi	U+005E
+$	NULL		NULL	0		NULL
+^o$	o	U	Imbabura Quechua	1	o	U+005E U+006F U+0024
+a	a	A	Imbabura Quechua	1078	pacha_mama;pacha_mama;pacha_mama;allpa_jaku;allpa_jaku	U+0061
+á	á/a	A	Imbabura Quechua	1	alakrán	U+00E1
+^a	a	A	Imbabura Quechua	126	allpa;allpa;allpa_jaku;allpa_chukchuy;amsa	U+005E U+0061
+a$	a	A	Imbabura Quechua	748	pacha_mama;allpa;allpa;jaka;pamba	U+0061 U+0024
+f	ɸ	B	Imbabura Quechua	15	uchufa;fúsfuru;elefanti;amfana;ufiana	U+0066
+^f	ɸ	B	Imbabura Quechua	25	fajcha;fuyu;fuyu;fúsfuru;fangalla	U+005E U+0066
+^v	β	B	Imbabura Quechua	2	vira;vira	U+005E U+0076
+c	c	C	Imbabura Quechua	3	shicanyachina;pascana;mircules	U+0063
+ts	ts	C	Imbabura Quechua	10	putsuju;kuytsa;kapitsina;atsiana;bitsijana	U+0074 U+0073
+^ts	ts	C	Imbabura Quechua	3	tsiya;tsini;tsirapachina	U+005E U+0074 U+0073
+e	e	E	Imbabura Quechua	20	karneru;elefanti;tenedur;tenedur;serbisa	U+0065
+^e	e	E	Imbabura Quechua	1	elefanti	U+005E U+0065
+e$	e	E	Imbabura Quechua	2	nigusyante;te	U+0065 U+0024
+é$	é/e	E	Imbabura Quechua	1	kafé	U+00E9 U+0024
+j	x	G	Imbabura Quechua	67	allpa_jaku;utuju;putsuju;fajcha;wajcha	U+006A
+^j	x	G	Imbabura Quechua	72	jaka;jawa_pacha;japichina;jinti;jatun_wambra	U+005E U+006A
+j$	x	G	Imbabura Quechua	9	chushij;mitsaj;patsaj;chushaj;mushuj	U+006A U+0024
+i	i	I	Imbabura Quechua	680	tiyu;killa;luziru;rilampagu;ninan_tamya	U+0069
+í	í/i	I	Imbabura Quechua	1	pilíkula	U+00ED
+^i	i	I	Imbabura Quechua	36	inti;intinadu;intinada;istablu;ishpana	U+005E U+0069
+i$	i	I	Imbabura Quechua	149	kaspi;rumi;inti;kuychi;yaku_wiki	U+0069 U+0024
+y	j	J	Imbabura Quechua	145	tiyu;manya;mayu;pukyu;rayu	U+0079
+^y	j	J	Imbabura Quechua	56	yunga;yaku;yaku_wambuy;yaku_wambuy;yaku_akapana	U+005E U+0079
+y$	j	J	Imbabura Quechua	42	yaku_wambuy;yaku_wambuy;allpa_chukchuy;samay;pay	U+0079 U+0024
+g	g	K	Imbabura Quechua	44	rilampagu;wagra;wagra;wagra;sachaguagra	U+0067
+k	k	K	Imbabura Quechua	271	allpa_jaku;urku;jaka;yaku;mama_kucha	U+006B
+q	q	K	Imbabura Quechua	3	kuriquinga;piqui;kulqui	U+0071
+^g	g	K	Imbabura Quechua	7	gallu;gansu;garsa;granu;ganana	U+005E U+0067
+^k	k	K	Imbabura Quechua	179	kucha;kucha;kaspi;killa;kulun	U+005E U+006B
+k$	k	K	Imbabura Quechua	34	ñukanchik;michik;atuk;bijsayuk;jambik	U+006B U+0024
+l	l	L	Imbabura Quechua	113	rilampagu;kulun;awilu;awila;istablu	U+006C
+^l	l	L	Imbabura Quechua	19	luziru;luru;liyón;lulun;lanzana	U+005E U+006C
+l$	l	L	Imbabura Quechua	9	animal;albañil;sinsil;asul;papil	U+006C U+0024
+m	m	M	Imbabura Quechua	148	pacha_mama;pacha_mama;pamba;mama_kucha;mama_kucha	U+006D
+^m	m	M	Imbabura Quechua	111	manya;mama_kucha;mama_kucha;mayu;micha	U+005E U+006D
+n	n	N	Imbabura Quechua	529	manya;yaku_akapana;ninan_tamya;ninan_tamya;nina	U+006E
+ñ	ɲ	N	Imbabura Quechua	31	wañuchina;ñaña;paya_ñaña;paya_ñaña;jipa_ñaña	U+00F1
+^n	n	N	Imbabura Quechua	11	ninan_tamya;nina;nina;nina_muru;ninakuru	U+005E U+006E
+^ñ	ɲ	N	Imbabura Quechua	27	ñaña;ñitu;ñita;ñaupa_runakuna;ñuka	U+005E U+00F1
+n$	ŋ	N	Imbabura Quechua	43	kulun;karbun;jachun;jachun;kan	U+006E U+0024
+b	b	P	Imbabura Quechua	81	pamba;yaku_wambuy;yaku_wambuy;karbun;wambra	U+0062
+p	p	P	Imbabura Quechua	135	allpa;allpa;allpa_jaku;yaku_akapana;turu_allpa	U+0070
+^b	b	P	Imbabura Quechua	43	byuda;byudu;buyi;baka;bistya	U+005E U+0062
+^p	p	P	Imbabura Quechua	103	pacha_mama;pamba;putsuju;pukyu;paya_ñaña	U+005E U+0070
+r	ɾ	R	Imbabura Quechua	272	turu;urku;turu_allpa;luziru;wayra	U+0072
+r$	ɾ	R	Imbabura Quechua	9	yawar;tenedur;tilar;shwiter;labradur	U+0072 U+0024
+s	s	S	Imbabura Quechua	96	kaspi;rasu;rasu;fúsfuru;kusa	U+0073
+z	z	S	Imbabura Quechua	22	luziru;kazarana;kazamintu;kazarashka_runa;kazarashka_warmi	U+007A
+^r	ʐ	S	Imbabura Quechua	46	rumi;rilampagu;rayu;rasu;rasu	U+005E U+0072
+^s	s	S	Imbabura Quechua	67	sacha;samay;subrinu;subrina;sachaguagra	U+005E U+0073
+^z	z	S	Imbabura Quechua	4	zambu;zafana;zunfa;zunfu	U+005E U+007A
+ll	ʒ	S	Imbabura Quechua	129	allpa;allpa;allpa_jaku;turu_allpa;allpa_chukchuy	U+006C U+006C
+rr	ʐ	S	Imbabura Quechua	9	burru;arrusa;jirraminta;sirruchu;jirriru	U+0072 U+0072
+s$	s	S	Imbabura Quechua	28	millisus;añas;sintupis;barbas;alas	U+0073 U+0024
+sh	ʃ	S	Imbabura Quechua	98	kushni;kazarashka_runa;kazarashka_warmi;ushi;pishku	U+0073 U+0068
+zh	ʒ	S	Imbabura Quechua	1	jwizhu	U+007A U+0068
+^ll	ʒ	S	Imbabura Quechua	35	llantu;llama;llama;llama;llaushana	U+005E U+006C U+006C
+^sh	ʃ	S	Imbabura Quechua	29	shiku;shimi;shimi;shungu;shinchi	U+005E U+0073 U+0068
+lll	ʒ	S	Imbabura Quechua	1	kailllalla	U+006C U+006C U+006C
+sh$	ʃ	S	Imbabura Quechua	3	ñapash;ñapash;-pash	U+0073 U+0068 U+0024
+d	d	T	Imbabura Quechua	73	swidru;swidru;swidra;swidra;padastru	U+0064
+t	t	T	Imbabura Quechua	158	utuju;ninan_tamya;jatun_wambra;tayta;ñitu	U+0074
+^d	d	T	Imbabura Quechua	10	dibursyu;dyablillu;didu;didu;dibina	U+005E U+0064
+^t	t	T	Imbabura Quechua	88	turu;tiyu;turu_allpa;tamya;tayta	U+005E U+0074
+ch	tʃ	T	Imbabura Quechua	168	pacha_mama;mama_kucha;mama_kucha;kucha;kucha	U+0063 U+0068
+^ch	tʃ	T	Imbabura Quechua	69	churi;churikuna;chita;chita;chushij	U+005E U+0063 U+0068
+o	o	U	Imbabura Quechua	4	koku;umbrospi_markana;kosa;koshtumbri	U+006F
+ó	ó/o	U	Imbabura Quechua	1	liyón	U+00F3
+o$	o	U	Imbabura Quechua	2	impwesto;dumingo	U+006F U+0024
+w	w	W	Imbabura Quechua	61	yaku_wambuy;yaku_wambuy;jawa_pacha;yaku_wiki;jatun_wambra	U+0077
+^w	w	W	Imbabura Quechua	65	wayra;wañuchina;warmi;warmi;wambra	U+005E U+0077
+u	u	Y	Imbabura Quechua	585	turu;yunga;utuju;mama_kucha;putsuju	U+0075
+ú	ú/u	Y	Imbabura Quechua	4	fúsfuru;rilijyún;tilibisyún;indijsyún	U+00FA
+^u	u	Y	Imbabura Quechua	57	urku;utuju;uchufa;ushi;ukucha	U+005E U+0075
+u$	u	Y	Imbabura Quechua	239	allpa_jaku;turu;tiyu;urku;utuju	U+0075 U+0024
+-	+	_	Imbabura Quechua	11	-lla;-pash;-manta;-kpi;-pi	U+002D
+_	_	_	Imbabura Quechua	130	pacha_mama;allpa_jaku;mama_kucha;mama_kucha;yaku_wambuy	U+005F
+fs	ɸ s	B S	Imbabura Quechua	1	chafsina	U+0066 U+0073
+js	x s	G S	Imbabura Quechua	3	bijsayuk;sijsi;indijsyún	U+006A U+0073
+jsh	x ʃ	G S	Imbabura Quechua	6	shijshi;ujsha_wasi;ujsha_kata;ujsha;llujshina	U+006A U+0073 U+0068
+^jw	x w	G W	Imbabura Quechua	3	jwibes;jwizhu;jwis	U+005E U+006A U+0077
+ks	k s	K S	Imbabura Quechua	2	tuksina;wiksa	U+006B U+0073
+^kw	k w	K W	Imbabura Quechua	2	kwinta;kwadradu	U+005E U+006B U+0077
+ls	l s	L S	Imbabura Quechua	1	bulsiku	U+006C U+0073
+mp	m b	M P		8	rilampagu;lampara;sisa_pampa;impwesto;timpu	U+006D U+0070
+np	m b	M P		3	punpuni;pinpillitu;wakinpi	U+006E U+0070
+ms	m s	M S	Imbabura Quechua	5	amsa;kimsa;kimsaniki;kimsa_kutin;amsa	U+006D U+0073
+nts	n dz	N C		1	kintsilgu	U+006E U+0074 U+0073
+ng	ŋ g	N K		48	yunga;anga;anga;kuriquinga;singa	U+006E U+0067
+nk	ŋ g	N K		11	kankuna;añanku;anku;runkana;unkushka	U+006E U+006B
+nr	ŋ ɾ	N R		3	rinri;rinri_kara;rinri_mapa	U+006E U+0072
+ns	n s	N S	Imbabura Quechua	2	gansu;sinsil	U+006E U+0073
+nt	n d	N T		41	inti;llantu;yanta;jinti;kazamintu	U+006E U+0074
+nch	n dʒ	N T		26	ñukanchik;chunchuli;shinchi;shungunchina;kancha	U+006E U+0063 U+0068
+ps	p s	P S	Imbabura Quechua	1	tipsina	U+0070 U+0073
+rs	ɾ s	R S	Imbabura Quechua	4	dibursyu;garsa;sarsillu;karsil	U+0072 U+0073
+rw	r w	R W	Imbabura Quechua	1	trwinu	U+0072 U+0077
+sw	s w	S W	Imbabura Quechua	1	aswila	U+0073 U+0077
+^rw	ʐ w	S W	Imbabura Quechua	2	rwana;rwida	U+005E U+0072 U+0077
+^sw	s w	S W	Imbabura Quechua	6	swidru;swidru;swidra;swidra;swiltu	U+005E U+0073 U+0077
+^shw	ʃ w	S W	Imbabura Quechua	1	shwiter	U+005E U+0073 U+0068 U+0077
+^dw	d w	T W	Imbabura Quechua	1	dwindi	U+005E U+0064 U+0077
+^tw	t w	T W	Imbabura Quechua	1	twalla	U+005E U+0074 U+0077
+ws	w s	W S	Imbabura Quechua	4	kawsana;alli_kawsay;kawsana;kawsay	U+0077 U+0073
