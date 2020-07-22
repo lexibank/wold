@@ -1,9 +1,9 @@
-Tones	Raw_ToneClass	ToneClass	ToneValue	Doculect	Remark
-˧/³³	level	˧	³³	WhiteHmong	
-˩/¹¹	s	 ˩	 ¹¹	WhiteHmong	
-˩˧/¹³	d	˩˧	¹³	WhiteHmong	
-˧˦/³⁴	v	˧˦	³⁴	WhiteHmong	
-˧˩/³¹	g	˧˩	³¹	WhiteHmong	
-˥˧/⁵³	j	˥˧	⁵³	WhiteHmong	
-˥/⁵⁵	b	˥	⁵⁵	WhiteHmong	
-˨˩˧/²¹³	m	˩'	¹¹’/²¹³	WhiteHmong	Heimbach stated that m and d might be the same. But I assign different tonal markings and tones to distinguish m and d.
+Category	Raw_ToneClass	Chao_Letters	Tone	Language_ID	Remark
+⁵	level	˧	³³	WhiteHmong	
+?	s	 ˩	¹¹	WhiteHmong	
+?	d	˩˧	¹³	WhiteHmong	
+¹	v	˧˦	³⁴	WhiteHmong	
+⁶	g	˧˩	³¹	WhiteHmong	
+²	j	˥˧	⁵³	WhiteHmong	
+?	b	˥	⁵⁵	WhiteHmong	
+⁶	m	˩'	²¹³	WhiteHmong	Heimbach stated that m and d might be the same. But I assign different tonal markings and tones to distinguish m and d.

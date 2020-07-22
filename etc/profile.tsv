@@ -1,0 +1,1489 @@
+Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
+^	NULL				
+$	NULL				
+a	NULL	man, ɨaraχan	Indonesian, Mandarin Chinese, Malagasy, Seychelles Creole, Thai, Japanese, Gurindji, Hawaiian, White Hmong, Imbabura Quechua, Q'eqchi', Swahili, Yaqui, Takia, Zinacantán Tzotzil, Romanian, Gawwada, Wichí, Lower Sorbian, Kali'na, Archi, Tarifiyt Berber, Bezhta, Mapudungun, Selice Romani, Iraqw, English, Sakha, Old High German, Ceq Wong, Otomi, Kildin Saami, Hausa, Oroqen, Ket, Dutch, Manange, Saramaccan, Hup, Vietnamese, Kanuri	31406	U+0061
+i	NULL	pilipili, hits’ifwin	Mandarin Chinese, Romanian, Japanese, Swahili, Yaqui, Imbabura Quechua, Malagasy, Indonesian, Dutch, Zinacantán Tzotzil, Q'eqchi', Hawaiian, Seychelles Creole, Wichí, Selice Romani, Old High German, Gurindji, Otomi, English, Bezhta, Tarifiyt Berber, White Hmong, Lower Sorbian, Mapudungun, Kali'na, Archi, Gawwada, Sakha, Takia, Vietnamese, Oroqen, Ket, Iraqw, Kildin Saami, Manange, Hausa, Thai, Ceq Wong, Saramaccan, Hup, Kanuri	17737	U+0069
+n	NULL	mana nina, nono	Mandarin Chinese, Malagasy, Indonesian, Otomi, Imbabura Quechua, Romanian, Selice Romani, Swahili, Gurindji, Seychelles Creole, Kali'na, Q'eqchi', Hawaiian, Lower Sorbian, Vietnamese, Mapudungun, Hausa, Dutch, Japanese, Takia, Kanuri, Saramaccan, English, Wichí, Old High German, Yaqui, Iraqw, White Hmong, Zinacantán Tzotzil, Tarifiyt Berber, Thai, Gawwada, Archi, Bezhta, Kildin Saami, Sakha, Oroqen, Ket, Manange, Ceq Wong, Hup	15273	U+006e
+e	NULL	pen, tei-	Dutch, Indonesian, Seychelles Creole, Romanian, Selice Romani, Wichí, Kildin Saami, Mapudungun, English, Yaqui, Mandarin Chinese, Lower Sorbian, Japanese, Old High German, Q'eqchi', Zinacantán Tzotzil, Hawaiian, Kali'na, Otomi, Sakha, Swahili, Takia, Ket, Thai, Bezhta, Archi, White Hmong, Saramaccan, Manange, Hup, Ceq Wong, Gawwada, Malagasy, Hausa, Iraqw, Vietnamese, Imbabura Quechua, Tarifiyt Berber	14196	U+0065
+u	NULL	ndugu, tua	Mandarin Chinese, Indonesian, Romanian, Gurindji, Imbabura Quechua, White Hmong, Japanese, Swahili, Archi, Yaqui, Hawaiian, Q'eqchi', Mapudungun, Kali'na, Zinacantán Tzotzil, Wichí, Otomi, Sakha, Lower Sorbian, Tarifiyt Berber, Kildin Saami, Oroqen, Old High German, English, Dutch, Seychelles Creole, Selice Romani, Manange, Gawwada, Vietnamese, Thai, Takia, Iraqw, Bezhta, Ceq Wong, Hausa, Saramaccan, Ket, Hup, Kanuri, Malagasy	13148	U+0075
+o	NULL	motor, k’ok’	Seychelles Creole, Mandarin Chinese, Lower Sorbian, Romanian, Yaqui, Q'eqchi', Japanese, Hawaiian, Wichí, Zinacantán Tzotzil, Kali'na, Malagasy, English, Otomi, Bezhta, Dutch, Selice Romani, Sakha, Swahili, Takia, White Hmong, Archi, Mapudungun, Old High German, Indonesian, Gawwada, Ket, Manange, Kildin Saami, Saramaccan, Thai, Hup, Ceq Wong, Hausa, Vietnamese, Iraqw, Oroqen, Imbabura Quechua, Kanuri	12749	U+006f
+r	r	kari, kara	Romanian, Malagasy, Japanese, Seychelles Creole, Selice Romani, Indonesian, Lower Sorbian, Sakha, Gurindji, Dutch, Mapudungun, English, Kanuri, Old High German, Imbabura Quechua, Oroqen, Hausa, Yaqui, Iraqw, Archi, Swahili, Thai, Takia, Q'eqchi', Gawwada, Tarifiyt Berber, Manange, Bezhta, Kildin Saami, Otomi, Zinacantán Tzotzil, Vietnamese, Ceq Wong, Ket, Mandarin Chinese, White Hmong, Hup, Kali'na, Wichí, Hawaiian	10374	U+0072
+a$	a	na, ta	Malagasy, Swahili, Imbabura Quechua, Hausa, Yaqui, Hawaiian, Lower Sorbian, Gurindji, Kali'na, Indonesian, Selice Romani, Romanian, Tarifiyt Berber, Japanese, Iraqw, Otomi, Saramaccan, Bezhta, Old High German, Oroqen, Wichí, Mapudungun, Thai, Sakha, Takia, Gawwada, Manange, Zinacantán Tzotzil, Ket, Kildin Saami, Seychelles Creole, Archi, Vietnamese, White Hmong, Q'eqchi', Hup, Mandarin Chinese, English, Dutch	9739	U+0061 U+0024
+t	t	motor, kaleta	Romanian, Otomi, Malagasy, Yaqui, Kanuri, Kali'na, Wichí, Indonesian, Seychelles Creole, Mapudungun, Zinacantán Tzotzil, Lower Sorbian, Sakha, Q'eqchi', Selice Romani, Saramaccan, Dutch, Kildin Saami, White Hmong, Japanese, Gawwada, Swahili, Old High German, English, Imbabura Quechua, Gurindji, Manange, Ket, Hausa, Oroqen, Takia, Bezhta, Tarifiyt Berber, Iraqw, Hup, Vietnamese, Archi, Thai, Ceq Wong, Mandarin Chinese, Hawaiian	9711	U+0074
+l	NULL	pilipili, hal’o	Kali'na, Hawaiian, Romanian, Indonesian, Q'eqchi', Mapudungun, Seychelles Creole, Selice Romani, Wichí, Gurindji, Malagasy, Kanuri, Iraqw, Dutch, Zinacantán Tzotzil, Oroqen, English, Sakha, Takia, Lower Sorbian, Swahili, Old High German, Bezhta, Ket, Manange, Thai, Kildin Saami, Yaqui, Archi, White Hmong, Hausa, Imbabura Quechua, Gawwada, Mandarin Chinese, Ceq Wong, Saramaccan, Otomi, Tarifiyt Berber, Vietnamese	8854	U+006c
+k	k	k’ok’, kuku	Japanese, Hawaiian, Kali'na, Yaqui, Malagasy, Oroqen, Zinacantán Tzotzil, Q'eqchi', Indonesian, Gurindji, Swahili, Selice Romani, Mapudungun, Imbabura Quechua, Hausa, Lower Sorbian, Saramaccan, Kildin Saami, Manange, Gawwada, Otomi, Archi, Seychelles Creole, Bezhta, Wichí, Kanuri, Thai, Sakha, Dutch, Takia, Old High German, Iraqw, Ceq Wong, White Hmong, Hup, English, Ket, Tarifiyt Berber, Mandarin Chinese, Vietnamese, Romanian	8446	U+006b
+_	_	gádu kóti fája, 2ʃiŋ 3tuŋ 4tʰuŋ	White Hmong, Vietnamese, Romanian, Otomi, Q'eqchi', Hausa, Manange, Gurindji, Zinacantán Tzotzil, Hawaiian, Takia, Bezhta, Archi, Yaqui, Swahili, Kanuri, Hup, Mapudungun, Imbabura Quechua, Wichí, Seychelles Creole, Sakha, Lower Sorbian, Indonesian, Malagasy, Ceq Wong, Tarifiyt Berber, Iraqw, Selice Romani, Ket, Japanese, Kali'na, Gawwada, Saramaccan, Oroqen, Kildin Saami, Dutch, Mandarin Chinese, English, Thai, Old High German	7679	U+005f
+m	m	uma, mama	Swahili, Indonesian, Kali'na, Romanian, Japanese, Malagasy, Yaqui, Kanuri, Tarifiyt Berber, Gurindji, Mapudungun, Iraqw, Otomi, Seychelles Creole, Hawaiian, Hausa, Q'eqchi', Manange, Imbabura Quechua, Saramaccan, Thai, White Hmong, Oroqen, Selice Romani, Lower Sorbian, Archi, Kildin Saami, Takia, Zinacantán Tzotzil, Sakha, Gawwada, English, Mandarin Chinese, Bezhta, Wichí, Dutch, Vietnamese, Ket, Old High German, Hup, Ceq Wong	6860	U+006d
+i$	i	hai, -abi	Otomi, Japanese, Swahili, Hausa, Saramaccan, Hawaiian, Romanian, Takia, Gurindji, Indonesian, Yaqui, Selice Romani, Vietnamese, Manange, Iraqw, Wichí, Imbabura Quechua, Bezhta, Mandarin Chinese, Seychelles Creole, Tarifiyt Berber, Kali'na, Oroqen, Archi, Old High German, Mapudungun, Gawwada, Thai, Lower Sorbian, Sakha, Hup, Zinacantán Tzotzil, White Hmong, Dutch, Q'eqchi', Ceq Wong, Ket, English	6577	U+0069 U+0024
+^k	k	k’ok’, ki	Kanuri, Japanese, Hawaiian, Q'eqchi', Swahili, Kildin Saami, Indonesian, Mapudungun, Sakha, Seychelles Creole, Yaqui, Gurindji, Imbabura Quechua, Gawwada, Kali'na, Selice Romani, Thai, Zinacantán Tzotzil, Lower Sorbian, Ceq Wong, Hausa, Saramaccan, Bezhta, Dutch, Takia, Ket, Otomi, Oroqen, Archi, Iraqw, White Hmong, Hup, Old High German, Wichí, Mandarin Chinese, Malagasy, Manange, Vietnamese, Tarifiyt Berber, English	5846	U+005e U+006b
+n$	n	man, pen	Dutch, Mapudungun, Selice Romani, Old High German, Seychelles Creole, Thai, Oroqen, Indonesian, Vietnamese, Japanese, Sakha, Zinacantán Tzotzil, Takia, English, Q'eqchi', Tarifiyt Berber, Ket, Romanian, Saramaccan, Archi, Wichí, Kali'na, Ceq Wong, Bezhta, Lower Sorbian, Kanuri, Gurindji, Imbabura Quechua, Kildin Saami, Hup, Hausa, Mandarin Chinese, Yaqui, Gawwada, Iraqw, Otomi, Manange, Malagasy	5330	U+006e U+0024
+^m	m	man, mkwe	Malagasy, Indonesian, Swahili, Otomi, Japanese, Hausa, Hawaiian, Seychelles Creole, Romanian, Thai, Takia, Imbabura Quechua, Gurindji, Selice Romani, Lower Sorbian, Mapudungun, Zinacantán Tzotzil, Vietnamese, Bezhta, Kildin Saami, Yaqui, Mandarin Chinese, Iraqw, Gawwada, Q'eqchi', Dutch, Saramaccan, Kali'na, Sakha, English, Hup, Kanuri, Archi, Old High German, Oroqen, White Hmong, Wichí, Ceq Wong, Tarifiyt Berber, Manange, Ket	4841	U+005e U+006d
+^t	t	ta, te	Wichí, Q'eqchi', Zinacantán Tzotzil, Sakha, Indonesian, Yaqui, White Hmong, Otomi, Hup, Japanese, Seychelles Creole, Vietnamese, Saramaccan, Takia, Kali'na, Malagasy, Oroqen, Swahili, Mapudungun, Kanuri, Gawwada, Hausa, Ket, Thai, Mandarin Chinese, Ceq Wong, Imbabura Quechua, Selice Romani, Kildin Saami, Romanian, Iraqw, English, Gurindji, Lower Sorbian, Dutch, Old High German, Bezhta, Archi, Tarifiyt Berber, Manange, Hawaiian	4517	U+005e U+0074
+g	g	ndugu, mdogo	Mandarin Chinese, Indonesian, Swahili, Kanuri, Otomi, Gurindji, Japanese, Selice Romani, Vietnamese, Mapudungun, Oroqen, Romanian, Old High German, Dutch, Saramaccan, Sakha, Lower Sorbian, Hausa, Imbabura Quechua, Malagasy, Kildin Saami, Takia, Seychelles Creole, Hup, Iraqw, White Hmong, Ket, English, Bezhta, Ceq Wong, Archi, Tarifiyt Berber, Q'eqchi', Zinacantán Tzotzil, Kali'na, Thai, Wichí, Manange	4495	U+0067
+e$	e	te, mkwe	Seychelles Creole, Romanian, Kildin Saami, Gawwada, English, Yaqui, Otomi, Hawaiian, Kali'na, Hausa, Manange, Mapudungun, Swahili, Japanese, Wichí, Lower Sorbian, Sakha, Takia, Bezhta, Dutch, Selice Romani, Thai, Q'eqchi', Zinacantán Tzotzil, White Hmong, Mandarin Chinese, Iraqw, Archi, Saramaccan, Old High German, Ket, Vietnamese, Malagasy, Hup, Indonesian, Imbabura Quechua	4331	U+0065 U+0024
+b	b	-abi, baba	Q'eqchi', Indonesian, Swahili, White Hmong, Japanese, Yaqui, Otomi, Malagasy, Archi, Kanuri, Saramaccan, Romanian, Hausa, Sakha, Zinacantán Tzotzil, Takia, Lower Sorbian, Ket, Seychelles Creole, Bezhta, Old High German, Hup, Selice Romani, Imbabura Quechua, Mandarin Chinese, Oroqen, Ceq Wong, Iraqw, Dutch, English, Vietnamese, Kildin Saami, Thai, Tarifiyt Berber, Mapudungun, Kali'na, Hawaiian, Wichí, Manange	4112	U+0062
+p	p	papa, hāpai	Kali'na, Romanian, Gurindji, Hawaiian, Indonesian, Manange, Seychelles Creole, Imbabura Quechua, Yaqui, Lower Sorbian, Selice Romani, Wichí, Malagasy, Gawwada, Mapudungun, Swahili, Kildin Saami, Hup, Saramaccan, Dutch, White Hmong, Zinacantán Tzotzil, English, Otomi, Q'eqchi', Takia, Thai, Oroqen, Ceq Wong, Mandarin Chinese, Sakha, Old High German, Bezhta, Ket, Iraqw, Japanese, Kanuri, Archi, Vietnamese, Tarifiyt Berber	4066	U+0070
+s	NULL	kosa, isi	Romanian, Seychelles Creole, Lower Sorbian, Yaqui, Indonesian, Japanese, Kali'na, Wichí, Swahili, Saramaccan, White Hmong, Tarifiyt Berber, Selice Romani, English, Ket, Iraqw, Bezhta, Kildin Saami, Q'eqchi', Sakha, Imbabura Quechua, Takia, Hausa, Old High German, Zinacantán Tzotzil, Kanuri, Dutch, Gawwada, Malagasy, Manange, Archi, Mapudungun, Otomi, Thai, Mandarin Chinese, Vietnamese, Ceq Wong, Hawaiian, Oroqen	3942	U+0073
+o$	o	hal’o, nono	Selice Romani, Gawwada, Kali'na, Bezhta, Malagasy, Otomi, Swahili, Japanese, Hawaiian, Yaqui, Lower Sorbian, Hausa, Old High German, Manange, Iraqw, Seychelles Creole, Zinacantán Tzotzil, Mapudungun, Vietnamese, Thai, Saramaccan, Takia, Wichí, Q'eqchi', Archi, Sakha, White Hmong, Mandarin Chinese, Indonesian, English, Ket, Dutch, Hup, Oroqen, Romanian, Kildin Saami, Kanuri, Imbabura Quechua	3923	U+006f U+0024
+d	d	ndugu, dada	Otomi, Malagasy, Romanian, Selice Romani, Dutch, Kanuri, Indonesian, Lower Sorbian, Swahili, Saramaccan, Bezhta, Oroqen, Seychelles Creole, Hausa, Takia, Hup, English, Kildin Saami, Mandarin Chinese, Archi, Japanese, Sakha, Imbabura Quechua, Old High German, Ket, Iraqw, Thai, Ceq Wong, Tarifiyt Berber, Vietnamese, White Hmong, Mapudungun, Kali'na, Q'eqchi', Wichí, Yaqui, Manange	3864	U+0064
+^s	s	sas, sap	Sakha, Thai, Old High German, Indonesian, English, Dutch, Seychelles Creole, Japanese, Romanian, Lower Sorbian, Takia, Q'eqchi', Saramaccan, Kildin Saami, Ket, Yaqui, Swahili, Selice Romani, Hausa, Kanuri, Ceq Wong, Malagasy, Iraqw, Gawwada, Vietnamese, Kali'na, Imbabura Quechua, White Hmong, Zinacantán Tzotzil, Bezhta, Tarifiyt Berber, Mandarin Chinese, Otomi, Archi, Wichí, Mapudungun, Manange, Oroqen, Hawaiian	3767	U+005e U+0073
+’	<?>	k’ak’al, k’ok’	Bezhta, Q'eqchi', Kildin Saami, Tarifiyt Berber, Yaqui, Wichí, Zinacantán Tzotzil, Hup, Otomi, Archi, Gawwada, Kali'na, Malagasy, Japanese, Iraqw, Hausa, Swahili	3640	U+2019
+-	<?>	-abi, tei-	Takia, Bezhta, Swahili, Hup, Oroqen, Gurindji, Kali'na, Kildin Saami, White Hmong, Manange, Indonesian, Malagasy, Ket, Seychelles Creole, English, Imbabura Quechua, Mandarin Chinese, Archi, Otomi, Romanian, Zinacantán Tzotzil, Kanuri, Yaqui, Hausa, Sakha, Gawwada, Mapudungun, Thai, Dutch, Japanese, Tarifiyt Berber, Iraqw, Lower Sorbian, Q'eqchi'	3585	U+002d
+^p	p	papa, pen	Lower Sorbian, Hawaiian, Indonesian, Seychelles Creole, Kildin Saami, Romanian, Kali'na, Mapudungun, Selice Romani, Gurindji, Otomi, Thai, Zinacantán Tzotzil, Imbabura Quechua, Q'eqchi', White Hmong, English, Hup, Saramaccan, Takia, Gawwada, Swahili, Yaqui, Ceq Wong, Mandarin Chinese, Dutch, Bezhta, Wichí, Archi, Iraqw, Manange, Malagasy, Tarifiyt Berber, Japanese, Old High German, Ket, Oroqen, Sakha, Kanuri, Vietnamese	3543	U+005e U+0070
+y	y	niyat, unyoya	Gurindji, Seychelles Creole, Wichí, Lower Sorbian, Hausa, Bezhta, Imbabura Quechua, Hup, Japanese, Swahili, Mandarin Chinese, Tarifiyt Berber, Otomi, Indonesian, Thai, Sakha, Q'eqchi', Oroqen, Mapudungun, White Hmong, Kali'na, Gawwada, Iraqw, Yaqui, Kanuri, Takia, Vietnamese, Ceq Wong, Zinacantán Tzotzil, Malagasy, English, Dutch, Manange	3488	U+0079
+^b	b	baba, baˀŋ	Indonesian, Sakha, Yaqui, Seychelles Creole, Saramaccan, Dutch, Vietnamese, English, Ket, Q'eqchi', Kanuri, Selice Romani, Bezhta, Old High German, Hausa, Romanian, Mandarin Chinese, Hup, Ceq Wong, Takia, Swahili, Lower Sorbian, Thai, Oroqen, Archi, Zinacantán Tzotzil, Otomi, Japanese, Iraqw, Imbabura Quechua, Malagasy, Kildin Saami, Kali'na, Tarifiyt Berber, Manange, Wichí	3359	U+005e U+0062
+u$	u	ndugu, tbu-	Japanese, Imbabura Quechua, Saramaccan, Swahili, Hawaiian, Otomi, Mapudungun, Wichí, Indonesian, Gurindji, Kali'na, Takia, Archi, Manange, Vietnamese, Hausa, Tarifiyt Berber, Romanian, Yaqui, Oroqen, Q'eqchi', White Hmong, Iraqw, Mandarin Chinese, Seychelles Creole, Thai, Hup, Zinacantán Tzotzil, Sakha, Old High German, Bezhta, Ket, Selice Romani, Kanuri, Gawwada, Lower Sorbian, English, Ceq Wong, Dutch	3319	U+0075 U+0024
+^a	a	as, -abi	Romanian, Tarifiyt Berber, Kali'na, Iraqw, Imbabura Quechua, Q'eqchi', Seychelles Creole, Malagasy, Japanese, Oroqen, Archi, Takia, Sakha, Mapudungun, Indonesian, Ket, Wichí, Yaqui, Saramaccan, English, Selice Romani, Bezhta, Hawaiian, Old High German, Swahili, Dutch, Kildin Saami, Otomi, Vietnamese, Mandarin Chinese, Lower Sorbian, Manange, White Hmong	3042	U+005e U+0061
+^n	n	na, ndugu	Otomi, White Hmong, Kanuri, Gurindji, Japanese, Swahili, Thai, Vietnamese, Zinacantán Tzotzil, Kildin Saami, Wichí, Lower Sorbian, Romanian, Mandarin Chinese, Hup, Yaqui, Mapudungun, Q'eqchi', Dutch, Old High German, Takia, Hawaiian, Bezhta, Saramaccan, Archi, English, Oroqen, Seychelles Creole, Selice Romani, Iraqw, Hausa, Kali'na, Tarifiyt Berber, Indonesian, Ceq Wong, Manange, Malagasy, Gawwada, Sakha, Imbabura Quechua, Ket	3040	U+005e U+006e
+á	á	ƙásáa, ɗáukàa	Hausa, Kanuri, Saramaccan, Selice Romani, Thai, Vietnamese, Hup, Iraqw, Kildin Saami, Archi, Gawwada, Otomi, Imbabura Quechua	2892	U+00e1
+j	j	bo̲jä, 4mjekje	Lower Sorbian, Manange, Gurindji, Yaqui, Q'eqchi', Saramaccan, White Hmong, Otomi, Kildin Saami, Indonesian, Japanese, Swahili, Mandarin Chinese, Dutch, Selice Romani, Wichí, Kanuri, Imbabura Quechua, Ket, Hausa, Romanian, Malagasy, Archi, Ceq Wong, Hup, Zinacantán Tzotzil, Mapudungun, Iraqw, English, Bezhta	2709	U+006a
+t$	t	niyat, bot	Ket, Thai, English, Romanian, Indonesian, Sakha, Dutch, Seychelles Creole, Archi, Kildin Saami, Vietnamese, Old High German, Ceq Wong, Wichí, Iraqw, Hup, Q'eqchi', Takia, Tarifiyt Berber, Zinacantán Tzotzil, Lower Sorbian, Bezhta, Selice Romani, Yaqui, Gurindji, Gawwada, Oroqen, Hausa, Kanuri, Manange, Kali'na	2566	U+0074 U+0024
+^h	h	hai, hal’o	Hawaiian, Otomi, Japanese, Hup, Bezhta, Mandarin Chinese, White Hmong, Gawwada, Wichí, Old High German, Dutch, Zinacantán Tzotzil, Ket, English, Thai, Selice Romani, Malagasy, Hausa, Ceq Wong, Iraqw, Saramaccan, Vietnamese, Q'eqchi', Swahili, Archi, Indonesian, Lower Sorbian, Romanian, Kanuri, Takia, Manange, Tarifiyt Berber, Oroqen, Sakha	2540	U+005e U+0068
+^l	l	la, lo	Seychelles Creole, Hawaiian, Thai, Mandarin Chinese, Indonesian, Vietnamese, Malagasy, Kildin Saami, Wichí, Saramaccan, Dutch, English, Kanuri, Selice Romani, Romanian, Q'eqchi', Old High German, White Hmong, Zinacantán Tzotzil, Gurindji, Ceq Wong, Mapudungun, Lower Sorbian, Takia, Tarifiyt Berber, Yaqui, Gawwada, Iraqw, Archi, Kali'na, Swahili, Ket, Hausa, Imbabura Quechua, Bezhta, Otomi, Oroqen, Manange, Sakha	2440	U+005e U+006c
+à	à	ɗáukàa, fàntə́	Hausa, Malagasy, Kanuri, Thai, Vietnamese, Ket	2321	U+00e0
+w	w	awa, hawa	Lower Sorbian, Wichí, Kali'na, Gurindji, Mapudungun, Hausa, Yaqui, White Hmong, Hawaiian, Kanuri, Swahili, Oroqen, Hup, Q'eqchi', Iraqw, Imbabura Quechua, Takia, Tarifiyt Berber, Japanese, Saramaccan, Mandarin Chinese, Indonesian, Thai, Gawwada, Bezhta, Old High German, English, Dutch, Ceq Wong, Otomi, Archi, Manange	2280	U+0077
+k$	k	sūk, bank	Q'eqchi', Thai, Indonesian, Kildin Saami, Takia, Wichí, Dutch, Lower Sorbian, Zinacantán Tzotzil, Hup, Ceq Wong, Sakha, English, Seychelles Creole, Ket, Imbabura Quechua, Gurindji, Archi, Gawwada, Yaqui, Bezhta, Oroqen, Iraqw, Selice Romani, Kanuri, Manange, Tarifiyt Berber, Hausa, Swahili, Romanian, Old High German	2036	U+006b U+0024
+h	h	wahine, mihi	Hawaiian, Otomi, Sakha, Malagasy, Hup, Indonesian, Wichí, Zinacantán Tzotzil, Kildin Saami, Mandarin Chinese, Swahili, Q'eqchi', Gawwada, Old High German, White Hmong, Iraqw, Hausa, Japanese, Vietnamese, Ceq Wong, Bezhta, Archi, Selice Romani, Thai, Tarifiyt Berber, Romanian, Dutch, Saramaccan, Manange, Lower Sorbian, Ket, Kanuri, English	2009	U+0068
+^d	d	da, dada	Mandarin Chinese, Seychelles Creole, Iraqw, Ket, Kanuri, Selice Romani, Dutch, Otomi, Romanian, Saramaccan, Archi, Hausa, Hup, English, Oroqen, Indonesian, Japanese, Thai, Takia, White Hmong, Lower Sorbian, Vietnamese, Swahili, Old High German, Bezhta, Ceq Wong, Malagasy, Sakha, Imbabura Quechua, Mapudungun, Kali'na, Tarifiyt Berber, Yaqui, Kildin Saami, Manange, Wichí, Q'eqchi'	1899	U+005e U+0064
+l$	l	al, mol	Zinacantán Tzotzil, Q'eqchi', Dutch, Ket, Seychelles Creole, Archi, Bezhta, Sakha, Takia, Indonesian, Old High German, Romanian, English, Kanuri, Ceq Wong, Iraqw, Mapudungun, Lower Sorbian, Manange, Selice Romani, Gurindji, Oroqen, Kildin Saami, Wichí, Yaqui, Gawwada, Imbabura Quechua, Hausa, Tarifiyt Berber, Kali'na, Otomi	1899	U+006c U+0024
+z	z	aziyza, tzotz	Mandarin Chinese, Swahili, Seychelles Creole, Tarifiyt Berber, Q'eqchi', Zinacantán Tzotzil, Malagasy, Romanian, Japanese, Lower Sorbian, Selice Romani, Otomi, Mapudungun, Bezhta, Dutch, Old High German, Kanuri, Hausa, Archi, Kildin Saami, Imbabura Quechua, White Hmong, English, Saramaccan, Sakha, Manange, Kali'na, Gawwada, Indonesian, Oroqen, Ket	1751	U+007a
+^w	w	wa, wai	Lower Sorbian, Kali'na, Gurindji, Mapudungun, Old High German, Yaqui, Dutch, Hup, Imbabura Quechua, Mandarin Chinese, English, Wichí, Hawaiian, Saramaccan, Thai, Takia, Q'eqchi', Kanuri, Hausa, Swahili, Iraqw, Tarifiyt Berber, Japanese, Ceq Wong, Bezhta, Gawwada, Otomi, Indonesian, Oroqen, Archi, Seychelles Creole, Manange, Zinacantán Tzotzil, White Hmong	1741	U+005e U+0077
+y$	y	pay, may	Malagasy, Thai, Lower Sorbian, Sakha, English, Hup, Vietnamese, Wichí, Seychelles Creole, Ceq Wong, Iraqw, Imbabura Quechua, Q'eqchi', Gawwada, Mapudungun, Gurindji, Zinacantán Tzotzil, Bezhta, Takia, Tarifiyt Berber, Oroqen, Otomi, Dutch	1677	U+0079 U+0024
+r$	r	motor, broer	Seychelles Creole, Dutch, Indonesian, English, Sakha, Romanian, Old High German, Kanuri, Iraqw, Takia, Archi, Ceq Wong, Selice Romani, Oroqen, Q'eqchi', Manange, Lower Sorbian, Bezhta, Kildin Saami, Ket, Gawwada, Mapudungun, Mandarin Chinese, Imbabura Quechua, Yaqui, Otomi, Zinacantán Tzotzil, Kali'na, Tarifiyt Berber	1658	U+0072 U+0024
+s$	s	as, sas	Archi, White Hmong, Sakha, Ket, Wichí, Indonesian, Iraqw, Seychelles Creole, Dutch, Ceq Wong, Tarifiyt Berber, Takia, Kildin Saami, Q'eqchi', Zinacantán Tzotzil, Romanian, Gawwada, Bezhta, Imbabura Quechua, Yaqui, Lower Sorbian, English, Old High German, Otomi, Selice Romani, Kanuri, Mapudungun, Manange, Kali'na, Swahili	1624	U+0073 U+0024
+c	NULL	a conduce, Thuốc độc cho con cá	Romanian, Lower Sorbian, English, Bezhta, Indonesian, Vietnamese, Hup, Hausa, White Hmong, Old High German, Thai, Archi, Ceq Wong, Selice Romani, Kildin Saami, Kanuri, Mandarin Chinese, Gawwada, Dutch, Ket, Imbabura Quechua, Zinacantán Tzotzil, Wichí, Manange, Kali'na, Seychelles Creole, Mapudungun, Q'eqchi'	1531	U+0063
+m$	m	lam, bom	Yaqui, White Hmong, Thai, Kanuri, Q'eqchi', Vietnamese, Tarifiyt Berber, Indonesian, Seychelles Creole, Dutch, Ceq Wong, Ket, Iraqw, Hup, Zinacantán Tzotzil, Mapudungun, Kildin Saami, Takia, English, Old High German, Romanian, Archi, Wichí, Lower Sorbian, Selice Romani, Oroqen, Gawwada, Sakha, Hausa, Bezhta, Manange, Gurindji, Saramaccan	1511	U+006d U+0024
+ch	ch	poncho, tochemetcha	Wichí, Imbabura Quechua, Q'eqchi', Dutch, Yaqui, Mapudungun, Zinacantán Tzotzil, Japanese, Swahili, Mandarin Chinese, Lower Sorbian, Romanian, Thai, Vietnamese, English, Kali'na, White Hmong, Iraqw, Seychelles Creole, Old High German, Hawaiian	1495	U+0063 U+0068
+^g	g	ga, -ga	Mandarin Chinese, Hausa, Lower Sorbian, Iraqw, Dutch, Takia, Old High German, Seychelles Creole, Romanian, Saramaccan, Vietnamese, Indonesian, Otomi, Kanuri, Oroqen, English, Selice Romani, Japanese, Ceq Wong, Hup, Swahili, Archi, Bezhta, Tarifiyt Berber, Malagasy, Imbabura Quechua, Kildin Saami, Sakha, Mapudungun, White Hmong, Q'eqchi', Yaqui, Manange	1482	U+005e U+0067
+ə	ə	tərgən, řəʕqəř	Tarifiyt Berber, Oroqen, Ceq Wong, Ket, Archi, Thai, Kanuri	1411	U+0259
+^f	f	fan, fey	Malagasy, Seychelles Creole, Old High German, Romanian, English, Saramaccan, Kanuri, Mapudungun, Mandarin Chinese, Hausa, Swahili, Selice Romani, Takia, Japanese, Tarifiyt Berber, Iraqw, Thai, Otomi, Imbabura Quechua, Lower Sorbian, Gawwada, Dutch, White Hmong, Indonesian, Kildin Saami, Kali'na, Manange, Q'eqchi', Bezhta	1378	U+005e U+0066
+^r	r	radio, rau	Q'eqchi', Thai, Malagasy, Seychelles Creole, Dutch, English, Kildin Saami, Lower Sorbian, Old High German, Mapudungun, Hausa, Selice Romani, Indonesian, Imbabura Quechua, Romanian, Vietnamese, Japanese, Swahili, Yaqui, Takia, White Hmong, Mandarin Chinese, Kanuri, Bezhta, Gawwada, Ceq Wong, Zinacantán Tzotzil, Archi, Gurindji, Manange, Iraqw, Otomi, Tarifiyt Berber, Hawaiian, Kali'na, Sakha, Ket	1347	U+005e U+0072
+f	f	delfin, féífi	Mapudungun, Malagasy, Hausa, Tarifiyt Berber, Romanian, Otomi, Seychelles Creole, Swahili, Mandarin Chinese, Old High German, Saramaccan, Iraqw, English, Kanuri, Lower Sorbian, Gawwada, Dutch, Takia, Japanese, Selice Romani, Imbabura Quechua, Thai, Kildin Saami, White Hmong, Indonesian, Kali'na, Sakha, Q'eqchi', Hawaiian, Bezhta	1343	U+0066
+í	í	fílàafílíi, cídíyà	Hausa, Saramaccan, Selice Romani, Kanuri, Thai, Hup, Vietnamese, Gawwada, Kildin Saami, Iraqw, Otomi, Archi, Imbabura Quechua	1342	U+00ed
+^j	j	ja, japina	Yaqui, Mandarin Chinese, Gurindji, Q'eqchi', Kildin Saami, Imbabura Quechua, Swahili, Otomi, Hausa, Indonesian, Hup, Lower Sorbian, Japanese, Kanuri, Ceq Wong, Archi, Romanian, Selice Romani, Dutch, Saramaccan, Old High German, Manange, English, Zinacantán Tzotzil, Malagasy, Takia, Iraqw, Kali'na, Seychelles Creole	1326	U+005e U+006a
+v	v	oven, pravít’el’stva	Malagasy, Selice Romani, White Hmong, Romanian, Seychelles Creole, Kildin Saami, Dutch, English, Zinacantán Tzotzil, Swahili, Vietnamese, Ket, Saramaccan, Indonesian, Sakha, Old High German, Takia, Bezhta, Hup, Archi, Kali'na	1300	U+0076
+^y	y	ya, you	Mandarin Chinese, Hausa, Wichí, Japanese, Thai, Hup, Q'eqchi', Yaqui, Imbabura Quechua, Gurindji, Kanuri, Bezhta, White Hmong, Takia, Otomi, Kali'na, Zinacantán Tzotzil, Oroqen, Mapudungun, Gawwada, Tarifiyt Berber, Iraqw, English, Ceq Wong, Swahili, Vietnamese, Indonesian, Seychelles Creole, Dutch	1158	U+005e U+0079
+aa	aa	sikaapa, paatí	Thai, Iraqw, Q'eqchi', Gawwada, Yaqui, Dutch, Saramaccan, Ket, Gurindji, Swahili, Indonesian, Otomi, White Hmong, Hawaiian, Seychelles Creole, Kildin Saami, Japanese	1148	U+0061 U+0061
+^i	i	is, irao-	Wichí, Japanese, Bezhta, Kali'na, Oroqen, Tarifiyt Berber, Sakha, Iraqw, Q'eqchi', Takia, Romanian, Ket, Archi, Imbabura Quechua, Indonesian, Mapudungun, Hawaiian, Selice Romani, Yaqui, Old High German, Malagasy, English, Swahili, Otomi, Dutch, Seychelles Creole, White Hmong, Lower Sorbian, Kildin Saami, Vietnamese, Hausa, Manange	1131	U+005e U+0069
+g$	g	dag, ring	Indonesian, Vietnamese, White Hmong, Dutch, Hup, Old High German, Gurindji, English, Seychelles Creole, Takia, Romanian, Mandarin Chinese, Lower Sorbian, Mapudungun, Selice Romani, Iraqw, Oroqen, Tarifiyt Berber, Bezhta, Archi, Kildin Saami, Kanuri, Ket, Kali'na, Q'eqchi'	1090	U+0067 U+0024
+^c	c	con, cug’æ̌t	Romanian, Vietnamese, Hup, English, Kanuri, Ceq Wong, White Hmong, Thai, Indonesian, Bezhta, Lower Sorbian, Mandarin Chinese, Hausa, Kildin Saami, Selice Romani, Archi, Gawwada, Dutch, Kali'na, Takia, Seychelles Creole	1089	U+005e U+0063
+ts	ts	1tʌntsʌ 2tsʌtsʌ, ngäts'i	Otomi, Japanese, Wichí, Malagasy, Manange, White Hmong, Hausa, Iraqw, Thai, Imbabura Quechua, Dutch, Old High German, Lower Sorbian, English, Kildin Saami, Q'eqchi', Ket, Zinacantán Tzotzil	928	U+0074 U+0073
+^ch	ch	chon, chín	Q'eqchi', Zinacantán Tzotzil, Vietnamese, Swahili, Mandarin Chinese, Imbabura Quechua, Mapudungun, Thai, Yaqui, Japanese, Wichí, English, Lower Sorbian, White Hmong, Romanian, Iraqw, Otomi	910	U+005e U+0063 U+0068
+ú	ú	kúllúm, sùrúkíi	Hausa, Kanuri, Saramaccan, Selice Romani, Hup, Vietnamese, Thai, Iraqw, Kildin Saami, Imbabura Quechua, Otomi, Romanian	875	U+00fa
+ɨ	ɨ	sɨtɨybɨt, bɨʔ-	Sakha, Kali'na, Kildin Saami, Hup, Ceq Wong	874	U+0268
+ó	ó	góngóng, zóomóo	Lower Sorbian, Saramaccan, Hausa, Kanuri, Selice Romani, Vietnamese, Thai, Hup, Iraqw, Kildin Saami, Imbabura Quechua	854	U+00f3
+q	q	-äq’q’ö, hãq’q’ana	Q'eqchi', Bezhta, Tarifiyt Berber, Mandarin Chinese, Archi, White Hmong, Ket, Iraqw, Gawwada, Mapudungun, Vietnamese, English, Imbabura Quechua, Old High German, Kali'na	838	U+0071
+ü	ü	nün, wülün	Mapudungun, Sakha, Bezhta, Mandarin Chinese, Oroqen, Selice Romani	813	U+00fc
+^v	v	vòa, ver	Kildin Saami, Dutch, Malagasy, Romanian, Selice Romani, Zinacantán Tzotzil, Vietnamese, Seychelles Creole, White Hmong, Swahili, English, Kali'na, Saramaccan, Imbabura Quechua, Indonesian, Hup, Mapudungun, Old High German, Ket	811	U+005e U+0076
+^u	u	uma, uku	Swahili, Oroqen, Sakha, Imbabura Quechua, Ket, Japanese, Kali'na, Romanian, Takia, Bezhta, Selice Romani, Hawaiian, Indonesian, Tarifiyt Berber, Iraqw, White Hmong, Archi, Old High German, Q'eqchi', Otomi, Yaqui, Kildin Saami, English, Dutch, Saramaccan, Wichí, Mapudungun, Vietnamese, Manange	796	U+005e U+0075
+’$	<?>	k’ok’, 7ik’	Kildin Saami, Q'eqchi', Tarifiyt Berber, Zinacantán Tzotzil, Bezhta, Hup, Wichí, Archi, Iraqw, Malagasy, Gawwada	795	U+2019 U+0024
+x	x	txiv, maxo̲ts'e	Otomi, Q'eqchi', White Hmong, Mandarin Chinese, Bezhta, Kildin Saami, Tarifiyt Berber, Vietnamese, Iraqw, Gawwada, English, Zinacantán Tzotzil, Romanian, Oroqen, Selice Romani, Archi	780	U+0078
+ŋ$	ŋ	baˀŋ, koŋ	Thai, Manange, Ket, Ceq Wong, Takia, Hup, Sakha, Oroqen	717	U+014b U+0024
+j$	j	qōj, yihanej	Wichí, White Hmong, Ket, Q'eqchi', Kildin Saami, Selice Romani, Lower Sorbian, Gurindji, Dutch, Archi, Imbabura Quechua, Hup, Zinacantán Tzotzil, Romanian	708	U+006a U+0024
+^z	z	zus, zòky	Seychelles Creole, Lower Sorbian, Mandarin Chinese, Dutch, Malagasy, Otomi, Mapudungun, Old High German, Hausa, White Hmong, Bezhta, Selice Romani, Romanian, Kanuri, Swahili, Tarifiyt Berber, Archi, Japanese, Saramaccan, Kildin Saami, Imbabura Quechua, Kali'na, Indonesian, Iraqw, Gawwada, English	700	U+005e U+007a
+â	â	kə̀sâì, khâa	Thai, Romanian, Kanuri, Old High German, Hausa, Vietnamese, Kildin Saami	688	U+00e2
+^e	e	et, ea	Kali'na, Sakha, Ket, Yaqui, Old High German, English, Mapudungun, Seychelles Creole, Archi, Dutch, Q'eqchi', Swahili, Japanese, Bezhta, Selice Romani, Mandarin Chinese, Romanian, Otomi, Wichí, Indonesian, Takia, Kildin Saami, Lower Sorbian, Malagasy, Vietnamese, Hawaiian, Imbabura Quechua, Manange, White Hmong	688	U+005e U+0065
+^o	o	ou, oven	Japanese, Kali'na, Sakha, Romanian, Dutch, Archi, Selice Romani, Yaqui, English, Kildin Saami, Bezhta, Q'eqchi', Swahili, Ket, Seychelles Creole, Otomi, Old High German, Indonesian, Malagasy, Hawaiian, Wichí, Oroqen, Saramaccan, White Hmong, Lower Sorbian, Takia, Mapudungun, Vietnamese, Iraqw, Mandarin Chinese, Manange	685	U+005e U+006f
+ì	ì	ínjìn, yìntà	Malagasy, Hausa, Kanuri, Thai, Vietnamese, Ket	677	U+00ec
+^x	x	xi1, xingu	Otomi, Mandarin Chinese, Q'eqchi', White Hmong, Bezhta, Vietnamese, Gawwada, Iraqw, Tarifiyt Berber, Kildin Saami, Zinacantán Tzotzil, Sakha, Archi	670	U+005e U+0078
+ll	ll	bllek, killa	Kildin Saami, Imbabura Quechua, Mapudungun, Selice Romani, Gawwada, Dutch, Sakha, Hausa, English, Archi, Old High German, Kanuri, Takia, Bezhta, Tarifiyt Berber, Ket, Oroqen, Kali'na, Yaqui, Iraqw, Q'eqchi'	667	U+006c U+006c
+ŋ	ŋ	1aŋi, 2ʃiŋ 3tuŋ 4tʰuŋ	Manange, Oroqen, Thai, Ket, Ceq Wong, Sakha, Takia, Kildin Saami, Hup	653	U+014b
+š	š	mašina, kašt	Selice Romani, Lower Sorbian, Tarifiyt Berber, Gawwada, Archi, Bezhta, Kildin Saami, Ket	621	U+0161
+^q	q	qòs, qīm	Ket, Bezhta, Archi, Mandarin Chinese, Q'eqchi', Gawwada, Iraqw, White Hmong, Vietnamese, Tarifiyt Berber, English, Old High German	617	U+005e U+0071
+4$	<?>	jian4, jiu4	Mandarin Chinese	613	U+0034 U+0024
+é	é	léi, féífi	Indonesian, Saramaccan, Hausa, Selice Romani, Kanuri, Hup, Thai, Vietnamese, Kildin Saami, Iraqw, Archi, Kali'na	609	U+00e9
+sh	sh	táashì, mishki	Japanese, Mandarin Chinese, Imbabura Quechua, Hausa, Zinacantán Tzotzil, Swahili, Kanuri, Iraqw, Mapudungun, English, Wichí, Dutch, Gawwada	586	U+0073 U+0068
+1	<?>	2kju 1a-tsaŋ-pʌ 1mo 1mu, 1apo 1amo 1a-rʌ-pʌ 1kola	Mandarin Chinese, Manange	584	U+0031
+p$	p	sap, beˀp	Thai, Ket, English, Indonesian, Hup, Dutch, Vietnamese, Kildin Saami, Ceq Wong, Wichí, Romanian, Zinacantán Tzotzil, Takia, Seychelles Creole, Sakha, Lower Sorbian, Gawwada, Gurindji, Q'eqchi', Kanuri, Manange, Archi, Oroqen, Hausa, Old High German, Bezhta	581	U+0070 U+0024
+ee	ee	beea, sleemeero	Iraqw, White Hmong, Dutch, Q'eqchi', Yaqui, Gawwada, English, Thai, Saramaccan, Romanian, Bezhta, Seychelles Creole, Hausa	579	U+0065 U+0065
+ò	ò	vòa, zòky	Malagasy, Kanuri, Hausa, Thai, Vietnamese, Ket	570	U+00f2
+rr	rr	lamparra, mangarri	Gurindji, Kildin Saami, Tarifiyt Berber, Gawwada, English, Imbabura Quechua, Old High German, Otomi, Dutch, Bezhta, Kanuri, Takia, Oroqen, Hausa, Wichí	567	U+0072 U+0072
+b$	b	dab, teb	White Hmong, Bezhta, Zinacantán Tzotzil, Hup, Takia, Old High German, Seychelles Creole, Archi, Romanian, Lower Sorbian, English, Indonesian, Dutch, Kildin Saami, Oroqen, Selice Romani, Tarifiyt Berber, Iraqw, Hausa	563	U+0062 U+0024
+oo	oo	loo'aa, schoonzoon	White Hmong, Dutch, Iraqw, Gawwada, Yaqui, English, Q'eqchi', Thai, Saramaccan, Ket, Bezhta, Swahili, Vietnamese	560	U+006f U+006f
+^sh	sh	shimi, shu3	Mandarin Chinese, Japanese, Hausa, Swahili, Zinacantán Tzotzil, English, Kanuri, Imbabura Quechua, Iraqw, Seychelles Creole, Indonesian	501	U+005e U+0073 U+0068
+ā	ā	hāpai, kāne	Kildin Saami, Hawaiian, Tarifiyt Berber, Ket, Bezhta, Japanese	496	U+0101
+ă$	ă	soră, mătuşă	Romanian	481	U+0103 U+0024
+d$	d	land, sud	Dutch, English, Hup, Romanian, Lower Sorbian, Takia, Seychelles Creole, Old High German, Bezhta, Selice Romani, Kildin Saami, Indonesian, Ket, Archi, Iraqw, Q'eqchi', White Hmong, Sakha	481	U+0064 U+0024
+ä	ä	räʔäl, ngäts'i	Otomi, Bezhta	455	U+00e4
+2	<?>	er2xi2fu, tou2pi2xie4	Mandarin Chinese, Manange	453	U+0032
+2$	<?>	pi2, you2	Mandarin Chinese	444	U+0032 U+0024
+4	<?>	pan4jue2, lu4di4	Mandarin Chinese, Manange	440	U+0034
+`	<?>	loa`a, waiho`olu`u	Hawaiian, Malagasy, Zinacantán Tzotzil	433	U+0060
+h$	h	hipãh-, chih	Hup, Indonesian, Zinacantán Tzotzil, Ceq Wong, Old High German, Gawwada, Iraqw, Bezhta, Tarifiyt Berber, Q'eqchi', Archi, Romanian	430	U+0068 U+0024
+nn	nn	anmennen, tenne	Kildin Saami, Seychelles Creole, Sakha, Archi, Tarifiyt Berber, Old High German, Gawwada, Hausa, Dutch, Kanuri, Japanese, Thai, Ket, English, Selice Romani, Bezhta, Takia, Gurindji, Yaqui, Swahili, Q'eqchi', Ceq Wong	427	U+006e U+006e
+è	è	bèr, kèp	Malagasy, Hausa, Kanuri, Thai, Vietnamese, Ket, Kali'na	422	U+00e8
+1$	<?>	xi1, ta1	Mandarin Chinese	415	U+0031 U+0024
+3	<?>	shui3lao3ya, yu3mao2	Mandarin Chinese, Manange	408	U+0033
+3$	<?>	jiang3, jiao3	Mandarin Chinese	399	U+0033 U+0024
+ɔ	ɔ	sɔk, ʔɔs	Hup, Thai, Oroqen, Ceq Wong	399	U+0254
+w$	w	kaw, law	Thai, English, Bezhta, Iraqw, Hup, Mapudungun, Dutch, Q'eqchi', Takia, Ceq Wong, Tarifiyt Berber, White Hmong, Lower Sorbian, Archi, Oroqen, Gawwada, Seychelles Creole	396	U+0077 U+0024
+ă	ă	bărbătesc, mătuşă	Romanian, Vietnamese	393	U+0103
+th	th	towithuk, nthänts'i	Otomi, Thai, Vietnamese, English, Wichí, White Hmong, Dutch, Ket, Selice Romani, Swahili, Old High German, Gurindji, Manange	376	U+0074 U+0068
+ù	ù	sùk, sùrúkíi	Kanuri, Hausa, Thai, Vietnamese, Ket, Malagasy	372	U+00f9
+^ts	ts	tsa, tsa̲	Otomi, Iraqw, White Hmong, Japanese, Malagasy, Hausa, Wichí, Manange, Imbabura Quechua, Takia, Tarifiyt Berber	362	U+005e U+0074 U+0073
+ɣ	ɣ	čaɣɨlɣan, ŧiɣā’ɣā’ŧ	Sakha, Tarifiyt Berber, Bezhta, Ket, Oroqen	349	U+0263
+v$	v	txiv, duav	White Hmong, Kildin Saami, Seychelles Creole, Zinacantán Tzotzil, Romanian, Selice Romani, Takia	348	U+0076 U+0024
+ʔ$	ʔ	d’oʔ-, bɨʔ-	Ceq Wong, Hup, Bezhta, Gawwada, Manange	345	U+0294 U+0024
+̌	<?>	sǒŋsǎy, sǐi	Thai, Ket, Kanuri	343	U+030c
+ś$	ś	źěliś, pušćiś	Lower Sorbian	338	U+015b U+0024
+à$	à	sámà, gà	Kanuri, Hausa, Vietnamese, Thai, Malagasy	326	U+00e0 U+0024
+^th	th	thuhu, than	Thai, Vietnamese, Otomi, English, White Hmong, Selice Romani, Old High German, Swahili, Ceq Wong, Dutch, Wichí	324	U+005e U+0074 U+0068
+tt	tt	kittatte, ʔaspitte	Gawwada, Kanuri, Yaqui, Sakha, English, Old High German, Japanese, Kildin Saami, Dutch, Tarifiyt Berber, Thai, Ket, Wichí, Hausa, Selice Romani, Bezhta, Manange, Kali'na, Takia	321	U+0074 U+0074
+ū	ū	sūk, rūvv’t	Kildin Saami, Hawaiian, Japanese, Ket	319	U+016b
+ii	ii	wii’i, tiix	Iraqw, Q'eqchi', Yaqui, Gawwada, Thai, Japanese, Saramaccan, Ket, Gurindji, Romanian, Zinacantán Tzotzil, Bezhta, Swahili	318	U+0069 U+0069
+á$	á	kabá, tapá	Saramaccan, Kanuri, Hausa, Vietnamese, Iraqw, Thai, Selice Romani, Hup, Kildin Saami, Otomi	308	U+00e1 U+0024
+kk	kk	kókkó, takkaya	Gawwada, Japanese, Kanuri, Dutch, Yaqui, Thai, Indonesian, Sakha, Kildin Saami, Ket, Old High German, Bezhta, Gurindji, Tarifiyt Berber, Oroqen, Selice Romani, Hup, Manange, Wichí, Takia, Hausa	306	U+006b U+006b
+^š	š	šeek, šúžo	Selice Romani, Lower Sorbian, Gawwada, Kildin Saami, Tarifiyt Berber, Bezhta, Archi, Ket	305	U+005e U+0161
+^ʔ	ʔ	ʔɔs, ʔɨ́d	Gawwada, Hup, Ceq Wong, Bezhta	305	U+005e U+0294
+^1	<?>	1pʰi, 1kʰi	Manange	302	U+005e U+0031
+'i$	'i	ngäts'i, mbots'i	Otomi, Iraqw, Archi, Zinacantán Tzotzil, Kali'na	296	U+0027 U+0069 U+0024
+c$	c	mic, plastic	Vietnamese, Romanian, Lower Sorbian, Ceq Wong, Kildin Saami, Old High German, Hup, Bezhta, English, Archi, Dutch	295	U+0063 U+0024
+'a	'a	loo'aa, k'ahni	Q'eqchi', Otomi, Iraqw, Archi, Zinacantán Tzotzil, Indonesian	294	U+0027 U+0061
+ɨ$	ɨ	-palɨ, suntatɨ	Kali'na, Sakha, Kildin Saami, Hup	286	U+0268 U+0024
+^kh	kh	kháo, khâa	Thai, Vietnamese, White Hmong, Selice Romani, Indonesian, Manange	274	U+005e U+006b U+0068
+č	č	qäč’č’ö, ačas	Bezhta, Selice Romani, Archi, Sakha, Kildin Saami, Tarifiyt Berber, Ket, Lower Sorbian	273	U+010d
+ʔ	ʔ	pæ̃ʔǽy’, miʔaye	Hup, Ceq Wong, Bezhta, Gawwada, Archi, Tarifiyt Berber	272	U+0294
+ō	ō	qōj, shōnin	Japanese, Hawaiian, Kildin Saami, Ket, Bezhta	270	U+014d
+^č	č	čuarr-piell’, čepčeki	Selice Romani, Kildin Saami, Sakha, Archi, Bezhta, Tarifiyt Berber, Ket, Lower Sorbian	262	U+005e U+010d
+ǎ	ǎ	pǎç, sǎo	Thai, Hup, Kanuri, Romanian	261	U+01ce
+ə̀	ə̀	kə̀sâì, kə̀sáì	Kanuri, Thai, Ket	258	U+0259 U+0300
+u̲	u̲	mu̲i, ju̲ni	Otomi	257	U+0075 U+0332
+ñ	ñ	hñä, wañushka	Otomi, Mapudungun, Imbabura Quechua, Hup	257	U+00f1
+^ŧ	ŧ	ŧisiynəfŧ, ŧammua’ŧ	Tarifiyt Berber	251	U+005e U+0167
+î	î	rîak, a învăţa	Old High German, Thai, Romanian, Kanuri, Hausa	246	U+00ee
+đ	đ	ƀđ’a, ađ’əggwař	Tarifiyt Berber, Vietnamese	242	U+0111
+ʌ	ʌ	1tʌntsʌ 2tsʌtsʌ, gʌβʌrmʌnt	Manange, Ket	238	U+028c
+ə́	ə́	pǝpə́dteg, fə́lə́tə́gə́	Kanuri, Hup, Thai	237	U+0259 U+0301
+uu	uu	hhuutl, dakuus	Iraqw, Q'eqchi', Yaqui, Gawwada, Thai, Otomi, Ket, Saramaccan, Dutch, Japanese, Swahili, Gurindji	234	U+0075 U+0075
+lh	lh	yihonlhi, lhip’unlhi	Wichí, Kildin Saami, Gawwada, White Hmong, Selice Romani, Hausa, Zinacantán Tzotzil, Swahili, Old High German, Q'eqchi', Ceq Wong, Manange	232	U+006c U+0068
+^ph	ph	phú, phaj	Thai, Selice Romani, Vietnamese, White Hmong, Old High German	229	U+005e U+0070 U+0068
+ə́$	ə́	fàntə́, ngótə́	Kanuri	227	U+0259 U+0301 U+0024
+'$	<?>	b'arich', ch'iich'	Q'eqchi', Iraqw, Zinacantán Tzotzil, Archi, Kildin Saami	222	U+0027 U+0024
+^`	<?>	`ole, `ili	Hawaiian, Zinacantán Tzotzil	218	U+005e U+0060
+^2	<?>	2tʰa, 2ŋi	Manange	218	U+005e U+0032
+ô	NULL	fôk, lông	Old High German, Vietnamese, Thai, Kanuri, Hausa, Malagasy	213	U+00f4
+^7	<?>	7ik’, 7a7i	Zinacantán Tzotzil	212	U+005e U+0037
+ä$	ä	ndä, bo̲jä	Otomi, Bezhta	212	U+00e4 U+0024
+ö	ö	soto bötöɣötö, čöɣöčök	Sakha, Bezhta, Saramaccan	211	U+00f6
+ž	ž	aħənžia, šúžo	Tarifiyt Berber, Selice Romani, Lower Sorbian, Bezhta, Archi, Kildin Saami	211	U+017e
+q$	q	raq, aq	Q'eqchi', Ket, Bezhta, Tarifiyt Berber, Archi, Iraqw, Gawwada, Mapudungun	204	U+0071 U+0024
+í$	í	bí, jí	Kanuri, Saramaccan, Hausa, Iraqw, Otomi, Vietnamese, Selice Romani, Hup, Thai	201	U+00ed U+0024
+ns	ns	lansa, inslaahh	Seychelles Creole, Otomi, Romanian, Saramaccan, Iraqw, Dutch, Yaqui, Japanese, Thai, Ket, Old High German, Tarifiyt Berber, Kali'na, Hausa, Mapudungun, Indonesian, Kildin Saami, English, Q'eqchi', Sakha, Wichí, Imbabura Quechua, Lower Sorbian, Archi, Zinacantán Tzotzil, Swahili, Gawwada, Manange, Bezhta, Ceq Wong, Vietnamese	198	U+006e U+0073
+aa$	aa	?aa, taa	Thai, Swahili, Iraqw, Otomi, Yaqui, Hausa, Saramaccan, Q'eqchi'	196	U+0061 U+0061 U+0024
+̈́	<?>	kpë́ngë́lë́mö́ni, ë́n	Saramaccan	195	U+0344
+ʌ$	ʌ	1tʌ, 1ʃʌ	Manange	193	U+028c U+0024
+'o	'o	k'ojk'o xch'ool, ch'e'ok	Q'eqchi', Otomi, Iraqw, Zinacantán Tzotzil, Archi	191	U+0027 U+006f
+z$	z	tzotz, legliz	Seychelles Creole, Tarifiyt Berber, Old High German, Romanian, Zinacantán Tzotzil, Bezhta, Lower Sorbian, Mapudungun, Kildin Saami, Q'eqchi', Archi, Kali'na	189	U+007a U+0024
+ā$	ā	pā, ɣā	Tarifiyt Berber, Hawaiian, Bezhta, Japanese	188	U+0101 U+0024
+ə$	ə	ilə, imukʃə	Oroqen, Ceq Wong, Thai, Ket	177	U+0259 U+0024
+aː	aː	bɨraːt, taːs	Sakha, Archi	176	U+0061 U+02d0
+f$	f	wolf, neef	Tarifiyt Berber, Dutch, Seychelles Creole, Old High German, English, Mapudungun, Romanian, Iraqw, Gawwada, Takia, Q'eqchi', Hausa	175	U+0066 U+0024
+ŧ$	ŧ	ŧisiynəfŧ, ŧammua’ŧ	Tarifiyt Berber	175	U+0167 U+0024
+ł	ł	tłocyś, słuchaś	Lower Sorbian	173	U+0142
+7	<?>	7a7i, 7a7ibe 7ik’	Zinacantán Tzotzil	171	U+0037
+e̲	e̲	he̲ki, he̲gi	Otomi	170	U+0065 U+0332
+ó$	ó	kókkó, mó	Selice Romani, Kanuri, Saramaccan, Vietnamese, Hup, Iraqw, Thai, Lower Sorbian, Hausa, Otomi	167	U+00f3 U+0024
+mm	mm	hammakko, náamman	Kildin Saami, Tarifiyt Berber, Archi, Gawwada, Hausa, Thai, English, Dutch, Old High German, Kanuri, Yaqui, Sakha, Bezhta, Selice Romani, Ket, Takia	166	U+006d U+006d
+ě	ě	těg, źěliś	Lower Sorbian, Hup, Thai	165	U+011b
+^3	<?>	3jul, 3ʈi	Manange, Mandarin Chinese	162	U+005e U+0033
+^χ	χ	χas, χaya	Sakha, Archi	159	U+005e U+03c7
+ì$	ì	táashì, kə̀sâì	Kanuri, Hausa, Vietnamese, Thai	157	U+00ec U+0024
+ʊ	ʊ	kʊrdʊr, tʃʊkʊmʊkta	Oroqen	156	U+028a
+ō$	ō	qō, tō	Japanese, Hawaiian, Ket, Bezhta	154	U+014d U+0024
+rs	rs	šwigersyn, sursu	Dutch, Seychelles Creole, Indonesian, Lower Sorbian, English, Archi, Old High German, Romanian, Sakha, Kanuri, Imbabura Quechua, Takia, Zinacantán Tzotzil, Kildin Saami, Selice Romani, Otomi, Mapudungun, Bezhta, Q'eqchi', Iraqw, Ket, Malagasy, Tarifiyt Berber	154	U+0072 U+0073
+ś	ś	pśichodny syn, pśichodna źowka	Lower Sorbian	153	U+015b
+ʕ	ʕ	kuyaʕko kaʕasay, ɠuʕakko	Tarifiyt Berber, Gawwada, Archi	152	U+0295
+^đ	đ	đi, đ’ā	Vietnamese, Tarifiyt Berber	150	U+005e U+0111
+û	û	lûuksapháy, nûat	Thai, Kanuri, Old High German, Hausa	146	U+00fb
+χ$	χ	ohoχ, aːχ	Sakha, Archi	143	U+03c7 U+0024
+r̃	r̃	'yár̃ úwáa, kár̃àntáa	Hausa	143	U+0072 U+0303
+o̲	o̲	bo̲jä, maxo̲ts'e	Otomi	142	U+006f U+0332
+tʃ	tʃ	3tʃaŋ, 2tʃe	Oroqen, Manange	141	U+0074 U+0283
+nh	nh	hunhat, atsinha	Wichí, Vietnamese, Dutch, Old High German, Ceq Wong, Otomi, Tarifiyt Berber, Kildin Saami, Romanian, Hup, Q'eqchi', Saramaccan, Zinacantán Tzotzil	140	U+006e U+0068
+ph	ph	lûuksapháy, thúpphíkkhaphay	Thai, Vietnamese, Wichí, White Hmong, English, Selice Romani, Old High German, Dutch, Manange, Hup	139	U+0070 U+0068
+ss	ss	lasso, kussen	Kildin Saami, Tarifiyt Berber, Dutch, Ket, English, Japanese, Sakha, Yaqui, Old High German, Gawwada, Takia, Selice Romani, Bezhta, Indonesian, Lower Sorbian, Hausa	138	U+0073 U+0073
+'u	'u	b'urux b'urux, tz'ub'uk	Q'eqchi', Otomi, Archi, Iraqw, Zinacantán Tzotzil, Kali'na	138	U+0027 U+0075
+'i	'i	ch'ina ch'iich', ab'ink	Q'eqchi', Otomi, Archi, Iraqw, Zinacantán Tzotzil	137	U+0027 U+0069
+^kw	kw	kwa, kwenta	Hausa, Iraqw, Otomi, Seychelles Creole, Kanuri, Swahili, White Hmong, Thai, Takia, Old High German, Lower Sorbian, Q'eqchi', Dutch, Imbabura Quechua, Saramaccan, Mapudungun, Ceq Wong, Hup, Oroqen, Zinacantán Tzotzil, Kali'na, Wichí, Tarifiyt Berber	136	U+005e U+006b U+0077
+ƛ	<?>	ẽxeƛ’alƛ’ā -ẽƛ’e-, biɬoƛ’a -ẽƛ’e-	Bezhta	135	U+019b
+ú$	ú	tú, phú	Kanuri, Saramaccan, Selice Romani, Hausa, Iraqw, Hup, Thai, Vietnamese, Gawwada, Kildin Saami	135	U+00fa U+0024
+^à	à	àndro, à cíkín	Hausa, Malagasy, Kanuri, Ket	135	U+005e U+00e0
+ò$	ò	kàsò, kùsótò	Kanuri, Vietnamese, Malagasy, Hausa	135	U+00f2 U+0024
+tː	tː	aq'ˤul bitːu, aqatːut	Archi	134	U+0074 U+02d0
+ř	ř	đ’řəq, gg řqařəƀ	Tarifiyt Berber	133	U+0159
+ɬ	ɬ	akɬis, kɬos	Bezhta, Archi	131	U+026c
+kh	kh	akharen, lûukkhə̌əy	Thai, Selice Romani, White Hmong, Vietnamese, Wichí, Indonesian, Dutch, Manange	131	U+006b U+0068
+^ř	ř	řmus, řəxrif	Tarifiyt Berber	130	U+005e U+0159
+^4	<?>	4tsʰʌɾ, 4nu	Manange, Mandarin Chinese	128	U+005e U+0034
+ī	ī	qīm, kīt	Kildin Saami, Ket, Hawaiian, Bezhta	127	U+012b
+ɪ	ɪ	ʊmʊktaŋi ʃɪŋarɪnɪn, ata:kɛ:ŋi adɪlɪn	Oroqen	126	U+026a
+ē	ē	šēnnte, kērr	Kildin Saami, Hawaiian, Ket, Japanese	123	U+0113
+ė	<?>	vėzėtinen, kėrpėlėcė	Selice Romani	123	U+0117
+^zh	zh	zhen1, zhi3	Mandarin Chinese	123	U+005e U+007a U+0068
+ʃ	ʃ	1ʃʌ, 1ʃi	Manange, Oroqen	121	U+0283
+x$	x	-ox-, box	Q'eqchi', Bezhta, Iraqw, Kildin Saami, English, Tarifiyt Berber, Gawwada, Zinacantán Tzotzil, Romanian, Sakha	121	U+0078 U+0024
+kw	kw	mkwe, makwäni	Wichí, Otomi, Swahili, Hausa, Iraqw, Seychelles Creole, Yaqui, Thai, Ceq Wong, Tarifiyt Berber, Indonesian, Lower Sorbian, Saramaccan, Zinacantán Tzotzil, Kanuri, Takia, Mapudungun, Hup	120	U+006b U+0077
+fw	fw	hits’ifwin, ha’no’fwaj	Wichí, Seychelles Creole, White Hmong	120	U+0066 U+0077
+'e	'e	ch'e'ok, ya'ee	Q'eqchi', Otomi, Iraqw, Archi, Zinacantán Tzotzil, Kali'na	119	U+0027 U+0065
+ƀ	ƀ	s’ƀəħ, ŧaƀrat	Tarifiyt Berber	114	U+0180
+ê	ê	lên, lebên	Vietnamese, Old High German, Thai, Kanuri, Hausa	114	U+00ea
+χ	χ	ɨaraχan, eχmus	Archi, Sakha	113	U+03c7
+pp	pp	jippue, app’se	Sakha, Japanese, Gawwada, Kildin Saami, Dutch, Yaqui, English, Tarifiyt Berber, Selice Romani, Old High German, Ket, Takia, Thai, Archi	112	U+0070 U+0070
+ţ	ţ	a învăţa, ţaţă	Romanian	112	U+0163
+^ʃ	ʃ	ʃarbakta, ʃirkul	Oroqen, Manange	111	U+005e U+0283
+ö$	ö	tö́ngö, äkö	Bezhta, Saramaccan, Sakha	110	U+00f6 U+0024
+ch$	ch	jalam 'uuch, lokoch	English, Q'eqchi', Vietnamese, Zinacantán Tzotzil, Lower Sorbian, Dutch, Seychelles Creole, Old High German	108	U+0063 U+0068 U+0024
+ɗ	ɗ	ʕaɗunko, kwàaɗóo	Hausa, Gawwada	107	U+0257
+nn$	nn	zann, sūnn	Seychelles Creole, Kildin Saami, Tarifiyt Berber, Kali'na, Takia	104	U+006e U+006e U+0024
+^ɨ	ɨ	ɨaraχan, ɨl	Sakha, Kali'na, Kildin Saami	103	U+005e U+0268
+̱	<?>	ḻafkeṉ, ḻaweṉ	Mapudungun	103	U+0331
+ş	<?>	mătuşă, uşor	Romanian	102	U+015f
+gg	gg	menggenggam, anəggaru	Indonesian, Dutch, Old High German, Tarifiyt Berber, English, Japanese, Hausa, Selice Romani	101	U+0067 U+0067
+^ə	ə	əŋw, əɲəkə	Oroqen, Ket, Tarifiyt Berber	99	U+005e U+0259
+è$	è	támàcè, mààrá njîbè	Kanuri, Malagasy, Hausa, Vietnamese, Thai	96	U+00e8 U+0024
+ř$	ř	ađ’əggwař, šař	Tarifiyt Berber	96	U+0159 U+0024
+a̲	a̲	xa̲di, ‘ba̲t'i	Otomi	96	U+0061 U+0332
+š$	š	epaš, weš	Tarifiyt Berber, Gawwada, Kildin Saami, Lower Sorbian, Selice Romani, Bezhta, Archi	96	U+0161 U+0024
+jj	jj	sɨjjt, piejjv	Kildin Saami, Hausa	95	U+006a U+006a
+^?	<?>	?aa, ?ii	Thai	95	U+005e U+003f
+ư	<?>	đường, bươm bướm	Vietnamese	93	U+01b0
+ã	ã	hipãh-, tãʔã´y yud	Hup, Ceq Wong, Bezhta, Vietnamese	92	U+00e3
+rw	rw	barwa, terwélu	Kanuri, Seychelles Creole, Gurindji, Lower Sorbian, Dutch, Old High German, Hausa, Iraqw, Indonesian, Takia, White Hmong, Mapudungun, English, Yaqui, Imbabura Quechua, Q'eqchi', Manange	92	U+0072 U+0077
+ù$	ù	gúdù, kùrúwù	Kanuri, Hausa, Vietnamese, Thai	91	U+00f9 U+0024
+kʰ	kʰ	1kʰi, 1kʰoktoŋ	Manange	91	U+006b U+02b0
+ƙ	<?>	bàaƙóo, mátúuƙíi	Hausa	90	U+0199
+dd	dd	aboddās, middag	Tarifiyt Berber, Dutch, Bezhta, English, Kildin Saami, Ket, Hausa, Takia, Selice Romani, Old High German, Japanese	88	U+0064 U+0064
+oo$	oo	doo, tsoo	Iraqw, White Hmong, Swahili, Thai, Ket, English, Saramaccan, Yaqui, Japanese	88	U+006f U+006f U+0024
+ii$	ii	tii, ?ii	Thai, Japanese, Iraqw, Swahili, Ket, Romanian, Kali'na, Yaqui	88	U+0069 U+0069 U+0024
+^á	á	áver, ákàifáa	Hausa, Selice Romani, Kanuri, Saramaccan, Vietnamese, Iraqw, Otomi	87	U+005e U+00e1
+ǝ	ǝ	pǝpə́dteg, báb’d’ǝh	Hup	85	U+01dd
+ũ	ũ	j’áh y’ũy’ũ´y’, d’apũh nihũ´ʔ	Hup, Ceq Wong, Bezhta, Vietnamese	84	U+0169
+zh	zh	jia4shi3yuan2zhi2zhao4, jia3zhuang4xian4zhong3	Mandarin Chinese, Imbabura Quechua	84	U+007a U+0068
+ň	ň	aňóškiňa, kórmáňi	Selice Romani	84	U+0148
+ħ	ħ	aħənžia, ŧaħr’ant	Tarifiyt Berber, Archi, Gawwada	83	U+0127
+é$	é	zé, té	Kanuri, Saramaccan, Hausa, Indonesian, Kali'na, Selice Romani, Hup, Vietnamese, Iraqw, Imbabura Quechua	82	U+00e9 U+0024
+^ñ	ñ	ñäni, ñan	Otomi, Imbabura Quechua, Mapudungun	82	U+005e U+00f1
+ɑ	ɑ	ŋɑlɑŋ, tɑm	Ceq Wong	82	U+0251
+^ü	ü	üören, üŋ	Sakha, Mapudungun, Bezhta	81	U+005e U+00fc
+aː$	aː	sanaː, bɨːhaː	Sakha	81	U+0061 U+02d0 U+0024
+'m	'm	ntso̲'mi, hmunts'u'mui mahä'mu	Otomi, Q'eqchi', Archi, Kali'na	80	U+0027 U+006d
+ks	ks	lûuksapháy, ráksǎa	Thai, Ket, Indonesian, Dutch, Yaqui, Seychelles Creole, Takia, Ceq Wong, Sakha, Swahili, Imbabura Quechua, Q'eqchi', Zinacantán Tzotzil, Iraqw, English, Kildin Saami, Selice Romani, Mapudungun	79	U+006b U+0073
+æ	NULL	wædhɔ́, kæmæm-	Hup	79	U+00e6
+hh	hh	riohhan, siohhûs	Iraqw, Old High German, Hup, Gawwada	79	U+0068 U+0068
+ee$	ee	bee, tsee	Iraqw, Dutch, English, White Hmong, Swahili, Thai, Romanian, Yaqui, Saramaccan, Gawwada, Otomi	78	U+0065 U+0065 U+0024
+ố	ố	sống, thuốc lá	Vietnamese	77	U+1ed1
+^ʕ	ʕ	ʕaɗunko, ʕaško	Gawwada, Tarifiyt Berber, Archi	77	U+005e U+0295
+pʰ	pʰ	1pʰi, 1pʰo	Manange	77	U+0070 U+02b0
+^aa	aa	aam, aay	Iraqw, Dutch, Yaqui, Q'eqchi', Ket	75	U+005e U+0061 U+0061
+'u̲	'u̲	o̲t'u̲ts'u̲t'u̲bi, ts'u̲nt'u̲	Otomi	75	U+0027 U+0075 U+0332
+ö́	ö́	tö́ngö, söö́tö́míi	Saramaccan	75	U+00f6 U+0301
+^ŋ	ŋ	ŋîap, ŋâam	Takia, Thai, Oroqen, Ceq Wong, Manange	74	U+005e U+014b
+^ž	ž	žeńska, žuto	Lower Sorbian, Bezhta, Tarifiyt Berber, Selice Romani, Archi, Kildin Saami	73	U+005e U+017e
+vv	vv	rūvv’t, čūvv’es’	Kildin Saami, White Hmong	72	U+0076 U+0076
+^ll	ll	llaki, llama	Imbabura Quechua, Mapudungun, Tarifiyt Berber, Takia	72	U+005e U+006c U+006c
+ɔ̌	ɔ̌	khɔ̌ɔ, tæ̃hʔɔ̌h	Hup, Thai	70	U+0254 U+030c
+ạ	ạ	tại, quạt	Vietnamese	69	U+1ea1
+ǔ	ǔ	hǔa, pǔd	Thai, Hup, Kanuri	68	U+01d4
+.	<?>	moko... ta, bà.....bá	Mandarin Chinese, Malagasy, Kanuri, Q'eqchi', Hausa, Zinacantán Tzotzil, Kali'na, Ket, Sakha, Gurindji, Tarifiyt Berber	68	U+002e
+ll$	ll	mamüll, kuñifall	English, Kildin Saami, Mapudungun, Seychelles Creole	68	U+006c U+006c U+0024
+ɛ	ɛ	lɛʔ, tɛʔ	Ceq Wong, Oroqen	68	U+025b
+gh	gh	light, menghancurkan	English, Indonesian, Romanian, Vietnamese, Dutch, Hup, Swahili, Otomi	68	U+0067 U+0068
+šš	šš	ʔašša, kiššaʕ	Kildin Saami, Tarifiyt Berber, Selice Romani, Gawwada, Bezhta	68	U+0161 U+0161
+^ss	ss	ssɣuyy, ssiađ	Tarifiyt Berber, Takia	68	U+005e U+0073 U+0073
+às	às	kàsò, màsaka	Malagasy, Kanuri, Hausa	68	U+00e0 U+0073
+^sw	sw	-swe, swidra	Old High German, Lower Sorbian, English, Seychelles Creole, Imbabura Quechua, Takia, Ceq Wong, White Hmong, Swahili, Archi, Mapudungun, Otomi	67	U+005e U+0073 U+0077
+^‘	<?>	‘bui, ‘ba̲t'i	Otomi	67	U+005e U+2018
+7$	<?>	na7, li7	Zinacantán Tzotzil	67	U+0037 U+0024
+^ɗ	ɗ	ɗáukàa, ɗáa	Hausa, Gawwada	66	U+005e U+0257
+uu$	uu	suu, mjukuu	Swahili, Thai, Otomi, Iraqw, Japanese, Ket	65	U+0075 U+0075 U+0024
+àh	àh	sàha, sàhy	Malagasy, Hausa, Kanuri	64	U+00e0 U+0068
+ë́	ë́	bë́ë, kpë́ngë́lë́mö́ni	Saramaccan	64	U+00eb U+0301
+ɔ$	ɔ	khɔ̌ɔ, tɔ̀ɔ	Oroqen, Thai, Hup, Ceq Wong	63	U+0254 U+0024
+=	<?>	3naŋ=ri, 2pʰi=ri	Gawwada, Manange, Takia, Tarifiyt Berber	63	U+003d
+^dʒ	dʒ	dʒu:, dʒɔ:-	Oroqen	62	U+005e U+0064 U+0292
+^ā	ā	ā’xu, āyaz	Tarifiyt Berber, Kildin Saami, Ket, Hawaiian, Japanese	62	U+005e U+0101
+ɔ̃	ɔ̃	pɔ̃pɔ̃´h, tɔ̃´h	Hup, Ceq Wong	62	U+0254 U+0303
+^ƙ	<?>	ƙásáa, ƙàr̃ƙáshín	Hausa	61	U+005e U+0199
+^bw	bw	bwaana, bwise	Yaqui, Seychelles Creole, Swahili, Takia	60	U+005e U+0062 U+0077
+ź	<?>	šwigerźowka, pśichodna źowka	Lower Sorbian	59	U+017a
+ɨː	ɨː	kɨːs, sɨːr	Sakha	59	U+0268 U+02d0
+ǐ	ǐ	sǐi, tiyǐʔ	Thai, Hup	58	U+01d0
+^'b	'b	'be̲di, 'bitu	Otomi	58	U+005e U+0027 U+0062
+tʰ	tʰ	2tʰa, 1tʰẽ	Manange	58	U+0074 U+02b0
+ǒ	ǒ	sǒŋsǎy, g’ǒdan	Hup, Thai	58	U+01d2
+ū$	ū	bū, pūpū	Hawaiian, Japanese, Ket	58	U+016b U+0024
+ɔ̂	ɔ̂	chɔ̂ŋkhlɔ̂ɔt, pɔ̂ŋkan	Thai	57	U+0254 U+0302
+ɔ́	ɔ́	g’ɔ́t, b’ɔ́k	Thai, Hup	57	U+0254 U+0301
+rh	rh	bet’erhan, arhas	Kildin Saami, Bezhta, Selice Romani, Indonesian, Dutch, White Hmong, Archi, Gawwada, Old High German, Hausa, Q'eqchi', Ket, Tarifiyt Berber	57	U+0072 U+0068
+ɔɔ	ɔɔ	kɔɔŋ, nɔɔn	Thai	55	U+0254 U+0254
+?$	<?>	temu?, yogo?	Otomi, Mapudungun, Lower Sorbian, English, Tarifiyt Berber	55	U+003f U+0024
+ɲ	ɲ	iɲə-, oɣonɲor	Sakha, Oroqen, Ceq Wong, Manange	55	U+0272
+rr$	rr	arr, mūrr	Kildin Saami, Gurindji, Tarifiyt Berber	55	U+0072 U+0072 U+0024
+ɛ̃	ɛ̃	manɛ̃k, jaŋkwɛ̃ʔ	Ceq Wong	55	U+025b U+0303
+ü$	ü	antü, püllü	Mapudungun, Sakha	55	U+00fc U+0024
+'e$	'e	maxo̲ts'e, po̲ts'e	Otomi, Q'eqchi', Kali'na, Archi	55	U+0027 U+0065 U+0024
+ế	<?>	tiếng, chiếu	Vietnamese	55	U+1ebf
+a:	a:	ŋa:la, ʃa:wukanan	Oroqen, Sakha	54	U+0061 U+003a
+ɪ$	ɪ	aʃɪ, tarɪ	Oroqen	53	U+026a U+0024
+ə̀$	ə̀	gòtə̀, lárdə̀	Kanuri	53	U+0259 U+0300 U+0024
+lw	lw	rentrülwe, hlwb	Mapudungun, Kanuri, White Hmong, Takia, Gurindji, Seychelles Creole, Ceq Wong, Hausa, Lower Sorbian, Kali'na, Iraqw, English, Yaqui, Wichí	53	U+006c U+0077
+ộ	<?>	thuộc, đội	Vietnamese	52	U+1ed9
+^lh	lh	lham, lhip	Wichí, Tarifiyt Berber, Manange	51	U+005e U+006c U+0068
+ós	ós	lósu, koósu	Saramaccan, Lower Sorbian, Kanuri, Selice Romani	50	U+00f3 U+0073
+æ̃	æ̃	yæ̃wæ̃c-, tæ̃´h	Hup	50	U+00e6 U+0303
+'b	'b	nu'bya, nu'bu̲ 'be̲tho	Otomi, Q'eqchi', Archi, Zinacantán Tzotzil	50	U+0027 U+0062
+zz	zz	s ŧazzřa, azzəř	Old High German, Tarifiyt Berber, Gawwada, Hausa, Bezhta	49	U+007a U+007a
+^tʃ	tʃ	tʃʊrgɪ-, tʃã	Oroqen, Manange	49	U+005e U+0074 U+0283
+yy	yy	ayyaw, ŧayyawŧ	Tarifiyt Berber, Gawwada, Bezhta, Hausa, Hup, Yaqui, Thai	49	U+0079 U+0079
+^ɣ	ɣ	ɣā, ɣiř	Tarifiyt Berber, Bezhta	49	U+005e U+0263
+^mw	mw	mwana, mwamba	Swahili, Seychelles Creole	48	U+005e U+006d U+0077
+^ƛ	<?>	ƛ’isa-, ƛiyo	Bezhta	48	U+005e U+019b
+'_	'_	sa' tz'e, sa' junesal	Q'eqchi', Archi, Zinacantán Tzotzil, Otomi	48	U+0027 U+005f
+^î	î	înalt, îndărăt	Romanian, Old High German	47	U+005e U+00ee
+ɣ$	ɣ	aǧǧəɣ, ə̀ɣ	Tarifiyt Berber, Bezhta, Ket	47	U+0263 U+0024
+ɔ̀	ɔ̀	tɔ̀ɔ, bɔ̀ɔ	Thai	47	U+0254 U+0300
+ĩ	ĩ	cĩy’-, đĩa	Hup, Ceq Wong, Vietnamese, Bezhta, Manange	46	U+0129
+ɗ$	ɗ	koɗ, waaɗ	Gawwada	46	U+0257 U+0024
+ẽ$	ẽ	1tʰẽ, 1kjẽ	Manange, Bezhta, Vietnamese	46	U+1ebd U+0024
+jw	jw	tejwa, tetejwa	Otomi, Yaqui, Q'eqchi', Wichí, Swahili, Lower Sorbian	46	U+006a U+0077
+gw$	gw	angw, aangw	Iraqw, Tarifiyt Berber	46	U+0067 U+0077 U+0024
+a̲$	a̲	tsa̲, ntsa̲	Otomi	46	U+0061 U+0332 U+0024
+gw	gw	ađ’əggwař, zegwiy	Tarifiyt Berber, Hausa, Iraqw, Swahili, Seychelles Creole, Kanuri, Oroqen, Lower Sorbian, Otomi, Gurindji	46	U+0067 U+0077
+bb	bb	qibbat, dábbàa	Tarifiyt Berber, Hausa, Dutch, Kanuri, Old High German, Ket, English, Yaqui, Kildin Saami, Selice Romani, Zinacantán Tzotzil	46	U+0062 U+0062
+nh$	nh	sinh, kính	Vietnamese	45	U+006e U+0068 U+0024
+iː	iː	kiːn, siːkey	Sakha	45	U+0069 U+02d0
+ɨ́	ɨ́	ʔɨ́d, tɨ́h	Hup	45	U+0268 U+0301
+ʉ̂	ʉ̂	khʉ̂n, khîiphʉ̂ŋ	Thai	45	U+0289 U+0302
+àw	àw	ràwò, tàttàwí	Kanuri, Hausa	45	U+00e0 U+0077
+^í	í	ínjìn, ínàbíi	Hausa, Selice Romani, Kanuri, Vietnamese	45	U+005e U+00ed
+tw	tw	leej twg, ketwi bwa’ame	Lower Sorbian, Yaqui, Seychelles Creole, Wichí, White Hmong, Old High German, Swahili, Dutch, Archi, Takia	45	U+0074 U+0077
+î$	î	shî, kə̀lî	Kanuri, Old High German, Romanian, Hausa	45	U+00ee U+0024
+ë$	ë	bë́ë, mujë́ë	Saramaccan	45	U+00eb U+0024
+ắ	<?>	cắt, tắm	Vietnamese	44	U+1eaf
+uː	uː	kuruːk, timir uːha	Sakha, Archi	44	U+0075 U+02d0
+^ö	ö	ör, ölör	Sakha, Bezhta, Selice Romani	44	U+005e U+00f6
+äh	äh	nthähi, ndähi	Otomi, Bezhta	44	U+00e4 U+0068
+^'ñ	'ñ	'ñeme, 'ñani	Otomi	44	U+005e U+0027 U+00f1
+ŋŋ	ŋŋ	roaŋŋ’k, tieŋŋ’k	Kildin Saami, Oroqen, Thai, Ket	43	U+014b U+014b
+č$	č	peč, muč	Kildin Saami, Archi, Bezhta, Tarifiyt Berber, Selice Romani, Ket	43	U+010d U+0024
+^hh	hh	hhawata, hhamhhamo	Iraqw	43	U+005e U+0068 U+0068
+u̲$	u̲	gehnu̲, nu'bu̲	Otomi	43	U+0075 U+0332 U+0024
+sh$	sh	ñapash, yosh	Zinacantán Tzotzil, English, Imbabura Quechua, Mapudungun	43	U+0073 U+0068 U+0024
+bw	bw	mkubwa, usi ju’ubwa yo’otume	Yaqui, Swahili, Seychelles Creole, Zinacantán Tzotzil, Hup, Lower Sorbian	42	U+0062 U+0077
+^oo	oo	ooh, oom	Dutch, Iraqw, Yaqui, Q'eqchi', Ket, Indonesian, Japanese	42	U+005e U+006f U+006f
+ả	<?>	nhảy, chảy nhỏ giọt	Vietnamese	42	U+1ea3
+^'y	'y	'yo, 'yár̃ úwáa	Otomi, Hausa	42	U+005e U+0027 U+0079
+^ħ	ħ	ħkəm, ħukumat	Tarifiyt Berber, Archi, Gawwada	42	U+005e U+0127
+ấ	<?>	con dấu, lấy	Vietnamese	42	U+1ea5
+ms	ms	lemskaaq, kamsink	Q'eqchi', Wichí, Sakha, Imbabura Quechua, Dutch, Yaqui, Kanuri, Thai, Tarifiyt Berber, White Hmong, Seychelles Creole, Selice Romani, Hausa	42	U+006d U+0073
+đ$	đ	ssiađ, řəžđuđ	Tarifiyt Berber	42	U+0111 U+0024
+ħ$	ħ	qsəħ, fđəħ	Tarifiyt Berber, Archi, Gawwada	42	U+0127 U+0024
+dʒ	dʒ	gudʒəlɛ-, amʊdʒi	Oroqen, Manange	41	U+0064 U+0292
+ồ	<?>	sồi, đồ thừa	Vietnamese	41	U+1ed3
+ff	ff	aʕəffan, vūffp	Tarifiyt Berber, Old High German, Kildin Saami, Dutch, English, Gawwada, Hausa, Takia, Japanese	41	U+0066 U+0066
+æ̌	æ̌	cug’æ̌t, næ̌m	Hup	40	U+00e6 U+030c
+ď	<?>	erďavo, goďaver	Selice Romani	40	U+010f
+ñ$	ñ	zumiñ, allfeñ	Mapudungun	40	U+00f1 U+0024
+ự	<?>	ngựa đực, bò đực	Vietnamese	39	U+1ef1
+ʉ	ʉ	dʉan, phʉ́ʉn	Thai	39	U+0289
+ls	ls	alse, giswulst	Lower Sorbian, Takia, Yaqui, Old High German, Ket, Gawwada, Kildin Saami, Dutch, Q'eqchi', Otomi, Mapudungun, Seychelles Creole, English, Imbabura Quechua, Indonesian, Mandarin Chinese, Archi, Sakha, Manange, Kanuri	39	U+006c U+0073
+^tw	tw	twv, twm	White Hmong, Dutch, English, Lower Sorbian, Seychelles Creole, Takia, Swahili, Ceq Wong, Imbabura Quechua, Q'eqchi', Tarifiyt Berber	39	U+005e U+0074 U+0077
+'y	'y	tsu'yo, bots'u̲ndo'yo 'ye̲	Otomi, Q'eqchi'	38	U+0027 U+0079
+ʈ	ʈ	3ʈi, 1ʈu	Manange	38	U+0288
+ŕ$	<?>	kuŕ, hołtaŕ	Lower Sorbian	38	U+0155 U+0024
+ns$	ns	mens, kəns	Seychelles Creole, Dutch, English, Ket, Romanian, Q'eqchi', Takia, Kildin Saami, Old High German, Archi	37	U+006e U+0073 U+0024
+ʕ$	ʕ	haʕ, kiššaʕ	Tarifiyt Berber, Gawwada	37	U+0295 U+0024
+^nh	nh	nhảy, nhà thờ	Vietnamese, Tarifiyt Berber, Otomi	37	U+005e U+006e U+0068
+ŧ	ŧ	s ŧazzřa, wis ŧřaŧa	Tarifiyt Berber	37	U+0167
+ờ	<?>	đường, mười hai	Vietnamese	37	U+1edd
+â$	â	sâ, dâ	Kanuri, Old High German	37	U+00e2 U+0024
+ơ	<?>	gươm, bươm bướm	Vietnamese	36	U+01a1
+ầ	<?>	cầu, đầm lầy	Vietnamese	36	U+1ea7
+ʁ	ʁ	binaʁut, siraʁat	Ket, Archi	35	U+0281
+^qh	qh	qhov-txos, qhov	White Hmong	35	U+005e U+0071 U+0068
+ɯ	ɯ	bɯst, lɯtɯs	Ket	35	U+026f
+ə:$	ə:	ulə:-, gələ:-	Oroqen	35	U+0259 U+003a U+0024
+^ƀ	ƀ	ƀđ’a, ƀuqqā	Tarifiyt Berber	35	U+005e U+0180
+ə:	ə:	kurə:kə:n, yə:tʃən	Oroqen	35	U+0259 U+003a
+^ɬ	ɬ	ɬi, ɬišel-	Bezhta, Archi	35	U+005e U+026c
+^ä	ä	ät’i, äkö	Bezhta, Otomi	35	U+005e U+00e4
+e̲$	e̲	'ye̲, ts'ijwe̲	Otomi	35	U+0065 U+0332 U+0024
+ss$	ss	witness, kāssv-koahtess	English, Kildin Saami, Tarifiyt Berber, Archi	35	U+0073 U+0073 U+0024
+ậ	<?>	đập, vật nuôi	Vietnamese	35	U+1ead
+hh$	hh	inslaahh, tleehh	Iraqw	34	U+0068 U+0068 U+0024
+nw	nw	wánwan, ponwi	Seychelles Creole, Ceq Wong, Hausa, Yaqui, Saramaccan, Mapudungun, Otomi, Tarifiyt Berber, Iraqw, Thai, Swahili, Dutch, Old High German, Japanese, Takia	34	U+006e U+0077
+čč	čč	keččegey, ɨččat	Sakha, Kildin Saami, Bezhta, Selice Romani	34	U+010d U+010d
+ž$	ž	mindž, āžiž	Tarifiyt Berber, Lower Sorbian, Selice Romani, Bezhta, Archi, Kildin Saami	34	U+017e U+0024
+’s	<?>	app’se, pravít’el’stva	Kildin Saami, Tarifiyt Berber, Kali'na, Bezhta, Q'eqchi', Wichí	33	U+2019 U+0073
+'o$	'o	xi nts'o, t'o	Otomi, Q'eqchi', Iraqw	33	U+0027 U+006f U+0024
+ts$	ts	siraʁats, fiits	Dutch, Iraqw, Ket, English, Q'eqchi'	33	U+0074 U+0073 U+0024
+ĩ$	ĩ	sĩ, 2tʃʰĩ	Manange, Bezhta, Vietnamese	33	U+0129 U+0024
+^zw	zw	zwager, zwaar	Dutch, Old High German, Seychelles Creole, Lower Sorbian	32	U+005e U+007a U+0077
+és	és	lési, césà	Saramaccan, Indonesian, Kanuri, Selice Romani	32	U+00e9 U+0073
+ë	ë	azönkíjënjën, të́mbëma	Saramaccan, Dutch	32	U+00eb
+aˤ	aˤ	šaˤtːi, gaˤnži	Archi	32	U+0061 U+02e4
+^ɲ	ɲ	ɲɪray, ɲiŋtə	Oroqen, Sakha, Ceq Wong, Manange	32	U+005e U+0272
+'l	'l	lub'lub', k'uub'leb'aal	Q'eqchi', Archi	32	U+0027 U+006c
+ǧǧ	<?>	aǧǧəɣ, xəǧǧəs’	Tarifiyt Berber	31	U+01e7 U+01e7
+´	<?>	tãʔã´y yud, pã´t	Hup	31	U+00b4
+ks$	ks	ōks, qōks	Ket, Seychelles Creole, Kildin Saami, Dutch, English, Takia	31	U+006b U+0073 U+0024
+eː	eː	emeːχsin, üöreteːčči	Sakha, Archi	31	U+0065 U+02d0
+tsh	tsh	w’atshan, lhetsha	White Hmong, Wichí	31	U+0074 U+0073 U+0068
+aˀ	aˀ	baˀŋ, laˀm	Ket	31	U+0061 U+02c0
+ī$	ī	kī, `uī	Hawaiian, Ket, Bezhta, Kildin Saami	31	U+012b U+0024
+^fw	fw	fwala, fwiyhul	Wichí, White Hmong, Mapudungun	31	U+005e U+0066 U+0077
+òh	òh	vòhitra, mifòha	Malagasy	31	U+00f2 U+0068
+^tsh	tsh	tshuab, tshis	White Hmong, Wichí	30	U+005e U+0074 U+0073 U+0068
+ƀ$	ƀ	gg řqařəƀ, aqƀuƀ	Tarifiyt Berber	30	U+0180 U+0024
+ps	ps	jiapsi, a vopsi	Sakha, Yaqui, Romanian, Dutch, English, Thai, Kildin Saami, Seychelles Creole, Imbabura Quechua, Ket, Lower Sorbian, Zinacantán Tzotzil	30	U+0070 U+0073
+́	<?>	pæ̃ʔǽy’, Thuốc độc cho con cá	Hup, Archi, Vietnamese	30	U+0301
+ʉ̀	ʉ̀	plʉ̀ak, ŋʉ̀ak	Thai	30	U+0289 U+0300
+^ee	ee	eecha, eet	Q'eqchi', Iraqw, Dutch, Yaqui, English, Ket	30	U+005e U+0065 U+0065
+ìs	ìs	dìso, mìsy	Malagasy, Kanuri, Thai, Hausa	30	U+00ec U+0073
+ɨ̃	ɨ̃	hɨ̃p, mnɨ̃ʔ	Hup, Ceq Wong	30	U+0268 U+0303
+ṉ$	<?>	füṉ, ḻafkeṉ	Mapudungun	29	U+1e49 U+0024
+tsʰ	tsʰ	4tsʰʌɾ, 1tsʰo	Manange	29	U+0074 U+0073 U+02b0
+^ii	ii	iis, iitz’in	Iraqw, Q'eqchi', Japanese	29	U+005e U+0069 U+0069
+cc	cc	kēccke, žawab niccas suk’o	Kildin Saami, Bezhta, English, Selice Romani, Hausa, Gawwada, Hup, Romanian, Kanuri	29	U+0063 U+0063
+^gw	gw	gweer, gwángwáníi	Iraqw, Hausa, Lower Sorbian	29	U+005e U+0067 U+0077
+ć$	<?>	tśěsć, lězć	Lower Sorbian	28	U+0107 U+0024
+jh	jh	sojharen, takhajhay	Wichí, Kildin Saami, Selice Romani	28	U+006a U+0068
+ə̌	ə̌	lûukkhə̌əy, w’ə̌t	Hup, Thai	28	U+0259 U+030c
+ws$	ws	khaws, řqəws	White Hmong, Tarifiyt Berber, Lower Sorbian	28	U+0077 U+0073 U+0024
+ɓ	ɓ	gáaɓàa, šaamɓo	Hausa, Gawwada	28	U+0253
+ť	<?>	ušťen, paťan	Selice Romani	28	U+0165
+lh$	lh	tofwulh, lha’ lhech’elh	Wichí	28	U+006c U+0068 U+0024
+^jw	jw	jwai, jwe̲i	Otomi, Imbabura Quechua, Q'eqchi', Ceq Wong, Wichí	27	U+005e U+006a U+0077
+^ʤ	ʤ	ʤon, ʤɨl	Sakha	27	U+005e U+02a4
+ɨː$	ɨː	arɨː, ɨarɨː	Sakha	27	U+0268 U+02d0 U+0024
+ʤ	ʤ	alʤat, eʤiːy	Sakha, Gawwada	27	U+02a4
+eˀ	eˀ	beˀp, ətna deˀŋ	Ket	27	U+0065 U+02c0
+kʃ	kʃ	imukʃə, tʊkʃakɪ	Oroqen	27	U+006b U+0283
+^ş	<?>	şapcă, şansă	Romanian	27	U+005e U+015f
+ùw	ùw	kùwúì, mùsùwár	Kanuri, Hausa, Thai	26	U+00f9 U+0077
+kː	kː	okːas, kʷekːis	Archi	26	U+006b U+02d0
+ɔ:	ɔ:	nɔ:nin, dɔ:ldi-	Oroqen	26	U+0254 U+003a
+^čh	čh	čhá, čhoren	Selice Romani	26	U+005e U+010d U+0068
+'ˤ	<?>	noqː'ˤon, aq'ˤul bitːu	Archi	26	U+0027 U+02e4
+ʊ$	ʊ	anabʊ-, yabʊ-	Oroqen	26	U+028a U+0024
+oˀ	oˀ	doˀŋ, boˀk	Ket	26	U+006f U+02c0
+ć	<?>	pušćiś, błosćo	Lower Sorbian	26	U+0107
+āh	āh	`āhewa, ho`āhewa	Kildin Saami, Hawaiian	26	U+0101 U+0068
+kw$	kw	tlaakw, niyokw	Wichí, Iraqw	25	U+006b U+0077 U+0024
+ệ	<?>	mệnh lệnh, bệnh viện	Vietnamese	25	U+1ec7
+ô$	ô	rô, cô	Vietnamese, Kanuri, Malagasy, Old High German, Hausa	25	U+00f4 U+0024
+^ʊ	ʊ	ʊra-, ʊʃɪkta	Oroqen	25	U+005e U+028a
+xx	xx	ōxxte, řəxx=u	Kildin Saami, Tarifiyt Berber, Bezhta, Gawwada	25	U+0078 U+0078
+xh	xh	ntxhais, txhaum	White Hmong	25	U+0078 U+0068
+^ɬː	ɬː	ɬːenne lo, ɬːonnol	Archi	24	U+005e U+026c U+02d0
+ề	<?>	chim kền kền, lều	Vietnamese	24	U+1ec1
+'ñ	'ñ	ntsatu'ñu, nxi'ñe	Otomi	24	U+0027 U+00f1
+tʃʰ	tʃʰ	2tʃʰe, 3tʃʰupi	Manange	24	U+0074 U+0283 U+02b0
+eː$	eː	čeydeː, sehergeː	Sakha	24	U+0065 U+02d0 U+0024
+ổ	<?>	đuổi, buổi chiều	Vietnamese	24	U+1ed5
+^ɠ	<?>	ɠuʕakko, ɠap	Gawwada	24	U+005e U+0260
+^ō	ō	ōks, ōxxte	Japanese, Ket, Kildin Saami	24	U+005e U+014d
+ɯ̄	ɯ̄	dɯ̄l, hɯ̄j	Ket	24	U+026f U+0304
+^ns	ns	nsä'mi, nsoki	Otomi, Tarifiyt Berber	24	U+005e U+006e U+0073
+ợ	<?>	thợ chạm, thợ rèn	Vietnamese	23	U+1ee3
+^i$	i	i	Iraqw, Seychelles Creole, Archi, Hawaiian, Japanese, Ket, Takia, Saramaccan	23	U+005e U+0069 U+0024
+dh	dh	wædhɔ́, -hifadhi	Swahili, Hup, Dutch, White Hmong, Tarifiyt Berber	23	U+0064 U+0068
+ăs	ăs	a răspunde, păstor	Romanian	23	U+0103 U+0073
+tʼ	tʼ	kɬʼinčʼatʼi, šumijtʼu	Archi	23	U+0074 U+02bc
+'ä	'ä	nts'änijä, nt'ägi	Otomi	23	U+0027 U+00e4
+ʂ	ʂ	1ʂe, 4ʂo	Manange	23	U+0282
+^šw	šw	šwigersyn, šwigerźowka	Lower Sorbian, Tarifiyt Berber	23	U+005e U+0161 U+0077
+pw	pw	mpwa, lapwent	Seychelles Creole, Swahili, White Hmong, Mapudungun, Yaqui, Imbabura Quechua, Hup, Wichí	23	U+0070 U+0077
+'e̲	'e̲	nts'e̲di, nt'e̲ñha̲i	Otomi	23	U+0027 U+0065 U+0332
+o̲$	o̲	nzo̲ho̲, tso̲ho̲	Otomi	23	U+006f U+0332 U+0024
+ç$	ç	pǎç, pə̌ç	Hup	23	U+00e7 U+0024
+ɨ̌	ɨ̌	j’ɨ̌k, bɨ̌g	Hup	23	U+0268 U+030c
+ẽ	ẽ	kẽyã, ƛ’oddã -ẽƛ’e-	Bezhta, Manange, Hup	23	U+1ebd
+wh	wh	qawho, lawhoy	Wichí, Gawwada, Thai, Archi, Bezhta	23	U+0077 U+0068
+^ň	ň	ňominen, ňuminen	Selice Romani	23	U+005e U+0148
+^khw	khw	khwǎan, khwâaŋ	Thai	23	U+005e U+006b U+0068 U+0077
+^sː	sː	sːaʕat, sːon	Archi	22	U+005e U+0073 U+02d0
+rs$	rs	urs, schoonouders	Seychelles Creole, Dutch, English, Q'eqchi', Romanian, Ket	22	U+0072 U+0073 U+0024
+qq	qq	aməqqr’an, āqqəm	Tarifiyt Berber, Gawwada, Ket, Bezhta	22	U+0071 U+0071
+u:	u:	dʒu:gduŋi dʒu:n, dʒu:layi yabʊran	Oroqen	22	U+0075 U+003a
+ọ	ọ	học, chảy nhỏ giọt	Vietnamese	22	U+1ecd
+^ì	ì	ìzy, ìn	Malagasy, Ket, Hausa	22	U+005e U+00ec
+'a$	'a	pe'a, a'a	Q'eqchi', Iraqw, Kali'na, Archi, Otomi	22	U+0027 U+0061 U+0024
+āw	āw	kāwele, ku`eku`e wāwae	Hawaiian, Tarifiyt Berber	22	U+0101 U+0077
+ớ	<?>	chớp, trước	Vietnamese	22	U+1edb
+šš$	šš	rieŋŋkmušš, nəšš	Kildin Saami, Tarifiyt Berber	22	U+0161 U+0161 U+0024
+ɾ	ɾ	4pʰɾa, 1aɾa 2mɾẽ	Manange	21	U+027e
+ë́$	ë́	fëëbë́, sëndë́	Saramaccan	21	U+00eb U+0301 U+0024
+ɬʼ	ɬʼ	kɬʼarak, wakɬʼad	Archi	21	U+026c U+02bc
+^tt	tt	ttfuħ, ttu	Tarifiyt Berber, Takia, Ket	21	U+005e U+0074 U+0074
+^ź	<?>	źěliś, źeń	Lower Sorbian	21	U+005e U+017a
+xw	xw	xeeb-ntxwv, tub xeeb-ntxwv	White Hmong, Iraqw, Q'eqchi'	21	U+0078 U+0077
+ùs	ùs	kùsótò, wùsátə́	Kanuri, Thai, Hausa	21	U+00f9 U+0073
+ş$	<?>	moş, coş	Romanian	21	U+015f U+0024
+sw	sw	aswar, mala-n -swe	Seychelles Creole, Takia, Old High German, Otomi, Wichí, Imbabura Quechua, Ceq Wong	21	U+0073 U+0077
+'n	'n	t'o'ni, xa'noo	Otomi, Q'eqchi', Iraqw, Kali'na, Archi	21	U+0027 U+006e
+^ď	<?>	ďúrinen, ďíkeri	Selice Romani	21	U+005e U+010f
+^ś	ś	śota, śěło	Lower Sorbian	20	U+005e U+015b
+'ä$	'ä	nu'ä, nä'ä	Otomi	20	U+0027 U+00e4 U+0024
+ɛ:	ɛ:	yɛ:ʃa, ŋɛ:rin	Oroqen	20	U+025b U+003a
+mh	mh	mpumha̲i, yomhu	Wichí, Otomi, Hup, Thai, Dutch	20	U+006d U+0068
+^pw	pw	pwenti, pwerta	Seychelles Creole, Wichí, Mapudungun, Zinacantán Tzotzil, Swahili, Q'eqchi', Ceq Wong	20	U+005e U+0070 U+0077
+ḻ	<?>	paḻu, püḻü	Mapudungun	20	U+1e3b
+^è	è	èn, èla	Malagasy, Ket	20	U+005e U+00e8
+^ó	ó	ój, óra	Selice Romani, Saramaccan, Iraqw, Vietnamese, Hausa, Kanuri	20	U+005e U+00f3
+χˤ	χˤ	χˤurχˤu, iχˤmul as	Archi	19	U+03c7 U+02e4
+ŋs	ŋs	sǒŋsǎy, nɔ́ɔŋsǎaw	Thai, Sakha, Ceq Wong, Ket	19	U+014b U+0073
+ów	ów	hówùm, kə̀mówùn	Kanuri, Hup, Lower Sorbian, Saramaccan, Hausa	19	U+00f3 U+0077
+ē$	ē	`anakē, `ai`ē	Hawaiian, Japanese, Kildin Saami	19	U+0113 U+0024
+^ē	ē	ēj, ēɣ suul	Kildin Saami, Ket	19	U+005e U+0113
+^a$	a	a, -a	Iraqw, Saramaccan, Kildin Saami, Ket, Lower Sorbian, Takia, Hawaiian, Manange, Kanuri	19	U+005e U+0061 U+0024
+ė$	<?>	meňėčkė, míhėčkė	Selice Romani	19	U+0117 U+0024
+jj$	jj	tāgkem-sājj, ɨjj	Kildin Saami	19	U+006a U+006a U+0024
+ứ	<?>	cứu, thứ hai	Vietnamese	19	U+1ee9
+ṉ	<?>	küme ṉümüṉngey, ngaṉün	Mapudungun	19	U+1e49
+^ɪ	ɪ	ɪlga-, ɪmana	Oroqen	19	U+005e U+026a
+čʼ	čʼ	kɬʼinčʼatʼi, ganabočʼor	Archi	19	U+010d U+02bc
+^ɔ	ɔ	ɔrɔn, ɔrbɔnik	Oroqen	19	U+005e U+0254
+ê$	ê	fê, bê	Kanuri, Vietnamese, Hausa	18	U+00ea U+0024
+^dd	dd	ddir, ddšā’	Tarifiyt Berber, Takia	18	U+005e U+0064 U+0064
+’w	<?>	az’wā, n’w’et lhele	Tarifiyt Berber, Kali'na, Wichí, Bezhta	18	U+2019 U+0077
+gs	gs	mengungsi, mala-n sgsig	Indonesian, Dutch, Takia, Seychelles Creole, Selice Romani, Old High German	18	U+0067 U+0073
+^ú	ú	únmë́ni, účo	Selice Romani, Hausa, Saramaccan	18	U+005e U+00fa
+əə	əə	nəəykhǎeŋ, səət	Thai, Ket	18	U+0259 U+0259
+^ţ	ţ	ţaţă, ţară	Romanian	18	U+005e U+0163
+^kʷ	kʷ	kʷekːis, kʷetʼ	Archi, Manange	18	U+005e U+006b U+02b7
+r̃$	r̃	báhàr̃, shéebùr̃	Hausa	18	U+0072 U+0303 U+0024
+^ḻ	<?>	ḻaku, ḻafkeṉ	Mapudungun	18	U+005e U+1e3b
+ƛ$	<?>	niƛ-, ixtiyar niƛ-	Bezhta	18	U+019b U+0024
+^ɓ	ɓ	ɓáatàa, ɓútúk	Hausa, Gawwada	18	U+005e U+0253
+^lw	lw	lwəc, lwm	Takia, White Hmong, Ceq Wong, Tarifiyt Berber, Seychelles Creole	18	U+005e U+006c U+0077
+žž	žž	ŧmižža, ŧaʕəžžašŧ	Tarifiyt Berber	18	U+017e U+017e
+^aː	aː	aːl, aːχ	Sakha, Archi	17	U+005e U+0061 U+02d0
+ử	<?>	ngửi, gióng cửa	Vietnamese	17	U+1eed
+iˀ$	iˀ	diˀ, kiˀ	Ket	17	U+0069 U+02c0 U+0024
+^uu	uu	uul, uusi	Yaqui, Q'eqchi', Iraqw, Dutch, Ket	17	U+005e U+0075 U+0075
+^χː	χː	χːas, χːamχːi	Archi	17	U+005e U+03c7 U+02d0
+èh	èh	mandèha, mireharèha	Malagasy	17	U+00e8 U+0068
+ń	ń	kóńc, swińc	Lower Sorbian	17	U+0144
+^'m	'm	'ma̲i, 'me̲hä	Otomi	17	U+005e U+0027 U+006d
+nsh	nsh	kekkonshiki, konsha	Japanese, Hausa, Zinacantán Tzotzil, Mapudungun, Kanuri	17	U+006e U+0073 U+0068
+qˤ	qˤ	aqˤas, aqˤutːut	Archi	17	U+0071 U+02e4
+ɲ$	ɲ	ʔɔ̃ɲ, blwəɲ	Ceq Wong	17	U+0272 U+0024
+òs	òs	qòs keˀt, boròsy	Malagasy, Ket, Kanuri	17	U+00f2 U+0073
+ţ$	ţ	clonţ, braţ	Romanian	17	U+0163 U+0024
+^â	â	âtamôn, âm nhạc	Old High German, Vietnamese, Kanuri	16	U+005e U+00e2
+^õ	õ	-õso-, õz	Bezhta	16	U+005e U+00f5
+^ã	ã	ãc, -ãsa-	Bezhta	16	U+005e U+00e3
+mʷ	mʷ	3mʷo, 3naŋ 2mʷi=ko	Manange	16	U+006d U+02b7
+ws	ws	raws qab, kawsana	White Hmong, Imbabura Quechua, English, Dutch, Gawwada, Manange	16	U+0077 U+0073
+əˀ	əˀ	dəˀq, təˀq	Ket	16	U+0259 U+02c0
+čh	čh	láčho, pheňakeri čhaj	Selice Romani	16	U+010d U+0068
+ɔ́$	ɔ́	wædhɔ́, mɔyɔ́	Hup, Thai	16	U+0254 U+0301 U+0024
+^mm	mm	mmuđ, mmnəɣ	Tarifiyt Berber, Takia, Swahili	16	U+005e U+006d U+006d
+^äᵑ	äᵑ	äᵑɣäläš kik, äᵑɣäläɬčö	Bezhta	16	U+005e U+00e4 U+1d51
+üː	üː	süːrbe, küːgen	Sakha	16	U+00fc U+02d0
+ls$	ls	qotils, hals	Dutch, Ket, Old High German, Q'eqchi', Takia, Romanian	16	U+006c U+0073 U+0024
+^ẽ	ẽ	-ẽye-, -ẽɬeyo	Bezhta	16	U+005e U+1ebd
+^kʰ	kʰ	kʰʌnʈi, kʰja	Manange	16	U+005e U+006b U+02b0
+õ	õ	ɬõh t’ikel-, hõsolaʔ	Bezhta, Hup, Vietnamese	16	U+00f5
+^o̲	o̲	o̲de, o̲ni	Otomi	16	U+005e U+006f U+0332
+ə̂	ə̂	ngòrə̂m, kalandə̂ə	Kanuri, Thai	16	U+0259 U+0302
+zw	zw	ŧizizwa, wîzwahs	Seychelles Creole, Tarifiyt Berber, Lower Sorbian, Dutch, Old High German, Mapudungun	16	U+007a U+0077
+'k$	'k	yole'k, nach'o'k	Q'eqchi'	16	U+0027 U+006b U+0024
+^ò	ò	òrana, òrona	Malagasy	16	U+005e U+00f2
+^ms	ms	msonobari, msitu	Swahili, Tarifiyt Berber, Takia	16	U+005e U+006d U+0073
+?	<?>	tawan?ɔ̀ɔk, tao?òp	Thai	16	U+003f
+^šš	šš	ššuxřəđ’, ššua	Tarifiyt Berber	15	U+005e U+0161 U+0161
+ōh	ōh	lōhk, kyōhaku	Hawaiian, Japanese, Kildin Saami	15	U+014d U+0068
+ừ	<?>	nai sừng tấm, sừng	Vietnamese	15	U+1eeb
+ʉ́	ʉ́	nʉ́a, phʉ́ʉn	Thai	15	U+0289 U+0301
+^=	<?>	=ri, =ma	Gawwada, Manange, Tarifiyt Berber, Takia, Kildin Saami	15	U+005e U+003d
+a:$	a:	gɪdala:-, wa:-	Oroqen	15	U+0061 U+003a U+0024
+hw	hw	cĩhwɨʔ-, xib hwb	Hup, Wichí, White Hmong, Iraqw, Oroqen, Tarifiyt Berber	15	U+0068 U+0077
+'w	'w	zu'we, zu'we 'wada	Otomi, Q'eqchi'	15	U+0027 U+0077
+ń$	ń	źeń, kamjeń	Lower Sorbian	15	U+0144 U+0024
+ɬ$	ɬ	wikɬ, hũɬlaɬ	Bezhta, Archi	15	U+026c U+0024
+ɬː	ɬː	oɬːutːut, iɬːuk	Archi	15	U+026c U+02d0
+əə$	əə	həə, thəə	Thai, Ket	15	U+0259 U+0259 U+0024
+ỏ$	<?>	vỏ, thỏ	Vietnamese	14	U+1ecf U+0024
+ị	ị	thịt, lịch	Vietnamese	14	U+1ecb
+ữ	<?>	bữa ăn tối, vữa	Vietnamese	14	U+1eef
+^nn	nn	nnđa, nnamus	Tarifiyt Berber, Takia	14	U+005e U+006e U+006e
+^gh	gh	gheată, ghali	Romanian, Vietnamese, Swahili, English	14	U+005e U+0067 U+0068
+χs	χs	emeːχsin, deχsi	Sakha	14	U+03c7 U+0073
+js$	js	wijs, prijs	Ket, Dutch, Lower Sorbian	14	U+006a U+0073 U+0024
+^oˤ	oˤ	oˤnt, oˤroˤs qʷˤib	Archi	14	U+005e U+006f U+02e4
+iː$	iː	seriː, tiriː	Sakha	14	U+0069 U+02d0 U+0024
+ěs	ěs	měso, tśěsć	Lower Sorbian	14	U+011b U+0073
+ö́$	ö́	tjökö́, djökötö́	Saramaccan	14	U+00f6 U+0301 U+0024
+^ƙw	<?>	ƙwállóo, ƙwàràngwál	Hausa	14	U+005e U+0199 U+0077
+‘	<?>	ts’ixt’u‘ñu, ho‘oku‘u	Otomi, Hawaiian, Bezhta, Archi	14	U+2018
+^wh	wh	wheel, wheat	English	14	U+005e U+0077 U+0068
+u:$	u:	dʒu:, gu:	Oroqen	14	U+0075 U+003a U+0024
+̄	<?>	pūdc, sēj	Kildin Saami, Ket	14	U+0304
+^ĩ	ĩ	-ĩso-, -ĩqo-	Bezhta	14	U+005e U+0129
+ʉʉ	ʉʉ	khʉʉn, yʉʉm	Thai	13	U+0289 U+0289
+qw	qw	anaqwan, laqwaal	Iraqw, Q'eqchi', Tarifiyt Berber	13	U+0071 U+0077
+^zz	zz	zzəř, zzaž	Tarifiyt Berber	13	U+005e U+007a U+007a
+ìw	ìw	sə̀rìwùtə̀, áìwúà	Kanuri	13	U+00ec U+0077
+ʉ̌	ʉ̌	nʉ̌a, thʉ̌ŋ	Thai	13	U+0289 U+030c
+ụ	ụ	dụng cụ, trục	Vietnamese	13	U+1ee5
+ɔɔ$	ɔɔ	khɔɔ, khénkhɔɔ	Thai	13	U+0254 U+0254 U+0024
+__	__	ben - t - a, ej - bet	Ket, Mandarin Chinese	13	U+005f U+005f
+^é	é	ép, ékor	Selice Romani, Indonesian, Vietnamese, Saramaccan, Hausa	13	U+005e U+00e9
+ōs	ōs	hi o tōsu, yōsai	Japanese	13	U+014d U+0073
+ww	ww	šəwwā, kawwaʕko ʔí=ħeereʔi	Tarifiyt Berber, Gawwada, Hup	13	U+0077 U+0077
+^čʼ	čʼ	čʼat, čʼan	Archi	13	U+005e U+010d U+02bc
+ặ	<?>	hơi mặn, gặp	Vietnamese	13	U+1eb7
+^ł	ł	łapiś, łopatka	Lower Sorbian	13	U+005e U+0142
+^dh	dh	dhuria, dhahabu	Swahili, White Hmong	13	U+005e U+0064 U+0068
+^'r	'r	'ragi, 'rangu	Otomi	13	U+005e U+0027 U+0072
+'u̲$	'u̲	ts'u̲nt'u̲, ts'u̲	Otomi	13	U+0027 U+0075 U+0332 U+0024
+'t	't	wa'topo, wa'to	Kali'na, Q'eqchi', Zinacantán Tzotzil	13	U+0027 U+0074
+gh$	gh	rough, hiccough	English	13	U+0067 U+0068 U+0024
+^χˤ	χˤ	χˤurχˤu, χˤetːut	Archi	13	U+005e U+03c7 U+02e4
+üw	üw	chüwüzün, lepüwe	Mapudungun, Bezhta	12	U+00fc U+0077
+^qʼ	qʼ	qʼuretːut, qʼilba	Archi	12	U+005e U+0071 U+02bc
+^iː	iː	iːrseːn, iːppit kɨːs	Sakha, Archi	12	U+005e U+0069 U+02d0
+´h$	<?>	tɔ̃´h, tæ̃´h	Hup	12	U+00b4 U+0068 U+0024
+ɛ$	ɛ	dʒəbtulukɛ, ɲu:dɛ-	Oroqen	12	U+025b U+0024
+ủ	<?>	củi, đi tàu thủy	Vietnamese	12	U+1ee7
+^¿	<?>	¿mufü?, ¿tunten?	Mapudungun	12	U+005e U+00bf
+üs$	üs	tüs, örüs	Sakha	12	U+00fc U+0073 U+0024
+^ī	ī	īm, īnn	Kildin Saami, Ket, Bezhta	12	U+005e U+012b
+th$	th	month, north	English, Bezhta	12	U+0074 U+0068 U+0024
+fw$	fw	tofwefw, topach’u fwefw	Wichí	12	U+0066 U+0077 U+0024
+^tʰ	tʰ	tʰẽ, tʰan te	Manange	12	U+005e U+0074 U+02b0
+ǽ	<?>	pæ̃ʔǽy’, tæ̃hʔǽm	Hup	12	U+01fd
+mw	mw	-amwa, boumwolla	Swahili, Seychelles Creole, Yaqui, Dutch, Old High German, Mapudungun	12	U+006d U+0077
+^ô	ô	ông, ôrlappa	Vietnamese, Old High German	12	U+005e U+00f4
+āss	āss	rāss’, kāssv-koahtess	Kildin Saami	12	U+0101 U+0073 U+0073
+^gg	gg	ggreŋ, ggoy	Takia, Tarifiyt Berber	12	U+005e U+0067 U+0067
+üː$	üː	tüː, üŋüː	Sakha	12	U+00fc U+02d0 U+0024
+^hw	hw	hwchwac, hwa	White Hmong, Tarifiyt Berber, Ceq Wong, Otomi, Zinacantán Tzotzil	12	U+005e U+0068 U+0077
+uː$	uː	uruː, χorguyuː	Sakha, Archi	12	U+0075 U+02d0 U+0024
+^dw	dw	dwa, dwet	Lower Sorbian, Ceq Wong, Seychelles Creole, Imbabura Quechua, Old High German, Takia	12	U+005e U+0064 U+0077
+ỹ	ỹ	kiỹiːt, iỹe	Sakha	12	U+1ef9
+ł$	ł	koł, popjeł	Lower Sorbian	12	U+0142 U+0024
+áá	áá	sáápi, sáápísáápi	Saramaccan, Kanuri	12	U+00e1 U+00e1
+òs$	òs	qòs, bena qòs	Ket	11	U+00f2 U+0073 U+0024
+^u̲	u̲	u̲ts'i, u̲ni	Otomi	11	U+005e U+0075 U+0332
+i:$	i:	ʃuʃi:, uyi:-	Oroqen	11	U+0069 U+003a U+0024
+^'w	'w	'we, 'we̲	Otomi	11	U+005e U+0027 U+0077
+^qˤ	qˤ	qˤes, qˤokdut	Archi	11	U+005e U+0071 U+02e4
+^pʰ	pʰ	pʰoke 4pʰaŋ, pʰje	Manange	11	U+005e U+0070 U+02b0
+js	js	krijsen, sijsi	Dutch, Imbabura Quechua, Lower Sorbian, Selice Romani, Q'eqchi'	11	U+006a U+0073
+^'n	'n	'nihi, 'no̲t'e	Otomi	11	U+005e U+0027 U+006e
+oˤ	oˤ	noˤš, boˤkɬʼ	Archi	11	U+006f U+02e4
+mm$	mm	z’əmm, šəmm	Tarifiyt Berber, Kildin Saami	11	U+006d U+006d U+0024
+ǟ	<?>	ƛ’ǟ niƛ-, q’ǟm	Bezhta	11	U+01df
+ɬʼ$	ɬʼ	akɬʼ, nokɬʼ	Archi	11	U+026c U+02bc U+0024
+ỗ	<?>	lỗi, chuỗi hạt	Vietnamese	11	U+1ed7
+'o̲	'o̲	nt'o̲t'e, nts'ä nt'o̲t'e	Otomi	11	U+0027 U+006f U+0332
+^o$	o	o	Otomi, White Hmong, Seychelles Creole, Iraqw, Yaqui, Imbabura Quechua, Japanese, Takia, Hawaiian, Romanian	11	U+005e U+006f U+0024
+ẹ	<?>	nghẹt, hẹp	Vietnamese	11	U+1eb9
+dw	dw	mjadwjeź, kondwir	Seychelles Creole, Lower Sorbian, Swahili, Tarifiyt Berber, Dutch	11	U+0064 U+0077
+^ɯ	ɯ	ɯlga, ɯtɯɣej keˀt	Ket	11	U+005e U+026f
+tt$	tt	ŧħanətt, ŧsaʕətt	Tarifiyt Berber	10	U+0074 U+0074 U+0024
+ās$	ās	iyoddās, aboddās	Tarifiyt Berber, Bezhta, Ket	10	U+0101 U+0073 U+0024
+^ū	ū	ūl, ūs	Ket, Japanese, Kildin Saami	10	U+005e U+016b
+^msh	msh	mshtakiwa, mshahara	Swahili	10	U+005e U+006d U+0073 U+0068
+i:	i:	ʃi:p, tʃi:tʃə:	Oroqen	10	U+0069 U+003a
+ɗɗ	ɗɗ	šaaɗɗe, huɗɗa=pa lakki	Gawwada	10	U+0257 U+0257
+uˀ	uˀ	duˀp, quˀs	Ket	10	U+0075 U+02c0
+ờ$	<?>	nhà thờ, sờ	Vietnamese	10	U+1edd U+0024
+^r̃	r̃	r̃áafàníi, r̃á’àyíi	Hausa	10	U+005e U+0072 U+0303
+^žž	žž	žžəmʕa, žžənn	Tarifiyt Berber	10	U+005e U+017e U+017e
+ˇ	<?>	hũˇyʔah, hũˇt	Hup	10	U+02c7
+^uː	uː	uːr, uːlussa	Sakha	10	U+005e U+0075 U+02d0
+û$	û	sû, kə̀mbû	Kanuri, Old High German	10	U+00fb U+0024
+fs	fs	chafsina, wefsa	Dutch, Old High German, Gawwada, Kildin Saami, Imbabura Quechua, Lower Sorbian, Tarifiyt Berber	10	U+0066 U+0073
+ōsh	ōsh	dōshite, keshōshitsu	Japanese	10	U+014d U+0073 U+0068
+ỏ	<?>	chảy nhỏ giọt, khỏe	Vietnamese	10	U+1ecf
+oː	oː	ogdoːbo, toːroχoy	Sakha, Archi	10	U+006f U+02d0
+^ė	<?>	ėvėdzó, ėvėzó	Selice Romani	10	U+005e U+0117
+ɑ̃	ɑ̃	hɑ̃n, nɑ̃y siat	Ceq Wong	10	U+0251 U+0303
+ès	ès	faharèsena, marèsaka	Malagasy, Kanuri	9	U+00e8 U+0073
+^šː	šː	šːubus, šːak	Archi	9	U+005e U+0161 U+02d0
+éw	éw	wántéwante, déwa	Indonesian, Kanuri, Saramaccan	9	U+00e9 U+0077
+ŋw	ŋw	sǎŋwâat, moŋwon	Thai, Hup, Oroqen	9	U+014b U+0077
+'ʷ	'ʷ	dogilin q'ʷíkːi, q'ʷat	Archi	9	U+0027 U+02b7
+iˀ	iˀ	kiˀt, tiˀŋ	Ket	9	U+0069 U+02c0
+^u$	u	u	Q'eqchi', Saramaccan, Japanese, Otomi, Tarifiyt Berber	9	U+005e U+0075 U+0024
+ff$	ff	kəff, lieff	English, Tarifiyt Berber, Kildin Saami, Lower Sorbian	9	U+0066 U+0066 U+0024
+ɠ	<?>	harɠo, maɠakko	Gawwada	9	U+0260
+^qq	qq	qqəs, qqən	Tarifiyt Berber	9	U+005e U+0071 U+0071
+ɛ:$	ɛ:	aʃɪ ɔmɔlɛ:, bɛ:	Oroqen	9	U+025b U+003a U+0024
+^ə̄	ə̄	ə̄n, ə̄t	Ket	9	U+005e U+0259 U+0304
+bs	bs	tamol bsmak, lobskirite	Romanian, Takia, Bezhta, Seychelles Creole, English, Lower Sorbian	9	U+0062 U+0073
+ə̄	ə̄	kə̄qt, bə̄n	Ket	9	U+0259 U+0304
+ʉʉ$	ʉʉ	khrʉ̂aŋmʉʉ, mʉʉ	Thai	9	U+0289 U+0289 U+0024
+^cʼ	cʼ	cʼunas, cʼor	Archi	9	U+005e U+0063 U+02bc
+ās	ās	obāsan, t’t’ās’	Japanese, Tarifiyt Berber, Bezhta	9	U+0101 U+0073
+âh	âh	fâhan, nâhisto	Old High German	9	U+00e2 U+0068
+^e̲	e̲	e̲i, e̲nt'i	Otomi	9	U+005e U+0065 U+0332
+qh	qh	ib-qho, nqhes dej	White Hmong	9	U+0071 U+0068
+χː	χː	χːamχːi, daχːəza	Archi	9	U+03c7 U+02d0
+^qw	qw	qwaree, qwj	Iraqw, White Hmong, Tarifiyt Berber	9	U+005e U+0071 U+0077
+ź$	<?>	mjadwjeź, groź	Lower Sorbian	9	U+017a U+0024
+kh$	kh	nakh, jékh	Selice Romani, Swahili	9	U+006b U+0068 U+0024
+üh	üh	sülühün, tühülge	Sakha, Bezhta	9	U+00fc U+0068
+ã$	ã	kẽyã, cã	Bezhta, Manange, Hup	9	U+00e3 U+0024
+ʉ$	ʉ	mʉ́ʉ, chʉ̂ʉ	Thai	9	U+0289 U+0024
+ợ$	<?>	nợ, vợ	Vietnamese	9	U+1ee3 U+0024
+qː	qː	noqː'ˤon, iqː'ˤa	Archi	9	U+0071 U+02d0
+vv$	vv	jāvv, vɨvv	Kildin Saami	8	U+0076 U+0076 U+0024
+^kʼ	kʼ	kʼiri, kʼumkʼum	Archi	8	U+005e U+006b U+02bc
+öh	öh	töhö, üöhe	Sakha	8	U+00f6 U+0068
+ds	ds	herdsman, gereedschap	Dutch, English, Kildin Saami	8	U+0064 U+0073
+qs	qs	eqsaq, b'aqsotz'	Tarifiyt Berber, Ket, Q'eqchi', Iraqw	8	U+0071 U+0073
+е$	е	kɨšškе, nаl’xuvvе	Kildin Saami	8	U+0435 U+0024
+ˇh	<?>	hɔ̃ˇh pɨ́b, hipãˇhteg	Hup	8	U+02c7 U+0068
+^gʷ	gʷ	gʷeniši, gʷaci	Archi	8	U+005e U+0067 U+02b7
+hs	hs	wehsalôn, buhsa	Old High German	8	U+0068 U+0073
+ìh	ìh	tsìhy, mahìhitra	Malagasy	8	U+00ec U+0068
+а	а	nаl’xuvvе, njаmm	Kildin Saami	8	U+0430
+ể	<?>	cuộc tuyển cử, sự nguy hiểm	Vietnamese	8	U+1ec3
+ˇh$	<?>	hɔ̃ˇh, hæ̃ˇh	Hup	8	U+02c7 U+0068 U+0024
+qʼ$	qʼ	buqʼ, χalqʼ	Archi	8	U+0071 U+02bc U+0024
+^xw	xw	xwaa'ari, xwaranxwaar	Iraqw, White Hmong, Q'eqchi', Tarifiyt Berber	8	U+005e U+0078 U+0077
+dd$	dd	řħədd, řqədd	Tarifiyt Berber	8	U+0064 U+0064 U+0024
+ʒ	ʒ	oaʒe sājjm, pieʒ’	Kildin Saami	8	U+0292
+^nw	nw	nwes, nwar	Otomi, Seychelles Creole, Q'eqchi', Wichí, Takia	8	U+005e U+006e U+0077
+ḻ$	<?>	kaḻ, peḻ	Mapudungun	8	U+1e3b U+0024
+'ʷˤ	<?>	erq'ʷˤmus, č'iq'ʷˤ kes	Archi	8	U+0027 U+02b7 U+02e4
+'à	'à	sáa'àa, áa'àa	Hausa	8	U+0027 U+00e0
+xs	xs	xyalb’al xsahil, oxsut	Q'eqchi', Tarifiyt Berber, Iraqw	8	U+0078 U+0073
+^ṉ	<?>	ṉaṉüng, ṉamuṉ	Mapudungun	8	U+005e U+1e49
+^bb	bb	bbəz’, bbarum	Takia, Tarifiyt Berber	8	U+005e U+0062 U+0062
+^üː	üː	üːt, üːteːn	Sakha	8	U+005e U+00fc U+02d0
+^i:	i:	i:kə, i:gə	Oroqen	8	U+005e U+0069 U+003a
+ɔ:$	ɔ:	mɔ:, dʒɔ:-	Oroqen	8	U+0254 U+003a U+0024
+ɯˀ	ɯˀ	dɯˀn, bɯˀs	Ket	8	U+026f U+02c0
+ēss	ēss	piejjv-kēssk, lēsst-mūrr	Kildin Saami	8	U+0113 U+0073 U+0073
+òw	òw	fòwòlí, gùdòwúm	Kanuri	7	U+00f2 U+0077
+o:	o:	ʃo:da-, mo:ro-	Oroqen	7	U+006f U+003a
+ǽ$	<?>	hɨ̃m’ǽ, děh m’ǽ	Hup	7	U+01fd U+0024
+ẫ	<?>	bẫy, dẫn	Vietnamese	7	U+1eab
+ằ	<?>	thằn lằn, bằng lái xe	Vietnamese	7	U+1eb1
+ʕʕ	ʕʕ	leʕʕo, hoʕʕi	Tarifiyt Berber, Gawwada	7	U+0295 U+0295
+àsh	àsh	ƙàshín kàafáaɗàa, kàshíngò	Hausa, Kanuri	7	U+00e0 U+0073 U+0068
+^J	<?>	Jumatatu, Jumanne	Swahili, Indonesian, Hausa	7	U+005e U+004a
+^tsw	tsw	tswv yim, tswv	White Hmong	7	U+005e U+0074 U+0073 U+0077
+ở	<?>	cởi, trở thành	Vietnamese	7	U+1edf
+íí	íí	jíínà, káúmííi	Saramaccan, Kanuri	7	U+00ed U+00ed
+fs$	fs	sefs, puffs	Kildin Saami, Tarifiyt Berber, Old High German	7	U+0066 U+0073 U+0024
+rsh	rsh	ƙàrshée, hárshèe	Hausa, English	7	U+0072 U+0073 U+0068
+ǯ	<?>	paǯe, vīǯe	Kildin Saami	7	U+01ef
+cʼ$	cʼ	ocʼ, q'arq'i nocʼ	Archi	7	U+0063 U+02bc U+0024
+uˤ	uˤ	šːuˤmmuˤs, čʼuˤbatːut	Archi	7	U+0075 U+02e4
+öː	öː	öydöːχ, töröːbütün tuhunan tuohu suruk	Sakha	7	U+00f6 U+02d0
+ẩ	<?>	lẩm bẩm, chuẩn bị	Vietnamese	7	U+1ea9
+^ɬːʷ	ɬːʷ	ɬːʷak, ɬːʷiri	Archi	7	U+005e U+026c U+02d0 U+02b7
+ả$	<?>	tất cả, trả	Vietnamese	7	U+1ea3 U+0024
+'a̲	'a̲	t'a̲ts'i, nt'a̲ts'i	Otomi	7	U+0027 U+0061 U+0332
+âs	âs	blâsa, gâscă	Romanian, Old High German, Kanuri	7	U+00e2 U+0073
+^tʼ	tʼ	tʼeˤčʼu, tʼuj	Archi	7	U+005e U+0074 U+02bc
+oː$	oː	toχtoː, doɣoloŋnoː	Sakha	7	U+006f U+02d0 U+0024
+ʁ$	ʁ	tòʁ, jaraʁ	Ket, Archi	7	U+0281 U+0024
+'á	'á	ba'ár, koo'án	Iraqw, Hausa, Kanuri	7	U+0027 U+00e1
+ʊ:	ʊ:	kʊ:nɪ-, arʊ:n	Oroqen	7	U+028a U+003a
+ị$	ị	anh chị, chuẩn bị	Vietnamese	7	U+1ecb U+0024
+^cw	cw	cwj pwm, cwj nrig	White Hmong, Ceq Wong, Lower Sorbian	7	U+005e U+0063 U+0077
+öː$	öː	kördöː, öydöː	Sakha	7	U+00f6 U+02d0 U+0024
+óó	óó	wójókókóópúúma, didíbíwóókoma	Saramaccan	7	U+00f3 U+00f3
+tsw	tsw	qhov-ntswg, kav tswj	White Hmong	7	U+0074 U+0073 U+0077
+^bs	bs	bsiʔ, bso-	Ceq Wong, Takia	7	U+005e U+0062 U+0073
+^āh	āh	āhkev, āhk’	Kildin Saami, Hawaiian	6	U+005e U+0101 U+0068
+'x	'x	ka'xik, mbo'xi	Q'eqchi', Otomi	6	U+0027 U+0078
+éh	éh	memperboléhkan, féhaňig	Selice Romani, Indonesian	6	U+00e9 U+0068
+ɾ$	ɾ	4tsʰʌɾ, 4tʃʰeɾ	Manange	6	U+027e U+0024
+^iˀ	iˀ	iˀl, iˀs	Ket	6	U+005e U+0069 U+02c0
+ủ$	<?>	chính phủ, ngủ	Vietnamese	6	U+1ee7 U+0024
+ǎ$	ǎ	maree joasǎ, lagunǎ	Romanian	6	U+01ce U+0024
+óh$	óh	póh, g’ætd’óh	Hup	6	U+00f3 U+0068 U+0024
+^’	<?>	’ranxu, ’bego	Otomi, Hausa, Wichí	6	U+005e U+2019
+^tʃʰ	tʃʰ	tʃʰo, tʃʰortẽ	Manange	6	U+005e U+0074 U+0283 U+02b0
+ms$	ms	nums, k’ams	Q'eqchi', English, Archi, Dutch	6	U+006d U+0073 U+0024
+ǟ$	<?>	mǟ, töbǟ	Bezhta	6	U+01df U+0024
+ûs$	ûs	mûs, lûs	Old High German	6	U+00fb U+0073 U+0024
+'k	'k	k'ub'k'u, o'k'aal	Q'eqchi', Kali'na	6	U+0027 U+006b
+àà	àà	mààrá njîbè, mààrá cídíbè	Kanuri	6	U+00e0 U+00e0
+´w$	<?>	j’ib kãkã´w, kapitã´w	Hup	6	U+00b4 U+0077 U+0024
+ỉ$	<?>	chỉ, khỉ	Vietnamese	6	U+1ec9 U+0024
+^ff	ff	fflu-, ffađ	Takia, Tarifiyt Berber	6	U+005e U+0066 U+0066
+ǐh$	ǐh	wǐh, tǐh	Hup	6	U+01d0 U+0068 U+0024
+ös	ös	böppürüöske, bösö	Sakha, Saramaccan	6	U+00f6 U+0073
+^S	<?>	Sabtu, Sunday	Indonesian, English	6	U+005e U+0053
+^ŧs	ŧs	ŧsaʕətt, ŧsunta	Tarifiyt Berber	6	U+005e U+0167 U+0073
+ńs	ńs	žeńska, žeńskecy	Lower Sorbian	6	U+0144 U+0073
+îh$	îh	lîh, manlîh	Old High German	6	U+00ee U+0068 U+0024
+^ù	ù	ùt, ùgú	Hausa, Ket, Kanuri	6	U+005e U+00f9
+jsh	jsh	shijshi, llujshina	Imbabura Quechua	6	U+006a U+0073 U+0068
+^ť	<?>	ťúsinen, ťinen	Selice Romani	6	U+005e U+0165
+ǎh$	ǎh	tǎh	Hup	6	U+01ce U+0068 U+0024
+āʒ	āʒ	čāʒ’-loann’t, tivvt čāʒ’	Kildin Saami	6	U+0101 U+0292
+âw	âw	slegibrâwa, klâwa	Old High German	6	U+00e2 U+0077
+^ɔ:	ɔ:	ɔ:ki, ɔ:də:-	Oroqen	6	U+005e U+0254 U+003a
+ề$	<?>	thề, lời thề	Vietnamese	6	U+1ec1 U+0024
+ɔ̃$	ɔ̃	teg hɔ̃, hɔ̃-	Hup	6	U+0254 U+0303 U+0024
+^e$	e	e, e-	Q'eqchi', Seychelles Creole, Sakha, Kildin Saami	6	U+005e U+0065 U+0024
+ũ$	ũ	khiễu vũ, hicũ-	Vietnamese, Bezhta, Hup, Manange	6	U+0169 U+0024
+^M	<?>	Mous fe, Menehune	Swahili, Hawaiian, Seychelles Creole, English, Indonesian	6	U+005e U+004d
+^ë́	ë́	ë́n, ë́lúfu	Saramaccan	6	U+005e U+00eb U+0301
+χːˤ	χːˤ	ɬːan čaχːˤartːut mačʼ, boχːˤo qˤes	Archi	6	U+03c7 U+02d0 U+02e4
+^χːˤ	χːˤ	χːˤel, χːˤološqˤan	Archi	6	U+005e U+03c7 U+02d0 U+02e4
+ŋs$	ŋs	qoreŋs, uddiŋs	Ket, Takia	6	U+014b U+0073 U+0024
+kʼ	kʼ	χikʼ daχis, ikʼmitːut	Archi	6	U+006b U+02bc
+^àsh	àsh	àshêm zə̀mtə́, àsháanáa	Kanuri, Hausa	5	U+005e U+00e0 U+0073 U+0068
+éé	éé	biápéégu, gééja	Saramaccan	5	U+00e9 U+00e9
+ʈʰ	ʈʰ	4ʈʰu, 3kola 4ʈʰu-pʌ 3mi	Manange	5	U+0288 U+02b0
+^rw	rw	rweda, rwida	Imbabura Quechua, Mapudungun, White Hmong, Otomi	5	U+005e U+0072 U+0077
+ēh	ēh	`ēheu, palahēhē	Kildin Saami, Hawaiian	5	U+0113 U+0068
+X	<?>	gei3 X kan4, bi3 X duo1	Mandarin Chinese	5	U+0058
+’s$	<?>	lapp’s, viepp’s	Kildin Saami, Tarifiyt Berber	5	U+2019 U+0073 U+0024
+vw	vw	anvwa-d-famiy, lavwal	Seychelles Creole	5	U+0076 U+0077
+ňň	ňň	keňňíno, eňňa	Selice Romani	5	U+0148 U+0148
+ŋh	ŋh	hìŋhɔ̂y, rɔ́ɔŋhâay	Thai, Ceq Wong	5	U+014b U+0068
+ẻ$	<?>	chẻ, đẻ	Vietnamese	5	U+1ebb U+0024
+'u$	'u	k'ub'k'u, ts'ints'u	Q'eqchi', Otomi	5	U+0027 U+0075 U+0024
+^řw	řw	řwazia, řwəqŧ	Tarifiyt Berber	5	U+005e U+0159 U+0077
+е	е	puеll’tе, līx’еm’-alka	Kildin Saami	5	U+0435
+hs$	hs	mezzisahs, wîzwahs	Old High German	5	U+0068 U+0073 U+0024
+ňh	ňh	guňhóva, koňha	Selice Romani	5	U+0148 U+0068
+^ii$	ii	ii	Ket, Q'eqchi', Japanese	5	U+005e U+0069 U+0069 U+0024
+ɢ	ɢ	erɢat, oolɢat	Ket	5	U+0262
+ñh	ñh	nt'e̲ñha̲i, mpo̲ñha̲i	Otomi	5	U+00f1 U+0068
+cʼ	cʼ	mocʼor ɬːo, macʼatːut	Archi	5	U+0063 U+02bc
+tʼ$	tʼ	kʷatʼ, gatʼ	Archi	5	U+0074 U+02bc U+0024
+ƙw	<?>	dáƙwálwáa, máƙwàbcíi	Hausa	5	U+0199 U+0077
+^K	<?>	Kalema, Kaka zorey	Hawaiian, Seychelles Creole, Indonesian	5	U+005e U+004b
+ö́s	ö́s	sö́sútu, lö́sútu	Saramaccan	5	U+00f6 U+0301 U+0073
+eˤ	eˤ	tʼeˤčʼu, šeˤnt	Archi	5	U+0065 U+02e4
+ỡ	<?>	cưỡi, lưỡi	Vietnamese	5	U+1ee1
+ƛƛ	<?>	koƛƛoɬi, q’uƛƛo	Bezhta	5	U+019b U+019b
+sː	sː	osːut, osːut iqna	Archi	5	U+0073 U+02d0
+’ʷ	<?>	ik’ʷ ostitːut, jaš ark’ʷmus	Archi	5	U+2019 U+02b7
+ěh$	ěh	děh, w’ěh	Hup	5	U+011b U+0068 U+0024
+C	<?>	ji3-CL, karri- with LOCATVE	Mandarin Chinese, Gurindji	5	U+0043
+èw	èw	mèwûn ndîn, mèwú	Kanuri	5	U+00e8 U+0077
+ệ$	<?>	nô lệ, lệ	Vietnamese	5	U+1ec7 U+0024
+ph$	ph	naph, stumph	Old High German	5	U+0070 U+0068 U+0024
+^a:	a:	a:n, a:wʊn	Oroqen	5	U+005e U+0061 U+003a
+^kk	kk	kkdo- awe-n, kkdo-n i-taw	Takia, Tarifiyt Berber	5	U+005e U+006b U+006b
+^aa$	aa	aa	Iraqw	5	U+005e U+0061 U+0061 U+0024
+kʷʰ	kʷʰ	4kʷʰe, 4kʷʰe 2napraŋ	Manange	5	U+006b U+02b7 U+02b0
+ể$	<?>	con rể, thân thể	Vietnamese	5	U+1ec3 U+0024
+ǔh$	ǔh	nunǔh, tegd’ǔh	Hup	5	U+01d4 U+0068 U+0024
+ǐw$	ǐw	phǐw, biyǐw	Thai, Hup	5	U+01d0 U+0077 U+0024
+t:	t:	χːiriχ e<b>tːit:ub, q’at:ut	Archi	5	U+0074 U+003a
+Jw	<?>	ndäne Jwä, nguu Jwä	Otomi	5	U+004a U+0077
+ơ$	<?>	tơ, mơ	Vietnamese	5	U+01a1 U+0024
+^ǧǧ	<?>	ǧǧaz’, ǧǧəssəq	Tarifiyt Berber	5	U+005e U+01e7 U+01e7
+L$	<?>	ji3-CL, liang2ci4 or liang2 VCL	Mandarin Chinese	5	U+004c U+0024
+çs	çs	açsum, ŧəçsi aʕəddis	Tarifiyt Berber	5	U+00e7 U+0073
+^oː	oː	oːnɲoː, oːk'ur	Sakha, Archi	4	U+005e U+006f U+02d0
+čʼ$	čʼ	ɬːan čaχːˤartːut mačʼ, lilmučʼ	Archi	4	U+010d U+02bc U+0024
+'ə	'ə	nak'əna, baq'ərənnu	Archi	4	U+0027 U+0259
+^aˤ	aˤ	aˤpaˤsi, aˤrbatːut iq	Archi	4	U+005e U+0061 U+02e4
+æ$	æ	mɔnæ-, tɨhdóʔ tæ	Hup	4	U+00e6 U+0024
+^ks	ks	ksalom, ksaek	Ceq Wong, Takia	4	U+005e U+006b U+0073
+qs$	qs	sijaqs, dədoqs	Ket, Q'eqchi'	4	U+0071 U+0073 U+0024
+îh	îh	lîhan, lîhti	Old High German	4	U+00ee U+0068
+ế$	<?>	cúng tế, hoàng đế	Vietnamese	4	U+1ebf U+0024
+ɯ̄$	ɯ̄	qɯ̄, kɯ̄	Ket	4	U+026f U+0304 U+0024
+^P	<?>	PSK, Paniolo	Hawaiian, Indonesian	4	U+005e U+0050
+ɨ́$	ɨ́	g’ɨ́, bɨ́	Hup	4	U+0268 U+0301 U+0024
+ƀs	ƀs	t’t’əƀs’i, ssəƀsi	Tarifiyt Berber	4	U+0180 U+0073
+ẻ	<?>	chất dẻo, xẻng	Vietnamese	4	U+1ebb
+^ʂ	ʂ	ʂumʌl, ʂaŋ	Manange	4	U+005e U+0282
+^aˀ	aˀ	aˀt, aˀq	Ket	4	U+005e U+0061 U+02c0
+îs$	îs	Àlhàmîs, bîs	Hausa, Kanuri	4	U+00ee U+0073 U+0024
+^eˤ	eˤ	eˤnkdu, eˤle	Archi	4	U+005e U+0065 U+02e4
+^L	<?>	Lāpule, Láhádì	Hawaiian, Hausa	4	U+005e U+004c
+ë́s	ë́s	në́si, më́sítë	Saramaccan	4	U+00eb U+0301 U+0073
+^û	û	ûtar, ûfgangan	Old High German	4	U+005e U+00fb
+ěh	ěh	b’ěhteg, děh mɔy	Hup	4	U+011b U+0068
+^o:	o:	o:loŋki, o:tilə	Oroqen	4	U+005e U+006f U+003a
+ộ$	<?>	âm hộ, đi bộ	Vietnamese	4	U+1ed9 U+0024
+ôh$	ôh	hôh, flôh	Old High German	4	U+00f4 U+0068 U+0024
+^ɔ:$	ɔ:	ɔ:-	Oroqen	4	U+005e U+0254 U+003a U+0024
+iˤ	iˤ	niˤšiˤt oq’is, qʼiˤjqis	Archi	4	U+0069 U+02e4
+^mh	mh	mhimili, mhunzi	Swahili, Ceq Wong	4	U+005e U+006d U+0068
+^ɨː	ɨː	ɨːt, ɨːstaː	Sakha	4	U+005e U+0268 U+02d0
+^ōh	ōh	ōhpnuvve, ōhashi	Kildin Saami, Japanese	4	U+005e U+014d U+0068
+ʔw	ʔw	wɨʔwɨʔ-, b’ɔʔwæ̌d	Hup	4	U+0294 U+0077
+'j	'j	oso'jik, ixi'jink	Q'eqchi'	4	U+0027 U+006a
+’ˤ	<?>	jaq’ˤan as, deq’ˤlit χos	Archi	4	U+2019 U+02e4
+chw	chw	hwchwac, pśechwatany	Swahili, Lower Sorbian, Ceq Wong	4	U+0063 U+0068 U+0077
+kʼ$	kʼ	baˤkʼ, kʼokʼ	Archi	4	U+006b U+02bc U+0024
+^äh	äh	-ähk’-, ähi	Bezhta, Otomi	4	U+005e U+00e4 U+0068
+ỡ$	<?>	vỡ, thuốc mỡ	Vietnamese	4	U+1ee1 U+0024
+ọ$	ọ	cọ, anh chị em họ	Vietnamese	4	U+1ecd U+0024
+^tsʰ	tsʰ	tsʰu-pʌ ʃe 1mo, tsʰu	Manange	4	U+005e U+0074 U+0073 U+02b0
+e:	e:	de:n, be:wyaŋ	Oroqen	4	U+0065 U+003a
+ữ$	<?>	giữ, thiếu nữ	Vietnamese	4	U+1eef U+0024
+ố$	ố	bố, bảng số	Vietnamese	4	U+1ed1 U+0024
+ổ$	<?>	cổ, đổ	Vietnamese	4	U+1ed5 U+0024
+^A	<?>	Allah, Alhamisi	Bezhta, Sakha, Swahili, Hausa	4	U+005e U+0041
+'uˤ	'uˤ	č'uˤmmus, hanqː'a č'uˤmmus	Archi	4	U+0027 U+0075 U+02e4
+^ɯ̄	ɯ̄	ɯ̄n, ɯ̄ks	Ket	4	U+005e U+026f U+0304
+^qʷ	qʷ	qʷan, qʷekmus	Archi	4	U+005e U+0071 U+02b7
+īss	īss	vīssma, nīsse	Kildin Saami	4	U+012b U+0073 U+0073
+^nhw	nhw	nhwat'u̲nts'i, nhwat'u̲mohi	Otomi	4	U+005e U+006e U+0068 U+0077
+'ʷ$	'ʷ	naq'ʷ, babkɬ'ʷ	Archi	4	U+0027 U+02b7 U+0024
+aˀ$	aˀ	qaˀ	Ket	4	U+0061 U+02c0 U+0024
+ử$	<?>	phân xử, thử	Vietnamese	4	U+1eed U+0024
+üːs$	üːs	külüːs, süːs	Sakha	4	U+00fc U+02d0 U+0073 U+0024
+kʷ	kʷ	2kʷẽ, 2kʷe	Manange, Archi	4	U+006b U+02b7
+qˤ$	qˤ	daqˤ, ɬːánnaqˤ	Archi	4	U+0071 U+02e4 U+0024
+kk$	kk	ħəkk, šəkk	Tarifiyt Berber	4	U+006b U+006b U+0024
+ɪ:$	ɪ:	kaptʃɪ:-, ʊkɪ:-	Oroqen	4	U+026a U+003a U+0024
+ẹ$	<?>	hẹ, mẹ	Vietnamese	4	U+1eb9 U+0024
+üs	üs	müski, kömüskeː	Mapudungun, Sakha	4	U+00fc U+0073
+^ʁ	ʁ	ʁilit:ut, ʁatːəra	Archi	4	U+005e U+0281
+^nws$	nws	nws	White Hmong	4	U+005e U+006e U+0077 U+0073 U+0024
+īh	īh	kīhče, pīhopa	Hawaiian, Kildin Saami	4	U+012b U+0068
+'r	'r	ma 'ra, roq'roq'	Q'eqchi', Otomi	4	U+0027 U+0072
+'_s	'_s	lajeeb' syent, releb' saq'e	Q'eqchi'	4	U+0027 U+005f U+0073
+^ā$	ā	ā	Ket, Hawaiian	4	U+005e U+0101 U+0024
+ós$	ós	kilós, inós	Iraqw, Lower Sorbian, Kildin Saami	4	U+00f3 U+0073 U+0024
+ëë	ëë	fëëbë́, fëëkë́të	Saramaccan	4	U+00eb U+00eb
+^ēs$	ēs	ēs	Ket	4	U+005e U+0113 U+0073 U+0024
+a!$	a!	faingàna!, haingàna!	Malagasy	3	U+0061 U+0021 U+0024
+^‘w	<?>	‘wege, ‘we̲di	Otomi	3	U+005e U+2018 U+0077
+^ɯɯ	ɯɯ	ɯɯt, ɯɯltə	Ket	3	U+005e U+026f U+026f
+^ww	ww	wwəŧ s uqāt’as’, wwəŧ	Tarifiyt Berber	3	U+005e U+0077 U+0077
+lhh	lhh	imolhhen, toyalhhis	Wichí, Iraqw	3	U+006c U+0068 U+0068
+ë́ë́	ë́ë́	mujë́ë́míí, goónbë́ë́óto	Saramaccan	3	U+00eb U+0301 U+00eb U+0301
+^B	<?>	Buki, Bet’erhan	Swahili, Bezhta	3	U+005e U+0042
+ssh	ssh	kesshite, grasshopper	Japanese, English	3	U+0073 U+0073 U+0068
+âs$	âs	bâs, gə̀lâs	Kanuri, Hausa	3	U+00e2 U+0073 U+0024
+ǎh	ǎh	tǎh mɔy, tǎh wæ̌dhɔb	Hup	3	U+01ce U+0068
+îs	îs	wîsi, wîsa	Old High German	3	U+00ee U+0073
+ɠɠ	<?>	ɗaɠɠis, poɠɠi	Gawwada	3	U+0260 U+0260
+ɯ̀	ɯ̀	qɯ̀r, hɯ̀s	Ket	3	U+026f U+0300
+ỗ$	<?>	gỗ, lỗ	Vietnamese	3	U+1ed7 U+0024
+ɔ̀$	ɔ̀	krɔ̀, cɔ̀	Thai	3	U+0254 U+0300 U+0024
+^ū$	ū	ū	Ket, Hawaiian	3	U+005e U+016b U+0024
+xw$	xw	tlaaxw, intlaaxw	Iraqw	3	U+0078 U+0077 U+0024
+^ố	ố	ống khói, ống điếu	Vietnamese	3	U+005e U+1ed1
+zs	zs	flôzskip, fuozspor	Old High German, Lower Sorbian	3	U+007a U+0073
+=h	<?>	ʔí=harkišami, ʔí=huli	Gawwada	3	U+003d U+0068
+'ì	'ì	bàláa'ìn yúnwàa, dáa'ìr̃áa	Hausa	3	U+0027 U+00ec
+ɠ$	<?>	hiɠ, poɠ	Gawwada	3	U+0260 U+0024
+xs$	xs	əxs, bua’xs	Tarifiyt Berber	3	U+0078 U+0073 U+0024
+^χːʷ	χːʷ	χːʷaratːu, χːʷalli	Archi	3	U+005e U+03c7 U+02d0 U+02b7
+îhh	îhh	manalîhha, lîhhâr	Old High German	3	U+00ee U+0068 U+0068
+ɣɣ	ɣɣ	ŧiɣɣəs’ŧ, ŧaɣɣašŧ	Tarifiyt Berber	3	U+0263 U+0263
+ç	ç	ŧfuaçəŧ ?, pǎç mɔy	Hup, Tarifiyt Berber	3	U+00e7
+cːʼ	cːʼ	acːʼi, bucːʼičʼabu	Archi	3	U+0063 U+02d0 U+02bc
+ư$	<?>	ngày thứ tư, hình như	Vietnamese	3	U+01b0 U+0024
+^xs	xs	xsumenkil, xs’ā	Q'eqchi', Tarifiyt Berber	3	U+005e U+0078 U+0073
+rsw	rsw	firswintan, pourswiv	Seychelles Creole, Old High German	3	U+0072 U+0073 U+0077
+rhh	rhh	hharhhár, slarhhamá	Iraqw	3	U+0072 U+0068 U+0068
+eˀ$	eˀ	deˀ, taɣəm eˀ	Ket	3	U+0065 U+02c0 U+0024
+ň$	ň	papiň, ármiň	Selice Romani	3	U+0148 U+0024
+ʃ$	ʃ	pɔrɔkɔʃ, aramuʃ	Oroqen	3	U+0283 U+0024
+msh	msh	chamshakinywa, lichaamshaar	Swahili, Dutch	3	U+006d U+0073 U+0068
+ħħ$	ħħ	s’s’əħħ, řgiħħ	Tarifiyt Berber	3	U+0127 U+0127 U+0024
+ï$	ï	χas daγanï, alekï	Kali'na, Sakha	3	U+00ef U+0024
+'ch	'ch	kiib'ch'oolink, chak'chotk	Q'eqchi', Otomi	3	U+0027 U+0063 U+0068
+ễ$	<?>	dễ, tuần lễ	Vietnamese	3	U+1ec5 U+0024
+^T	<?>	Tàláatà, TV	English, Hausa, Indonesian	3	U+005e U+0054
+^ə:	ə:	ə:m, ə:ri-	Oroqen	3	U+005e U+0259 U+003a
+rh$	rh	furh, šērrh	Old High German, Kildin Saami	3	U+0072 U+0068 U+0024
+^iˀ$	iˀ	iˀ	Ket	3	U+005e U+0069 U+02c0 U+0024
+^ă	ă	ăn kiêng, ăn	Vietnamese	3	U+005e U+0103
+ìs$	ìs	dìs, kúrìs	Ket, Kanuri	3	U+00ec U+0073 U+0024
+ŋŋ$	ŋŋ	šēŋŋ, īŋŋ	Kildin Saami	3	U+014b U+014b U+0024
+^=s	<?>	=si, =sa	Gawwada	3	U+005e U+003d U+0073
+____________$	____________	hay ___________, chame ___________	Zinacantán Tzotzil	3	U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+0024
+íí$	íí	wómímíí, mujë́ë́míí	Saramaccan	3	U+00ed U+00ed U+0024
+̃	<?>	branĩʔ, nũʔ	Ceq Wong, Manange	3	U+0303
+īw	īw	wīwī, `āwīwī	Hawaiian	3	U+012b U+0077
+^rr	rr	-rri, rre-k tya	Takia	3	U+005e U+0072 U+0072
+ễ	<?>	khiễu vũ, diễn văn	Vietnamese	3	U+1ec5
+šː	šː	uˤnšːəla, qʼarzlis šːubuss	Archi	3	U+0161 U+02d0
+ǯ$	<?>	kieǯ, aǯ	Kildin Saami	3	U+01ef U+0024
+óh	óh	hóha, hállóhinta	Saramaccan, Selice Romani	3	U+00f3 U+0068
+^fs	fs	fsəs, fs’əř	Tarifiyt Berber	3	U+005e U+0066 U+0073
+^ɯ̀	ɯ̀	ɯ̀s, ɯ̀n	Ket	3	U+005e U+026f U+0300
+asowaara ~ asowaala	<???>	asowaara ~ asowaala	Yaqui	3	U+0061 U+0073 U+006f U+0077 U+0061 U+0061 U+0072 U+0061 U+0020 U+007e U+0020 U+0061 U+0073 U+006f U+0077 U+0061 U+0061 U+006c U+0061
+β	β	ʃaβi, gʌβʌrmʌnt	Oroqen, Manange	3	U+03b2
+ụ$	ụ	cột trụ, quả phụ	Vietnamese	3	U+1ee5 U+0024
+^əˀ	əˀ	əˀl, əˀk	Ket	3	U+005e U+0259 U+02c0
+´$	<?>	teghɔ̃´, cẽ´	Hup	3	U+00b4 U+0024
+^vw	vw	vwal, vwazen	Seychelles Creole, White Hmong	3	U+005e U+0076 U+0077
+χˤ$	χˤ	libχˤ, eχˤ	Archi	3	U+03c7 U+02e4 U+0024
+ħħ	ħħ	asəħħā, řəħħəg	Tarifiyt Berber	3	U+0127 U+0127
+’’	<?>	ch’’ilijtaj, maych’’i	Wichí	3	U+2019 U+2019
+^ấ	<?>	ấm	Vietnamese	3	U+005e U+1ea5
+^ìs	ìs	ìsá, ìsa	Hausa, Malagasy	3	U+005e U+00ec U+0073
+^χʷ	χʷ	χʷetːas, χʷetːi	Archi	3	U+005e U+03c7 U+02b7
+^W	<?>	WC, Wednesday	Indonesian, English	3	U+005e U+0057
+ť$	<?>	angušť, phuro angušť	Selice Romani	3	U+0165 U+0024
+ös$	ös	kömölös, tüös	Sakha	3	U+00f6 U+0073 U+0024
+V	<?>	karri- with LOCATVE, liang2ci4 or liang2 VCL	Gurindji, White Hmong, Mandarin Chinese	3	U+0056
+____$	____	na ___, nukulal ___	Zinacantán Tzotzil	3	U+005f U+005f U+005f U+005f U+0024
+^mʷ	mʷ	mʷi, mʷo	Manange	3	U+005e U+006d U+02b7
+ûh$	ûh	rûh, bûh	Old High German	3	U+00fb U+0068 U+0024
+cː	cː	darcː'an, acː'ilinnu	Archi	3	U+0063 U+02d0
+ở$	<?>	mở, thở	Vietnamese	3	U+1edf U+0024
+ʁˤ	ʁˤ	burʁˤurbos, iʁˤda	Archi	3	U+0281 U+02e4
+ạ$	ạ	dạ, đe doạ	Vietnamese	3	U+1ea1 U+0024
+ɓɓ	ɓɓ	rooɓɓile, ɓúɓɓúkéekèe	Gawwada, Hausa	3	U+0253 U+0253
+mhh	mhh	hhamhhamo	Iraqw	3	U+006d U+0068 U+0068
+^uˤ	uˤ	uˤnšːəla, uˤrbət'i	Archi	3	U+005e U+0075 U+02e4
+ỉ	<?>	mỉm, đỉnh	Vietnamese	3	U+1ec9
+^és	és	éso, ésno	Selice Romani, Indonesian	3	U+005e U+00e9 U+0073
+^eˀ	eˀ	eˀp, eˀj	Ket	3	U+005e U+0065 U+02c0
+gʷ	gʷ	č'egʷdu, hoti gʷarqː'i	Archi	3	U+0067 U+02b7
+^a̲	a̲	a̲ni, a̲di	Otomi	3	U+005e U+0061 U+0332
+ŋw$	ŋw	əŋw, ssəŋw	Tarifiyt Berber	3	U+014b U+0077 U+0024
+^əə	əə	əəlsin, əəntet	Ket	3	U+005e U+0259 U+0259
+ồ$	<?>	hồ, đồng hồ	Vietnamese	3	U+1ed3 U+0024
+öᵑ	öᵑ	höᵑššöna, šöᵑƛö	Bezhta	3	U+00f6 U+1d51
+ťh	<?>	diťhol, máťhi	Selice Romani	3	U+0165 U+0068
+îw	îw	hîwen, spîwan	Old High German	3	U+00ee U+0077
+bb$	bb	řħəbb, kəbb	Tarifiyt Berber	3	U+0062 U+0062 U+0024
+qʼ	qʼ	paqʼut, tusnaqʼ abtʼas	Archi	3	U+0071 U+02bc
+īs$	īs	bīs, dīs	Ket, Bezhta	3	U+012b U+0073 U+0024
+üːs	üːs	külüːske, küːsteːχ	Sakha	3	U+00fc U+02d0 U+0073
+´w	<?>	hã´wɨg, hɔ̃´w’	Hup	3	U+00b4 U+0077
+yy$	yy	ssɣuyy	Tarifiyt Berber	3	U+0079 U+0079 U+0024
+öö	öö	mbéi köökö́ö, töönsö́n	Saramaccan	2	U+00f6 U+00f6
+^H	<?>	Helene, Hindi	Hawaiian, Swahili	2	U+005e U+0048
+^àw	àw	àwó, àwá cíntà	Kanuri	2	U+005e U+00e0 U+0077
+^ī$	ī	ī	Ket	2	U+005e U+012b U+0024
+^ē$	ē	ē	Japanese, Ket	2	U+005e U+0113 U+0024
+________________$	________________	tot _______________, me7 _______________	Zinacantán Tzotzil	2	U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+0024
+^às	às	àsa, àsír	Malagasy, Kanuri	2	U+005e U+00e0 U+0073
+^pp	pp	ppae-, -ppi	Takia	2	U+005e U+0070 U+0070
+üᵑ	üᵑ	k’äy -üᵑxöl-, k’äy -üᵑxö-	Bezhta	2	U+00fc U+1d51
+đw	đw	řməđwəđ, ŧaməđwasŧ	Tarifiyt Berber	2	U+0111 U+0077
+öw	öw	xöwǟ-, ɬöwa-	Bezhta	2	U+00f6 U+0077
+ẵ	<?>	sẵn sàng, nhẵn	Vietnamese	2	U+1eb5
+nhh	nhh	óo qanhhi, qanhhi	Iraqw	2	U+006e U+0068 U+0068
+A	<?>	karri- with LOCATVE, `Aikupika	Hawaiian, Gurindji	2	U+0041
+'äh	'äh	nts'ähmi, zu'we t'ähi	Otomi	2	U+0027 U+00e4 U+0068
+ps$	ps	paaps, aps	Q'eqchi', Kildin Saami	2	U+0070 U+0073 U+0024
+^öᵑ	öᵑ	öᵑq’önä, öᵑq”öbuƛ’o	Bezhta	2	U+005e U+00f6 U+1d51
+^ə$	ə	ə-	Oroqen	2	U+005e U+0259 U+0024
+řw	řw	ŧařwəsŧ, ařwəs	Tarifiyt Berber	2	U+0159 U+0077
+ēs$	ēs	dēs, sēs	Ket	2	U+0113 U+0073 U+0024
+ûs	ûs	rûsa, dûsunt	Old High German	2	U+00fb U+0073
+tws$	tws	yiv tws, ntws	White Hmong	2	U+0074 U+0077 U+0073 U+0024
+üːh	üːh	küːhüleː, bülüːhe	Sakha	2	U+00fc U+02d0 U+0068
+ħs	ħs	řəħsađ, řeħsaƀ	Tarifiyt Berber	2	U+0127 U+0073
+'kw	'kw	bo̲'kwä, 'bo̲'kwä	Otomi	2	U+0027 U+006b U+0077
+^ƴ	<?>	ƴântaa, ƴar̃ wâa or ɗan wâa	Hausa	2	U+005e U+01b4
+'l$	'l	sik'l, xb'een kab'l	Q'eqchi'	2	U+0027 U+006c U+0024
+'í	'í	ee'ít, inoo'ín	Iraqw	2	U+0027 U+00ed
+äᵑ	äᵑ	ʔäᵑʔäᵑla-	Bezhta	2	U+00e4 U+1d51
+oːˤ	oːˤ	doːˤzu ušdu, doːˤzur došdur	Archi	2	U+006f U+02d0 U+02e4
+^öh	öh	öhüö, öhdä-	Bezhta, Sakha	2	U+005e U+00f6 U+0068
+=s	<?>	ʔille na=sooʕa	Gawwada	2	U+003d U+0073
+^çs	çs	çsi	Tarifiyt Berber	2	U+005e U+00e7 U+0073
+^ʊ:	ʊ:	ʊ:ŋkan, ʊ:ŋnɪ-	Oroqen	2	U+005e U+028a U+003a
+^īs$	īs	īs	Ket	2	U+005e U+012b U+0073 U+0024
+^šːʷ	šːʷ	šːʷit’bos, šːʷaˤltʼ	Archi	2	U+005e U+0161 U+02d0 U+02b7
+^êw	êw	êwa, êwawarto	Old High German	2	U+005e U+00ea U+0077
+ʊ:$	ʊ:	nalɛmʊ:, ʊrʊ:-	Oroqen	2	U+028a U+003a U+0024
+'aːˤ	'aːˤ	č'aːˤratːut, č'aːˤri	Archi	2	U+0027 U+0061 U+02d0 U+02e4
+apala ~ apara	<???>	apala ~ apara	Yaqui	2	U+0061 U+0070 U+0061 U+006c U+0061 U+0020 U+007e U+0020 U+0061 U+0070 U+0061 U+0072 U+0061
+ě$	ě	ně, mě	Lower Sorbian	2	U+011b U+0024
+ö́ö́	ö́ö́	dö́ö́páu, nö́ö́mö	Saramaccan	2	U+00f6 U+0301 U+00f6 U+0301
+^üs	üs	üste, üs tögül	Sakha	2	U+005e U+00fc U+0073
+'a'a	'a'a	moko ch'a'aj ta, ch'a'aj	Q'eqchi'	2	U+0027 U+0061 U+0027 U+0061
+öᵑw	öᵑw	ƛöᵑwä, q’eyas ƛöᵑwä	Bezhta	2	U+00f6 U+1d51 U+0077
+^šš$	šš	šš	Tarifiyt Berber	2	U+005e U+0161 U+0161 U+0024
+^üw	üw	-üwö, -üwö-	Bezhta	2	U+005e U+00fc U+0077
+^thw	thw	thwv cib, thwj	White Hmong	2	U+005e U+0074 U+0068 U+0077
+^àh	àh	àho, àhitra	Malagasy	2	U+005e U+00e0 U+0068
+ksh	ksh	workshop, -nakshi	English, Swahili	2	U+006b U+0073 U+0068
+ōs$	ōs	lōs	Ket	2	U+014d U+0073 U+0024
+uˀ$	uˀ	duˀ, kuˀ	Ket	2	U+0075 U+02c0 U+0024
+ə̃	ə̃	ʔə̃ʔ, mhə̃m	Ceq Wong	2	U+0259 U+0303
+^u:	u:	u:yi-, u:n	Oroqen	2	U+005e U+0075 U+003a
+^žh	žh	žhəđ	Tarifiyt Berber	2	U+005e U+017e U+0068
+o:$	o:	oŋko:, ulo:-	Oroqen	2	U+006f U+003a U+0024
+T	<?>	karri- with LOCATVE, WTS	Gurindji, Indonesian	2	U+0054
+qʼʷ$	qʼʷ	biqʼʷ, naqʼʷ	Archi	2	U+0071 U+02bc U+02b7 U+0024
+^ư	<?>	ưng, ướt	Vietnamese	2	U+005e U+01b0
+^chw	chw	chwataś, chwalba	Lower Sorbian	2	U+005e U+0063 U+0068 U+0077
+qʼˤ	qʼˤ	aqʼˤul, deqʼˤlin iq	Archi	2	U+0071 U+02bc U+02e4
+´h	<?>	hũtæ̃´h pã´t, tæ̃´h-yud	Hup	2	U+00b4 U+0068
+xx$	xx	řfəxx, řmuxx	Tarifiyt Berber	2	U+0078 U+0078 U+0024
+^khw$	khw	khw	White Hmong	2	U+005e U+006b U+0068 U+0077 U+0024
+r̃sh	r̃sh	kùr̃shêt, hùr̃shéetìi	Hausa	2	U+0072 U+0303 U+0073 U+0068
+kʷ$	kʷ	bakʷ, makʷ	Archi	2	U+006b U+02b7 U+0024
+”	<?>	öᵑq”öbuƛ’o, -õq”o-	Bezhta	2	U+201d
+ôs	ôs	hintarôsto, lôsen	Old High German	2	U+00f4 U+0073
+äs	äs	säsi, mästro	Otomi	2	U+00e4 U+0073
+^shw	shw	shwari, shwiter	Imbabura Quechua, Swahili	2	U+005e U+0073 U+0068 U+0077
+ʔh	ʔh	wɨʔhamd’ə̌hteg, bɨʔhitam-	Hup	2	U+0294 U+0068
+χʷ	χʷ	k'ʷet' χʷaršilin χal, k'ʷet' χʷarši	Archi	2	U+03c7 U+02b7
+qw$	qw	faanqw, slaaqw	Iraqw	2	U+0071 U+0077 U+0024
+ʕs	ʕs	ʔošoʕsaɗ	Gawwada	2	U+0295 U+0073
+^Th	<?>	Thuốc độc cho con cá, Thursday	English, Vietnamese	2	U+005e U+0054 U+0068
+ɬʷ$	ɬʷ	diɬʷ, bikɬʷ	Archi	2	U+026c U+02b7 U+0024
+_$	_	gg imi đi ..., jmak-_	Zinacantán Tzotzil, Tarifiyt Berber	2	U+005f U+0024
+S	<?>	PSK, Yawm Saub	White Hmong, Indonesian	2	U+0053
+^ũ	ũ	-ũcola-, -ũco-	Bezhta	2	U+005e U+0169
+…$	<?>	-wa na …, -kaa na …	Swahili	2	U+2026 U+0024
+qq$	qq	ʕuqq, tiqq	Tarifiyt Berber	2	U+0071 U+0071 U+0024
+^ở$	<?>	ở	Vietnamese	2	U+005e U+1edf U+0024
+^šˤ	šˤ	šˤes, šˤal	Archi	2	U+005e U+0161 U+02e4
+pʃ	pʃ	kopʃi	Manange	2	U+0070 U+0283
+lhlh	lhlh	totkolhlhile, ifwelhlhi	Wichí	2	U+006c U+0068 U+006c U+0068
+âhh	âhh	lâhhan, sprâhhûs	Old High German	2	U+00e2 U+0068 U+0068
+r̃w	r̃w	sádáukâr̃wáa, yí kár̃kár̃wàa	Hausa	2	U+0072 U+0303 U+0077
+āss$	āss	čāss	Kildin Saami	2	U+0101 U+0073 U+0073 U+0024
+'m$	'm	na' uq'm, kux uq'm	Q'eqchi'	2	U+0027 U+006d U+0024
+ớ$	<?>	nhớ, vớ	Vietnamese	2	U+1edb U+0024
+ōss	ōss	mōsst, lōss’es’	Kildin Saami	2	U+014d U+0073 U+0073
+а$	а	jēb’eš’-alkа, pērrht-ēll’а	Kildin Saami	2	U+0430 U+0024
+às$	às	gábàs, tákwàs	Hausa	2	U+00e0 U+0073 U+0024
+^gg$	gg	gg	Tarifiyt Berber	2	U+005e U+0067 U+0067 U+0024
+nʃ	nʃ	tenʃi, dʒünʃi	Manange, Oroqen	2	U+006e U+0283
+rʃ	rʃ	kurʃiŋ, korʃo	Manange	2	U+0072 U+0283
+úú	úú	wójókókóópúúma, wójólíbápúúma	Saramaccan	2	U+00fa U+00fa
+ŋʃ	ŋʃ	laŋʃe, dəŋʃələ:-	Manange, Oroqen	2	U+014b U+0283
+ɮ	ɮ	kɬ'eɮdut, naˤɮdut	Archi	2	U+026e
+^đw	đw	đwəř	Tarifiyt Berber	2	U+005e U+0111 U+0077
+^ê	ê	êristo, êrgesteren	Old High German	2	U+005e U+00ea
+^qʼʷ	qʼʷ	qʼʷil	Archi	2	U+005e U+0071 U+02bc U+02b7
+^üh	üh	ühüːr, ühüs	Sakha	2	U+005e U+00fc U+0068
+^oˀ	oˀ	oˀn	Ket	2	U+005e U+006f U+02c0
+^uu$	uu	uu	Ket	2	U+005e U+0075 U+0075 U+0024
+^qs	qs	qsəħ	Tarifiyt Berber	2	U+005e U+0071 U+0073
+ǐh	ǐh	cǐh hə́b, wǐh g’æg	Hup	2	U+01d0 U+0068
+^ħs	ħs	ħsā, ħsəƀ	Tarifiyt Berber	2	U+005e U+0127 U+0073
+^ə̀	ə̀	ə̀ɣ	Ket	2	U+005e U+0259 U+0300
+ěw$	ěw	wɔhwěw, cecěw	Hup	2	U+011b U+0077 U+0024
+^ās$	ās	ās	Tarifiyt Berber, Ket	2	U+005e U+0101 U+0073 U+0024
+àss	àss	másàssàƙíi	Hausa	2	U+00e0 U+0073 U+0073
+ėh	<?>	lėhėtéšígo, kėhėginen	Selice Romani	2	U+0117 U+0068
+âh$	âh	nâh	Old High German	2	U+00e2 U+0068 U+0024
+kwh	kwh	y’amekwhi, tokwhi	Wichí	2	U+006b U+0077 U+0068
+^w$	w	w	White Hmong, Lower Sorbian	2	U+005e U+0077 U+0024
+^ös	ös	östüöküle, östöːχ	Sakha	2	U+005e U+00f6 U+0073
+qʼˤ$	qʼˤ	liqʼˤ, deqʼˤ	Archi	2	U+0071 U+02bc U+02e4 U+0024
+äh$	äh	yaraɣ-mätäh, däh	Bezhta	2	U+00e4 U+0068 U+0024
+*	<?>	pu*ro, lo*ktor	Zinacantán Tzotzil	2	U+002a
+^ps	ps	psyki, psət	Lower Sorbian, Ceq Wong	2	U+005e U+0070 U+0073
+…	<?>	gə́rè…..bèn, ngáwò…..bèn	Kanuri	2	U+2026
+^kws	kws	kws ntaus hlau, kws kho mob	White Hmong	2	U+005e U+006b U+0077 U+0073
+^qʼˤ	qʼˤ	qʼˤahba, qʼˤutʼ	Archi	2	U+005e U+0071 U+02bc U+02e4
+ǧǧ$	<?>	z’z’aǧǧ, žžaǧǧ	Tarifiyt Berber	2	U+01e7 U+01e7 U+0024
+Tsw	<?>	Vaj Tswv, thov Vaj Tswv	White Hmong	2	U+0054 U+0073 U+0077
+^Y	<?>	Ying1wu3, Yawm Saub	White Hmong, Mandarin Chinese	2	U+005e U+0059
+ừ$	<?>	từ	Vietnamese	1	U+1eeb U+0024
+ťť	<?>	pariťťa	Selice Romani	1	U+0165 U+0165
+^m$	m	m	Vietnamese	1	U+005e U+006d U+0024
+ɲɲ	ɲɲ	mooɲɲe	Gawwada	1	U+0272 U+0272
+B	<?>	holim Baibel	Takia	1	U+0042
+wsh	wsh	snowshoe	English	1	U+0077 U+0073 U+0068
+^X	<?>	X... zhihou4	Mandarin Chinese	1	U+005e U+0058
+^tw$	tw	tw	White Hmong	1	U+005e U+0074 U+0077 U+0024
+^əə$	əə	əə	Ket	1	U+005e U+0259 U+0259 U+0024
+$	<?>	yána$yìi	Hausa	1	U+0024
+^a̲$	a̲	a̲	Otomi	1	U+005e U+0061 U+0332 U+0024
+žw	žw	rozžwalony	Lower Sorbian	1	U+017e U+0077
+<	<?>	χːiriχ e<b>tːit:ub	Archi	1	U+003c
+_________$	_________	ti' _________	Zinacantán Tzotzil	1	U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+0024
+^fh	fh	fhəm	Tarifiyt Berber	1	U+005e U+0066 U+0068
+ôs$	ôs	bùrôs	Kanuri	1	U+00f4 U+0073 U+0024
+’ʷˤ	<?>	moc’or q’ʷˤe	Archi	1	U+2019 U+02b7 U+02e4
+1konta ~ 1kʌnta	<???>	1konta ~ 1kʌnta	Manange	1	U+0031 U+006b U+006f U+006e U+0074 U+0061 U+0020 U+007e U+0020 U+0031 U+006b U+028c U+006e U+0074 U+0061
+1mje ~ 1mẽ	<???>	1mje ~ 1mẽ	Manange	1	U+0031 U+006d U+006a U+0065 U+0020 U+007e U+0020 U+0031 U+006d U+1ebd
+O	<?>	karri- with LOCATVE	Gurindji	1	U+004f
+ə̌$	ə̌	kə̀skə̌	Kanuri	1	U+0259 U+030c U+0024
+5$	<?>	shi2wu5	Mandarin Chinese	1	U+0035 U+0024
+^uˀ	uˀ	uˀt	Ket	1	U+005e U+0075 U+02c0
+̣	<?>	Thuốc độc cho con cá	Vietnamese	1	U+0323
+^pʷ	pʷ	pʷo	Manange	1	U+005e U+0070 U+02b7
+éw$	éw	koyéw	Hup	1	U+00e9 U+0077 U+0024
+'p	'p	u'piyaki	Kali'na	1	U+0027 U+0070
+Láar~ábà	<???>	Láar~ábà	Hausa	1	U+004c U+00e1 U+0061 U+0072 U+007e U+00e1 U+0062 U+00e0
+1siŋhi ~ 1siŋi	<???>	1siŋhi ~ 1siŋi	Manange	1	U+0031 U+0073 U+0069 U+014b U+0068 U+0069 U+0020 U+007e U+0020 U+0031 U+0073 U+0069 U+014b U+0069
+^i:$	i:	i:-	Oroqen	1	U+005e U+0069 U+003a U+0024
+ùh	ùh	tùhúmtàa	Hausa	1	U+00f9 U+0068
+ōss$	ōss	kōss	Kildin Saami	1	U+014d U+0073 U+0073 U+0024
+^ās	ās	ās’uđ’	Tarifiyt Berber	1	U+005e U+0101 U+0073
+'tː	'tː	kɬ'okɬ'tːut	Archi	1	U+0027 U+0074 U+02d0
+üᵑ$	üᵑ	ɬüᵑ	Bezhta	1	U+00fc U+1d51 U+0024
+’ʷ$	<?>	naq’ʷ	Archi	1	U+2019 U+02b7 U+0024
+^ōʒ	ōʒ	ōʒe	Kildin Saami	1	U+005e U+014d U+0292
+^řs	řs	řsəħ	Tarifiyt Berber	1	U+005e U+0159 U+0073
+rw$	rw	cerw	Lower Sorbian	1	U+0072 U+0077 U+0024
+ď$	<?>	vaď	Selice Romani	1	U+010f U+0024
+^е	е	-еn’	Kildin Saami	1	U+005e U+0435
+īs	īs	ɬīs momola	Bezhta	1	U+012b U+0073
+^pw$	pw	pw	White Hmong	1	U+005e U+0070 U+0077 U+0024
+aːˤ	aːˤ	čʼaːˤri	Archi	1	U+0061 U+02d0 U+02e4
+ʃʃ	ʃʃ	ɪʃʃa	Oroqen	1	U+0283 U+0283
+^ʌ	ʌ	ʌŋkur	Manange	1	U+005e U+028c
+ūᵑ	ūᵑ	ɬūᵑs ɣeč’i	Bezhta	1	U+016b U+1d51
+ö́w	ö́w	dö́ö́wáta	Saramaccan	1	U+00f6 U+0301 U+0077
+īss$	īss	rīss	Kildin Saami	1	U+012b U+0073 U+0073 U+0024
+ɒ	ɒ	cicɒh	Ceq Wong	1	U+0252
+^uː$	uː	uː	Sakha	1	U+005e U+0075 U+02d0 U+0024
+əˀ$	əˀ	təˀ	Ket	1	U+0259 U+02c0 U+0024
+^ls	ls	-lsu	Takia	1	U+005e U+006c U+0073
+ěw	ěw	lěwy	Lower Sorbian	1	U+011b U+0077
+̀	<?>	túnàa	Hausa	1	U+0300
+jh$	jh	lājjh	Kildin Saami	1	U+006a U+0068 U+0024
+ïs$	ïs	maïs	Dutch	1	U+00ef U+0073 U+0024
+pʷʰ	pʷʰ	4pʷʰo	Manange	1	U+0070 U+02b7 U+02b0
+1miŋ ~ 1mĩ	<???>	1miŋ ~ 1mĩ	Manange	1	U+0031 U+006d U+0069 U+014b U+0020 U+007e U+0020 U+0031 U+006d U+0129
+əˆ	əˆ	gə̀rəˆs	Kanuri	1	U+0259 U+02c6
+apala ~ aparai	<???>	apala ~ aparai	Yaqui	1	U+0061 U+0070 U+0061 U+006c U+0061 U+0020 U+007e U+0020 U+0061 U+0070 U+0061 U+0072 U+0061 U+0069
+̈	<?>	mösimö́si	Saramaccan	1	U+0308
+tʷ	tʷ	1tʷo	Manange	1	U+0074 U+02b7
+hws$	hws	tawm hws	White Hmong	1	U+0068 U+0077 U+0073 U+0024
+ẳ	<?>	thẳng	Vietnamese	1	U+1eb3
+S$	<?>	WTS	Indonesian	1	U+0053 U+0024
+^C	<?>	CL	Mandarin Chinese	1	U+005e U+0043
+^ʁʷˤ	ʁʷˤ	ʁʷˤalqˤi	Archi	1	U+005e U+0281 U+02b7 U+02e4
+^e̲$	e̲	e̲	Otomi	1	U+005e U+0065 U+0332 U+0024
+lipti ~ ripti	<???>	lipti ~ ripti	Yaqui	1	U+006c U+0069 U+0070 U+0074 U+0069 U+0020 U+007e U+0020 U+0072 U+0069 U+0070 U+0074 U+0069
+’sh	<?>	shuk’shuk’	Zinacantán Tzotzil	1	U+2019 U+0073 U+0068
+C$	<?>	WC	Indonesian	1	U+0043 U+0024
+fh	fh	ssəfhəm	Tarifiyt Berber	1	U+0066 U+0068
+kʼʷ$	kʼʷ	ikʼʷ	Archi	1	U+006b U+02bc U+02b7 U+0024
+'ˤ$	<?>	diq'ˤ	Archi	1	U+0027 U+02e4 U+0024
+eˤ$	eˤ	tʼeˤ	Archi	1	U+0065 U+02e4 U+0024
+fwh	fwh	tofwefwhi	Wichí	1	U+0066 U+0077 U+0068
+^šʷ	šʷ	šʷitʼəla	Archi	1	U+005e U+0161 U+02b7
+qʷˤ	qʷˤ	oˤroˤs qʷˤib	Archi	1	U+0071 U+02b7 U+02e4
+gs$	gs	tongs	English	1	U+0067 U+0073 U+0024
+àh$	àh	Allàh	Hausa	1	U+00e0 U+0068 U+0024
+*h	<?>	plo*ho	Zinacantán Tzotzil	1	U+002a U+0068
+ōw	ōw	kōwē	Hawaiian	1	U+014d U+0077
+^ʁˤ	ʁˤ	ʁˤažbos	Archi	1	U+005e U+0281 U+02e4
+^ìsh	ìsh	ìsháar̃àa	Hausa	1	U+005e U+00ec U+0073 U+0068
+zz$	zz	nhəzz	Tarifiyt Berber	1	U+007a U+007a U+0024
+ôw	ôw	gilôwôn	Old High German	1	U+00f4 U+0077
+^đ$	đ	đ	Tarifiyt Berber	1	U+005e U+0111 U+0024
+V$	<?>	TV	Indonesian	1	U+0056 U+0024
+qːʼ	qːʼ	muqːʼa	Archi	1	U+0071 U+02d0 U+02bc
+čs	čs	narančsiňíno	Selice Romani	1	U+010d U+0073
+^F	<?>	Friday	English	1	U+005e U+0046
+аs$	аs	pāljаs	Kildin Saami	1	U+0430 U+0073 U+0024
+^I	<?>	Ijumaa	Swahili	1	U+005e U+0049
+1tu ~ tuti	<???>	1tu ~ tuti	Manange	1	U+0031 U+0074 U+0075 U+0020 U+007e U+0020 U+0074 U+0075 U+0074 U+0069
+^V	<?>	Vaj Tswv	White Hmong	1	U+005e U+0056
+^xx	xx	xxaqab’ankil	Q'eqchi'	1	U+005e U+0078 U+0078
+'î	'î	shà'îr̃	Hausa	1	U+0027 U+00ee
+'à$	'à	á'à	Kanuri	1	U+0027 U+00e0 U+0024
+bh	bh	chabhe	Zinacantán Tzotzil	1	U+0062 U+0068
+-ha ~ -hė ~ -ca	<???>	-ha ~ -hė ~ -ca	Selice Romani	1	U+002d U+0068 U+0061 U+0020 U+007e U+0020 U+002d U+0068 U+0117 U+0020 U+007e U+0020 U+002d U+0063 U+0061
+ian ~ i’ani	<???>	ian ~ i’ani	Yaqui	1	U+0069 U+0061 U+006e U+0020 U+007e U+0020 U+0069 U+2019 U+0061 U+006e U+0069
+nsw	nsw	answer	English	1	U+006e U+0073 U+0077
+tw$	tw	pob-tw	White Hmong	1	U+0074 U+0077 U+0024
+^îs$	îs	îs	Old High German	1	U+005e U+00ee U+0073 U+0024
+ɯtkij~ətkij	<???>	ɯtkij~ətkij	Ket	1	U+026f U+0074 U+006b U+0069 U+006a U+007e U+0259 U+0074 U+006b U+0069 U+006a
+2u ~ 2ʃu	<???>	2u ~ 2ʃu	Manange	1	U+0032 U+0075 U+0020 U+007e U+0020 U+0032 U+0283 U+0075
+’h	<?>	e’hotehlak	Wichí	1	U+2019 U+0068
+ё	<?>	kijje mill’te ёadte	Kildin Saami	1	U+0451
+ǧ	<?>	lǧazira	Tarifiyt Berber	1	U+01e7
+pp$	pp	sipp	Kildin Saami	1	U+0070 U+0070 U+0024
+’ˤ$	<?>	deq’ˤ	Archi	1	U+2019 U+02e4 U+0024
+řh	řh	asəřham	Tarifiyt Berber	1	U+0159 U+0068
+āw$	āw	yāw	Tarifiyt Berber	1	U+0101 U+0077 U+0024
+I$	<?>	menghalangI	Indonesian	1	U+0049 U+0024
+^iˤ	iˤ	iˤntim maj	Archi	1	U+005e U+0069 U+02e4
+^qws$	qws	qws	White Hmong	1	U+005e U+0071 U+0077 U+0073 U+0024
+L	<?>	karri- with LOCATVE	Gurindji	1	U+004c
+^eˀ$	eˀ	eˀ	Ket	1	U+005e U+0065 U+02c0 U+0024
+ūᵑ$	ūᵑ	c’ūᵑ	Bezhta	1	U+016b U+1d51 U+0024
+^âh	âh	âhten	Old High German	1	U+005e U+00e2 U+0068
+jeewi ~ eewi	<???>	jeewi ~ eewi	Yaqui	1	U+006a U+0065 U+0065 U+0077 U+0069 U+0020 U+007e U+0020 U+0065 U+0065 U+0077 U+0069
+ự$	<?>	tương tự	Vietnamese	1	U+1ef1 U+0024
+^ʔ$	ʔ	-ʔ	Bezhta	1	U+005e U+0294 U+0024
+^ŋs	ŋs	ŋsa-ŋes	Takia	1	U+005e U+014b U+0073
+ûw	ûw	bûwan	Old High German	1	U+00fb U+0077
+êh	êh	zêha	Old High German	1	U+00ea U+0068
+^ťh	<?>	ťhil	Selice Romani	1	U+005e U+0165 U+0068
+ēsh	ēsh	inishiēshon	Japanese	1	U+0113 U+0073 U+0068
+ë́w	ë́w	dëë́wáta	Saramaccan	1	U+00eb U+0301 U+0077
+^ɫ	ɫ	ɫʌkʰaŋ	Manange	1	U+005e U+026b
+ƀh	ƀh	ttəƀhəŧ	Tarifiyt Berber	1	U+0180 U+0068
+хх	<?>	vuеll’k-taхх’t	Kildin Saami	1	U+0445 U+0445
+^R	<?>	Rabu	Indonesian	1	U+005e U+0052
+^äᵑh	äᵑh	äᵑheyo	Bezhta	1	U+005e U+00e4 U+1d51 U+0068
+too ~ tooro	<???>	too ~ tooro	Yaqui	1	U+0074 U+006f U+006f U+0020 U+007e U+0020 U+0074 U+006f U+006f U+0072 U+006f
+่$	<?>	thàankhú่	Thai	1	U+0e48 U+0024
+χχ	χχ	χaχχan	Sakha	1	U+03c7 U+03c7
+^ôs	ôs	ôstan	Old High German	1	U+005e U+00f4 U+0073
+ǎw$	ǎw	tǎw	Hup	1	U+01ce U+0077 U+0024
+^ōss	ōss	ōss’el	Kildin Saami	1	U+005e U+014d U+0073 U+0073
+2tsu ~ 2tso=ko	<???>	2tsu ~ 2tso=ko	Manange	1	U+0032 U+0074 U+0073 U+0075 U+0020 U+007e U+0020 U+0032 U+0074 U+0073 U+006f U+003d U+006b U+006f
+^1$	<?>	1	Mandarin Chinese	1	U+005e U+0031 U+0024
+>	<?>	χːiriχ e<b>tːit:ub	Archi	1	U+003e
+M$	<?>	SIM	Indonesian	1	U+004d U+0024
+ixqa’al ~ xqa’al ~ qa’al	<???>	ixqa’al ~ xqa’al ~ qa’al	Q'eqchi'	1	U+0069 U+0078 U+0071 U+0061 U+2019 U+0061 U+006c U+0020 U+007e U+0020 U+0078 U+0071 U+0061 U+2019 U+0061 U+006c U+0020 U+007e U+0020 U+0071 U+0061 U+2019 U+0061 U+006c
+oˤ$	oˤ	zoˤk'noˤ	Archi	1	U+006f U+02e4 U+0024
+ēss$	ēss	kēss	Kildin Saami	1	U+0113 U+0073 U+0073 U+0024
+I	<?>	SIM	Indonesian	1	U+0049
+ȏ	<?>	màr̃tȏo	Hausa	1	U+020f
+^ûw	ûw	ûwila	Old High German	1	U+005e U+00fb U+0077
+9$	<?>	saay9	Thai	1	U+0039 U+0024
+ǒ$	ǒ	màsǒ	Kanuri	1	U+01d2 U+0024
+r̃r̃	r̃r̃	jár̃r̃àbáa	Hausa	1	U+0072 U+0303 U+0072 U+0303
+āᵑ$	āᵑ	cāᵑ	Bezhta	1	U+0101 U+1d51 U+0024
+ˇ$	<?>	pãˇ	Hup	1	U+02c7 U+0024
+^fff	fff	-fffu	Takia	1	U+005e U+0066 U+0066 U+0066
+^ʈʰ	ʈʰ	ʈʰoto 1kʰʌ	Manange	1	U+005e U+0288 U+02b0
+ˇhw	<?>	yɔ̃ˇhwɨg	Hup	1	U+02c7 U+0068 U+0077
+ɯˀ$	ɯˀ	dɯˀ	Ket	1	U+026f U+02c0 U+0024
+r̃s	r̃s	fúr̃súnàa	Hausa	1	U+0072 U+0303 U+0073
+^ï	ï	-ïino	Kali'na	1	U+005e U+00ef
+éh$	éh	téh	Indonesian	1	U+00e9 U+0068 U+0024
+ǔw$	ǔw	ʔǔw	Hup	1	U+01d4 U+0077 U+0024
+^kss	kss	kssik -bol	Takia	1	U+005e U+006b U+0073 U+0073
+о	<?>	pоаfčas	Kildin Saami	1	U+043e
+êw	êw	wêwa	Old High German	1	U+00ea U+0077
+^rh	rh	rhaus	White Hmong	1	U+005e U+0072 U+0068
+^cw$	cw	cw	White Hmong	1	U+005e U+0063 U+0077 U+0024
+rsː	rsː	barsːon	Archi	1	U+0072 U+0073 U+02d0
+^Às	<?>	Àsábàr̃	Hausa	1	U+005e U+00c0 U+0073
+oˀ$	oˀ	qoˀ	Ket	1	U+006f U+02c0 U+0024
+ǽw$	<?>	-pæcǽw	Hup	1	U+01fd U+0077 U+0024
+^ùs$	ùs	ùs	Ket	1	U+005e U+00f9 U+0073 U+0024
+kuus ~ kurus	<???>	kuus ~ kurus	Yaqui	1	U+006b U+0075 U+0075 U+0073 U+0020 U+007e U+0020 U+006b U+0075 U+0072 U+0075 U+0073
+^z$	z	z	Lower Sorbian	1	U+005e U+007a U+0024
+ñw	ñw	sañwe	Mapudungun	1	U+00f1 U+0077
+ɦ	ɦ	dɦarmʌ	Manange	1	U+0266
+üw$	üw	füw	Mapudungun	1	U+00fc U+0077 U+0024
+1ʂa ~ 1hra ~ 1sʌtur	<???>	1ʂa ~ 1hra ~ 1sʌtur	Manange	1	U+0031 U+0282 U+0061 U+0020 U+007e U+0020 U+0031 U+0068 U+0072 U+0061 U+0020 U+007e U+0020 U+0031 U+0073 U+028c U+0074 U+0075 U+0072
+vs	vs	pīvvse	Kildin Saami	1	U+0076 U+0073
+ës	ës	dë́dësëmbë	Saramaccan	1	U+00eb U+0073
+^às$	às	às	Ket	1	U+005e U+00e0 U+0073 U+0024
+^À	<?>	Àlhàmîs	Hausa	1	U+005e U+00c0
+sepia ~ sep	<???>	sepia ~ sep	Yaqui	1	U+0073 U+0065 U+0070 U+0069 U+0061 U+0020 U+007e U+0020 U+0073 U+0065 U+0070
+ǔh	ǔh	mǔhteg	Hup	1	U+01d4 U+0068
+kutti ~ lamkutti	<???>	kutti ~ lamkutti	Manange	1	U+006b U+0075 U+0074 U+0074 U+0069 U+0020 U+007e U+0020 U+006c U+0061 U+006d U+006b U+0075 U+0074 U+0074 U+0069
+thw	thw	nthwv dej	White Hmong	1	U+0074 U+0068 U+0077
+^js	js	jsɨŋ	Ceq Wong	1	U+005e U+006a U+0073
+aaa	aaa	dinfáa-aakàat	Thai	1	U+0061 U+0061 U+0061
+kws$	kws	pobkws	White Hmong	1	U+006b U+0077 U+0073 U+0024
+^ý	ý	ý kiến	Vietnamese	1	U+005e U+00fd
+ésh	ésh	àdréshì	Kanuri	1	U+00e9 U+0073 U+0068
+kojtumrem ~ kojtumbrem	<???>	kojtumrem ~ kojtumbrem	Yaqui	1	U+006b U+006f U+006a U+0074 U+0075 U+006d U+0072 U+0065 U+006d U+0020 U+007e U+0020 U+006b U+006f U+006a U+0074 U+0075 U+006d U+0062 U+0072 U+0065 U+006d
+és$	és	menétés	Indonesian	1	U+00e9 U+0073 U+0024
+ɬs	ɬs	marč’ok’oɬso mex	Bezhta	1	U+026c U+0073
+ḻw	<?>	iḻwen	Mapudungun	1	U+1e3b U+0077
+äs$	äs	mäs	Otomi	1	U+00e4 U+0073 U+0024
+yo’owe ~ yoowe	<???>	yo’owe ~ yoowe	Yaqui	1	U+0079 U+006f U+2019 U+006f U+0077 U+0065 U+0020 U+007e U+0020 U+0079 U+006f U+006f U+0077 U+0065
+mwh	mwh	yomwhoye	Wichí	1	U+006d U+0077 U+0068
+ȫᵑ$	<?>	xȫᵑ	Bezhta	1	U+022b U+1d51 U+0024
+^I$	<?>	I	English	1	U+005e U+0049 U+0024
+^kk$	kk	kk	Tarifiyt Berber	1	U+005e U+006b U+006b U+0024
+K$	<?>	PSK	Indonesian	1	U+004b U+0024
+^ō$	ō	ō	Japanese	1	U+005e U+014d U+0024
+^qʷˤ	qʷˤ	qʷˤen	Archi	1	U+005e U+0071 U+02b7 U+02e4
+ēs	ēs	onēsan	Japanese	1	U+0113 U+0073
+aʰ	aʰ	1taʰŋ	Manange	1	U+0061 U+02b0
+^ôh	ôh	ôheim	Old High German	1	U+005e U+00f4 U+0068
+psh	psh	tə́pshì	Kanuri	1	U+0070 U+0073 U+0068
+^N	<?>	Nuhōlani	Hawaiian	1	U+005e U+004e
+^Ah	<?>	Ahad	Indonesian	1	U+005e U+0041 U+0068
+aj am ~ x’am	<???>	aj am ~ x’am	Q'eqchi'	1	U+0061 U+006a U+0020 U+0061 U+006d U+0020 U+007e U+0020 U+0078 U+2019 U+0061 U+006d
+=w	<?>	ʔí=waršooɗi	Gawwada	1	U+003d U+0077
+^3$	<?>	3	Mandarin Chinese	1	U+005e U+0033 U+0024
+lll	lll	kailllalla	Imbabura Quechua	1	U+006c U+006c U+006c
+^qhw	qhw	qhwv	White Hmong	1	U+005e U+0071 U+0068 U+0077
+'q$	'q	taqe'q	Q'eqchi'	1	U+0027 U+0071 U+0024
+ɓ$	ɓ	tuɓ	Gawwada	1	U+0253 U+0024
+^îs	îs	îsan	Old High German	1	U+005e U+00ee U+0073
+laatano ~ plaatano	<???>	laatano ~ plaatano	Yaqui	1	U+006c U+0061 U+0061 U+0074 U+0061 U+006e U+006f U+0020 U+007e U+0020 U+0070 U+006c U+0061 U+0061 U+0074 U+0061 U+006e U+006f
+pale ~ paale	<???>	pale ~ paale	Yaqui	1	U+0070 U+0061 U+006c U+0065 U+0020 U+007e U+0020 U+0070 U+0061 U+0061 U+006c U+0065
+ŋʷ	ŋʷ	2ŋʷo	Manange	1	U+014b U+02b7
+ɯɯ$	ɯɯ	sɯɯ	Ket	1	U+026f U+026f U+0024
+kucha’ara ~ kucha’a	<???>	kucha’ara ~ kucha’a	Yaqui	1	U+006b U+0075 U+0063 U+0068 U+0061 U+2019 U+0061 U+0072 U+0061 U+0020 U+007e U+0020 U+006b U+0075 U+0063 U+0068 U+0061 U+2019 U+0061
+*$	<?>	xia4 yi1 ge*	Mandarin Chinese	1	U+002a U+0024
+'r$	'r	liib'r	Q'eqchi'	1	U+0027 U+0072 U+0024
+ʉ̀$	ʉ̀	?ʉ̀	Thai	1	U+0289 U+0300 U+0024
+àà$	àà	wàltàà	Kanuri	1	U+00e0 U+00e0 U+0024
+ȭ	<?>	büwähȭɬi	Bezhta	1	U+022d
+lsˀ$	lsˀ	senkalabelsˀ	Ket	1	U+006c U+0073 U+02c0 U+0024
+γ	<?>	χas daγanï	Sakha	1	U+03b3
+‘w	<?>	t’afi ‘wada	Otomi	1	U+2018 U+0077
+^īᵑ$	īᵑ	īᵑ	Bezhta	1	U+005e U+012b U+1d51 U+0024
+^Á	<?>	Álà	Kanuri	1	U+005e U+00c1
+^ɯˀ	ɯˀ	ɯˀk	Ket	1	U+005e U+026f U+02c0
+^à$	à	à	Hausa	1	U+005e U+00e0 U+0024
+N$	<?>	aN-	Malagasy	1	U+004e U+0024
+^hws$	hws	hws	White Hmong	1	U+005e U+0068 U+0077 U+0073 U+0024
+^qw$	qw	qw	White Hmong	1	U+005e U+0071 U+0077 U+0024
+ìsh	ìsh	yí átìsháa	Hausa	1	U+00ec U+0073 U+0068
+ǐw	ǐw	hǐwnáam	Thai	1	U+01d0 U+0077
+^žʷ	žʷ	žʷen	Archi	1	U+005e U+017e U+02b7
+ə̔	ə̔	kə̔lâbê	Kanuri	1	U+0259 U+0314
+E$	<?>	karri- with LOCATVE	Gurindji	1	U+0045 U+0024
+ʒ$	ʒ	cɨʒ	Kildin Saami	1	U+0292 U+0024
+tsws$	tsws	ntsws	White Hmong	1	U+0074 U+0073 U+0077 U+0073 U+0024
+'x$	'x	paapa'x	Q'eqchi'	1	U+0027 U+0078 U+0024
+^ɸ	ɸ	ɸəytin	Oroqen	1	U+005e U+0278
+‘$	<?>	ʕāđ‘	Tarifiyt Berber	1	U+2018 U+0024
+Hw	<?>	kHwaamla?aay	Thai	1	U+0048 U+0077
+ɪ:	ɪ:	ʃɪ:la	Oroqen	1	U+026a U+003a
+shh	shh	fishhook	English	1	U+0073 U+0068 U+0068
+'ʷˤ$	<?>	marq'ʷˤ	Archi	1	U+0027 U+02b7 U+02e4 U+0024
+'h	'h	hech'hotk	Q'eqchi'	1	U+0027 U+0068
+ɸ	ɸ	daiɸu	Oroqen	1	U+0278
+los ~ dos	<???>	los ~ dos	Yaqui	1	U+006c U+006f U+0073 U+0020 U+007e U+0020 U+0064 U+006f U+0073
+^qhws	qhws	qhws ntsej	White Hmong	1	U+005e U+0071 U+0068 U+0077 U+0073
+^aːˤ	aːˤ	aːˤšas	Archi	1	U+005e U+0061 U+02d0 U+02e4
+üh$	üh	rüh	Bezhta	1	U+00fc U+0068 U+0024
+ûhh	ûhh	intûhhan	Old High German	1	U+00fb U+0068 U+0068
+^āw	āw	āwəs	Tarifiyt Berber	1	U+005e U+0101 U+0077
+dudaroa ~ ruraroa	<???>	dudaroa ~ ruraroa	Yaqui	1	U+0064 U+0075 U+0064 U+0061 U+0072 U+006f U+0061 U+0020 U+007e U+0020 U+0072 U+0075 U+0072 U+0061 U+0072 U+006f U+0061
+^u:$	u:	u:-	Oroqen	1	U+005e U+0075 U+003a U+0024
+^ớ	<?>	ớt	Vietnamese	1	U+005e U+1edb
+ēʒ$	ēʒ	vēʒ	Kildin Saami	1	U+0113 U+0292 U+0024
+^ə:$	ə:	ə:-	Oroqen	1	U+005e U+0259 U+003a U+0024
+gg$	gg	egg	English	1	U+0067 U+0067 U+0024
+kss	kss	qonokssajdo	Ket	1	U+006b U+0073 U+0073
+аss	аss	pl’аssje	Kildin Saami	1	U+0430 U+0073 U+0073
+^'a̲	'a̲	'a̲gi	Otomi	1	U+005e U+0027 U+0061 U+0332
+̑	<?>	màr̃tȏo	Hausa	1	U+0311
+H	<?>	nhà thờ Hồi giáo	Vietnamese	1	U+0048
+^ổ$	<?>	ổ	Vietnamese	1	U+005e U+1ed5 U+0024
+šw	šw	šway šway	Tarifiyt Berber	1	U+0161 U+0077
+ə̀ə̀	ə̀ə̀	rabə̀ə̀t	Thai	1	U+0259 U+0300 U+0259 U+0300
+řs	řs	ssəřsəq	Tarifiyt Berber	1	U+0159 U+0073
+^žw	žw	žwała	Lower Sorbian	1	U+005e U+017e U+0077
+âw$	âw	câw	Thai	1	U+00e2 U+0077 U+0024
+khw	khw	thom khwm	White Hmong	1	U+006b U+0068 U+0077
+hhs	hhs	dahhsani	Iraqw	1	U+0068 U+0068 U+0073
+fws$	fws	tawm fws	White Hmong	1	U+0066 U+0077 U+0073 U+0024
+2tʃoŋ ~ 2tʃoŋtʃoŋ	<???>	2tʃoŋ ~ 2tʃoŋtʃoŋ	Manange	1	U+0032 U+0074 U+0283 U+006f U+014b U+0020 U+007e U+0020 U+0032 U+0074 U+0283 U+006f U+014b U+0074 U+0283 U+006f U+014b
+^tsw$	tsw	tsw	White Hmong	1	U+005e U+0074 U+0073 U+0077 U+0024
+ìw$	ìw	sìw	Thai	1	U+00ec U+0077 U+0024
+ìì	ìì	lììtàrí	Kanuri	1	U+00ec U+00ec
+_______________$	_______________	hay ______________	Zinacantán Tzotzil	1	U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+005f U+0024
+nhw	nhw	ñänhwaro	Otomi	1	U+006e U+0068 U+0077
+laata ~ plaata	<???>	laata ~ plaata	Yaqui	1	U+006c U+0061 U+0061 U+0074 U+0061 U+0020 U+007e U+0020 U+0070 U+006c U+0061 U+0061 U+0074 U+0061
+xhw$	xhw	ntxhw	White Hmong	1	U+0078 U+0068 U+0077 U+0024
+õ$	õ	1kõ	Manange	1	U+00f5 U+0024
+^ế	<?>	ếch	Vietnamese	1	U+005e U+1ebf
+šh	šh	ššhā	Tarifiyt Berber	1	U+0161 U+0068
+’h$	<?>	šā’h	Tarifiyt Berber	1	U+2019 U+0068 U+0024
+̂	<?>	mântáa	Hausa	1	U+0302
+^és$	és	és	Indonesian	1	U+005e U+00e9 U+0073 U+0024
+cc$	cc	kūcc	Kildin Saami	1	U+0063 U+0063 U+0024
+ʁʷˤ	ʁʷˤ	iʁʷˤdut	Archi	1	U+0281 U+02b7 U+02e4
+tsʰu ~ tsʰəw 1kʰʌ 1mo	<???>	tsʰu ~ tsʰəw 1kʰʌ 1mo	Manange	1	U+0074 U+0073 U+02b0 U+0075 U+0020 U+007e U+0020 U+0074 U+0073 U+02b0 U+0259 U+0077 U+0020 U+0031 U+006b U+02b0 U+028c U+0020 U+0031 U+006d U+006f
+'u'u	'u'u	uutz'u'uj	Q'eqchi'	1	U+0027 U+0075 U+0027 U+0075
+ɨ̄	ɨ̄	pɨ̄nnej	Kildin Saami	1	U+0268 U+0304
+'aˤ	'aˤ	č'aˤmmus	Archi	1	U+0027 U+0061 U+02e4
+Làar~àbá	<???>	Làar~àbá	Hausa	1	U+004c U+00e0 U+0061 U+0072 U+007e U+00e0 U+0062 U+00e1
+chh	chh	puchha'	Q'eqchi'	1	U+0063 U+0068 U+0068
+^üs$	üs	üs	Sakha	1	U+005e U+00fc U+0073 U+0024
+lotor ~ lotoor	<???>	lotor ~ lotoor	Yaqui	1	U+006c U+006f U+0074 U+006f U+0072 U+0020 U+007e U+0020 U+006c U+006f U+0074 U+006f U+006f U+0072
+^qws	qws	qws txob	White Hmong	1	U+005e U+0071 U+0077 U+0073
+r̃h	r̃h	tàr̃hôo	Hausa	1	U+0072 U+0303 U+0068
