@@ -28,8 +28,8 @@ Conceptlists in Concepticon:
 - **Synonymy:** 1.20
 - **Invalid lexemes:** 0
 - **Tokens:** 360,528
-- **Segments:** 746 (0 BIPA errors, 0 CTLS sound class errors, 743 CLTS modified)
-- **Inventory size (avg):** 58.17
+- **Segments:** 747 (0 BIPA errors, 0 CTLS sound class errors, 744 CLTS modified)
+- **Inventory size (avg):** 58.20
 
 # Contributors
 
