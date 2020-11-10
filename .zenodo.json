@@ -14,9 +14,6 @@
     "communities": [
         {
             "identifier": "lexibank"
-        },
-        {
-            "identifier": "lexibank"
         }
     ],
     "creators": [
@@ -37,6 +34,6 @@
     "upload_type": "dataset",
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Haspelmath, Martin &amp; Tadmor, Uri (eds.) 2009. World Loanword Database. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at http://wold.clld.org)</p>\n</blockquote>",
     "license": {
-        "id": "CC-BY-3.0"
+        "id": "CC-BY-4.0"
     }
 }
