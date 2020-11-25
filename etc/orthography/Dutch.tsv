@@ -797,7 +797,7 @@ Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	Languages
 ^naaien$	n aː j ə	1	U+005E U+006E U+0061 U+0061 U+0069 U+0065 U+006E U+0024	naaien	Dutch
 ^nadoen$	n aː d uː n	1	U+005E U+006E U+0061 U+0064 U+006F U+0065 U+006E U+0024	nadoen	Dutch
 ^najaar$	n aː j aː r	1	U+005E U+006E U+0061 U+006A U+0061 U+0061 U+0072 U+0024	najaar	Dutch
-^nettas$	n ɛ t _ t ɑ s	1	U+005E U+006E U+0065 U+0074 U+0074 U+0061 U+0073 U+0024	nettas	Dutch
+^nettas$	n ɛ t + t ɑ s	1	U+005E U+006E U+0065 U+0074 U+0074 U+0061 U+0073 U+0024	nettas	Dutch
 ^niezen$	n iː z ə	1	U+005E U+006E U+0069 U+0065 U+007A U+0065 U+006E U+0024	niezen	Dutch
 ^noemen$	n uː m ə	1	U+005E U+006E U+006F U+0065 U+006D U+0065 U+006E U+0024	noemen	Dutch
 ^oceaan$	oː s eː j aː n	1	U+005E U+006F U+0063 U+0065 U+0061 U+0061 U+006E U+0024	oceaan	Dutch
@@ -1256,7 +1256,7 @@ Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	Languages
 ^kleinzoon$	k l ɛi n z oː n	1	U+005E U+006B U+006C U+0065 U+0069 U+006E U+007A U+006F U+006F U+006E U+0024	kleinzoon	Dutch
 ^knipperen$	k n ɪ p ə r ə	1	U+005E U+006B U+006E U+0069 U+0070 U+0070 U+0065 U+0072 U+0065 U+006E U+0024	knipperen	Dutch
 ^kokosnoot$	k oː k ɔ s n oː t	1	U+005E U+006B U+006F U+006B U+006F U+0073 U+006E U+006F U+006F U+0074 U+0024	kokosnoot	Dutch
-^laat_zijn$	l aː t _ z ɛi n	1	U+005E U+006C U+0061 U+0061 U+0074 U+005F U+007A U+0069 U+006A U+006E U+0024	laat_zijn	Dutch
+^laat_zijn$	l aː t + z ɛi n	1	U+005E U+006C U+0061 U+0061 U+0074 U+005F U+007A U+0069 U+006A U+006E U+0024	laat_zijn	Dutch
 ^luisteren$	l œy s t ə r ə	1	U+005E U+006C U+0075 U+0069 U+0073 U+0074 U+0065 U+0072 U+0065 U+006E U+0024	luisteren	Dutch
 ^mannelijk$	m ɑ n ə l ə k	1	U+005E U+006D U+0061 U+006E U+006E U+0065 U+006C U+0069 U+006A U+006B U+0024	mannelijk	Dutch
 ^metselaar$	m ɛ t s ə l aː r	1	U+005E U+006D U+0065 U+0074 U+0073 U+0065 U+006C U+0061 U+0061 U+0072 U+0024	metselaar	Dutch
@@ -1328,7 +1328,7 @@ Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	Languages
 ^grootvader$	x r oː t f aː d ə r	1	U+005E U+0067 U+0072 U+006F U+006F U+0074 U+0076 U+0061 U+0064 U+0065 U+0072 U+0024	grootvader	Dutch
 ^handschoen$	h ɑ n t s x uː n	1	U+005E U+0068 U+0061 U+006E U+0064 U+0073 U+0063 U+0068 U+006F U+0065 U+006E U+0024	handschoen	Dutch
 ^hinderlaag$	h ɪ n d ə r l aː x	1	U+005E U+0068 U+0069 U+006E U+0064 U+0065 U+0072 U+006C U+0061 U+0061 U+0067 U+0024	hinderlaag	Dutch
-^houden_van$	h ɑu d ə _ v ɑ n	1	U+005E U+0068 U+006F U+0075 U+0064 U+0065 U+006E U+005F U+0076 U+0061 U+006E U+0024	houden_van	Dutch
+^houden_van$	h ɑu d ə + v ɑ n	1	U+005E U+0068 U+006F U+0075 U+0064 U+0065 U+006E U+005F U+0076 U+0061 U+006E U+0024	houden_van	Dutch
 ^ingewanden$	ɪ ŋ ɣ ə ʋ ɑ n d ə	1	U+005E U+0069 U+006E U+0067 U+0065 U+0077 U+0061 U+006E U+0064 U+0065 U+006E U+0024	ingewanden	Dutch
 ^kleermaker$	k l eː r m aː k ə r	1	U+005E U+006B U+006C U+0065 U+0065 U+0072 U+006D U+0061 U+006B U+0065 U+0072 U+0024	kleermaker	Dutch
 ^mannenhuis$	m ɑ n ə h œy s	1	U+005E U+006D U+0061 U+006E U+006E U+0065 U+006E U+0068 U+0075 U+0069 U+0073 U+0024	mannenhuis	Dutch
@@ -1342,7 +1342,7 @@ Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	Languages
 ^opstapelen$	ɔ p s t aː p ə l ə	1	U+005E U+006F U+0070 U+0073 U+0074 U+0061 U+0070 U+0065 U+006C U+0065 U+006E U+0024	opstapelen	Dutch
 ^overmorgen$	oː v ə r m ɔ r ɣ ə	1	U+005E U+006F U+0076 U+0065 U+0072 U+006D U+006F U+0072 U+0067 U+0065 U+006E U+0024	overmorgen	Dutch
 ^prostituee$	p r ɔ s t iː t yː ʋ eː	1	U+005E U+0070 U+0072 U+006F U+0073 U+0074 U+0069 U+0074 U+0075 U+0065 U+0065 U+0024	prostituee	Dutch
-^rode_peper$	r oː d ə _ p eː p ə r	1	U+005E U+0072 U+006F U+0064 U+0065 U+005F U+0070 U+0065 U+0070 U+0065 U+0072 U+0024	rode_peper	Dutch
+^rode_peper$	r oː d ə + p eː p ə r	1	U+005E U+0072 U+006F U+0064 U+0065 U+005F U+0070 U+0065 U+0070 U+0065 U+0072 U+0024	rode_peper	Dutch
 ^schaamhaar$	s x aː m h aː r	1	U+005E U+0073 U+0063 U+0068 U+0061 U+0061 U+006D U+0068 U+0061 U+0061 U+0072 U+0024	schaamhaar	Dutch
 ^schilderen$	s x ɪ l d ə r ə	1	U+005E U+0073 U+0063 U+0068 U+0069 U+006C U+0064 U+0065 U+0072 U+0065 U+006E U+0024	schilderen	Dutch
 ^schoonkind$	s x oː n k ɪ n t	1	U+005E U+0073 U+0063 U+0068 U+006F U+006F U+006E U+006B U+0069 U+006E U+0064 U+0024	schoonkind	Dutch
@@ -1382,7 +1382,7 @@ Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	Languages
 ^weerhouden$	ʋ eː r h ɑu d ə	1	U+005E U+0077 U+0065 U+0065 U+0072 U+0068 U+006F U+0075 U+0064 U+0065 U+006E U+0024	weerhouden	Dutch
 ^welriekend$	ʋ ɛ l r iː k ə n t	1	U+005E U+0077 U+0065 U+006C U+0072 U+0069 U+0065 U+006B U+0065 U+006E U+0064 U+0024	welriekend	Dutch
 ^werkplaats$	ʋ ɛ r k p l aː t s	1	U+005E U+0077 U+0065 U+0072 U+006B U+0070 U+006C U+0061 U+0061 U+0074 U+0073 U+0024	werkplaats	Dutch
-^wild_zwijn$	ʋ ɪ l t _ z ʋ ɛi n	1	U+005E U+0077 U+0069 U+006C U+0064 U+005F U+007A U+0077 U+0069 U+006A U+006E U+0024	wild_zwijn	Dutch
+^wild_zwijn$	ʋ ɪ l t + z ʋ ɛi n	1	U+005E U+0077 U+0069 U+006C U+0064 U+005F U+007A U+0077 U+0069 U+006A U+006E U+0024	wild_zwijn	Dutch
 ^ziekenhuis$	z iː k ə h œy s	1	U+005E U+007A U+0069 U+0065 U+006B U+0065 U+006E U+0068 U+0075 U+0069 U+0073 U+0024	ziekenhuis	Dutch
 ^aalscholver$	aː l s x ɔ l v ə r	1	U+005E U+0061 U+0061 U+006C U+0073 U+0063 U+0068 U+006F U+006C U+0076 U+0065 U+0072 U+0024	aalscholver	Dutch
 ^aankondigen$	aː ŋ k ɔ n d ə ɣ ə	1	U+005E U+0061 U+0061 U+006E U+006B U+006F U+006E U+0064 U+0069 U+0067 U+0065 U+006E U+0024	aankondigen	Dutch
@@ -1395,7 +1395,7 @@ Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	Languages
 ^doorsnijden$	d oː r s n ɛi d ə	1	U+005E U+0064 U+006F U+006F U+0072 U+0073 U+006E U+0069 U+006A U+0064 U+0065 U+006E U+0024	doorsnijden	Dutch
 ^duizendpoot$	d œy z ə n t p oː t	1	U+005E U+0064 U+0075 U+0069 U+007A U+0065 U+006E U+0064 U+0070 U+006F U+006F U+0074 U+0024	duizendpoot	Dutch
 ^eergisteren$	eː r ɣ ɪ s t ə r ə	1	U+005E U+0065 U+0065 U+0072 U+0067 U+0069 U+0073 U+0074 U+0065 U+0072 U+0065 U+006E U+0024	eergisteren	Dutch
-^gaan_liggen$	x aː n _ l ɪ ɣ ə	1	U+005E U+0067 U+0061 U+0061 U+006E U+005F U+006C U+0069 U+0067 U+0067 U+0065 U+006E U+0024	gaan_liggen	Dutch
+^gaan_liggen$	x aː n + l ɪ ɣ ə	1	U+005E U+0067 U+0061 U+0061 U+006E U+005F U+006C U+0069 U+0067 U+0067 U+0065 U+006E U+0024	gaan_liggen	Dutch
 ^gehoorzamen$	x ə h oː r z aː m ə	1	U+005E U+0067 U+0065 U+0068 U+006F U+006F U+0072 U+007A U+0061 U+006D U+0065 U+006E U+0024	gehoorzamen	Dutch
 ^gemakkelijk$	x ə m ɑ k ə l ə k	1	U+005E U+0067 U+0065 U+006D U+0061 U+006B U+006B U+0065 U+006C U+0069 U+006A U+006B U+0024	gemakkelijk	Dutch
 ^gereedschap$	x ə r eː t s x ɑ p	1	U+005E U+0067 U+0065 U+0072 U+0065 U+0065 U+0064 U+0073 U+0063 U+0068 U+0061 U+0070 U+0024	gereedschap	Dutch
@@ -1415,7 +1415,7 @@ Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	Languages
 ^schoonbroer$	s x oː m b r uː r	1	U+005E U+0073 U+0063 U+0068 U+006F U+006F U+006E U+0062 U+0072 U+006F U+0065 U+0072 U+0024	schoonbroer	Dutch
 ^schoonvader$	s x oː n v aː d ə r	2	U+005E U+0073 U+0063 U+0068 U+006F U+006F U+006E U+0076 U+0061 U+0064 U+0065 U+0072 U+0024	schoonvader	Dutch
 ^schoorsteen$	s x oː r s t eː n	1	U+005E U+0073 U+0063 U+0068 U+006F U+006F U+0072 U+0073 U+0074 U+0065 U+0065 U+006E U+0024	schoorsteen	Dutch
-^seks_hebben$	s ɛ k s _ h ɛ b ə	1	U+005E U+0073 U+0065 U+006B U+0073 U+005F U+0068 U+0065 U+0062 U+0062 U+0065 U+006E U+0024	seks_hebben	Dutch
+^seks_hebben$	s ɛ k s + h ɛ b ə	1	U+005E U+0073 U+0065 U+006B U+0073 U+005F U+0068 U+0065 U+0062 U+0062 U+0065 U+006E U+0024	seks_hebben	Dutch
 ^sleutelbeen$	s l øː t ə l b eː n	1	U+005E U+0073 U+006C U+0065 U+0075 U+0074 U+0065 U+006C U+0062 U+0065 U+0065 U+006E U+0024	sleutelbeen	Dutch
 ^stiefmoeder$	s t iː f m uː d ə r	1	U+005E U+0073 U+0074 U+0069 U+0065 U+0066 U+006D U+006F U+0065 U+0064 U+0065 U+0072 U+0024	stiefmoeder	Dutch
 ^uitspreiden$	œy t s p r ɛi d ə	1	U+005E U+0075 U+0069 U+0074 U+0073 U+0070 U+0072 U+0065 U+0069 U+0064 U+0065 U+006E U+0024	uitspreiden	Dutch
@@ -1430,12 +1430,12 @@ Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	Languages
 ^bijeenroepen$	b ɛi eː n r uː p ə	1	U+005E U+0062 U+0069 U+006A U+0065 U+0065 U+006E U+0072 U+006F U+0065 U+0070 U+0065 U+006E U+0024	bijeenroepen	Dutch
 ^binnenplaats$	b ɪ n ə p l aː t s	1	U+005E U+0062 U+0069 U+006E U+006E U+0065 U+006E U+0070 U+006C U+0061 U+0061 U+0074 U+0073 U+0024	binnenplaats	Dutch
 ^citrusvrucht$	s iː t r ʏ s f r ʏ x t	1	U+005E U+0063 U+0069 U+0074 U+0072 U+0075 U+0073 U+0076 U+0072 U+0075 U+0063 U+0068 U+0074 U+0024	citrusvrucht	Dutch
-^dorst_hebben$	d ɔ r s t _ h ɛ b ə	1	U+005E U+0064 U+006F U+0072 U+0073 U+0074 U+005F U+0068 U+0065 U+0062 U+0062 U+0065 U+006E U+0024	dorst_hebben	Dutch
-^gevorkte_tak$	x ə v ɔ r k t ə _ t ɑ k	1	U+005E U+0067 U+0065 U+0076 U+006F U+0072 U+006B U+0074 U+0065 U+005F U+0074 U+0061 U+006B U+0024	gevorkte_tak	Dutch
+^dorst_hebben$	d ɔ r s t + h ɛ b ə	1	U+005E U+0064 U+006F U+0072 U+0073 U+0074 U+005F U+0068 U+0065 U+0062 U+0062 U+0065 U+006E U+0024	dorst_hebben	Dutch
+^gevorkte_tak$	x ə v ɔ r k t ə + t ɑ k	1	U+005E U+0067 U+0065 U+0076 U+006F U+0072 U+006B U+0074 U+0065 U+005F U+0074 U+0061 U+006B U+0024	gevorkte_tak	Dutch
 ^kleindochter$	k l ɛi n d ɔ x t ə r	1	U+005E U+006B U+006C U+0065 U+0069 U+006E U+0064 U+006F U+0063 U+0068 U+0074 U+0065 U+0072 U+0024	kleindochter	Dutch
-^laten_vallen$	l aː t ə _ v ɑ l ə	1	U+005E U+006C U+0061 U+0074 U+0065 U+006E U+005F U+0076 U+0061 U+006C U+006C U+0065 U+006E U+0024	laten_vallen	Dutch
+^laten_vallen$	l aː t ə + v ɑ l ə	1	U+005E U+006C U+0061 U+0074 U+0065 U+006E U+005F U+0076 U+0061 U+006C U+006C U+0065 U+006E U+0024	laten_vallen	Dutch
 ^lichaamshaar$	l ɪ x aː m s h aː r	1	U+005E U+006C U+0069 U+0063 U+0068 U+0061 U+0061 U+006D U+0073 U+0068 U+0061 U+0061 U+0072 U+0024	lichaamshaar	Dutch
-^naar_beneden$	n aː r _ b ə n eː d ə	1	U+005E U+006E U+0061 U+0061 U+0072 U+005F U+0062 U+0065 U+006E U+0065 U+0064 U+0065 U+006E U+0024	naar_beneden	Dutch
+^naar_beneden$	n aː r + b ə n eː d ə	1	U+005E U+006E U+0061 U+0061 U+0072 U+005F U+0062 U+0065 U+006E U+0065 U+0064 U+0065 U+006E U+0024	naar_beneden	Dutch
 ^nakomelingen$	n aː k oː m ə l ɪ ŋ ə	1	U+005E U+006E U+0061 U+006B U+006F U+006D U+0065 U+006C U+0069 U+006E U+0067 U+0065 U+006E U+0024	nakomelingen	Dutch
 ^noorderlicht$	n oː r d ə r l ɪ x t	1	U+005E U+006E U+006F U+006F U+0072 U+0064 U+0065 U+0072 U+006C U+0069 U+0063 U+0068 U+0074 U+0024	noorderlicht	Dutch
 ^onmiddellijk$	ɔ n m ɪ d ə l ə k	1	U+005E U+006F U+006E U+006D U+0069 U+0064 U+0064 U+0065 U+006C U+006C U+0069 U+006A U+006B U+0024	onmiddellijk	Dutch
@@ -1449,39 +1449,39 @@ Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	Languages
 ^schoonzuster$	s x oː n z ʏ s t ə r	1	U+005E U+0073 U+0063 U+0068 U+006F U+006F U+006E U+007A U+0075 U+0073 U+0074 U+0065 U+0072 U+0024	schoonzuster	Dutch
 ^schouderblad$	s x ɑu d ə r b l ɑ t	1	U+005E U+0073 U+0063 U+0068 U+006F U+0075 U+0064 U+0065 U+0072 U+0062 U+006C U+0061 U+0064 U+0024	schouderblad	Dutch
 ^sneeuwschoen$	s n eː ʋ s x uː n	1	U+005E U+0073 U+006E U+0065 U+0065 U+0075 U+0077 U+0073 U+0063 U+0068 U+006F U+0065 U+006E U+0024	sneeuwschoen	Dutch
-^spijt_hebben$	s p ɛi t _ h ɛ b ə	1	U+005E U+0073 U+0070 U+0069 U+006A U+0074 U+005F U+0068 U+0065 U+0062 U+0062 U+0065 U+006E U+0024	spijt_hebben	Dutch
+^spijt_hebben$	s p ɛi t + h ɛ b ə	1	U+005E U+0073 U+0070 U+0069 U+006A U+0074 U+005F U+0068 U+0065 U+0062 U+0062 U+0065 U+006E U+0024	spijt_hebben	Dutch
 ^stiefdochter$	s t iː v d ɔ x t ə r	1	U+005E U+0073 U+0074 U+0069 U+0065 U+0066 U+0064 U+006F U+0063 U+0068 U+0074 U+0065 U+0072 U+0024	stiefdochter	Dutch
 ^vergaderhuis$	v ə r ɣ aː d ə r h œy s	1	U+005E U+0076 U+0065 U+0072 U+0067 U+0061 U+0064 U+0065 U+0072 U+0068 U+0075 U+0069 U+0073 U+0024	vergaderhuis	Dutch
 ^verpleegster$	v ə r p l eː x s t ə r	1	U+005E U+0076 U+0065 U+0072 U+0070 U+006C U+0065 U+0065 U+0067 U+0073 U+0074 U+0065 U+0072 U+0024	verpleegster	Dutch
-^water_putten$	ʋ aː t ə r _ p ʏ t ə	1	U+005E U+0077 U+0061 U+0074 U+0065 U+0072 U+005F U+0070 U+0075 U+0074 U+0074 U+0065 U+006E U+0024	water_putten	Dutch
-^zich_haasten$	z ɪ x _ h aː s t ə	1	U+005E U+007A U+0069 U+0063 U+0068 U+005F U+0068 U+0061 U+0061 U+0073 U+0074 U+0065 U+006E U+0024	zich_haasten	Dutch
-^aan_land_gaan$	aː n _ l ɑ n t _ x aː n	1	U+005E U+0061 U+0061 U+006E U+005F U+006C U+0061 U+006E U+0064 U+005F U+0067 U+0061 U+0061 U+006E U+0024	aan_land_gaan	Dutch
+^water_putten$	ʋ aː t ə r + p ʏ t ə	1	U+005E U+0077 U+0061 U+0074 U+0065 U+0072 U+005F U+0070 U+0075 U+0074 U+0074 U+0065 U+006E U+0024	water_putten	Dutch
+^zich_haasten$	z ɪ x + h aː s t ə	1	U+005E U+007A U+0069 U+0063 U+0068 U+005F U+0068 U+0061 U+0061 U+0073 U+0074 U+0065 U+006E U+0024	zich_haasten	Dutch
+^aan_land_gaan$	aː n + l ɑ n t + x aː n	1	U+005E U+0061 U+0061 U+006E U+005F U+006C U+0061 U+006E U+0064 U+005F U+0067 U+0061 U+0061 U+006E U+0024	aan_land_gaan	Dutch
 ^elektriciteit$	eː l ɛ k t r iː s iː t ɛi t	1	U+005E U+0065 U+006C U+0065 U+006B U+0074 U+0072 U+0069 U+0063 U+0069 U+0074 U+0065 U+0069 U+0074 U+0024	elektriciteit	Dutch
-^getrouwde_man$	x ə t r ɑu ʋ d ə _ m ɑ n	1	U+005E U+0067 U+0065 U+0074 U+0072 U+006F U+0075 U+0077 U+0064 U+0065 U+005F U+006D U+0061 U+006E U+0024	getrouwde_man	Dutch
-^honger_hebben$	h ɔ ŋ ə r _ h ɛ b ə	1	U+005E U+0068 U+006F U+006E U+0067 U+0065 U+0072 U+005F U+0068 U+0065 U+0062 U+0062 U+0065 U+006E U+0024	honger_hebben	Dutch
+^getrouwde_man$	x ə t r ɑu ʋ d ə + m ɑ n	1	U+005E U+0067 U+0065 U+0074 U+0072 U+006F U+0075 U+0077 U+0064 U+0065 U+005F U+006D U+0061 U+006E U+0024	getrouwde_man	Dutch
+^honger_hebben$	h ɔ ŋ ə r + h ɛ b ə	1	U+005E U+0068 U+006F U+006E U+0067 U+0065 U+0072 U+005F U+0068 U+0065 U+0062 U+0062 U+0065 U+006E U+0024	honger_hebben	Dutch
 ^ochtendgloren$	ɔ x t ə t x l oː r ə	1	U+005E U+006F U+0063 U+0068 U+0074 U+0065 U+006E U+0064 U+0067 U+006C U+006F U+0072 U+0065 U+006E U+0024	ochtendgloren	Dutch
 ^schoondochter$	s x oː n d ɔ x t ə r	2	U+005E U+0073 U+0063 U+0068 U+006F U+006F U+006E U+0064 U+006F U+0063 U+0068 U+0074 U+0065 U+0072 U+0024	schoondochter	Dutch
-^schuldig_zijn$	s x ʏ l d ə x _ z ɛi n	1	U+005E U+0073 U+0063 U+0068 U+0075 U+006C U+0064 U+0069 U+0067 U+005F U+007A U+0069 U+006A U+006E U+0024	schuldig_zijn	Dutch
+^schuldig_zijn$	s x ʏ l d ə x + z ɛi n	1	U+005E U+0073 U+0063 U+0068 U+0075 U+006C U+0064 U+0069 U+0067 U+005F U+007A U+0069 U+006A U+006E U+0024	schuldig_zijn	Dutch
 ^bliksemschicht$	b l ɪ k s ə m s x ɪ x t	1	U+005E U+0062 U+006C U+0069 U+006B U+0073 U+0065 U+006D U+0073 U+0063 U+0068 U+0069 U+0063 U+0068 U+0074 U+0024	bliksemschicht	Dutch
 ^brandstichting$	b r ɑ n t s t ɪ x t ɪ ŋ	1	U+005E U+0062 U+0072 U+0061 U+006E U+0064 U+0073 U+0074 U+0069 U+0063 U+0068 U+0074 U+0069 U+006E U+0067 U+0024	brandstichting	Dutch
 ^geboortebewijs$	x ə b oː r t ə b ə ʋ ɛi s	1	U+005E U+0067 U+0065 U+0062 U+006F U+006F U+0072 U+0074 U+0065 U+0062 U+0065 U+0077 U+0069 U+006A U+0073 U+0024	geboortebewijs	Dutch
-^geboren_worden$	x ə b oː r ə _ ʋ ɔ r d ə	1	U+005E U+0067 U+0065 U+0062 U+006F U+0072 U+0065 U+006E U+005F U+0077 U+006F U+0072 U+0064 U+0065 U+006E U+0024	geboren_worden	Dutch
-^lemen_baksteen$	l eː m ə _ b ɑ k s t eː n	1	U+005E U+006C U+0065 U+006D U+0065 U+006E U+005F U+0062 U+0061 U+006B U+0073 U+0074 U+0065 U+0065 U+006E U+0024	lemen_baksteen	Dutch
-^naar_huis_gaan$	n aː r _ h œy s _ x aː n	1	U+005E U+006E U+0061 U+0061 U+0072 U+005F U+0068 U+0075 U+0069 U+0073 U+005F U+0067 U+0061 U+0061 U+006E U+0024	naar_huis_gaan	Dutch
-^zich_omdraaien$	z ɪ x _ ɔ m d r aː j ə	1	U+005E U+007A U+0069 U+0063 U+0068 U+005F U+006F U+006D U+0064 U+0072 U+0061 U+0061 U+0069 U+0065 U+006E U+0024	zich_omdraaien	Dutch
-^zich_overgeven$	z ɪ x _ oː v ə r ɣ eː v ə	1	U+005E U+007A U+0069 U+0063 U+0068 U+005F U+006F U+0076 U+0065 U+0072 U+0067 U+0065 U+0076 U+0065 U+006E U+0024	zich_overgeven	Dutch
-^zwanger_worden$	z ʋ ɑ ŋ ə r _ ʋ ɔ r d ə	1	U+005E U+007A U+0077 U+0061 U+006E U+0067 U+0065 U+0072 U+005F U+0077 U+006F U+0072 U+0064 U+0065 U+006E U+0024	zwanger_worden	Dutch
-^getrouwde_vrouw$	x ə t r ɑu ʋ d ə _ v r ɑu ʋ	1	U+005E U+0067 U+0065 U+0074 U+0072 U+006F U+0075 U+0077 U+0064 U+0065 U+005F U+0076 U+0072 U+006F U+0075 U+0077 U+0024	getrouwde_vrouw	Dutch
-^in_dienst_nemen$	ɪ n _ d iː n s t _ n eː m ə	1	U+005E U+0069 U+006E U+005F U+0064 U+0069 U+0065 U+006E U+0073 U+0074 U+005F U+006E U+0065 U+006D U+0065 U+006E U+0024	in_dienst_nemen	Dutch
-^naar_boven_gaan$	n aː r _ b oː v ə _ x aː n	1	U+005E U+006E U+0061 U+0061 U+0072 U+005F U+0062 U+006F U+0076 U+0065 U+006E U+005F U+0067 U+0061 U+0061 U+006E U+0024	naar_boven_gaan	Dutch
-^zich_herinneren$	z ɪ x _ h ɛ r ɪ n ə r ə	1	U+005E U+007A U+0069 U+0063 U+0068 U+005F U+0068 U+0065 U+0072 U+0069 U+006E U+006E U+0065 U+0072 U+0065 U+006E U+0024	zich_herinneren	Dutch
-^zoete_aardappel$	z uː t ə _ aː r d ɑ p ə l	1	U+005E U+007A U+006F U+0065 U+0074 U+0065 U+005F U+0061 U+0061 U+0072 U+0064 U+0061 U+0070 U+0070 U+0065 U+006C U+0024	zoete_aardappel	Dutch
-^een_scheet_laten$	eː n _ s x eː t _ l aː t ə	1	U+005E U+0065 U+0065 U+006E U+005F U+0073 U+0063 U+0068 U+0065 U+0065 U+0074 U+005F U+006C U+0061 U+0074 U+0065 U+006E U+0024	een_scheet_laten	Dutch
-^koelte_toewaaien$	k uː l t ə _ t uː ʋ aː j ə	1	U+005E U+006B U+006F U+0065 U+006C U+0074 U+0065 U+005F U+0074 U+006F U+0065 U+0077 U+0061 U+0061 U+0069 U+0065 U+006E U+0024	koelte_toewaaien	Dutch
+^geboren_worden$	x ə b oː r ə + ʋ ɔ r d ə	1	U+005E U+0067 U+0065 U+0062 U+006F U+0072 U+0065 U+006E U+005F U+0077 U+006F U+0072 U+0064 U+0065 U+006E U+0024	geboren_worden	Dutch
+^lemen_baksteen$	l eː m ə + b ɑ k s t eː n	1	U+005E U+006C U+0065 U+006D U+0065 U+006E U+005F U+0062 U+0061 U+006B U+0073 U+0074 U+0065 U+0065 U+006E U+0024	lemen_baksteen	Dutch
+^naar_huis_gaan$	n aː r + h œy s + x aː n	1	U+005E U+006E U+0061 U+0061 U+0072 U+005F U+0068 U+0075 U+0069 U+0073 U+005F U+0067 U+0061 U+0061 U+006E U+0024	naar_huis_gaan	Dutch
+^zich_omdraaien$	z ɪ x + ɔ m d r aː j ə	1	U+005E U+007A U+0069 U+0063 U+0068 U+005F U+006F U+006D U+0064 U+0072 U+0061 U+0061 U+0069 U+0065 U+006E U+0024	zich_omdraaien	Dutch
+^zich_overgeven$	z ɪ x + oː v ə r ɣ eː v ə	1	U+005E U+007A U+0069 U+0063 U+0068 U+005F U+006F U+0076 U+0065 U+0072 U+0067 U+0065 U+0076 U+0065 U+006E U+0024	zich_overgeven	Dutch
+^zwanger_worden$	z ʋ ɑ ŋ ə r + ʋ ɔ r d ə	1	U+005E U+007A U+0077 U+0061 U+006E U+0067 U+0065 U+0072 U+005F U+0077 U+006F U+0072 U+0064 U+0065 U+006E U+0024	zwanger_worden	Dutch
+^getrouwde_vrouw$	x ə t r ɑu ʋ d ə + v r ɑu ʋ	1	U+005E U+0067 U+0065 U+0074 U+0072 U+006F U+0075 U+0077 U+0064 U+0065 U+005F U+0076 U+0072 U+006F U+0075 U+0077 U+0024	getrouwde_vrouw	Dutch
+^in_dienst_nemen$	ɪ n + d iː n s t + n eː m ə	1	U+005E U+0069 U+006E U+005F U+0064 U+0069 U+0065 U+006E U+0073 U+0074 U+005F U+006E U+0065 U+006D U+0065 U+006E U+0024	in_dienst_nemen	Dutch
+^naar_boven_gaan$	n aː r + b oː v ə + x aː n	1	U+005E U+006E U+0061 U+0061 U+0072 U+005F U+0062 U+006F U+0076 U+0065 U+006E U+005F U+0067 U+0061 U+0061 U+006E U+0024	naar_boven_gaan	Dutch
+^zich_herinneren$	z ɪ x + h ɛ r ɪ n ə r ə	1	U+005E U+007A U+0069 U+0063 U+0068 U+005F U+0068 U+0065 U+0072 U+0069 U+006E U+006E U+0065 U+0072 U+0065 U+006E U+0024	zich_herinneren	Dutch
+^zoete_aardappel$	z uː t ə + aː r d ɑ p ə l	1	U+005E U+007A U+006F U+0065 U+0074 U+0065 U+005F U+0061 U+0061 U+0072 U+0064 U+0061 U+0070 U+0070 U+0065 U+006C U+0024	zoete_aardappel	Dutch
+^een_scheet_laten$	eː n + s x eː t + l aː t ə	1	U+005E U+0065 U+0065 U+006E U+005F U+0073 U+0063 U+0068 U+0065 U+0065 U+0074 U+005F U+006C U+0061 U+0074 U+0065 U+006E U+0024	een_scheet_laten	Dutch
+^koelte_toewaaien$	k uː l t ə + t uː ʋ aː j ə	1	U+005E U+006B U+006F U+0065 U+006C U+0074 U+0065 U+005F U+0074 U+006F U+0065 U+0077 U+0061 U+0061 U+0069 U+0065 U+006E U+0024	koelte_toewaaien	Dutch
 ^schroevendraaier$	s x r uː v ə d r aː j ə r	1	U+005E U+0073 U+0063 U+0068 U+0072 U+006F U+0065 U+0076 U+0065 U+006E U+0064 U+0072 U+0061 U+0061 U+0069 U+0065 U+0072 U+0024	schroevendraaier	Dutch
-^naar_beneden_gaan$	n aː r _ b ə n eː d ə _ x aː n	1	U+005E U+006E U+0061 U+0061 U+0072 U+005F U+0062 U+0065 U+006E U+0065 U+0064 U+0065 U+006E U+005F U+0067 U+0061 U+0061 U+006E U+0024	naar_beneden_gaan	Dutch
-^zich_terugtrekken$	z ɪ x _ t ə r ʏ x t r ɛ k ə	1	U+005E U+007A U+0069 U+0063 U+0068 U+005F U+0074 U+0065 U+0072 U+0075 U+0067 U+0074 U+0072 U+0065 U+006B U+006B U+0065 U+006E U+0024	zich_terugtrekken	Dutch
-^alcoholische_drank$	ɑ l k oː h oː l iː s ə _ d r ɑ ŋ k	1	U+005E U+0061 U+006C U+0063 U+006F U+0068 U+006F U+006C U+0069 U+0073 U+0063 U+0068 U+0065 U+005F U+0064 U+0072 U+0061 U+006E U+006B U+0024	alcoholische_drank	Dutch
+^naar_beneden_gaan$	n aː r + b ə n eː d ə + x aː n	1	U+005E U+006E U+0061 U+0061 U+0072 U+005F U+0062 U+0065 U+006E U+0065 U+0064 U+0065 U+006E U+005F U+0067 U+0061 U+0061 U+006E U+0024	naar_beneden_gaan	Dutch
+^zich_terugtrekken$	z ɪ x + t ə r ʏ x t r ɛ k ə	1	U+005E U+007A U+0069 U+0063 U+0068 U+005F U+0074 U+0065 U+0072 U+0075 U+0067 U+0074 U+0072 U+0065 U+006B U+006B U+0065 U+006E U+0024	zich_terugtrekken	Dutch
+^alcoholische_drank$	ɑ l k oː h oː l iː s ə + d r ɑ ŋ k	1	U+005E U+0061 U+006C U+0063 U+006F U+0068 U+006F U+006C U+0069 U+0073 U+0063 U+0068 U+0065 U+005F U+0064 U+0072 U+0061 U+006E U+006B U+0024	alcoholische_drank	Dutch
 ^initiatieplechtigheid$	iː n iː t ʃ aː t s iː p l ɛ x t ə x h ɛi t	1	U+005E U+0069 U+006E U+0069 U+0074 U+0069 U+0061 U+0074 U+0069 U+0065 U+0070 U+006C U+0065 U+0063 U+0068 U+0074 U+0069 U+0067 U+0068 U+0065 U+0069 U+0064 U+0024	initiatieplechtigheid	Dutch
 ^inwijdingsplechtigheid$	ɪ n ʋ ɛi d ɪ ŋ s p l ɛ x t ə x h ɛi t	1	U+005E U+0069 U+006E U+0077 U+0069 U+006A U+0064 U+0069 U+006E U+0067 U+0073 U+0070 U+006C U+0065 U+0063 U+0068 U+0074 U+0069 U+0067 U+0068 U+0065 U+0069 U+0064 U+0024	inwijdingsplechtigheid	Dutch
 ^-	NULL	1	U+005E U+0069 U+006E U+0077 U+0069 U+006A U+0064 U+0069 U+006E U+0067 U+0073 U+0070 U+006C U+0065 U+0063 U+0068 U+0074 U+0069 U+0067 U+0068 U+0065 U+0069 U+0064 U+0024	inwijdingsplechtigheid	Dutch

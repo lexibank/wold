@@ -17,7 +17,8 @@ $	NULL	11	U+0024
 ^əə$	əː	1	U+005E U+0259 U+0259 U+0024	əə	Ket
 ^peršep$	p e r ʃ e p	2	U+005E U+0070 U+0065 U+0072 U+0161 U+0065 U+0070 U+0024	peršep	
 -	+	17	U+002D	-qan,-sin,ben_-_t_-_a	Ket
-.	_	3	U+002E	tam...tam	Ket
+.	+	3	U+002E	tam...tam	Ket
+...	+
 _	+	101	U+005F	kàl_deˀŋ,qusam_bənsaŋ_qō,ɯnamas_bisep	Ket
 a	a	399	U+0061	isaŋtij,qoŋsajdo,sulaŋ	Ket
 b	b	111	U+0062	eeboks,kitbet,əlbaŋ	Ket

@@ -126,8 +126,8 @@ oo$	oː	2	U+006F U+006F U+0024	awoo,logoo	Saramaccan
 ö́s	ö́/ɔ s	4	U+00F6 U+0301 U+0073	bö́sö,sö́sö,sö́sútu	Saramaccan
 ë́ë́	ë́ː/ɛː	5	U+00EB U+0301 U+00EB U+0301	mujë́ë́míí,mujë́ë́síkápu,mújë́ë́kö́nu	Saramaccan
 ö́ö́	ö́/ɔ	3	U+00F6 U+0301 U+00F6 U+0301	dö́ö́páu,dö́ö́wáta,nö́ö́mö	Saramaccan
-_[noun]_	_	4	U+005F U+005B U+006E U+006F U+0075 U+006E U+005D U+005F	a_[noun]_bandja,dí_[noun]_alá,dí_[noun]_dë́	
-_[someone]_	_	2	U+005F U+005B U+0073 U+006F U+006D U+0065 U+006F U+006E U+0065 U+005D U+005F	kái_[someone]_kó,lúsu_[someone]_púu	
+_[noun]_	+	4	U+005F U+005B U+006E U+006F U+0075 U+006E U+005D U+005F	a_[noun]_bandja,dí_[noun]_alá,dí_[noun]_dë́	
+_[someone]_	+	2	U+005F U+005B U+0073 U+006F U+006D U+0065 U+006F U+006E U+0065 U+005D U+005F	kái_[someone]_kó,lúsu_[someone]_púu	
 ^-	NULL	2	U+005F U+005B U+0073 U+006F U+006D U+0065 U+006F U+006E U+0065 U+005D U+005F	kái_[someone]_kó,lúsu_[someone]_púu	
 -$	NULL	2	U+005F U+005B U+0073 U+006F U+006D U+0065 U+006F U+006E U+0065 U+005D U+005F	kái_[someone]_kó,lúsu_[someone]_púu	
 _$	NULL	2	U+005F U+005B U+0073 U+006F U+006D U+0065 U+006F U+006E U+0065 U+005D U+005F	kái_[someone]_kó,lúsu_[someone]_púu	

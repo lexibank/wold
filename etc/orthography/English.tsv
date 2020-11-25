@@ -680,7 +680,7 @@ Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	Languages
 ^ghost$	g əʊ s t	1	U+005E U+0067 U+0068 U+006F U+0073 U+0074 U+0024	ghost	English
 ^glass$	g l ɑː s	1	U+005E U+0067 U+006C U+0061 U+0073 U+0073 U+0024	glass	English
 ^glove$	g l ʌ v	1	U+005E U+0067 U+006C U+006F U+0076 U+0065 U+0024	glove	English
-^go_up$	g əʊ _ ʌ p	1	U+005E U+0067 U+006F U+005F U+0075 U+0070 U+0024	go_up	English
+^go_up$	g əʊ + ʌ p	1	U+005E U+0067 U+006F U+005F U+0075 U+0070 U+0024	go_up	English
 ^goose$	g uː s	1	U+005E U+0067 U+006F U+006F U+0073 U+0065 U+0024	goose	English
 ^gourd$	g ʊə d	1	U+005E U+0067 U+006F U+0075 U+0072 U+0064 U+0024	gourd	English
 ^grain$	g r eɪ n	1	U+005E U+0067 U+0072 U+0061 U+0069 U+006E U+0024	grain	English
@@ -999,7 +999,7 @@ Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	Languages
 ^furrow$	f ʌ r əʊ	1	U+005E U+0066 U+0075 U+0072 U+0072 U+006F U+0077 U+0024	furrow	English
 ^garden$	g ɑː d n̩	1	U+005E U+0067 U+0061 U+0072 U+0064 U+0065 U+006E U+0024	garden	English
 ^gather$	g æ ð ə ɹ	1	U+005E U+0067 U+0061 U+0074 U+0068 U+0065 U+0072 U+0024	gather	English
-^go_out$	g əʊ _ aʊ t	1	U+005E U+0067 U+006F U+005F U+006F U+0075 U+0074 U+0024	go_out	English
+^go_out$	g əʊ + aʊ t	1	U+005E U+0067 U+006F U+005F U+006F U+0075 U+0074 U+0024	go_out	English
 ^goitre$	g ɔɪ t ə ɹ	1	U+005E U+0067 U+006F U+0069 U+0074 U+0072 U+0065 U+0024	goitre	English
 ^govern$	g ʌ v n̩	1	U+005E U+0067 U+006F U+0076 U+0065 U+0072 U+006E U+0024	govern	English
 ^grease$	g r iː s	1	U+005E U+0067 U+0072 U+0065 U+0061 U+0073 U+0065 U+0024	grease	English
@@ -1020,7 +1020,7 @@ Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	Languages
 ^kidney$	k ɪ d n ɪ	1	U+005E U+006B U+0069 U+0064 U+006E U+0065 U+0079 U+0024	kidney	English
 ^ladder$	l æ d ə ɹ	1	U+005E U+006C U+0061 U+0064 U+0064 U+0065 U+0072 U+0024	ladder	English
 ^lagoon$	l ə g uː n	1	U+005E U+006C U+0061 U+0067 U+006F U+006F U+006E U+0024	lagoon	English
-^let_go$	l ɛ t _ g əʊ	1	U+005E U+006C U+0065 U+0074 U+005F U+0067 U+006F U+0024	let_go	English
+^let_go$	l ɛ t + g əʊ	1	U+005E U+006C U+0065 U+0074 U+005F U+0067 U+006F U+0024	let_go	English
 ^letter$	l ɛ t ə ɹ	1	U+005E U+006C U+0065 U+0074 U+0074 U+0065 U+0072 U+0024	letter	English
 ^listen$	l ɪ s n̩	1	U+005E U+006C U+0069 U+0073 U+0074 U+0065 U+006E U+0024	listen	English
 ^little$	l ɪ t l̩	1	U+005E U+006C U+0069 U+0074 U+0074 U+006C U+0065 U+0024	little	English
@@ -1069,7 +1069,7 @@ Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	Languages
 ^priest$	p r iː s t	1	U+005E U+0070 U+0072 U+0069 U+0065 U+0073 U+0074 U+0024	priest	English
 ^prison$	p r ɪ z n̩	1	U+005E U+0070 U+0072 U+0069 U+0073 U+006F U+006E U+0024	prison	English
 ^pursue$	p ə s j uː	1	U+005E U+0070 U+0075 U+0072 U+0073 U+0075 U+0065 U+0024	pursue	English
-^put_on$	p ʊ t _ ɒ n	1	U+005E U+0070 U+0075 U+0074 U+005F U+006F U+006E U+0024	put_on	English
+^put_on$	p ʊ t + ɒ n	1	U+005E U+0070 U+0075 U+0074 U+005F U+006F U+006E U+0024	put_on	English
 ^rabbit$	r æ b ɪ t	1	U+005E U+0072 U+0061 U+0062 U+0062 U+0069 U+0074 U+0024	rabbit	English
 ^rafter$	r ɑː f t ə ɹ	1	U+005E U+0072 U+0061 U+0066 U+0074 U+0065 U+0072 U+0024	rafter	English
 ^rattle$	r æ t l̩	1	U+005E U+0072 U+0061 U+0074 U+0074 U+006C U+0065 U+0024	rattle	English
@@ -1149,7 +1149,7 @@ Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	Languages
 ^alcohol$	æ l k ə h ɒ l	1	U+005E U+0061 U+006C U+0063 U+006F U+0068 U+006F U+006C U+0024	alcohol	English
 ^anxiety$	æ ŋ z aɪ ə t ɪ	1	U+005E U+0061 U+006E U+0078 U+0069 U+0065 U+0074 U+0079 U+0024	anxiety	English
 ^battery$	b æ t ə r ɪ	1	U+005E U+0062 U+0061 U+0074 U+0074 U+0065 U+0072 U+0079 U+0024	battery	English
-^be_born$	b iː _ b ɔː n	1	U+005E U+0062 U+0065 U+005F U+0062 U+006F U+0072 U+006E U+0024	be_born	English
+^be_born$	b iː + b ɔː n	1	U+005E U+0062 U+0065 U+005F U+0062 U+006F U+0072 U+006E U+0024	be_born	English
 ^because$	b ɪ k ɒ z	1	U+005E U+0062 U+0065 U+0063 U+0061 U+0075 U+0073 U+0065 U+0024	because	English
 ^believe$	b ɪ l iː v	1	U+005E U+0062 U+0065 U+006C U+0069 U+0065 U+0076 U+0065 U+0024	believe	English
 ^bicycle$	b aɪ s ɪ k l̩	1	U+005E U+0062 U+0069 U+0063 U+0079 U+0063 U+006C U+0065 U+0024	bicycle	English
@@ -1193,7 +1193,7 @@ Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	Languages
 ^forgive$	f ə g ɪ v	1	U+005E U+0066 U+006F U+0072 U+0067 U+0069 U+0076 U+0065 U+0024	forgive	English
 ^freeman$	f r iː m ə n	1	U+005E U+0066 U+0072 U+0065 U+0065 U+006D U+0061 U+006E U+0024	freeman	English
 ^glasses$	g l ɑː s ɪ z	1	U+005E U+0067 U+006C U+0061 U+0073 U+0073 U+0065 U+0073 U+0024	glasses	English
-^go_down$	g əʊ _ d aʊ n	1	U+005E U+0067 U+006F U+005F U+0064 U+006F U+0077 U+006E U+0024	go_down	English
+^go_down$	g əʊ + d aʊ n	1	U+005E U+0067 U+006F U+005F U+0064 U+006F U+0077 U+006E U+0024	go_down	English
 ^hammock$	h æ m ə k	1	U+005E U+0068 U+0061 U+006D U+006D U+006F U+0063 U+006B U+0024	hammock	English
 ^harvest$	h ɑː v ɪ s t	1	U+005E U+0068 U+0061 U+0072 U+0076 U+0065 U+0073 U+0074 U+0024	harvest	English
 ^healthy$	h ɛ l θ ɪ	1	U+005E U+0068 U+0065 U+0061 U+006C U+0074 U+0068 U+0079 U+0024	healthy	English
@@ -1210,14 +1210,14 @@ Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	Languages
 ^nostril$	n ɒ s t r ə l	1	U+005E U+006E U+006F U+0073 U+0074 U+0072 U+0069 U+006C U+0024	nostril	English
 ^nothing$	n ʌ θ ɪ ŋ	1	U+005E U+006E U+006F U+0074 U+0068 U+0069 U+006E U+0067 U+0024	nothing	English
 ^obscure$	ə b s k j ʊə ɹ	1	U+005E U+006F U+0062 U+0073 U+0063 U+0075 U+0072 U+0065 U+0024	obscure	English
-^old_man$	əʊ l d _ m æ n	1	U+005E U+006F U+006C U+0064 U+005F U+006D U+0061 U+006E U+0024	old_man	English
+^old_man$	əʊ l d + m æ n	1	U+005E U+006F U+006C U+0064 U+005F U+006D U+0061 U+006E U+0024	old_man	English
 ^opossum$	ə p ɒ s ə m	1	U+005E U+006F U+0070 U+006F U+0073 U+0073 U+0075 U+006D U+0024	opossum	English
 ^outside$	aʊ t s aɪ d	1	U+005E U+006F U+0075 U+0074 U+0073 U+0069 U+0064 U+0065 U+0024	outside	English
 ^padlock$	p æ d l ɒ k	1	U+005E U+0070 U+0061 U+0064 U+006C U+006F U+0063 U+006B U+0024	padlock	English
 ^pasture$	p ɑː s tʃ ə ɹ	1	U+005E U+0070 U+0061 U+0073 U+0074 U+0075 U+0072 U+0065 U+0024	pasture	English
 ^perjury$	p ɜː dʒ ə r ɪ	1	U+005E U+0070 U+0065 U+0072 U+006A U+0075 U+0072 U+0079 U+0024	perjury	English
-^pick_up$	p ɪ k _ ʌ p	1	U+005E U+0070 U+0069 U+0063 U+006B U+005F U+0075 U+0070 U+0024	pick_up	English
-^pile_up$	p aɪ l _ ʌ p	1	U+005E U+0070 U+0069 U+006C U+0065 U+005F U+0075 U+0070 U+0024	pile_up	English
+^pick_up$	p ɪ k + ʌ p	1	U+005E U+0070 U+0069 U+0063 U+006B U+005F U+0075 U+0070 U+0024	pick_up	English
+^pile_up$	p aɪ l + ʌ p	1	U+005E U+0070 U+0069 U+006C U+0065 U+005F U+0075 U+0070 U+0024	pile_up	English
 ^plastic$	p l æ s t ɪ k	1	U+005E U+0070 U+006C U+0061 U+0073 U+0074 U+0069 U+0063 U+0024	plastic	English
 ^pointed$	p ɔɪ n t ɪ d	1	U+005E U+0070 U+006F U+0069 U+006E U+0074 U+0065 U+0064 U+0024	pointed	English
 ^poultry$	p əʊ l t r ɪ	1	U+005E U+0070 U+006F U+0075 U+006C U+0074 U+0072 U+0079 U+0024	poultry	English
@@ -1252,7 +1252,7 @@ Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	Languages
 ^thirsty$	θ ɜː s t ɪ	1	U+005E U+0074 U+0068 U+0069 U+0072 U+0073 U+0074 U+0079 U+0024	thirsty	English
 ^through$	θ r uː	1	U+005E U+0074 U+0068 U+0072 U+006F U+0075 U+0067 U+0068 U+0024	through	English
 ^thunder$	θ ʌ n d ə ɹ	1	U+005E U+0074 U+0068 U+0075 U+006E U+0064 U+0065 U+0072 U+0024	thunder	English
-^to_last$	t uː _ l ɑː s t	1	U+005E U+0074 U+006F U+005F U+006C U+0061 U+0073 U+0074 U+0024	to_last	English
+^to_last$	t uː + l ɑː s t	1	U+005E U+0074 U+006F U+005F U+006C U+0061 U+0073 U+0074 U+0024	to_last	English
 ^tobacco$	t ə b æ k əʊ	1	U+005E U+0074 U+006F U+0062 U+0061 U+0063 U+0063 U+006F U+0024	tobacco	English
 ^trumpet$	t r ʌ m p ɪ t	1	U+005E U+0074 U+0072 U+0075 U+006D U+0070 U+0065 U+0074 U+0024	trumpet	English
 ^urinate$	j ʊə r ɪ n eɪ t	1	U+005E U+0075 U+0072 U+0069 U+006E U+0061 U+0074 U+0065 U+0024	urinate	English
@@ -1308,9 +1308,9 @@ Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	Languages
 ^kangaroo$	k æ ŋ g ə r uː	1	U+005E U+006B U+0061 U+006E U+0067 U+0061 U+0072 U+006F U+006F U+0024	kangaroo	English
 ^language$	l æ ŋ g w ɪ dʒ	1	U+005E U+006C U+0061 U+006E U+0067 U+0075 U+0061 U+0067 U+0065 U+0024	language	English
 ^liberate$	l ɪ b ə r eɪ t	1	U+005E U+006C U+0069 U+0062 U+0065 U+0072 U+0061 U+0074 U+0065 U+0024	liberate	English
-^lie_down$	l aɪ _ d aʊ n	1	U+005E U+006C U+0069 U+0065 U+005F U+0064 U+006F U+0077 U+006E U+0024	lie_down	English
-^look_for$	l ʊ k _ f ɔː ɹ	1	U+005E U+006C U+006F U+006F U+006B U+005F U+0066 U+006F U+0072 U+0024	look_for	English
-^low_tide$	l əʊ _ t aɪ d	1	U+005E U+006C U+006F U+0077 U+005F U+0074 U+0069 U+0064 U+0065 U+0024	low_tide	English
+^lie_down$	l aɪ + d aʊ n	1	U+005E U+006C U+0069 U+0065 U+005F U+0064 U+006F U+0077 U+006E U+0024	lie_down	English
+^look_for$	l ʊ k + f ɔː ɹ	1	U+005E U+006C U+006F U+006F U+006B U+005F U+0066 U+006F U+0072 U+0024	look_for	English
+^low_tide$	l əʊ + t aɪ d	1	U+005E U+006C U+006F U+0077 U+005F U+0074 U+0069 U+0064 U+0065 U+0024	low_tide	English
 ^mainland$	m eɪ n l ə n d	1	U+005E U+006D U+0061 U+0069 U+006E U+006C U+0061 U+006E U+0064 U+0024	mainland	English
 ^mattress$	m æ t r ɪ s	1	U+005E U+006D U+0061 U+0074 U+0074 U+0072 U+0065 U+0073 U+0073 U+0024	mattress	English
 ^medicine$	m ɛ d s ɪ n	1	U+005E U+006D U+0065 U+0064 U+0069 U+0063 U+0069 U+006E U+0065 U+0024	medicine	English
@@ -1367,7 +1367,7 @@ Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	Languages
 ^chieftain$	tʃ iː f t ə n	1	U+005E U+0063 U+0068 U+0069 U+0065 U+0066 U+0074 U+0061 U+0069 U+006E U+0024	chieftain	English
 ^cigarette$	s ɪ g ə r ɛ t	1	U+005E U+0063 U+0069 U+0067 U+0061 U+0072 U+0065 U+0074 U+0074 U+0065 U+0024	cigarette	English
 ^cockroach$	k ɒ k r əʊ tʃ	1	U+005E U+0063 U+006F U+0063 U+006B U+0072 U+006F U+0061 U+0063 U+0068 U+0024	cockroach	English
-^come_back$	k ʌ m _ b æ k	1	U+005E U+0063 U+006F U+006D U+0065 U+005F U+0062 U+0061 U+0063 U+006B U+0024	come_back	English
+^come_back$	k ʌ m + b æ k	1	U+005E U+0063 U+006F U+006D U+0065 U+005F U+0062 U+0061 U+0063 U+006B U+0024	come_back	English
 ^cormorant$	k ɔː m ə r ə n t	1	U+005E U+0063 U+006F U+0072 U+006D U+006F U+0072 U+0061 U+006E U+0074 U+0024	cormorant	English
 ^crocodile$	k r ɒ k ə d aɪ l	1	U+005E U+0063 U+0072 U+006F U+0063 U+006F U+0064 U+0069 U+006C U+0065 U+0024	crocodile	English
 ^cultivate$	k ʌ l t ɪ v eɪ t	1	U+005E U+0063 U+0075 U+006C U+0074 U+0069 U+0076 U+0061 U+0074 U+0065 U+0024	cultivate	English
@@ -1378,19 +1378,19 @@ Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	Languages
 ^fireplace$	f aɪ ə p l eɪ s	1	U+005E U+0066 U+0069 U+0072 U+0065 U+0070 U+006C U+0061 U+0063 U+0065 U+0024	fireplace	English
 ^fisherman$	f ɪ ʃ ə m ə n	1	U+005E U+0066 U+0069 U+0073 U+0068 U+0065 U+0072 U+006D U+0061 U+006E U+0024	fisherman	English
 ^footprint$	f ʊ t p r ɪ n t	1	U+005E U+0066 U+006F U+006F U+0074 U+0070 U+0072 U+0069 U+006E U+0074 U+0024	footprint	English
-^give_back$	g ɪ v _ b æ k	1	U+005E U+0067 U+0069 U+0076 U+0065 U+005F U+0062 U+0061 U+0063 U+006B U+0024	give_back	English
-^high_tide$	h aɪ _ t aɪ d	1	U+005E U+0068 U+0069 U+0067 U+0068 U+005F U+0074 U+0069 U+0064 U+0065 U+0024	high_tide	English
-^how_many?$	h aʊ _ m ɛ n ɪ	1	U+005E U+0068 U+006F U+0077 U+005F U+006D U+0061 U+006E U+0079 U+003F U+0024	how_many?	English
-^how_much?$	h aʊ _ m ʌ tʃ	1	U+005E U+0068 U+006F U+0077 U+005F U+006D U+0075 U+0063 U+0068 U+003F U+0024	how_much?	English
+^give_back$	g ɪ v + b æ k	1	U+005E U+0067 U+0069 U+0076 U+0065 U+005F U+0062 U+0061 U+0063 U+006B U+0024	give_back	English
+^high_tide$	h aɪ + t aɪ d	1	U+005E U+0068 U+0069 U+0067 U+0068 U+005F U+0074 U+0069 U+0064 U+0065 U+0024	high_tide	English
+^how_many?$	h aʊ + m ɛ n ɪ	1	U+005E U+0068 U+006F U+0077 U+005F U+006D U+0061 U+006E U+0079 U+003F U+0024	how_many?	English
+^how_much?$	h aʊ + m ʌ tʃ	1	U+005E U+0068 U+006F U+0077 U+005F U+006D U+0075 U+0063 U+0068 U+003F U+0024	how_much?	English
 ^injection$	ɪ n dʒ ɛ k ʃ n̩	1	U+005E U+0069 U+006E U+006A U+0065 U+0063 U+0074 U+0069 U+006F U+006E U+0024	injection	English
 ^intention$	ɪ n t ɛ n ʃ n̩	1	U+005E U+0069 U+006E U+0074 U+0065 U+006E U+0074 U+0069 U+006F U+006E U+0024	intention	English
 ^lightning$	l aɪ t n ɪ ŋ	1	U+005E U+006C U+0069 U+0067 U+0068 U+0074 U+006E U+0069 U+006E U+0067 U+0024	lightning	English
 ^livestock$	l aɪ v s t ɒ k	1	U+005E U+006C U+0069 U+0076 U+0065 U+0073 U+0074 U+006F U+0063 U+006B U+0024	livestock	English
-^make_love$	m eɪ k _ l ʌ v	1	U+005E U+006D U+0061 U+006B U+0065 U+005F U+006C U+006F U+0076 U+0065 U+0024	make_love	English
+^make_love$	m eɪ k + l ʌ v	1	U+005E U+006D U+0061 U+006B U+0065 U+005F U+006C U+006F U+0076 U+0065 U+0024	make_love	English
 ^necessity$	n ɪ s ɛ s ə t ɪ	1	U+005E U+006E U+0065 U+0063 U+0065 U+0073 U+0073 U+0069 U+0074 U+0079 U+0024	necessity	English
 ^neighbour$	n eɪ b ə ɹ	1	U+005E U+006E U+0065 U+0069 U+0067 U+0068 U+0062 U+006F U+0075 U+0072 U+0024	neighbour	English
 ^newspaper$	n j uː s p eɪ p ə ɹ	1	U+005E U+006E U+0065 U+0077 U+0073 U+0070 U+0061 U+0070 U+0065 U+0072 U+0024	newspaper	English
-^old_woman$	əʊ l d _ w ʊ m ə n	1	U+005E U+006F U+006C U+0064 U+005F U+0077 U+006F U+006D U+0061 U+006E U+0024	old_woman	English
+^old_woman$	əʊ l d + w ʊ m ə n	1	U+005E U+006F U+006C U+0064 U+005F U+0077 U+006F U+006D U+0061 U+006E U+0024	old_woman	English
 ^outrigger$	aʊ t r ɪ g ə ɹ	1	U+005E U+006F U+0075 U+0074 U+0072 U+0069 U+0067 U+0067 U+0065 U+0072 U+0024	outrigger	English
 ^pitchfork$	p ɪ tʃ f ɔː k	1	U+005E U+0070 U+0069 U+0074 U+0063 U+0068 U+0066 U+006F U+0072 U+006B U+0024	pitchfork	English
 ^plaintiff$	p l eɪ n t ɪ f	1	U+005E U+0070 U+006C U+0061 U+0069 U+006E U+0074 U+0069 U+0066 U+0066 U+0024	plaintiff	English
@@ -1425,51 +1425,51 @@ Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	Languages
 ^intestines$	ɪ n t ɛ s t ɪ n z	1	U+005E U+0069 U+006E U+0074 U+0065 U+0073 U+0074 U+0069 U+006E U+0065 U+0073 U+0024	intestines	English
 ^motorcycle$	m əʊ t ə s aɪ k l̩	1	U+005E U+006D U+006F U+0074 U+006F U+0072 U+0063 U+0079 U+0063 U+006C U+0065 U+0024	motorcycle	English
 ^prostitute$	p r ɒ s t ɪ t j uː t	1	U+005E U+0070 U+0072 U+006F U+0073 U+0074 U+0069 U+0074 U+0075 U+0074 U+0065 U+0024	prostitute	English
-^pubic_hair$	p j uː b ɪ k _ h ɛə ɹ	1	U+005E U+0070 U+0075 U+0062 U+0069 U+0063 U+005F U+0068 U+0061 U+0069 U+0072 U+0024	pubic_hair	English
+^pubic_hair$	p j uː b ɪ k + h ɛə ɹ	1	U+005E U+0070 U+0075 U+0062 U+0069 U+0063 U+005F U+0068 U+0061 U+0069 U+0072 U+0024	pubic_hair	English
 ^punishment$	p ʌ n ɪ ʃ m ə n t	1	U+005E U+0070 U+0075 U+006E U+0069 U+0073 U+0068 U+006D U+0065 U+006E U+0074 U+0024	punishment	English
 ^son-in-law$	s ʌ n ɪ n l ɔː	1	U+005E U+0073 U+006F U+006E U+002D U+0069 U+006E U+002D U+006C U+0061 U+0077 U+0024	son-in-law	English
-^spread_out$	s p r ɛ d _ aʊ t	1	U+005E U+0073 U+0070 U+0072 U+0065 U+0061 U+0064 U+005F U+006F U+0075 U+0074 U+0024	spread_out	English
+^spread_out$	s p r ɛ d + aʊ t	1	U+005E U+0073 U+0070 U+0072 U+0065 U+0061 U+0064 U+005F U+006F U+0075 U+0074 U+0024	spread_out	English
 ^stepfather$	s t ɛ p f ɑː ð ə ɹ	1	U+005E U+0073 U+0074 U+0065 U+0070 U+0066 U+0061 U+0074 U+0068 U+0065 U+0072 U+0024	stepfather	English
 ^stepmother$	s t ɛ p m ʌ ð ə ɹ	1	U+005E U+0073 U+0074 U+0065 U+0070 U+006D U+006F U+0074 U+0068 U+0065 U+0072 U+0024	stepmother	English
-^sugar_cane$	ʃ ʊ g ə ɹ _ k eɪ n	1	U+005E U+0073 U+0075 U+0067 U+0061 U+0072 U+005F U+0063 U+0061 U+006E U+0065 U+0024	sugar_cane	English
+^sugar_cane$	ʃ ʊ g ə ɹ + k eɪ n	1	U+005E U+0073 U+0075 U+0067 U+0061 U+0072 U+005F U+0063 U+0061 U+006E U+0065 U+0024	sugar_cane	English
 ^television$	t ɛ l ɪ v ɪ ʒ n̩	1	U+005E U+0074 U+0065 U+006C U+0065 U+0076 U+0069 U+0073 U+0069 U+006F U+006E U+0024	television	English
-^tree_trunk$	t r iː _ t r ʌ ŋ k	1	U+005E U+0074 U+0072 U+0065 U+0065 U+005F U+0074 U+0072 U+0075 U+006E U+006B U+0024	tree_trunk	English
+^tree_trunk$	t r iː + t r ʌ ŋ k	1	U+005E U+0074 U+0072 U+0065 U+0065 U+005F U+0074 U+0072 U+0075 U+006E U+006B U+0024	tree_trunk	English
 ^understand$	ʌ n d ə s t æ n d	1	U+005E U+0075 U+006E U+0064 U+0065 U+0072 U+0073 U+0074 U+0061 U+006E U+0064 U+0024	understand	English
 ^vegetables$	v ɛ dʒ t ə b l̩ z	1	U+005E U+0076 U+0065 U+0067 U+0065 U+0074 U+0061 U+0062 U+006C U+0065 U+0073 U+0024	vegetables	English
 ^(be)_silent$	s aɪ l ə n t	1	U+005E U+0028 U+0062 U+0065 U+0029 U+005F U+0073 U+0069 U+006C U+0065 U+006E U+0074 U+0024	(be)_silent	English
 ^(good)_luck$	l ʌ k	1	U+005E U+0028 U+0067 U+006F U+006F U+0064 U+0029 U+005F U+006C U+0075 U+0063 U+006B U+0024	(good)_luck	English
 ^electricity$	ɪ l ɛ k t r ɪ s ə t ɪ	1	U+005E U+0065 U+006C U+0065 U+0063 U+0074 U+0072 U+0069 U+0063 U+0069 U+0074 U+0079 U+0024	electricity	English
-^fishing_net$	f ɪ ʃ ɪ ŋ _ n ɛ t	1	U+005E U+0066 U+0069 U+0073 U+0068 U+0069 U+006E U+0067 U+005F U+006E U+0065 U+0074 U+0024	fishing_net	English
+^fishing_net$	f ɪ ʃ ɪ ŋ + n ɛ t	1	U+005E U+0066 U+0069 U+0073 U+0068 U+0069 U+006E U+0067 U+005F U+006E U+0065 U+0074 U+0024	fishing_net	English
 ^grandfather$	g r æ n d f ɑː ð ə ɹ	1	U+005E U+0067 U+0072 U+0061 U+006E U+0064 U+0066 U+0061 U+0074 U+0068 U+0065 U+0072 U+0024	grandfather	English
 ^grandmother$	g r æ n m ʌ ð ə ɹ	1	U+005E U+0067 U+0072 U+0061 U+006E U+0064 U+006D U+006F U+0074 U+0068 U+0065 U+0072 U+0024	grandmother	English
 ^grandparent$	g r æ n p ɛə r ə n t	1	U+005E U+0067 U+0072 U+0061 U+006E U+0064 U+0070 U+0061 U+0072 U+0065 U+006E U+0074 U+0024	grandparent	English
-^grass-skirt$	g r ɑː s _ s k ɜː t	1	U+005E U+0067 U+0072 U+0061 U+0073 U+0073 U+002D U+0073 U+006B U+0069 U+0072 U+0074 U+0024	grass-skirt	English
+^grass-skirt$	g r ɑː s + s k ɜː t	1	U+005E U+0067 U+0072 U+0061 U+0073 U+0073 U+002D U+0073 U+006B U+0069 U+0072 U+0074 U+0024	grass-skirt	English
 ^grasshopper$	g r ɑː s h ɒ p ə ɹ	1	U+005E U+0067 U+0072 U+0061 U+0073 U+0073 U+0068 U+006F U+0070 U+0070 U+0065 U+0072 U+0024	grasshopper	English
 ^immediately$	ɪ m iː d j ə t l ɪ	1	U+005E U+0069 U+006D U+006D U+0065 U+0064 U+0069 U+0061 U+0074 U+0065 U+006C U+0079 U+0024	immediately	English
-^in_front_of$	ɪ n _ f r ʌ n t _ ɒ v	1	U+005E U+0069 U+006E U+005F U+0066 U+0072 U+006F U+006E U+0074 U+005F U+006F U+0066 U+0024	in_front_of	English
+^in_front_of$	ɪ n + f r ʌ n t + ɒ v	1	U+005E U+0069 U+006E U+005F U+0066 U+0072 U+006F U+006E U+0074 U+005F U+006F U+0066 U+0024	in_front_of	English
 ^petrol(eum)$	p ɛ t r ə l	1	U+005E U+0070 U+0065 U+0074 U+0072 U+006F U+006C U+0028 U+0065 U+0075 U+006D U+0029 U+0024	petrol(eum)	English
 ^screwdriver$	s k r uː d r aɪ v ə ɹ	1	U+005E U+0073 U+0063 U+0072 U+0065 U+0077 U+0064 U+0072 U+0069 U+0076 U+0065 U+0072 U+0024	screwdriver	English
-^turn_around$	t ɜː n _ ə r aʊ n d	1	U+005E U+0074 U+0075 U+0072 U+006E U+005F U+0061 U+0072 U+006F U+0075 U+006E U+0064 U+0024	turn_around	English
+^turn_around$	t ɜː n + ə r aʊ n d	1	U+005E U+0074 U+0075 U+0072 U+006E U+005F U+0061 U+0072 U+006F U+0075 U+006E U+0064 U+0024	turn_around	English
 ^(finger)nail$	n eɪ l	1	U+005E U+0028 U+0066 U+0069 U+006E U+0067 U+0065 U+0072 U+0029 U+006E U+0061 U+0069 U+006C U+0024	(finger)nail	English
 ^(tree-)stump$	s t ʌ m p	1	U+005E U+0028 U+0074 U+0072 U+0065 U+0065 U+002D U+0029 U+0073 U+0074 U+0075 U+006D U+0070 U+0024	(tree-)stump	English
 ^circumcision$	s ɜː k ə m s ɪ ʒ n̩	1	U+005E U+0063 U+0069 U+0072 U+0063 U+0075 U+006D U+0063 U+0069 U+0073 U+0069 U+006F U+006E U+0024	circumcision	English
-^fishing_line$	f ɪ ʃ ɪ ŋ _ l aɪ n	1	U+005E U+0066 U+0069 U+0073 U+0068 U+0069 U+006E U+0067 U+005F U+006C U+0069 U+006E U+0065 U+0024	fishing_line	English
+^fishing_line$	f ɪ ʃ ɪ ŋ + l aɪ n	1	U+005E U+0066 U+0069 U+0073 U+0068 U+0069 U+006E U+0067 U+005F U+006C U+0069 U+006E U+0065 U+0024	fishing_line	English
 ^handkerchief$	h æ ŋ k ə tʃ iː f	1	U+005E U+0068 U+0061 U+006E U+0064 U+006B U+0065 U+0072 U+0063 U+0068 U+0069 U+0065 U+0066 U+0024	handkerchief	English
-^number_plate$	n ʌ m b ə ɹ _ p l eɪ t	1	U+005E U+006E U+0075 U+006D U+0062 U+0065 U+0072 U+005F U+0070 U+006C U+0061 U+0074 U+0065 U+0024	number_plate	English
+^number_plate$	n ʌ m b ə ɹ + p l eɪ t	1	U+005E U+006E U+0075 U+006D U+0062 U+0065 U+0072 U+005F U+0070 U+006C U+0061 U+0074 U+0065 U+0024	number_plate	English
 ^stepdaughter$	s t ɛ p d ɔː t ə ɹ	1	U+005E U+0073 U+0074 U+0065 U+0070 U+0064 U+0061 U+0075 U+0067 U+0068 U+0074 U+0065 U+0072 U+0024	stepdaughter	English
-^sweet_potato$	s w iː t _ p ə t eɪ t əʊ	1	U+005E U+0073 U+0077 U+0065 U+0065 U+0074 U+005F U+0070 U+006F U+0074 U+0061 U+0074 U+006F U+0024	sweet_potato	English
+^sweet_potato$	s w iː t + p ə t eɪ t əʊ	1	U+005E U+0073 U+0077 U+0065 U+0065 U+0074 U+005F U+0070 U+006F U+0074 U+0061 U+0074 U+006F U+0024	sweet_potato	English
 ^father-in-law$	f ɑː ð ə r ɪ n l ɔː	1	U+005E U+0066 U+0061 U+0074 U+0068 U+0065 U+0072 U+002D U+0069 U+006E U+002D U+006C U+0061 U+0077 U+0024	father-in-law	English
 ^granddaughter$	g r æ n d ɔː t ə ɹ	1	U+005E U+0067 U+0072 U+0061 U+006E U+0064 U+0064 U+0061 U+0075 U+0067 U+0068 U+0074 U+0065 U+0072 U+0024	granddaughter	English
 ^molar_(tooth)$	m əʊ l ə ɹ	1	U+005E U+006D U+006F U+006C U+0061 U+0072 U+005F U+0028 U+0074 U+006F U+006F U+0074 U+0068 U+0029 U+0024	molar_(tooth)	English
 ^mother-in-law$	m ʌ ð ə r ɪ n l ɔː	1	U+005E U+006D U+006F U+0074 U+0068 U+0065 U+0072 U+002D U+0069 U+006E U+002D U+006C U+0061 U+0077 U+0024	mother-in-law	English
 ^shoulderblade$	ʃ əʊ l d ə ɹ b l eɪ d	1	U+005E U+0073 U+0068 U+006F U+0075 U+006C U+0064 U+0065 U+0072 U+0062 U+006C U+0061 U+0064 U+0065 U+0024	shoulderblade	English
 ^chili_(pepper)$	tʃ ɪ l ɪ	1	U+005E U+0063 U+0068 U+0069 U+006C U+0069 U+005F U+0028 U+0070 U+0065 U+0070 U+0070 U+0065 U+0072 U+0029 U+0024	chili_(pepper)	English
-^lightning_bolt$	l aɪ t n ɪ ŋ _ b əʊ l t	1	U+005E U+006C U+0069 U+0067 U+0068 U+0074 U+006E U+0069 U+006E U+0067 U+005F U+0062 U+006F U+006C U+0074 U+0024	lightning_bolt	English
+^lightning_bolt$	l aɪ t n ɪ ŋ + b əʊ l t	1	U+005E U+006C U+0069 U+0067 U+0068 U+0074 U+006E U+0069 U+006E U+0067 U+005F U+0062 U+006F U+006C U+0074 U+0024	lightning_bolt	English
 ^daughter-in-law$	d ɔː t ə r ɪ n l ɔː	1	U+005E U+0064 U+0061 U+0075 U+0067 U+0068 U+0074 U+0065 U+0072 U+002D U+0069 U+006E U+002D U+006C U+0061 U+0077 U+0024	daughter-in-law	English
-^driving_licence$	d r aɪ v ɪ ŋ _ l aɪ s ə n s	1	U+005E U+0064 U+0072 U+0069 U+0076 U+0069 U+006E U+0067 U+005F U+006C U+0069 U+0063 U+0065 U+006E U+0063 U+0065 U+0024	driving_licence	English
-^northern_lights$	n ɔː ð n̩ _ l aɪ t s	1	U+005E U+006E U+006F U+0072 U+0074 U+0068 U+0065 U+0072 U+006E U+005F U+006C U+0069 U+0067 U+0068 U+0074 U+0073 U+0024	northern_lights	English
+^driving_licence$	d r aɪ v ɪ ŋ + l aɪ s ə n s	1	U+005E U+0064 U+0072 U+0069 U+0076 U+0069 U+006E U+0067 U+005F U+006C U+0069 U+0063 U+0065 U+006E U+0063 U+0065 U+0024	driving_licence	English
+^northern_lights$	n ɔː ð n̩ + l aɪ t s	1	U+005E U+006E U+006F U+0072 U+0074 U+0068 U+0065 U+0072 U+006E U+005F U+006C U+0069 U+0067 U+0068 U+0074 U+0073 U+0024	northern_lights	English
 ^threshing-floor$	θ r ɛ ʃ ɪ ŋ f l ɔː ɹ	1	U+005E U+0074 U+0068 U+0072 U+0065 U+0073 U+0068 U+0069 U+006E U+0067 U+002D U+0066 U+006C U+006F U+006F U+0072 U+0024	threshing-floor	English
-^birth_certificate$	b ɜː θ _ s ə t ɪ f ɪ k ə t	1	U+005E U+0062 U+0069 U+0072 U+0074 U+0068 U+005F U+0063 U+0065 U+0072 U+0074 U+0069 U+0066 U+0069 U+0063 U+0061 U+0074 U+0065 U+0024	birth_certificate	English
+^birth_certificate$	b ɜː θ + s ə t ɪ f ɪ k ə t	1	U+005E U+0062 U+0069 U+0072 U+0074 U+0068 U+005F U+0063 U+0065 U+0072 U+0074 U+0069 U+0066 U+0069 U+0063 U+0061 U+0074 U+0065 U+0024	birth_certificate	English
 ^-	NULL	1	U+005E U+0062 U+0069 U+0072 U+0074 U+0068 U+005F U+0063 U+0065 U+0072 U+0074 U+0069 U+0066 U+0069 U+0063 U+0061 U+0074 U+0065 U+0024	birth_certificate	English
 -$	NULL	1	U+005E U+0062 U+0069 U+0072 U+0074 U+0068 U+005F U+0063 U+0065 U+0072 U+0074 U+0069 U+0066 U+0069 U+0063 U+0061 U+0074 U+0065 U+0024	birth_certificate	English
 _$	NULL	1	U+005E U+0062 U+0069 U+0072 U+0074 U+0068 U+005F U+0063 U+0065 U+0072 U+0074 U+0069 U+0066 U+0069 U+0063 U+0061 U+0074 U+0065 U+0024	birth_certificate	English

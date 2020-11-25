@@ -1,4 +1,5 @@
 Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
+.....	+
 $	NULL	2	U+0024		
 (	NULL	1	U+0028	múu_(ná)	
 )	NULL	1	U+0029	múu_(ná)	
@@ -6,7 +7,7 @@ $	NULL	2	U+0024
 ^íi$	íi/iː	1	U+005E U+00ED U+0069 U+0024	íi	
 ^mântáa$	m â/a n t áa/aː	1	U+005E U+006D U+00E2 U+006E U+0074 U+00E1 U+0061 U+0024	mântáa	
 ^màr̃tȏo$	m à/a r t ȏo/oː	1	U+005E U+006D U+00E0 U+0072 U+0303 U+0074 U+020F U+006F U+0024	màr̃tȏo	
-^bà.....bá$	b à/a _ b á/a	1	U+005E U+0062 U+00E0 U+002E U+002E U+002E U+002E U+002E U+0062 U+00E1 U+0024	bà.....bá	
+^bà.....bá$	b à/a + b á/a	1	U+005E U+0062 U+00E0 U+002E U+002E U+002E U+002E U+002E U+0062 U+00E1 U+0024	bà.....bá	
 -	+	4	U+002D	lóokàcí-lóokàcí,mùtûm-mùtùmíi,yànzú-yànzú	Hausa
 _	+	327	U+005F	mài_zártsíi,yí_máfár̃kíi,yí_ámái	Hausa
 a	a	5	U+0061	gàyyatàa,yíi_wà_wani_ràuníi,àl'áadàa	Hausa
