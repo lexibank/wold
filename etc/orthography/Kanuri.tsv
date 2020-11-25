@@ -1,8 +1,10 @@
 Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
+^-	NULL
+-$	NULL
 ^	NULL	3	U+005E		
 .	NULL	8	U+002E	gə́rè…..bèn,ngáwò...._bèn,ngáwò…..bèn	Kanuri
 …	NULL	2	U+2026	gə́rè…..bèn,ngáwò…..bèn	Kanuri
-^-a$	+ a	1	U+005E U+002D U+0061 U+0024	-a	Kanuri
+^-a$	a	1	U+005E U+002D U+0061 U+0024	-a	Kanuri
 -	+	4	U+002D	-làn,-mbèn,kàm-kám	Kanuri
 _	+	138	U+005F	kàkkádə̀_hàwârbè,kə̀lâ_mâìbè,wásàm_yikko	Kanuri
 b	b	153	U+0062	ngáwò…..bèn,tàmbə́rtə́,àbàdá	Kanuri

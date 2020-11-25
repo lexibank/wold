@@ -1,4 +1,6 @@
 Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
+=$	NULL
+^=	NULL
 ^	NULL	2	U+005E		
 $	NULL	3	U+0024		
 (	NULL	5	U+0028	(ʔille)_paah,roompo_(ʕanɗete),ʔí=powaʕ(aɗ)i	
@@ -129,7 +131,7 @@ zz	z z	3	U+007A U+007A	ʔizzah,ʔizzah_ʔizzah	Gawwada
 ʕ$	ʕ	14	U+0295 U+0024	haʕ,puʕ,ɠeeʕ	Gawwada
 ʕs	ʕ s	2	U+0295 U+0073	ʔošoʕsaɗ	Gawwada
 ʕʕ	ʕ ʕ	3	U+0295 U+0295	hoʕʕi,leʕʕo	Gawwada
-^=s	+ s	3	U+005E U+003D U+0073	=sa,=si	Gawwada
+^=s	s	3	U+005E U+003D U+0073	=sa,=si	Gawwada
 ^k’	kʼ	21	U+005E U+006B U+2019	k’aca,k’arat’t’o,k’ám_pay	
 ^t’	tʼ	12	U+005E U+0074 U+2019	t’af,t’arat’t’ar,t’iip	
 ee$	eː	1	U+0065 U+0065 U+0024	ʔee	Gawwada

@@ -1,11 +1,13 @@
 Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
+-$	NULL
+^-	NULL
 ^	NULL	13	U+005E		
 $	NULL	276	U+0024		
 (	NULL	1	U+0028	jipu(n)_pa-	
 )	NULL	1	U+0029	jipu(n)_pa-	
 ^karri-_with_LOCATVE$	k a r r i	1	U+005E U+006B U+0061 U+0072 U+0072 U+0069 U+002D U+005F U+0077 U+0069 U+0074 U+0068 U+005F U+004C U+004F U+0043 U+0041 U+0054 U+0056 U+0045 U+0024	karri-_with_LOCATVE	
 ^ngka_(and_allomorphs)$	ŋ k a	1	U+005E U+006E U+0067 U+006B U+0061 U+005F U+0028 U+0061 U+006E U+0064 U+005F U+0061 U+006C U+006C U+006F U+006D U+006F U+0072 U+0070 U+0068 U+0073 U+0029 U+0024	ngka_(and_allomorphs)	
-^-ngka_(and_allomorphs)$	+ ŋ k a	1	U+005E U+002D U+006E U+0067 U+006B U+0061 U+005F U+0028 U+0061 U+006E U+0064 U+005F U+0061 U+006C U+006C U+006F U+006D U+006F U+0072 U+0070 U+0068 U+0073 U+0029 U+0024	-ngka_(and_allomorphs)	
+^-ngka_(and_allomorphs)$	ŋ k a	1	U+005E U+002D U+006E U+0067 U+006B U+0061 U+005F U+0028 U+0061 U+006E U+0064 U+005F U+0061 U+006C U+006C U+006F U+006D U+006F U+0072 U+0070 U+0068 U+0073 U+0029 U+0024	-ngka_(and_allomorphs)	
 -	+	298	U+002D	nyuk_paya-,paraj_wani-,yingin_yuwa-	Gurindji
 .	_	3	U+002E	nyamu...nga	Gurindji
 _	+	266	U+005F	jakarr_ma-,murlng_karrwa-,purrngpurrngkarra_karri-	Gurindji

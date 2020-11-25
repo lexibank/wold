@@ -1,4 +1,5 @@
 Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
+-_	NULL
 $	NULL	22	U+0024		
 '_	NULL	2	U+0027 U+005F	nup'_ba,ti'__________	Zinacantán Tzotzil
 _$	NULL	1	U+005F U+0024	jmak-_	Zinacantán Tzotzil

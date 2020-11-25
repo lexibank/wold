@@ -4,6 +4,8 @@ $	NULL	37	U+0024
 (	NULL	39	U+0028	(kidole)_gumba,bahati_(njema),chungu__(nzima)	
 )	NULL	38	U+0029	bupuru_(la_kichwa),gari_(la)_moshi,kororo_(la_shingo)	
 …$	NULL	2	U+2026 U+0024	-kaa_na_…,-wa_na_…	Swahili
+_…$	NULL	2	U+2026 U+0024	-kaa_na_…,-wa_na_…	Swahili
+-_	+
 -	+	519	U+002D	-dai,-fikiri,-subu	Swahili
 _	+	238	U+005F	-endesha_kwa_tanga,kidole_(cha_mkono),uga_(wa_kupuria_nafaka)	Swahili
 a	a	1092	U+0061	fuawe,kiazi_kitamu,siagi	Swahili

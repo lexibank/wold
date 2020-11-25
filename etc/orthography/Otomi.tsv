@@ -1,4 +1,5 @@
 Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
+^-	NULL
 ^	NULL	54	U+005E		
 $	NULL	7	U+0024		
 (	NULL	16	U+0028	(n)zäm'bu̲,nze̲di_zaa_(hingi_hu̲),yogo('ä)?	
@@ -9,7 +10,7 @@ _	+	439	U+005F	hñu_ya_bes,xi_'ñixt'i,xi_nts'it'i	Otomi
 ^u$	u	1	U+005E U+0075 U+0024	u	Otomi
 ^a̲$	ɔ	1	U+005E U+0061 U+0332 U+0024	a̲	Otomi
 ^e̲$	æ	1	U+005E U+0065 U+0332 U+0024	e̲	Otomi
-^-‘bya$	+ ˀb j a	1	U+005E U+002D U+2018 U+0062 U+0079 U+0061 U+0024	-‘bya	
+^-‘bya$	ˀb j a	1	U+005E U+002D U+2018 U+0062 U+0079 U+0061 U+0024	-‘bya	
 '	ʔ	81	U+0027	jä'i,ts'udi_t'oho,‘re̲t’a_ma_n'aha	
 -	+	7	U+002D	-'be,hin-,xa̲tu̲-wi_ar_tsita	Otomi
 a	a	498	U+0061	tsita_mahä'mu̲,yaxudo,‘be̲fa_bätsi	Otomi

@@ -203,3 +203,8 @@ t’$	tʼ	10	U+0074 U+2019 U+0024	-ut’,babliƛ’ako_c’it’,t’ot’
 -$	NULL	1	U+005E U+00E4 U+1D51 U+0068	äᵑheyo	Bezhta
 _$	NULL	1	U+005E U+00E4 U+1D51 U+0068	äᵑheyo	Bezhta
 ^_	NULL	1	U+005E U+00E4 U+1D51 U+0068	äᵑheyo	Bezhta
+^-	NULL
+_-	+
+_-$	NULL
+^_-	NULL
+--	+

@@ -1,10 +1,16 @@
 Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
+-_-	+
+^-	NULL
+^=	NULL
+_-	+
+-_	+
+_...$	NULL
 ^	NULL	273	U+005E		
 $	NULL	165	U+0024		
 ^a$	a	1	U+005E U+0061 U+0024	a	Takia
 ^i$	i	1	U+005E U+0069 U+0024	i	Takia
 ^o$	o	1	U+005E U+006F U+0024	o	Takia
-^-fffu$	+ fː u	1	U+005E U+002D U+0066 U+0066 U+0066 U+0075 U+0024	-fffu	Takia
+^-fffu$	fː u	1	U+005E U+002D U+0066 U+0066 U+0066 U+0075 U+0024	-fffu	Takia
 -	+	801	U+002D	-dad,-kok,pal-aŋ	Takia
 =	+	5	U+003D	-bol=oŋ,=ta=p,salso=p	Takia
 B	B/b	1	U+0042	holim_Baibel	Takia

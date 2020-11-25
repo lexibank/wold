@@ -1,4 +1,6 @@
 Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
+^=	NULL
+=$	NULL
 ^	NULL	1	U+005E		
 $	NULL	9	U+0024		
 (	NULL	4	U+0028	1ʃo_2mle_(1jʌ),2pʰi(=ri),2tʃu_2tʃu_(lari)	
