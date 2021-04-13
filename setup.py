@@ -15,6 +15,6 @@ setup(
     include_package_data=True,
     zip_safe=False,
     entry_points={"lexibank.dataset": ["wold=lexibank_wold:Dataset"]},
-    install_requires=["pylexibank==3.0.0.dev0"],
+    install_requires=["pylexibank>=3.0.0"],
     extras_require={"test": ["pytest-cldf"]},
 )

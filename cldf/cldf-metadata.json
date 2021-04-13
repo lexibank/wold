@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/wold",
-            "dc:created": "v3.0-34-gea31c0c"
+            "dc:created": "v3.0-35-g8e07eca"
         },
         {
             "rdf:type": "prov:Entity",
@@ -35,14 +35,14 @@
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "dc:created": "v2.0.0"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.9.1"
+            "dc:description": "3.8.5"
         },
         {
             "dc:title": "python-packages",
@@ -339,6 +339,69 @@
                 ]
             },
             "url": "parameters.csv"
+        },
+        {
+            "dc:extent": 41,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "dc:description": "The vocabulary ID number corresponds to the ordering to the chapters on the book <em>Loanwords in the World's Languages</em>. Languages are listed in rough geographical order from west to east, from Africa via Europe to Asia and the Americas, so that geographically adjacent languages are next to each other.",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "ID"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "name": "Name"
+                    },
+                    {
+                        "dc:description": "Each vocabulary of WOLD is a separate electronic publication with a separate author or team of authors and should be cited as specified here.",
+                        "propertyUrl": "dc:bibliographicCitation",
+                        "name": "Citation"
+                    },
+                    {
+                        "dc:description": "The authors are experts of the language and its history. They also contributed a prose chapter on the borrowing situation in their language that was published in the book Loanwords in the World's Languages.",
+                        "propertyUrl": "dc:creator",
+                        "name": "Authors"
+                    },
+                    {
+                        "dc:description": "There would be 1814 words in each vocabulary, corresponding to the 1814 Loanword Typology meanings, if each meaning had exactly one counterpart, and if all the counterparts were different words. But many (\"polysomous\") words are counterparts of several meanings, many meanings have several word counterparts (\"synonyms\", or \"subcounterparts\"), and many meanings have no counterparts at all, so the number of words in each database varies considerably.",
+                        "datatype": "integer",
+                        "name": "Number_of_words"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "name": "Language_ID"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "vocabularies.csv"
         }
     ]
 }
