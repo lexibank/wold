@@ -3,6 +3,18 @@
     "access_right": "open",
     "contributors": [
         {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "Other"
+        },
+        {
+            "name": "Natalia Morozova",
+            "type": "Other"
+        },
+        {
             "name": "Martin Haspelmath",
             "type": "Editor"
         },
@@ -18,13 +30,10 @@
     ],
     "creators": [
         {
-            "name": "Tiago Tresoldi"
+            "name": "Martin Haspelmath"
         },
         {
-            "name": "Robert Forkel"
-        },
-        {
-            "name": "Natalia Morozova"
+            "name": "Uri Tadmor"
         }
     ],
     "keywords": [

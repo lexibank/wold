@@ -48,17 +48,22 @@ def normalize_text(text):
 
 
 def format_citation(contrib, numentries):
-    authors = contrib['Contributors']
-    if ' with ' in authors:
-        authors = authors.replace(' with ', ' (with ') + ')'
-    return "{}. 2009. {} vocabulary. In: Haspelmath, Martin & Tadmor, Uri (eds.) " \
-           "World Loanword Database. Leipzig: Max Planck Institute for Evolutionary Anthropology, " \
-           "{} entries. (Available online at https://wold.clld.org/vocabulary/{})".format(
-        authors, contrib['Name'], numentries, contrib['ID'])
+    authors = contrib["Contributors"]
+    if " with " in authors:
+        authors = authors.replace(" with ", " (with ") + ")"
+    return (
+        "{}. 2009. {} vocabulary. In: Haspelmath, Martin & Tadmor, Uri (eds.) "
+        "World Loanword Database. Leipzig: Max Planck Institute for Evolutionary Anthropology, "
+        "{} entries. (Available online at https://wold.clld.org/vocabulary/{})".format(
+            authors, contrib["Name"], numentries, contrib["ID"]
+        )
+    )
 
 
 class Dataset(CLLD):
-    __cldf_url__ = "http://cdstar.shh.mpg.de/bitstreams/EAEA0-92F4-126F-089F-0/wold_dataset.cldf.zip"
+    __cldf_url__ = (
+        "http://cdstar.shh.mpg.de/bitstreams/EAEA0-92F4-126F-089F-0/wold_dataset.cldf.zip"
+    )
     dir = Path(__file__).parent
     id = "wold"
     lexeme_class = CustomLexeme
@@ -94,70 +99,66 @@ class Dataset(CLLD):
         # but the `forms` only include the first 41 in the list
         language_lookup = args.writer.add_languages(lookup_factory="WOLD_ID")
         t = args.writer.cldf.add_table(
-            'vocabularies.csv',
+            "vocabularies.csv",
             {
-                'name': 'ID',
-                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
-                'dc:description':
-                    "The vocabulary ID number corresponds to the ordering to the"
-                    " chapters on the book <em>Loanwords in the World's Languages</em>. "
-                    "Languages are listed in rough geographical order from west to east, "
-                    "from Africa via Europe to Asia and the Americas, so that "
-                    "geographically adjacent languages are next to each other."
+                "name": "ID",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                "dc:description": "The vocabulary ID number corresponds to the ordering to the"
+                " chapters on the book <em>Loanwords in the World's Languages</em>. "
+                "Languages are listed in rough geographical order from west to east, "
+                "from Africa via Europe to Asia and the Americas, so that "
+                "geographically adjacent languages are next to each other.",
+            },
+            {"name": "Name", "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name"},
+            {
+                "name": "Citation",
+                "dc:description": "Each vocabulary of WOLD is a separate electronic publication "
+                "with a separate author or team of authors and should be cited as specified "
+                "here.",
+                "propertyUrl": "dc:bibliographicCitation",
             },
             {
-                'name': 'Name',
-                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
+                "name": "Authors",
+                "dc:description": "The authors are experts of the language and its history. "
+                "They also contributed a prose chapter on the borrowing situation in "
+                "their language that was published in the book "
+                "Loanwords in the World's Languages.",
+                "propertyUrl": "dc:creator",
             },
             {
-                'name': 'Citation',
-                'dc:description':
-                    'Each vocabulary of WOLD is a separate electronic publication '
-                    'with a separate author or team of authors and should be cited as specified '
-                    'here.',
-                'propertyUrl': 'dc:bibliographicCitation',
+                "name": "Number_of_words",
+                "datatype": "integer",
+                "dc:description": "There would be 1814 words in each vocabulary, "
+                "corresponding to the 1814 Loanword Typology meanings, if each meaning "
+                "had exactly one counterpart, and if all the counterparts were "
+                'different words. But many ("polysomous") words are counterparts of '
+                "several meanings, many meanings have several word counterparts "
+                '("synonyms", or "subcounterparts"), and many meanings have no '
+                "counterparts at all, so the number of words in each database varies "
+                "considerably.",
             },
             {
-                'name': 'Authors',
-                'dc:description':
-                    "The authors are experts of the language and its history. "
-                    "They also contributed a prose chapter on the borrowing situation in "
-                    "their language that was published in the book "
-                    "Loanwords in the World's Languages.",
-                'propertyUrl': 'dc:creator',
+                "name": "Language_ID",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
             },
-            {
-                'name': 'Number_of_words',
-                'datatype': 'integer',
-                'dc:description':
-                    "There would be 1814 words in each vocabulary, "
-                    "corresponding to the 1814 Loanword Typology meanings, if each meaning "
-                    "had exactly one counterpart, and if all the counterparts were "
-                    "different words. But many (\"polysomous\") words are counterparts of "
-                    "several meanings, many meanings have several word counterparts "
-                    "(\"synonyms\", or \"subcounterparts\"), and many meanings have no "
-                    "counterparts at all, so the number of words in each database varies "
-                    "considerably.",
-            },
-            {
-                'name': 'Language_ID',
-                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#languageReference',
-            }
         )
-        t.add_foreign_key('Language_ID', 'languages.csv', 'ID')
+        t.add_foreign_key("Language_ID", "languages.csv", "ID")
 
         numentries = {
-            r['pk']: int(r['count_words']) for r in
-            self.raw_dir.joinpath('db').read_csv('vocabulary.csv', dicts=True)}
-        for contrib in self.raw_dir.read_csv('contributions.csv', dicts=True):
-            args.writer.objects['vocabularies.csv'].append(dict(
-                ID=contrib['ID'],
-                Name='{} vocabulary'.format(contrib['Name']),
-                Citation= format_citation(contrib, numentries[contrib['ID']]),
-                Authors=contrib['Contributors'],
-                Number_of_words=numentries[contrib['ID']],
-                Language_ID=language_lookup[contrib['ID']],
-            ))
+            r["pk"]: int(r["count_words"])
+            for r in self.raw_dir.joinpath("db").read_csv("vocabulary.csv", dicts=True)
+        }
+        for contrib in self.raw_dir.read_csv("contributions.csv", dicts=True):
+            args.writer.objects["vocabularies.csv"].append(
+                dict(
+                    ID=contrib["ID"],
+                    Name="{} vocabulary".format(contrib["Name"]),
+                    Citation=format_citation(contrib, numentries[contrib["ID"]]),
+                    Authors=contrib["Contributors"],
+                    Number_of_words=numentries[contrib["ID"]],
+                    Language_ID=language_lookup[contrib["ID"]],
+                )
+            )
 
         concept_lookup = {}
         for concept in self.conceptlists[0].concepts.values():
@@ -175,10 +176,7 @@ class Dataset(CLLD):
         # TODO: Integrate to Concepticon
         for parameter in self.raw_dir.read_csv("parameters.csv", dicts=True):
             if parameter["ID"] not in concept_lookup:
-                concept_id = "%s_%s" % (
-                    parameter["ID"].replace("-", ""),
-                    slug(parameter["Name"]),
-                )
+                concept_id = "%s_%s" % (parameter["ID"].replace("-", ""), slug(parameter["Name"]))
                 args.writer.add_concept(ID=concept_id, Name=parameter["Name"])
                 concept_lookup[parameter["ID"]] = concept_id
 
@@ -194,15 +192,9 @@ class Dataset(CLLD):
             row["Loan"] = float(row["BorrowedScore"]) > 0.6
             row["Borrowed_score"] = row["BorrowedScore"]
             row["original_script"] = normalize_text(row["original_script"])
-            row["comment_on_borrowed"] = normalize_text(
-                row["comment_on_borrowed"]
-            )
+            row["comment_on_borrowed"] = normalize_text(row["comment_on_borrowed"])
             row.pop("Segments")
 
             args.writer.add_forms_from_value(
-                **{
-                    k: v
-                    for k, v in row.items()
-                    if k in self.lexeme_class.fieldnames()
-                }
+                **{k: v for k, v in row.items() if k in self.lexeme_class.fieldnames()}
             )

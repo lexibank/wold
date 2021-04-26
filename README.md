@@ -14,7 +14,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/wold.svg?branch=master)](https://travis-ci.org/lexibank/wold)
+[![CLDF validation](https://github.com/lexibank/wold/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/wold/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-brightgreen.svg "Concepticon: 99%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -35,10 +35,10 @@ Conceptlists in Concepticon:
 
 Name | GitHub user | Description | Role |
 --- | --- | --- | --- |
-Tiago Tresoldi | @tresoldi | patron, maintainer, orthographic profiles | Author
-Robert Forkel | @xrotwang | maintainer | Author
-Natalia Morozova | @natalia-morozova | orthographic profiles | Author
-Martin Haspelmath | | publication editor | Editor 
-Uri Tadmor | | publication editor | Editor
+Tiago Tresoldi | @tresoldi | patron, maintainer, orthographic profiles | Other
+Robert Forkel | @xrotwang | maintainer | Other
+Natalia Morozova | @natalia-morozova | orthographic profiles | Other
+Martin Haspelmath | | publication editor | Author, Editor 
+Uri Tadmor | | publication editor | Author, Editor
 
 

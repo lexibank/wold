@@ -18,13 +18,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/wold",
-            "dc:created": "v3.0-35-g8e07eca"
+            "dc:created": "v3.0-36-g7e0526f"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3"
+            "dc:created": "v4.3-treedb-fixes"
         },
         {
             "rdf:type": "prov:Entity",
@@ -36,7 +36,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v2.0.0"
+            "dc:created": "v2.1.0"
         }
     ],
     "prov:wasGeneratedBy": [
