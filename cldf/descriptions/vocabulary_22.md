@@ -1,0 +1,318 @@
+# Mandarin Chinese vocabulary
+
+by Thekla Wiebusch
+
+## Reference(s)
+
+- Literature consulted/quoted:
+- Bauer, Robert S. 1994. Sino-Tibetan *kolo “wheel”. Sino-Platonic Papers 47.
+- Baxter, William H. 1989. Early China Conference, Chicago. Quoted by Schuessler 2007: 163
+- Baxter, William 1992. A handbook of Old Chinese phonology. 
+- Berlin: Mouton de Gruyter.
+- Baxter, William H. 1983. “A look at the history of Chinese color terminology.” 
+- Journal of the Chinese Language Teachers Association 18.2.1–25.
+- Baxter, William and Sagart, Laurent. 1998. “Word Formation in Old Chinese.” 
+- In: Packard, Jerome (ed.) New Approaches to Chinese Word Formation. Berlin: Mouton de Gruyter, 35-76.
+- Beckwith, Christopher I. 2006. “Old Tibetan and the dialects and periodization of Old Chinese.” 
+- In: Beckwith, C. (ed.) Medieval Tibeto-Burman Languages II. Leiden, Brill, 179- 196.
+- Benedict, Paul K. 1975. Austro-Thai, Language and Culture with a Glossary of Roots. New Haven: HRAF Press
+- Benedict, Paul K. 1976. “Early Chinese Borrowing.” 
+- In: Genetic Relationship, Diffusion and Typological Similarities of East and Southeast Asian Languages. Papers for the First Japan-US joint Seminar on East & Southeast Asian Linguistics. Tokyo: The Japan Society for the Promotion of Science.
+- Benedict, Paul K. 1976. “Austro-Thai and Austroasiatic.” 
+- Mon-Khmer Studies 1: 1-36.
+- Benjamin, Geoffrey 1976. “Austroasiatic subgroupings and prehistory in the Malay peninsula.” 
+- In: Jenner et al.: Austroasiatic Studies. 69-123. 
+- Blench, Roger. 2008. “Stratification in the peopling of China: How far does the linguistic evidence match genetics and archaeology?” 
+- In: Sanchez-Mazas, Alicia et al. eds.: Past Human Migrations in East Asia. London & New York: Routledge, 105-132.
+- Sanchez-Mazas, Alicia, Blench, Roger, Ross, Malcolm D., Peiros, Ilia, and Lin, Marie (2008): Past Human Migrations in East Asia. Matching Archaeology, Linguistics and Genetics.
+- Routledge.
+- Bodman, Nicholas C. 1980. “Proto-Chinese and Sino-Tibetan; evidence towards establishing the nature of their relationship.” 
+- In: van Coetsem, Frans and Waugh, Linda R.: Contributions to historical linguistics. Leiden, 34-199.
+- Boltz, William 1993: The origin and early development of the Chinese writing system. 
+- New Haven, CT.
+- Bridgman, Elijah Coleman. 1838. Meiligeguo zhilüe (A short history of the United States of America). 
+- Canton 
+- Das neue Chinesisch-Deutsche Wörterbuch. 1985. 
+- Beijing: Shangwu yinshuguan.
+- Cen Qixiang. 1990. Hanyu wailaiyu cidian (Dictionary of foreign loans in Chinese). 
+- Beijing: Shangwu yinshuguan.
+- Chang Tsung-tung 1988. Indo-European Vocabulary. A new thesis on the emergence of Chinese language  and civilization in the late Neolithic age. 
+- Philadelphia. Sino-Platonic papers 7.
+- Chinese text project. http://chinese.dsturgeon.net
+- Ciyuan (Origin of Words). 
+- Beijing  Shangwu yinshuguan 1988 (single vol. repr. of 1915),
+- Coblin, W. South 1986: A Sinologist’s Handlist of Sino-Tibetan Comparisons. 
+- Nettletal. 
+- Coblin, W. South 1999: Periodization in Northwest Chinese Dialect History. 
+- Journal of Chinese Linguistics 27.1, 104-119.
+- Deutsch-Chinesisches Wörterbuch. 1983. 
+- Taipei: Lanbridge Press.
+- Dew, James Erwin 1999. 6000 Chinese words. A vocabulary frequency handbook for Chinese language teachers and students. Liuqian ge ci. Zhongwen cihui pinlü shouce. 
+- Taipei: Nantian shuju.
+- Diffloth, Gérard. 1984. “The Dvaravati Old Mon Language and Nyah Kur.” 
+- Chulalongkorn.
+- Downer, Gordon B. 1959: “Derivation by tone change in Classical Chinese.” 
+- Bulletin of the School of Oriental and African Studies 22: 258-290. 
+- Downer, Gordon B. 1973. “Strata of Chinese loanwords in the Mien dialect of Yao.” 
+- Asia Major 18: 1-23.
+- Downer, Gordon. 1982. “Problems in the reconstruction of Proto-Miao-Yao.” 
+- Paper presented at the ICSTLL, Beijing, quoted in Schuessler 2007.
+- Egeröd, Søren 1976. “Bendedict’s Austro-Thai hypothesis and the traditional views on Sino-Thai relationship.” Computational Analyses of Asian & African Languages 6: 51-63.
+- Feng, Zhiwei. 2004. The Semantic Loanwords and Phonemic Loanwords in Chinese Language. 
+- 11th International Symposium of NIJLA, Tokyo, March 2004. 
+- Ferlus, Michel 1988. Les langues austroasiatiques. 
+- In : Revel, Nicole: Le riz en Asie du sud-est. Atlas du vocabulaire de la plante. Paris, 81-96.
+- Gao, Mingkai, Liu, Zhengtan, Mai, Yongqian and Shi, Youwei (1984): Hanyu wailaici cidian (Dictionary of Chinese foreign loans). 
+- Shanghai: Shanghai cishu chubanshe.
+- Gao, Mingkai and Liu, Zhengtan. 1958. Xiandai Hanyu wailaici yanjiu (Study of Foreign loans in Modern Chinese). 
+- Beijing Wenzi gaige chubanshe.
+- Hanquan Database of Ancient Texts 故宮【寒泉】古典文獻全文檢索資料庫 (Chen Yufu 陳郁夫, Palace Museum Taipei, Taiwan) http://210.69.170.100/s25/index.htm.
+- Haudricourt, André. 1966. The limits and connections of Austroasiatic in the Northeast. 
+- In: Zide, Norman H. (ed.) Studies in Comparative Austroasiatic Linguistics. London, pp. 44-56.
+- Hanyu da cidian 漢語大詞典. Hg. vom Hanyu da cidian bianji weiyuanhui  漢語大詞 典編輯委員會. 12 Bde. Shanghai, Shanghai cishu chubanshe 1986-1993.
+- Hanyu da cidian汉语大词典 (Comprehensive chinese Word Dictionary). Eds. Luo Zhufeng 羅竹風  et al. 13 vls. 1986-1993. Shanghai: Cishu chubanshe.
+- Haudricourt, André 1966, The limits and connections of Austroasiatic in the Northeast. In Norman H. Zide, ed., Studies in Comparative Austroasiatic Linguistics. London, 44-56.
+- Haudricourt, André, and David Strecker 1991, “Hmong-Mien (Miao-Yao) Loans in Chinese.” 
+- T’oung-Pao 77: 4-5: 335-342.
+- Ho Ping-ti 1975. The cradle of the East. 
+- Hong Kong: Chinese University and Chicago: University of Chicago Press.
+- Hu Xiaoqing 1998. Wailaiyu (Foreign words). 
+- Beijing: Xinhua chubanshe.
+- Hu Zhaoyun 2001. Language Contact and Lexical borrowing of English and Chinese: A comprehensive study. 
+- Jinan: Shansong daxue chubanshe.
+- Janhunen, J. 1998. The horse in East Asia: reviewing the linguistic evidence. 
+- In: Mair, Victor (ed.) The Bronze Age and Early Iron Age peoples of Eastern Central Asia. Vol. 1, 415-30.
+- Jenner, Philip and Pou, Saveros. 1980-1981. A lexicon of Khmer morphology. Mon-Khmer Studies 9-10.
+- LaPolla, Randy. 1994. Variable finals in Proto-Sino-Tibetan. BIHP 65:1, pp. 131-173.
+- Lau, Ulrich 1999. Quellenstudien zur Landvergabe und Bodenübertragung in der westlichen Zhou-Dynastie (1045? – 771 v- Chr.). Monumenta Serica monograph series XLI. 
+- Laufer, Berthold 1919: Sino-Iranica. Chinese contributions to the history of civilization in ancient Iran. Field Museum of Natural History. Published 2001, Anthropological Series, vol. 15, no. 3, Chicago
+- Lehman, F. K. 1963. The Structure of Chin Society. 
+- Illinois Studies in Anthropology. No. 3: 39.
+- Li, Xiaofan and Chen, Baoxian. 2002. Cong “gang” de ciyi yanbian he diyue fenbu kan gu Wuyu de beijie. (The Northern border of Old Wu from the perspective of the evolution of the meaning of gang ‘harbor’ and its geographical distribution). Fangyan 2002.3: 201-216. 
+- Li, Fangkuei 1976: “Sino-Tai”.” CAAAL 3:39-48.
+- Lin, Jing (ed.) 1987. Tuwen duizhao De-Hua baike cidian. German-Chinese pictorial dictionary. Taipei : Zhong-Ying tushu gongsi.
+- Liang, Xiaohong 1994. Fojiao ciyu de gouzao yu Hanyu cihui de fazhan (The formation of Buddhist terms and the development of the Chinese lexicon). 
+- Beijing: Beijing yuyan xueyuan chubanshe.
+- Longman Visual Dictionary of Chinese Culture (Langwen Zhonghua wenhua fengsu tujie cidian). 1997. Hongkong: Longman Asia.
+- Luo, Changpei 1989. Yuyan yu wenhua (Language and Culture). 
+- Beijing, Yuwen chubanshe
+- Luo, Changpei and Zhou, Zumo. 1958: Han Wei Jin Nanbeichao yunbu yanbian yanjiu (Studies in the change of rhyme categories during the Han, Wei, Jin, and Northern and Southern dynasties). 
+- Beijing.
+- Luo Yongxian. 1997. Expanding the Proto Tai Lexicon. 
+- Mon-Khmer Studies 27: 271-298.
+- Luo, Yongxian. 2000: “From ‘head’ to ‘toes’: Sino-Tai lexical correspondances in body-part terms.” Journal of Chinese Linguistics 28: 1: 67-99.
+- Mahdi, Waruno. 1994: “Some Austronesian maverick protoforms with cultural-historical implications”I. OL33:1:167-229.
+- Mair, Victor. 1990. “Old Sinitic *myag, Old Persian maguš and English ‘Magician’.” Early China 15, pp. 27-48.
+- Mair, Victor 1992. East Asian Round-Trip words. Sino-Platonic papers 34.
+- Mair, Victor (ed.) 1998. The Bronze Age and Early Iron Age peoples of Eastern Central Asia. Journal of Indo-European Studies Monograph, no 26. Washington DC: Institute for the Study of Man, Philadelphia: University of Pennsylvania Museum Publications. 2 vols.
+- Manomaivibool, Prapin. 1975. A study of Sino-Thai lexical correspondences. Ph.D. diss. University of Washington.  
+- Masini, Federico. 1993. The Formation of Modern Chinese Lexicon and its Evolution Toward a National Language: The Period from 1840-1898. Journal of Chinese Linguistics Monograph Series No. 6.
+- Matisoff, James. 1972. The Loloish tonal split revisited. 
+- Berkeley.
+- Matisoff, James. 1995. Sino-Tibetan Palatal Suffixes Revisited. 
+- In: Nishi, Matisoff, Nagano (eds.) New Horizons in Tibeto-Burman Morphosyntax. Senri Ethnological Studies No 41, Osaka, 35-91.
+- Minett, James H. and Wang, William S.-Y. 2004. An Analysis of the Lexical Skewing method for detecting language contact. 
+- Hong Kong. http://www.ee.cityu.edu.hk/~lelab/minett_files/Lexical_skewing.pdf
+- Nakayama, Shigeru. 1990. Translation of Modern Scientific Terms into Chinese Characters –The Chinese and Japanese Behavior in Comparison. 
+- In: Yang cuihua and Huang Yinong (eds.) Jindai zhongguo kejishi lunji (Collected essays on the History of Contemporary Chinese Science and Technology). Zhongyang yanjiuyuan jindaishi yanjiusuo. Taipei 1990, 295-305. 
+- Norman, Jerry. 1988. Chinese. 
+- Cambridge, UK.
+- Norman, Jerry and Mei, Tsulin. 1976. The Austroasiatics in Ancient South China: Some Lexical Evidence.” Monumenta Serica 32: 274-301.
+- Packard, Jerome L. 2000. The morphology of Chinese. A linguistic and cognitive approach. Cambridge: Cambridge University Press.
+- Pan, Wuyun 1987: Yuenanyu zhong de shanggu Hanyu jieci ceng (A layer of Old Chinese loanwords in Vietnamese). Yuyan wenzixue 3: 38-47.
+- Peyraube, Alain. 1988. Syntaxe diachronique du chinois. Évolution des constructions datives du XIVe siècle av. J.-C. au XVIIIe siècle. 
+- Paris: Collège de France, Institut des Hautes Études Chinoises.
+- Pinnow, Heinz-Jürgen. 1965. Personal pronouns in the Austroasiatic languages. 
+- In: Milner, G. B. and Henderson, E. (eds.) Indo-Pacific linguistic studies. Pt. I: Historical Linguistics, 3-42.
+- Pulleyblank, Edwin. 1962: “The consonantal system in Old Chinese.” Asia Major 9: 58-144, 206-265.
+- Pulleyblank, Edwin. 1983. The Chinese and their neighbors in prehistoric and early historic times. 
+- In: David N. Keightley ed., The Origins of Chinese Civilization. Berkeley, L.A., 411-466.
+- Pulleyblank, Edwin. 1995. The historical and prehistorical relationships of Chinese. 
+- In: William S.-Y. Wang: The Ancestry of the Chinese Language. Journal of Chinese Linguistics Monographs 8, pp.145-194.
+- Purnell, Herbert. 1970: Toward a Reconstruction of Proto-Miao-Yao. Ph.D. diss., Cornell University.
+- Qiu, Xigui. 2000. Chinese writing. 
+- Berkeley, CA. (Translation of: Wenzixue gaiyao, Beijing 1988, rev. Taibei 1994, by Jerry Norman and G. Mattos).
+- Sagart, Laurent. 1993. “Chinese and Austronesian: Evidence for a genetic relationship.” Journal of Chinese Linguistics 21.1: 1-63.
+- Sagart, Laurent. 1995. “Chinese ‘buy’ and ‘sell’ and the direction of borrowings between Chinese and Miao-Yao. T’oung-Pao LXXXI: 4-5, 328-342.
+- Sagart, Laurent. 1999. The roots of Old Chinese. Amsterdam/Philadelphia: Benjamins.
+- Sagart, Laurent. 2005. Sino-Tibetan – Austronesian. An updated and improved argument. In: Sagart, Blench, and Sanchez-Mazas (eds.) The Peopling of East Asia., pp. 161-176.
+- Sagart, Laurent and Xu, Shixuan. 2001. History through loanwords: the loan correspondences between Hani and Chinese. Cahiers de Linguistique – Asie Orientale 30.1: 3-54. 
+- Sagart, Laurent, Roger Blench and Alicia Sanchez-Mazas (eds.) 2005. The Peopling of East Asia. Putting together archaeology, linguistics and genetics. Routledge/Curzon.
+- Sanchez-Mazas, Alicia, Blench, Roger, Ross, Malcolm D., Peiros, Ilia, and Lin, Marie (eds.) 2008. Past Human Migrations in East Asia. Matching Archaeology, Linguistics and Genetics. Routledge.
+- Schuessler, Axel. 2007. ABC Etymological Dictionary of Old Chinese. 
+- Honolulu, University of Hawai’i Press.
+- Scripta Sinica 漢籍電子文獻2.0 (2000). Electronic database of the Academia Sinica, Nankang. http://hanji.sinica.edu.tw
+- Shaughnessy, Edward L. 1988. Harvard Journal of Asian Studies 48, pp. 189-237. 
+- Shaughnessy, Edward L. 1989. Western Cultural Innovations in China. 
+- Sinoplatonic Papers, July 1989.
+- Shi, Youwei. 2000. Hanyu wailaici (Chinese foreign words). 
+- Beijing: Shangwu yinshuguan.
+- Shorto, H.L. 1972 (?): “Mon-Khmer contact words in Sino-Tibetan.” Ms quoted in Schuessler 2007.
+- Shorto, H.L. 1976. The vocalism of Proto-Mon-Khmer. In: Austroasiatic Studies ed. by Philipp Jenner et al.
+- Starostin, Sergei A. 2004. Altaic and Chinese. Paper presented at the workshop on Human Migration in Continental East Asia and Taiwan. Genetic, linguistic and archaeological evidence. Geneva, June 10-13, 2004. Published as Starostin 2008. 
+- Starostin, Sergei A. 2008. Altaic loans in Old Chinese. With an introduction by Ilia Peiros. 
+- In: Sanchez-Mazas et al. (eds.) Past Human Migrations in East Asia, 255-262.
+- Starostin et al. (eds.) The Tower of Babel. An International Etymological Database Project. http://starling.rinet.ru.
+- The Sino-Tibetan Etymological Dictionary and Thesaurus (STEDT). http://stedt.berkeley.edu/
+- Teng, Shou-hsin. 1996. Chinese Synonyms Usage Dictionary / Jinyici yongfa cidian. Taipei: Wenhe chubanshe.
+- T’sou, Ka-yin (= Benjamin T’sou) and You Rujie 2007. A 21st century dictionary of Chinese new words. 21 shiji huayu xin ciyu cidian. Shanghai: Fudan daxue chubanshe.
+- Unger, Ulrich. 1984. Hao-ku. 
+- Sinologische Rundbriefe, No 24. Münster. 
+- Wang, Li. 1982. Tongyuan zidian (Dictionary of cognates). Beijing.
+- Wang, William S.-Y. and Wang, Feng. 2004. Basic Words and Language evolution. 
+- Language and Linguistics 5.3: 643-662.
+- Weidert, Alfons. 1987. Tibeto-Burman tonology. Amsterdam and Philadelphia.
+- Witzel, Michael. 2003. Linguistic Evidence Cultural Exchange in Prehistoric Western Central Asia. Sino-Platonic papers 129.
+- Yang, Guangrong. 2000. Zangyu Hanyu tongyuanci yanjiu (Research on cognates in Chinese and Tibetan languages). 
+- Beijing: Minzu chubanshe.
+- Yip, Po-Ching. 2000. The Chinese Lexicon. A Comprehensive Survey. London and New York: Routledge. Chapter 9: “Loanwords in the Chinese Lexicon” (pp. 327-347). 
+- Zhang, Qingchang. 1978. “Mantan Hanyu zhong de Mengyu jieci” (About the Mongolian loanwords in Mandarin Chinese). 
+- Zhongguo yuwen 1978.3: 196-198.  
+- Zhao, Jian 2006. Japanese Loanwords in Modern Chinese. 
+- Journal of Chinese Linguistics 34.2: 306-327.
+- Zhang, Xifeng. 1999. Hanyu cizu congkao. 
+- Chengdu: Bashu shushe.
+- Zhu, James Xueyuan. 2003. Gudai zhongyuan Hanyu zhong de Tonggusiyu, Mengguyu he Tujueyu chengfen (Tungusic-Mongolian-Turkish phonetic elements in Ancient Chinese language of Central China). Journal of Chinese Linguistics 31.2 : 218-244. 
+- Sources consulted:
+- Bai Juyi’s白居易 (772-846) poetry. See Quan Tang shi (Complete shi-poems of the Tang dynasty). 
+- Bei Qi shu 北齊書  (640). By Li Delin 李德林 and Li Baiyao 李百藥. Beijing, Zhong¬hua shuju 21973. See also : Scripta Sinica, Ershiwushi (The 25 dynastic histories)..
+- Bei shi 北史 (645). By Li Yanshou 李延壽. Scripta Sinica, Ershiwu shi (The 25 dynastic histories). 
+- Beitang shuchao北堂书钞. Compiled by Yu Shinan 虞世南 (558-638). Quoted according to the Ciyuan.
+- Bencao gangmu 本草綱目 (1596). By Li Shizhen 李時珍. Hongkong, Shangwu yinshu¬guan 111986 (1. ed. 1930).
+- Bo wu zhi博物志. Compiled by Zhang Hua張華 (232-300). Quoted according to the Ciyuan.
+- Bronze inscriptions: Major source for the Early Zhou period (ca. 1050 – 771 BCE). Also exist from other periods. Quoted according to secondary literature and dictionaries.
+- Chen shu 陳書 „History of the Chen dynasty (557-589)“ (639) by Yao Silian, Scripta Sinica: Ershiwu shi.
+- Chu ci 楚辭 (Songs of Chu) (ca. 300 -150 BCE). Chuci buzhu in Scripta Sinica, guji sanshisi zhong.
+- Chu xue ji 初學記. By Xu Jian 徐堅 (659-729). Beijing, Zhonghua shuju 1962. 
+- Chun qiu 春秋 ([Annals of] the Spring and Autumn’s [Period]) (ca. 5th c. BCE). Chunqiu Zuozhuan zhengyi. 春秋左傳正義. Shisan jing zhu ju十三經注鉕. 1815. See also: Scripta Sinica, Shisan jing.
+- Da Tang Sanzang qu jing shi hua 大唐三藏取經詩話 (Wudai or Late Tang). Taipei, Guangwen shuju 1978. See also: Scripta Sinica, Xiaoshuo xiqu ji qita.
+- Du shi yinde 杜詩引得. (Index der Gedichte von Du Fu 杜甫 (712-770)). Hrsg. von Hong Ye  洪業et al.. Shanghai, Shanghai guji chubanshe 1985. See also: Quan Tang shi.
+- Dunhuang bianwen ji敦煌變文集( 850 - 1015). Taipei, Shijie shuju 1977, 2 vls. (reprint of the Beijing, Renmin chubanshe 1958 edition).
+- Erya 爾雅. (Anon., material of the Zhou dynasty, written down in Qin or Han). In: Lang Guijin 郎奎金 (ed., 17th c.) Wu ya 五雅. Reprint in Bai bu congshu jicheng No. 83, v.1. Taipei, Yiwen yinshuguan 1967. Hanquan database for Ancient Chinese texts: Shisan jing..
+- Fang yan 方言. By Yang Xiong 楊雄 (53 BCE-18 CE). 方言校箋. Zhong Fa Han xue yan jiu suo, Taibei : Cheng wen chu ban she, Minguo 57 [1968]. See also: Chinese text project, Etymology http://chinese.dsturgeon.net/text.pl?node=45207&if=en
+- Fengsu tongyi 風俗通義 (ca. 195 CE). By Ying Shao 應劭. Fengsu tongyi jiaozhu 風俗通義校注. Edited by Wang Liqi. Beijing: Zhonghua shuju 1981. Quoted according to Ciyuan.
+- Gongyang zhuan 公羊傳  (Gongyang ‘Commentary’ to the Chun qiu). (Zhanguo period). Scripta Sinica, Shisan jing: Chunqiu gongyang zhuan.
+- Guangya 廣雅 “Expanded [Er]ya” by Zhang Yi 張揖 fl. 227-232. Guangya shuzheng 廣雅疏證. Hong Kong: Chinese University Press 1978.
+- Guangyun 廣韻 (=大宋重修廣韻) (1007 – 1011). Ed. by Chen Pengnian 陳彭年 (961-1017) and Qiu Yong 邱雍. Zhou Zumo (ed.) Guangyun jiaozheng. Zhonghua shuju 1960. 
+- Operas written by Guan Hanqing 關漢卿 (Yuan dynasty, 1271-1368). Guan Hanqing xiqu ji關漢卿戲曲集. Scripta Sinica, Xiaoshuo xiqu ji qita 小說戲曲暨其他, 
+- Guanzi 管子 (comp. ca. -26). In: Scripta Sinica, Shanggu Hanyu yuliao ku.
+- Gujin xiaoshuo 古今小説 (Yuan-dynasty). Quoted according to Ciyuan 
+- Gujin zaju古今雜居 (Yuan dynasty). Quoted according to Ciyuan.
+- Guo yu 國語 (5th-4th c. BCE). Scripta Sinica, Zhu zi.
+- Han Feizi 韓非子 (3. c. BCE). In: Zhou Zhongling 周鍾靈, Shi Xiaoshi 施孝適, Xu Weixian 許惟賢 (ed., 1982): Han Fei zi suoyin 韓非子索引. Beijing, Zhonghua shuju. See also: Scripta Sinica, Shanggu Hanyu yuliaoku.
+- Han Yu 韩愈 (768 – 824). Tang- dynasty author of prose and poetry. See also Quan Tang shi.
+- Han shu 漢書. By Ban Gu 班 固 (32-92) and Ban Zhao 班昭 (ca. 49-120). Beijing, Zhonghua shuju 31975. See also: Scripta Sinica, Ershiwu shi.
+- Hong lou meng 紅樓夢. By Cao Xueqin 曹雪芹 (1724-1764) and Gao E 高鶚 (18. c.). Beijing, Renmin wenxue chubanshe 31964. See also: Hanquan database for Ancient Chinese texts.
+- Hou Han shu 後漢書 (5th c.). By Fan Ye 范曄. Beijing, Zhonghua shuju 1973, 12 Bde. (1. ed. 1965). See also Scripta Sinica, Ershiwu shi.
+- Huai nan zi 淮南子(ca. 139 BCE). Comp. for Liu An 劉安. In: Si bu bei yao. Taipei, Zhonghua shuju 1966. See also: Chinese text project, Miscellaneous schools.
+- Huangchao jingshi wen bian皇朝經世文編 (Compilation of Writings on the Statecraft of Our August Dynasty) 1826. By He Changling.賀長齡. Scripta Sinica, Qingdai jingshi wenbian.
+- Huangchao jingshi wen si bian皇朝經世文四編. (1902). By He Liangdong何良棟. Scripta Sinica, Qingdai jingshi wenbian.
+- Huangchao jingshi wen xinbian皇朝經世文新編 1898. By Mai Zhonghua麥仲華. Scripta Sinica, Qingdai jingshi wenbian.
+- Huangchao jing shi wen xubian皇朝經世文續編 (1888). By Ge Shijin 葛士濬. Scripta Sinica, Qingdai jingshi wenbian.
+- Huangchao jing shi wen xubian皇朝經世文續編1897. By Sheng Kang 盛康. Scripta Sinica, Qingdai jingshi wenbian.
+- Huangchao jing shi wen tong bian 皇朝經世文統編 1901. By Shao Zhitang 邵之棠. Scripta Sinica, Qingdai jingshi wenbian.
+- Ji jiu pian 急就篇 (Han). Von Shi You 史游. Changsha, Yue lu shu she岳麓書社 1989.
+- Jin shi 金史 (ca. 1345). By Tuotuo 脫脫 (Togtaga) and Ouyang Xuan 歐陽玄. Beijing, Zhonghua shuju 1975. See also: Scripta Sinica, Ershiwu shi.
+- Jin shu 晉書 (629 CE) By Fang Xuanling 房玄齡. Beijing, Zhonghua shuju 1974. Scripta Sinica, Ershiwu shi.
+- Jingben tongsu xiaoshuo 京本通俗小說 (partly from Southern Song dynasty). Beijing, Wenxue guji kanxingshe 1987.
+- Jingde chuangdeng lu 景德傳燈錄 (Jingde Era record of the transmission of the lamp) (1004). Compiled by the Buddhist monk Shi Daoyuan, quoted according to Ciyuan.
+- Jinghua yuan 鏡花緣 (Flowers in the mirror). By Li Ruzhen李汝珍 (c.1763 - 1830). In: Scripta Sinica, Xiaoshuo xiqu ji qita.
+- Jiu Tang shu 舊唐書 (945). By Liu Xu 劉昫. Beijing, Zhonghua shuju 1975. See also : Scripta Sinica, Ershiwu shi.
+- Jiu Wudai shi 舊五代史 (974). By Xue Juzheng 薛居正. Beijing, Zhonghua shuju 1976. Scripta Sinica: Ershiwu shi. 
+- Ji yun 集韻 (1037). Rime dictionary by Ding Du 丁度 (990-1053). Shanghai guji chubanshe 1985.
+- Kangxi zidian 康熙字典(1716). By Zhang Yushu 張玉書. Hong kong, Zhonghua shuju 1993.
+- Kongzi jiayu 孔子家語. (ca. 240). By Wang Su 王肅. In: Si bu bei yao. Taipei, Zhonghua shuju 1966. Scripta Sinica, Guji sanshisi zhong.
+- Laozi 老子. Daode jing 道德經 (4th-3rd c. BCE). Hanquan database of ancient Chinese texts, Xian-Qin zhu zi.
+- Leng yan jing 楞嚴經 (Sūraṅgamasūtra). Translated into Chinese in 705. Taisho Tripitaka, No. 945, see Sharangama Sutra: Test , Commentaries, and  Articles. Dafou dingshou leng yan jing. Compiled by Ron Epstein. http://online.sfsu.edu/~rone/Buddhism/Shurangama/Shurangama.htm
+- Li ji 禮記 Comm. by Zheng xuan (禮記鄭注). Si bu bei yao Bd. 6. Taipei, Zhonghua shuju 1966. See also: Scripta Sinica, Shisan jing.
+- Li Bai’s 李白 (701-762) poetry. In: Quan Tang shi.
+- Li Shangyin’s 李商隱 (ca. 813 - 858) poems. In: Quan Tang shi.
+- Liang shu 梁書 (629). By Yao Cha 姚察 and Yao Silian 姚思廉. Beijing, Zhonghua shuju 1973. See also: Scripta Sinica, Ershiwu shi.
+- Liao shi 遼史 (ca. 1350). By Tuotuo 脫脫 (Togtaga) and Ouyang Xuan 歐楊玄. Beijing, Zhonghua shuju 1974. Ouyang Xuan 歐陽玄. Beijing, Zhonghua shuju 1975. See also: Scripta Sinica, Ershiwu shi.
+- Liezi 列子 (ca. 450 BCE) (text compiled 4th c. BCE - 4th c. CE?). Hanquan database of ancient Chinese texts, Xian-Qin zhuzi.
+- Lisao (ca. 300 BC). by Qu Yuan 屈原 (ca. 340-278 BCE), see Chu ci.
+- Lao Qida yanjie 老乞大諺解 (written. ca. 1350, publ. 1423, corr. 1480) [Sprache 14. c.]. In: Lao Qida yanjie 老乞大諺解. Piao tongshi yanjie 朴通事諺解. Taipei, Lianjing chubanshe 1978. (based on 1670 / 1677 edition). See also Scripta Sinica, Xiaoshuo xiqu ji qita小說戲曲暨其他.
+- Lun heng 論衡 (ca. 80 CE). By Wang Chong 王充.  In: Si bu bei yao. Taipei, Zhonghua shuju. Scripta Sinica, Guji sanshisi zhong.
+- Lun yu 論語 (between  479 and 400). In: A Concordance to the Analects of Confucius. Harvard-Yenching Institute Sinological Index Series, Suppl. No. 16. Reprint Taipei 1966. See also: Scripta Sinica, Shisan jing.
+- Maoshi: see Shi jing
+- Meng liang lu夢梁錄. By Wu Zimu吳自牧. Hangzhou: Zhejiang ren min chu ban she 1984.
+- Mengzi 孟子 (between  300 and 249). In: A Concordance to Meng Tzû. Harvard-Yenching Institute Sinological Index Series, Suppl. No. 17. Repr. Taipei 1966. See also: Scripta Sinica, Shisan jing.
+- Ming shi bie zai (ji) 明诗别裁集 (Collection of Ming-dynasty (1368-1644) poetry). Compiled by Shen Deqian (1673-1769) and Zhou Zhun. Quoted according to Ciyuan.
+- Ming shi 明史 (1739). By Zhang Tingyu 張廷玉 et al.. Beijing, Zhonghua shuju 1974. See also : Scripta Sinica, Ershiwu shi.
+- Mozi 墨子 (4. or 3. c. BCE). In: Mozi yinde 墨子引得 (Yinde bianjichu bianji).  Shanghai, Shanghai guji chubanshe 1986. See also: Hanquan database for Ancient Chinese texts. Xian-Qin zhuzi.
+- Mu Tianzi zhuan 穆天子傳 (excavated 280 CE, about 10th c. BCE). Quoted according to Schuessler 2007. 
+- Nan Qi shu 南齊書 (6th c.). By Xiao Zixian 蕭子顯. Beijing, Zhonghua shuju 1974, 3 Bde. (1. ed. 1972). See also: Scripta Sinica, Ershiwu shi.
+- Nan shi (History of the Southern dynasties) 南史. Scripta Sinica, Ershiwu shi (The 25 dynastic histories).
+- Oracle Bone Inscriptions (14th- 11th c. BCE). Quoted according to secondary literature and dictionaries.
+- Piao tongshi yanjie 朴通事諺解. (ed. ca. 1350, publ. 1423, corr. 1480). [language of 14th c.] In: Lao Qida yanjie 老乞大諺解. Piao tongshi yanjie 朴通事諺解. Taipei, Lianjing chubanshe 1978. (edition: 1670 / 1677). See also Scripta Sinica, Xiaoshuo xiqu ji qita小說戲曲暨其他.
+- Qing shi gao (“Draft history of the Qing dynasty”) 清史稿 (First publ. 1928). Ed. by Zhao Erxun and Ke Shaomin. Scripta Sinica: Ershiwu shi.
+- Qingdai jingshi wenbian 清代經史文遍 (Documents from the Qing period). 1872-1902. Scripta Sinica.
+- Quan Tang shi 全唐詩 (Complete poems of the Tang dynasty). Hanquan Database of Ancient Texts. http://210.69.170.100/s25/index.htm.
+- Ru Tang qiu fa xun li xing ji 入唐求法巡禮行記 (travel diary of the monk Ennin, 9. c.). By Ennin 圓仁 (793-864). Taipei, Wenhai chubanshe 1976. See also Scripta Sinica, Xiaoshuo xiqu ji qita小說戲曲暨其他.
+- San guo zhi 三國志. By Chen Shou 陳壽 (233-297). Beijing, Zhonghua shuju 51973, 5 Bde. (1. ed. 1959). See also : Scripta Sinica, Ershiwu shi.
+- San guo zhi zhu (Annotated San guo zhi) 三國志注429. By Pei Songzhi裴松之 (372-451). See also Sripta Sinica, Ershiwu shi.
+- San Sui ping yao zhuan 三遂平妖傳 (Ende Yuan bis Anf. Ming). By Luo Guan¬zhong 羅貫中. In: Zhang Rongqi 張榮起 (ed. 整理): San Sui ping yao zhuan in 20 hui, Ming (Wan¬li)-print, Beijing, Beijing daxue chubanshe 1983. See also Scripta Sinica, Xiaoshuo xiqu ji qita小說戲曲暨其他.
+- Sanguo yanyi 三國演義 (Romance of the Three Kingdoms)(14th c.). Attributed to Luo Guanzhong 羅貫中 (ca. 1315 – 1400). Scripta Sinica, Xiaoshuo xiqu ji qita.
+- Shan hai jing 山海經. (Anon. Zhou and Early Han dynasty). Shan hai jing jian shu 山海經箋疏. In: Si bu bei yao. Taipei, Zhonghua shuju. See also: Scripta Sinica, Guji shiba zhong.
+- Shang shu, see Shu jing
+- Shi ji 史記 (between -104 and -86). By Sima Qian 司馬遷. Beijing, Zhonghua shuju 71975. See also Scripta Sinica, Ershiwu shi.
+- Shi jing 詩經 (10. - 6. c. BCE). In: Legge, James (ed., transl.): The Chinese Classics, Vol. IV. Hongkong, Lane, Crawford & Co. and London, Trübner & Co. 1871. See also Scripta Sinica, Shisan jing (13 classics).
+- Shi ming (Explaining names ) 釋名. By Liu Xi (Eastern Han, ca. 200 CE). In: Chinese text project, Etymology. http://chinese.dsturgeon.net/text.pl?node=40087&if=en
+- Shishuo xinyu 世說新語 (between 420 and 444). By Liu Yiqing. Taipei, Shijie shuju 21966, 3 vols. See also: Scripta Sinica, Guji sanshisi zhong.
+- Shui hu zhuan 水滸鱄 (Ming?). Attributed to Shi Nai’an 施耐庵 (ca. 1296—1372). Edition: Yibai ershi hui de Shui hu 一百二十回的水滸. 2 vols. Shanghai, Shangwu yinshuguan 1934. Quoted according to Ciyuan.
+- Shu jing 書經 (ca. 9. - 6. c.BCE). In: Legge, James (1865): The Chinese Classics III. Hongkong, Lane, Crawford & Co. and London, Trübner & Co. 1871. See also Scripta Sinica, Shisan jing (13 classics).
+- Shuowen jiezi 說文解字 (ca. 120 n. Chr.). By Xu Shen 徐慎. In the edition of Xu Xuan (Song dynasty). Hongkong, Zhonghua shuju 1989.
+- Sima xiangru zhuan 司馬相如傳 (Biography of Sima xiangru), chapter 117 of the -> Shiji
+- Song shi 宋史 (ca. 1345). Tuotuo 脫脫 (Togtaga) and Ouyang Xuan 歐陽玄. Beijing, Zhonghua shuju 1977. See also: Scripta Sinica, Ershiwu shi (The 25 dynastic histories).
+- Song shi chao宋詩鈔. Song shi chao bu: fu suo yin宋詩鈔補 : 附索引 edited by Wu Zhizhen 吴之振 (1640-1717). Shanghai: Xinhua shudian 1988. Quoted according to Ciyuan.
+- Song shu 宋書 (6th c.). By Shen Yue 沈約 (Liang dynasty). Beijing, Zhonghua shuju 1974. See also Scripta Sinica, Ershiwu shi.
+- Su Shi 蘇軾 (1036-1101)’s poetry. Dongpo zhilin 東坡志林. Wang Songling 王松齡 dianjiao點校, Peking: Zhonghua shuju 1981.
+- Sui shu 隋書 (636). By Wei Zheng 魏徵 et al.. Beijing, Zhonghua shuju 1973. See also : Scripta Sinica, Ershiwu shi.
+- Sunzi 孫子 (ca. 544-496) Sunzi bingfa. In: Hanquan Database of Ancient Texts.
+- Tang shi 唐詩 (Tang poetry), see Quan Tang shi.
+- Taohua shan 桃花扇 (Peach blossom mountain). By Kong Shangren孔尚任 (d. 1718). In: Scripta Sinica: Xiaoshu xiqu ji qita.
+- Tang huiyao唐會要 (Institutional History of the Tang dynasty) 961. Compiled by Wang Pu. Shanghai: Shanghai guji chubanshe 1991.
+- Tao Qian (132-194). Quoted according to Ciyuan.
+- Tong Yue fu 僮約賦. By Wang Bao 王褒 (fl. 73-48 BCE). Quoted according to Sagart & Xu (2001): History through loanwords: the loan correspondences between Hani and Chinese. Cahiers de linguistique – Asie orientale 30.1, pp. 35-36. 
+- Wanguo gongbao 萬國公報 (The Globe Magazine). (1874 – 1883, analyzed by -> Masini 1993)
+- Wei shu 魏書 (572 n. Chr.). By Wei Shou 魏收. Beijing, Zhonghua shuju 1974. See also: Scripta Sinica, Ershiwu shi.
+- Wen xuan 文選 (between  526 and 531). Compiled by Zhaoming Taizi 昭明太子. In: Si bu bei yao. Taipei, Zhonghua shuju.
+- Xin Wudai shi 新五代史 “New History of the Five dynasties” (ca. 1070). Comp. By Ouyang Xiu 歐陽修. Beijing, Zhonghua shuju 1974.. See also: Scripta Sinica, Ershiwu shi.
+- Xin bian wudaishi pinghua 新編五代史平話 (1337). Shanghai, Zhongguo gudian wen¬xue chubanshe 21955. See also : Scripta Sinica, Xiaoshuo xiqu ji qita.
+- Wu shu吳書 “History of the Wu dynasty” (3rd c. CE). Scripta Sinica: Ershiwu shi: San guo zhi.
+- Xing shi heng yan醒世恆言 (1627). Edited by Feng Menglong馮夢龍 (1574-1646). Beijing, Renmin wenxue chubanshe 41989 (1. edition. 1956), 2 vls.
+- Xingshi yinyuan zhuan (Marriage as retribution – Awakening the World) 醒世姻緣傳 (ca. 1661). By Xi Zhousheng 西周生 (pseud. ?). Scripta Sinica: Xiaoshu xiqu ji qita.
+- Xixiangji zhugongdiao 西廂記諸宮調 by Dong Jieyuan 董解元(fl. 1190-1208). In: Liu Jian (ed.). Jindai hanyu duben 近代漢語讀本. Shanghai, Shanghai jiaoyu chubanshe 1985, 252-55 according to Ming, Jiaqing edition: Guben Dong Jieyuan Xixiangji 古本董解元西廂記in 8 juan. 
+- Xi you ji 西遊記. Ascribed to Wu Cheng´en吳承恩 (ca. 1500-1582). Beijing, Renmin wenxue chubanshe 1973.
+- Xin shu 新書 (New Writings). By  Jia Yi賈宜 (201–168? BCE). Si bu bei yao 9.5b. Chinese Text Project, Confucianism. 
+- Xunshi pinghua 訓世平話 (15th c.). Ed. by Yi Byeon 李邊.  Scripta Sinica: Xiaoshuo xiqu ji qita. 
+- Xin Tang shu 新唐書 (1061). Comp. by Ouyang Xiu 歐陽修 and Song Qi 宋祁. Beijing, Zhonghua shuju 1975.
+- Xin kan Da Song Xuanhe yishi 新刊大宋宣和遺事 (ca. 1300). Edition: Shanghai, Zhongguo gu¬dian wenxue chubanshe 1954. See also: Scripta Sinica 2.0: Xiaoshuo xiqu ji qita.
+- Xunzi 荀子 (3. c. BCE). In: A Concordance to Hsun Tzû. Harvard-Yenching Institute Sinological Index Series, Suppl. No. 22. Reprint Taipei 1966. See also: Scripta Sinica, Shanggu Hanyu ziliaoku.
+- Yan Shigu顏師古 (581-645). Commentator of several classical texts
+- Yang Xiong (58 BCE – 18 CE). -> Fangyan
+- Yanshi jiaxun 顏氏家訓 (The Family Instructions of Master Yan) by Yan Zhitui 顏之推 (born 531). Scripta Sinica, Guji shiba zhong.
+- Yi li 儀禮. Comm. by Zheng Xuan (儀禮鄭注). Si bu bei yao 四部備要 Bd. 5. Taipei, Taibei Zhonghua shuju 1936. See also : Scripta Sinica, Shisan jing (The 13 classics).
+- Yi jing 易經 / Zhou Yi 周易 « Book of Changes » (9th – 6th c. BCE ?). Scripta Sinica, Shisan jing. 
+- Yiqie jing yinyi一切經音義 (Phonetic and semantic dictionary for all Buddhist Sutras) (649) by Huilin慧琳 (737-820). Zheng Xu Yiqiejing yinyi : fu suoyin liangzhong 正續一切經音義 : 附索引兩種. Shanghai : Shanghai guji chubanshe 1986.
+- Yi wen lei ju 藝文類聚 (ca. 661). Comp. by Ouyang Xun 歐陽詢 (557-641). Zhonghua shuju, Shanghai bianjisuo bianji. Shanghai, Zhonghua shuju 1965. See also: Scripta Sinica, Guji sanshisi zhong.
+- Yi Zhou shu (ca. 4th- 3rd c. BCE) quan yi. Guiyang: Guizhou ren min chu ban she 2000.
+- Yongle dadian xiwen 永樂大典戲文 (Opera texts preserved in the Yongle dadian, an encyclopedia finished in 1408). Scripta Sinica, Xiaoshuo xiqu ji qita. 
+- Yupian 玉篇: see Yuanben yupian and Songben yupian. 
+- Yuan shi 元史 (ca. 1370). By Song Lian 宋濂. Beijing, Zhonghua shuju 1976. See also: Scripta Sinica: Ershiwu shi.
+- Yuan kan zaju sanshi zhong 元刊雜劇 三十種 (30 Dramen gedruckt in der Yuan-Zeit) In: Xin jiao Yuan kan zaju sanshi zhong 新校元刊雜劇三十種. Beijing, Zhong¬hua shuju 1980. See also : Scripta Sinica, Xiaoshuo xiqu ji qita.
+- Yuefu shiji樂府詩集 (12th c.) edited and compiled by Guo Maoqian. Scripta Sinica.
+- Yuewei caotang biji 閱微草堂筆記 (Random Jottings from the Cottage of Close Scrutiny) (1789-98). By Ji Yun (1724 – 1805). Scripta Sinica: Xiaoshuo xiqu ji qita.
+- Zhan guo ce 戰國策 (3rd-1st c. BCE). Edited by Liu Xiang 劉向 (77/79 – 6/8 BCE). 3 vls. Shanghai: Guji chubanshe 1978. See also: Scripta Sinica, Zhu zi.
+- Zhang Wencheng張文成 (c. 651/7–721/730). Author of Tang-poetry, quoted according to the Ciyuan.
+- Li ji 禮記 commented by Zheng Xuan鄭玄 (127-200) (禮記鄭注). Si bu bei yao Bd. 6. Taipei, Zhonghua shuju 1966. See also: Scripta Sinica, Shisan jing.
+- Zheng Zi tong正字通 (preface 1670). By Zhang Zilie 張自烈 (1597-1673). Ergänzt von Liao Wenying 廖文英補. Beijing, Guoji wenhua chuban gongsi 1996. 
+- Zhenghe zhenglei bencao政和證類本草. (12th c.) by Tang Shenwei (Full title: Chongxiu Zhenghe jingshi zhenglei beiyong bencao重修政和經史證類. 備用本草). Taipei: Southern Materials Center 1976, repr. of 1204 revised edition.
+- Zhou li 周禮. (Anon., Former Han-Dyn.). Comm. by Zheng Xuan. Edition.: Si bu bei yao Bd. 4. Taipei, Zhonghua shuju 1936. See also : Scripta Sinica, Shisan jing.
+- Zhou shu 周書 (History of the Zhou dynasty). By Linghu Defen (583-666). Scripta Sinica: Ershiwu shi (The 25 dynastic histories).  
+- Zhuangzi 莊子 (4. or 3. c. BCE). In: A Concordance to Chuang Tzû. Harvard-Yenching Institute Sinological Index Series, Suppl. No. 20. Repr. Cambridge, Mass., Harvard UP 1956. See also: Scripta Sinica, Shanggu Hanyu yuliaoku.
+- Zuo Si 左思 (250 - 305). Wu du fu 吳都賦 (Wu capital rhapsody). Quoted according to the Ciyuan.
+- Zuo zhuan 左傳 (ca. 340 n. Chr.). In Legge (ed. und Übers.): The Chinese Classics. Vol. V. The Ch´un Ts´ew, with the Tso Chuen. London, Henry Frowde, Oxford University Press Warehouse 1872. See also: Scripta Sinica: Shisanjing.
+- Zhuzi yulei 朱子語類 (between 1175 and 1200). Taipei, Zhengzhong shuju 1962. See also Scripta Sinica, Guji sanshisi zhong.
+- Zi yuan字苑 by Ge Hong葛洪 (283-343) (Eastern Jin dynasty 263-420). Quoted according to Ciyuan.
+

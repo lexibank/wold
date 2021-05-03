@@ -18,25 +18,25 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/wold",
-            "dc:created": "v3.0-36-g7e0526f"
+            "dc:created": "v3.0-39-ge526596"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3-treedb-fixes"
+            "dc:created": "v4.3-treedb-fixes-342-gafcced7332"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0"
+            "dc:created": "v2.4.0-87-gacebe08"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v2.1.0"
+            "dc:created": "v2.1.0-1-gec173ae"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -57,6 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
+            "dc:description": "Word forms are listed as 'counterparts', i.e. as words with a specific meaning. Thus, words with multiple meanings may appear more than one in this table.",
             "dc:extent": 64289,
             "tableSchema": {
                 "columns": [
@@ -101,6 +102,7 @@
                         "name": "Segments"
                     },
                     {
+                        "dc:description": "For more specific comments see 'comment_on_borrowed' and 'comment_on_word_form'",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
                         "name": "Comment"
@@ -110,10 +112,6 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
                         "separator": ";",
                         "name": "Source"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Cognacy"
                     },
                     {
                         "datatype": "boolean",
@@ -128,19 +126,32 @@
                         "name": "Profile"
                     },
                     {
+                        "dc:description": "ID of the corresponding word in the WOLD database.",
                         "datatype": "string",
+                        "valueUrl": "https://wold.clld.org/word/{Word_ID}",
                         "name": "Word_ID"
                     },
                     {
+                        "dc:description": "If the language has no conventional orthography, the contributor's own transcription is given as Value. In such cases, the word in the language's usual writing system is provided in this field.",
                         "datatype": "string",
-                        "name": "word_source"
+                        "name": "original_script"
                     },
                     {
+                        "datatype": "string",
+                        "name": "comment_on_word_form"
+                    },
+                    {
+                        "dc:description": "The likelihood of borrowing of a word was categorized as follows:\n\n1. clearly borrowed.\n2. probably borrowed.\n3. perhaps borrowed.\n4. very little evidence for borrowing.\n5. no evidence for borrowing.\n",
                         "datatype": "string",
                         "name": "Borrowed"
                     },
                     {
-                        "datatype": "string",
+                        "dc:description": "The following borrowed scores are assigned to words depending on the degree of likelihood of borrowing:\n\n1. clearly borrowed:    1.00\n2. probably borrowed:   0.75\n3. perhaps borrowed:    0.50\n4. very little evidence for borrowing:  0.25\n5. no evidence for borrowing:   0.00\n",
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "0.0",
+                            "maximum": "1.0"
+                        },
                         "name": "Borrowed_score"
                     },
                     {
@@ -148,64 +159,121 @@
                         "name": "comment_on_borrowed"
                     },
                     {
-                        "datatype": "string",
-                        "name": "comment_on_word_form"
-                    },
-                    {
+                        "dc:description": "Indicates whether an analyzable word was derived from a loanword.",
                         "datatype": "string",
                         "name": "borrowed_base"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "other_comments"
                     },
                     {
                         "datatype": "string",
                         "name": "loan_history"
                     },
                     {
-                        "datatype": "string",
+                        "dc:description": "analyzable (compound or derived or phrasal), semi-analyzable or unanalyzable",
+                        "datatype": {
+                            "base": "string",
+                            "format": "analyzable compound|analyzable derived|analyzable phrasal|semi-analyzable|unanalyzable"
+                        },
                         "name": "Analyzability"
                     },
                     {
-                        "datatype": "string",
-                        "name": "Simplicity_score"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "reference"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "numeric_frequency"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "age_label"
-                    },
-                    {
+                        "dc:description": "Morpheme-by-morpheme gloss for analyzable words.",
                         "datatype": "string",
                         "name": "gloss"
                     },
                     {
+                        "dc:description": "The following simplicity scores are assigned to words depending on their analyzability:\n\n1. unanalyzable:    1.00\n2. semi-analyzable: 0.75\n3. analyzable:  0.50\n",
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "0.5",
+                            "maximum": "1.0"
+                        },
+                        "name": "Simplicity_score"
+                    },
+                    {
+                        "dc:description": "Bibliographic references. For details refer to the vocabulary descriptions.",
+                        "datatype": "string",
+                        "name": "reference"
+                    },
+                    {
+                        "dc:description": "Frequency information according to the contributor's intuition - in the absence of representative corpora.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "1. Very common|2. Fairly common|3. Not common"
+                        },
+                        "name": "relative_frequency"
+                    },
+                    {
+                        "dc:description": "Occurrences per million words - if significant representative corpora exist.",
+                        "datatype": "float",
+                        "name": "numeric_frequency"
+                    },
+                    {
+                        "dc:description": "Short description of the age of the word. For details refer to the vocabulary descriptions.",
+                        "datatype": "string",
+                        "name": "Age"
+                    },
+                    {
+                        "dc:description": "The following age scores are assigned to words depending on the estimated age of their age class:\n\n1. first attested or reconstructed earlier than 1000:   1.00\n2. earlier than 1500:   0.90\n3. earlier than 1800:   0.80\n4. earlier than 1900:   0.70\n5. earlier than 1950:   0.60\n6. earlier than 2007:   0.50\n",
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "0.5",
+                            "maximum": "1.0"
+                        },
+                        "name": "Age_score"
+                    },
+                    {
+                        "dc:description": "1. Highly integrated: no structural properties that betray the foreign origin\n2. Intermediate: some synchronic properties of the foreign language\n3. Unintegrated: significant phonological and/or morphological properties of the donor language\n",
                         "datatype": "string",
                         "name": "integration"
                     },
                     {
+                        "dc:description": "Environmental salience of borrowed meanings\n\nno information.\nnot applicable.\nnot present: Snow did not exist in Thailand either before or after introduction of the Sanskrit loanword for snow, which nevertheless is known and understood by speakers of Thai.\npresent in pre-contact environment: There were mountains in England even before the word \"mountain\" was borrowed from French.\npresent only since contact: Many South American languages borrowed the word for \"horse\" from the Spaniards, who introduced it to their environment.\n",
                         "datatype": "string",
                         "name": "salience"
                     },
                     {
+                        "dc:description": "Effect of a loanword on the lexical stock of a recipient language.\n\nCoexistence: the word may coexist with a native word with the same meaning.\nInsertion: the word is inserted into the vocabulary as a completely new item.\nReplacement: the word may replace an earlier word with the same meaning that falls out of use or changes its meaning.\n",
                         "datatype": "string",
                         "name": "effect"
                     },
                     {
+                        "dc:description": "Textual description of the register a word is used in.",
+                        "datatype": "string",
+                        "name": "register"
+                    },
+                    {
+                        "dc:description": "Short description of the contact situation that resulted in the loan. Detailed descriptions are given in the vocabulary description.",
                         "datatype": "string",
                         "name": "contact_situation"
                     },
                     {
+                        "dc:description": "0. No evidence for calquing\n1. Very little evidence for calquing\n2. Perhaps calqued\n3. Probably calqued\n4. Clearly calqued\n",
                         "datatype": "string",
-                        "name": "original_script"
+                        "name": "calqued"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "grammatical_info"
+                    },
+                    {
+                        "dc:description": "Only given for words in the Zinacant\u00e1n Tzotzil vocabulary.",
+                        "datatype": "string",
+                        "name": "colonial_word"
+                    },
+                    {
+                        "dc:description": "Only given for words in the Selice Romani vocabulary.",
+                        "datatype": "string",
+                        "name": "etymological_note"
+                    },
+                    {
+                        "dc:description": "Only given for words in the Japanese vocabulary.",
+                        "datatype": "string",
+                        "name": "lexical_stratum"
+                    },
+                    {
+                        "dc:description": "Only given for words in the Q'eqchi' vocabulary.",
+                        "datatype": "string",
+                        "name": "word_source"
                     }
                 ],
                 "foreignKeys": [
@@ -276,8 +344,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -90,
-                            "maximum": 90
+                            "minimum": "-90",
+                            "maximum": "90"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
                         "required": false,
@@ -286,8 +354,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -180,
-                            "maximum": 180
+                            "minimum": "-180",
+                            "maximum": "180"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
                         "required": false,
@@ -332,6 +400,39 @@
                     {
                         "datatype": "string",
                         "name": "Concepticon_Gloss"
+                    },
+                    {
+                        "dc:description": "Indicates whether the concept is one of the 1460 core LWT meanings",
+                        "datatype": {
+                            "base": "boolean",
+                            "format": "yes|no"
+                        },
+                        "name": "Core_list"
+                    },
+                    {
+                        "dc:description": "Meanings were assigned to semantic categories with word-class-like labels: nouns, verbs, adjectives, adverbs, function words. No claim is made about the grammatical behavior of words corresponding to these meanings. The categories are intended to be purely semantic.",
+                        "datatype": "string",
+                        "name": "Semantic_category"
+                    },
+                    {
+                        "dc:description": "The first 22 fields are the fields of the Intercontinental Dictionary Series meaning list, proposed by Mary Ritchie Key, and ultimately based on Carl Darling Buck's (1949) <i>Dictionary of selected synonyms in the principal Indo-European languages</i>. The other two fields were added for the Loanword Typology project.",
+                        "datatype": "string",
+                        "name": "Semantic_field"
+                    },
+                    {
+                        "dc:description": "The average borrowed score of all words corresponding to this meaning.",
+                        "datatype": "float",
+                        "name": "Borrowed_score"
+                    },
+                    {
+                        "dc:description": "The average age score of all words corresponding to this meaning.",
+                        "datatype": "float",
+                        "name": "Age_score"
+                    },
+                    {
+                        "dc:description": "The average simplicity score of all words corresponding to this meaning.",
+                        "datatype": "float",
+                        "name": "Simplicity_score"
                     }
                 ],
                 "primaryKey": [
@@ -341,27 +442,48 @@
             "url": "parameters.csv"
         },
         {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
+            "dc:description": "WOLD contributions are vocabularies (mini-dictionaries of about 1000-2000 entries) with comprehensive information about the loanword status of each word. Descriptions of how these vocabularies coded the data can be found in the [descriptions](descriptions/) directory.",
             "dc:extent": 41,
             "tableSchema": {
                 "columns": [
                     {
-                        "dc:description": "The vocabulary ID number corresponds to the ordering to the chapters on the book <em>Loanwords in the World's Languages</em>. Languages are listed in rough geographical order from west to east, from Africa via Europe to Asia and the Americas, so that geographically adjacent languages are next to each other.",
+                        "dc:description": "The vocabulary ID number corresponds to the ordering to the chapters on the book Loanwords in the World's Languages. Languages are listed in rough geographical order from west to east, from Africa via Europe to Asia and the Americas, so that geographically adjacent languages are next to each other.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
                         "name": "ID"
                     },
                     {
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
                         "name": "Name"
                     },
                     {
-                        "dc:description": "Each vocabulary of WOLD is a separate electronic publication with a separate author or team of authors and should be cited as specified here.",
-                        "propertyUrl": "dc:bibliographicCitation",
-                        "name": "Citation"
+                        "dc:format": "text/markdown",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "valueUrl": "./descriptions/vocabulary_{ID}.md",
+                        "name": "Description"
                     },
                     {
                         "dc:description": "The authors are experts of the language and its history. They also contributed a prose chapter on the borrowing situation in their language that was published in the book Loanwords in the World's Languages.",
-                        "propertyUrl": "dc:creator",
-                        "name": "Authors"
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributor",
+                        "required": false,
+                        "name": "Contributor"
+                    },
+                    {
+                        "dc:description": "Each vocabulary of WOLD is a separate electronic publication with a separate author or team of authors and should be cited as specified here.",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#citation",
+                        "required": false,
+                        "name": "Citation"
                     },
                     {
                         "dc:description": "There would be 1814 words in each vocabulary, corresponding to the 1814 Loanword Typology meanings, if each meaning had exactly one counterpart, and if all the counterparts were different words. But many (\"polysomous\") words are counterparts of several meanings, many meanings have several word counterparts (\"synonyms\", or \"subcounterparts\"), and many meanings have no counterparts at all, so the number of words in each database varies considerably.",
@@ -369,6 +491,7 @@
                         "name": "Number_of_words"
                     },
                     {
+                        "dc:description": "References the language for which this contribution provides a vocabulary.",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
                         "name": "Language_ID"
                     }
@@ -401,7 +524,113 @@
                     "ID"
                 ]
             },
-            "url": "vocabularies.csv"
+            "url": "contributions.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#BorrowingTable",
+            "dc:description": "While a lot of information about the borrowing status is attached to the borrowed forms, the BorrowingTable lists information about (potential) source words. Note that we list loan events per meaning; i.e. one loanword may result in multiple borrowings if the word has multiple meanings.",
+            "dc:extent": 21624,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "dc:description": "References the loanword, i.e. the form as borrowed into the target language",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#targetFormReference",
+                        "required": true,
+                        "name": "Target_Form_ID"
+                    },
+                    {
+                        "dc:description": "References the source word of a borrowing",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#sourceFormReference",
+                        "required": false,
+                        "name": "Source_Form_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "required": false,
+                        "name": "Comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "required": false,
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
+                        "dc:description": "Whether a word was contributed directly (immediate) or indirectly (earlier), i.e. via another, intermediate donor languoid, to the recipient language.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "immediate|earlier"
+                        },
+                        "name": "Source_relation"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Source_word"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Source_meaning"
+                    },
+                    {
+                        "dc:description": "Certainty of the source identification",
+                        "datatype": {
+                            "base": "boolean",
+                            "format": "yes|no"
+                        },
+                        "name": "Source_certain"
+                    },
+                    {
+                        "dc:description": "Donor languoid, specified as name of a language or language subgroup or family",
+                        "name": "Source_languoid"
+                    },
+                    {
+                        "dc:description": "Glottocode of the source languid",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
+                        "name": "Source_languoid_glottocode"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Target_Form_ID"
+                        ],
+                        "reference": {
+                            "resource": "forms.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Source_Form_ID"
+                        ],
+                        "reference": {
+                            "resource": "forms.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "borrowings.csv"
         }
     ]
 }
