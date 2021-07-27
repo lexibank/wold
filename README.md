@@ -1,8 +1,16 @@
 # CLDF dataset derived from Haspelmath and Tadmor's "World Loanword Database" from 2009
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/wold/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/wold/actions?query=workflow%3ACLDF-validation)
 
-> Haspelmath, Martin & Tadmor, Uri (eds.) 2009. World Loanword Database. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at http://wold.clld.org)
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Haspelmath, Martin & Tadmor, Uri (eds.) 2009. World Loanword Database. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at http://wold.clld.org)
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -53,7 +61,7 @@ and it is in turn based on
 - **Sources:** 41
 - **Synonymy:** 1.20
 - **Invalid lexemes:** 0
-- **Tokens:** 365,556
+- **Tokens:** 365,622
 - **Segments:** 630 (0 BIPA errors, 0 CTLS sound class errors, 625 CLTS modified)
 - **Inventory size (avg):** 54.66
 
@@ -68,3 +76,10 @@ Martin Haspelmath | | publication editor | Author, Editor
 Uri Tadmor | | publication editor | Author, Editor
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
