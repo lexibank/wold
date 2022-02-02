@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/wold",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0-45-g5f72585",
+            "dc:created": "v4.0-1-gf866bb4",
             "dc:title": "Repository"
         },
         {
@@ -33,9 +33,9 @@
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.1.0",
+            "dc:created": "v2.1.0-26-gb12a7df",
             "dc:title": "CLTS"
         }
     ],
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.10.1"
         },
         {
             "dc:title": "python-packages",

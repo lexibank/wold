@@ -61,9 +61,9 @@ and it is in turn based on
 - **Sources:** 41
 - **Synonymy:** 1.20
 - **Invalid lexemes:** 0
-- **Tokens:** 365,622
-- **Segments:** 630 (0 BIPA errors, 0 CTLS sound class errors, 625 CLTS modified)
-- **Inventory size (avg):** 54.66
+- **Tokens:** 365,556
+- **Segments:** 631 (0 BIPA errors, 0 CTLS sound class errors, 626 CLTS modified)
+- **Inventory size (avg):** 54.68
 
 # Contributors
 
