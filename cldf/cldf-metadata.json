@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/wold",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.0-1-gf866bb4",
+            "dc:created": "v4.0-2-g094f05d",
             "dc:title": "Repository"
         },
         {
