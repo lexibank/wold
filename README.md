@@ -55,14 +55,14 @@ and it is in turn based on
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 41
-- **Concepts:** 1,814
+- **Varieties:** 41 (linked to 41 different Glottocodes)
+- **Concepts:** 1,814 (linked to 1,458 different Concepticon concept sets)
 - **Lexemes:** 64,289
 - **Sources:** 41
 - **Synonymy:** 1.20
 - **Invalid lexemes:** 0
-- **Tokens:** 365,462
-- **Segments:** 631 (0 BIPA errors, 0 CTLS sound class errors, 626 CLTS modified)
+- **Tokens:** 365,556
+- **Segments:** 631 (0 BIPA errors, 0 CLTS sound class errors, 626 CLTS modified)
 - **Inventory size (avg):** 54.68
 
 # Contributors
@@ -70,10 +70,11 @@ and it is in turn based on
 Name | GitHub user | Description | Role |
 --- | --- | --- | --- |
 Tiago Tresoldi | @tresoldi | patron, maintainer, orthographic profiles | Other
-Robert Forkel | @xrotwang | maintainer | Other
+Robert Forkel | @xrotwang | code | Editor
+Johann-Mattis List | @LinguList | code, profile | Editor
 Natalia Morozova | @natalia-morozova | orthographic profiles | Other
-Martin Haspelmath | | publication editor | Author, Editor 
-Uri Tadmor | | publication editor | Author, Editor
+Martin Haspelmath | | publication editor | Author
+Uri Tadmor | | publication editor | Author
 
 
 

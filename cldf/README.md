@@ -14,8 +14,8 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | http://wold.clld.org
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/lexibank/wold
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/wold/tree/094f05d">lexibank/wold v4.0-2-g094f05d</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.4">Glottolog v4.4</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v2.5.0">Concepticon v2.5.0</a></li><li><a href="https://github.com/cldf-clts/clts//tree/b12a7df">CLTS v2.1.0-26-gb12a7df</a></li></ol>
-[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.10.1</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/wold/tree/fe81aac">lexibank/wold v4.0-3-gfe81aac</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.0">Glottolog v5.0</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.2.0">Concepticon v3.2.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li></ol>
+[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.12.4</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | wold
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 
@@ -50,18 +50,18 @@ Name/Property | Datatype | Description
 `original_script` | `string` | If the language has no conventional orthography, the contributor's own transcription is given as Value. In such cases, the word in the language's usual writing system is provided in this field.
 `comment_on_word_form` | `string` | 
 `Borrowed` | `string` | The likelihood of borrowing of a word was categorized as follows:  1. clearly borrowed. 2. probably borrowed. 3. perhaps borrowed. 4. very little evidence for borrowing. 5. no evidence for borrowing. 
-`Borrowed_score` | `decimal` | The following borrowed scores are assigned to words depending on the degree of likelihood of borrowing:  1. clearly borrowed:    1.00 2. probably borrowed:   0.75 3. perhaps borrowed:    0.50 4. very little evidence for borrowing:  0.25 5. no evidence for borrowing:   0.00 
+`Borrowed_score` | `decimal`<br>&le; 1.0 | The following borrowed scores are assigned to words depending on the degree of likelihood of borrowing:  1. clearly borrowed:    1.00 2. probably borrowed:   0.75 3. perhaps borrowed:    0.50 4. very little evidence for borrowing:  0.25 5. no evidence for borrowing:   0.00 
 `comment_on_borrowed` | `string` | 
 `borrowed_base` | `string` | Indicates whether an analyzable word was derived from a loanword.
 `loan_history` | `string` | 
-`Analyzability` | `string` | analyzable (compound or derived or phrasal), semi-analyzable or unanalyzable
+`Analyzability` | `string`<br>Regex: `analyzable compound|analyzable derived|analyzable phrasal|semi-analyzable|unanalyzable` | analyzable (compound or derived or phrasal), semi-analyzable or unanalyzable
 `gloss` | `string` | Morpheme-by-morpheme gloss for analyzable words.
-`Simplicity_score` | `decimal` | The following simplicity scores are assigned to words depending on their analyzability:  1. unanalyzable:    1.00 2. semi-analyzable: 0.75 3. analyzable:  0.50 
+`Simplicity_score` | `decimal`<br>&ge; 0.5<br>&le; 1.0 | The following simplicity scores are assigned to words depending on their analyzability:  1. unanalyzable:    1.00 2. semi-analyzable: 0.75 3. analyzable:  0.50 
 `reference` | `string` | Bibliographic references. For details refer to the vocabulary descriptions.
-`relative_frequency` | `string` | Frequency information according to the contributor's intuition - in the absence of representative corpora.
+`relative_frequency` | `string`<br>Regex: `1. Very common|2. Fairly common|3. Not common` | Frequency information according to the contributor's intuition - in the absence of representative corpora.
 `numeric_frequency` | `float` | Occurrences per million words - if significant representative corpora exist.
 `Age` | `string` | Short description of the age of the word. For details refer to the vocabulary descriptions.
-`Age_score` | `decimal` | The following age scores are assigned to words depending on the estimated age of their age class:  1. first attested or reconstructed earlier than 1000:   1.00 2. earlier than 1500:   0.90 3. earlier than 1800:   0.80 4. earlier than 1900:   0.70 5. earlier than 1950:   0.60 6. earlier than 2007:   0.50 
+`Age_score` | `decimal`<br>&ge; 0.5<br>&le; 1.0 | The following age scores are assigned to words depending on the estimated age of their age class:  1. first attested or reconstructed earlier than 1000:   1.00 2. earlier than 1500:   0.90 3. earlier than 1800:   0.80 4. earlier than 1900:   0.70 5. earlier than 1950:   0.60 6. earlier than 2007:   0.50 
 `integration` | `string` | 1. Highly integrated: no structural properties that betray the foreign origin 2. Intermediate: some synchronic properties of the foreign language 3. Unintegrated: significant phonological and/or morphological properties of the donor language 
 `salience` | `string` | Environmental salience of borrowed meanings  no information. not applicable. not present: Snow did not exist in Thailand either before or after introduction of the Sanskrit loanword for snow, which nevertheless is known and understood by speakers of Thai. present in pre-contact environment: There were mountains in England even before the word "mountain" was borrowed from French. present only since contact: Many South American languages borrowed the word for "horse" from the Spaniards, who introduced it to their environment. 
 `effect` | `string` | Effect of a loanword on the lexical stock of a recipient language.  Coexistence: the word may coexist with a native word with the same meaning. Insertion: the word is inserted into the vocabulary as a completely new item. Replacement: the word may replace an earlier word with the same meaning that falls out of use or changes its meaning. 
@@ -92,8 +92,8 @@ Name/Property | Datatype | Description
 `Glottolog_Name` | `string` | 
 [ISO639P3code](http://cldf.clld.org/v1.0/terms.rdf#iso639P3code) | `string` | 
 [Macroarea](http://cldf.clld.org/v1.0/terms.rdf#macroarea) | `string` | 
-[Latitude](http://cldf.clld.org/v1.0/terms.rdf#latitude) | `decimal` | 
-[Longitude](http://cldf.clld.org/v1.0/terms.rdf#longitude) | `decimal` | 
+[Latitude](http://cldf.clld.org/v1.0/terms.rdf#latitude) | `decimal`<br>&ge; -90<br>&le; 90 | 
+[Longitude](http://cldf.clld.org/v1.0/terms.rdf#longitude) | `decimal`<br>&ge; -180<br>&le; 180 | 
 `Family` | `string` | 
 `WOLD_ID` | `string` | 
 
@@ -113,7 +113,7 @@ Name/Property | Datatype | Description
 [Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | 
 [Concepticon_ID](http://cldf.clld.org/v1.0/terms.rdf#concepticonReference) | `string` | 
 `Concepticon_Gloss` | `string` | 
-`Core_list` | `boolean` | Indicates whether the concept is one of the 1460 core LWT meanings
+`Core_list` | `boolean`<br>Valid choices:<br> `yes` `no` | Indicates whether the concept is one of the 1460 core LWT meanings
 `Semantic_category` | `string` | Meanings were assigned to semantic categories with word-class-like labels: nouns, verbs, adjectives, adverbs, function words. No claim is made about the grammatical behavior of words corresponding to these meanings. The categories are intended to be purely semantic.
 `Semantic_field` | `string` | The first 22 fields are the fields of the Intercontinental Dictionary Series meaning list, proposed by Mary Ritchie Key, and ultimately based on Carl Darling Buck's (1949) <i>Dictionary of selected synonyms in the principal Indo-European languages</i>. The other two fields were added for the Loanword Typology project.
 `Borrowed_score` | `float` | The average borrowed score of all words corresponding to this meaning.
@@ -134,7 +134,7 @@ property | value
 
 Name/Property | Datatype | Description
  --- | --- | --- 
-[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | The vocabulary ID number corresponds to the ordering to the chapters on the book Loanwords in the World's Languages. Languages are listed in rough geographical order from west to east, from Africa via Europe to Asia and the Americas, so that geographically adjacent languages are next to each other.<br>Primary key
+[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string`<br>Regex: `[a-zA-Z0-9_\-]+` | The vocabulary ID number corresponds to the ordering to the chapters on the book Loanwords in the World's Languages. Languages are listed in rough geographical order from west to east, from Africa via Europe to Asia and the Americas, so that geographically adjacent languages are next to each other.<br>Primary key
 [Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | 
 [Description](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
 [Contributor](http://cldf.clld.org/v1.0/terms.rdf#contributor) | `string` | The authors are experts of the language and its history. They also contributed a prose chapter on the borrowing situation in their language that was published in the book Loanwords in the World's Languages.
@@ -156,15 +156,15 @@ property | value
 
 Name/Property | Datatype | Description
  --- | --- | --- 
-[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
+[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string`<br>Regex: `[a-zA-Z0-9_\-]+` | Primary key
 [Target_Form_ID](http://cldf.clld.org/v1.0/terms.rdf#targetFormReference) | `string` | References the loanword, i.e. the form as borrowed into the target language<br>References [forms.csv::ID](#table-formscsv)
 [Source_Form_ID](http://cldf.clld.org/v1.0/terms.rdf#sourceFormReference) | `string` | References the source word of a borrowing<br>References [forms.csv::ID](#table-formscsv)
 [Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
 [Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
-`Source_relation` | `string` | Whether a word was contributed directly (immediate) or indirectly (earlier), i.e. via another, intermediate donor languoid, to the recipient language.
+`Source_relation` | `string`<br>Valid choices:<br> `immediate` `earlier` | Whether a word was contributed directly (immediate) or indirectly (earlier), i.e. via another, intermediate donor languoid, to the recipient language.
 `Source_word` | `string` | 
 `Source_meaning` | `string` | 
-`Source_certain` | `boolean` | Certainty of the source identification
+`Source_certain` | `boolean`<br>Valid choices:<br> `yes` `no` | Certainty of the source identification
 `Source_languoid` | `string` | Donor languoid, specified as name of a language or language subgroup or family
 [Source_languoid_glottocode](http://cldf.clld.org/v1.0/terms.rdf#glottocode) | `string` | Glottocode of the source languid
 

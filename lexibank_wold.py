@@ -338,6 +338,8 @@ def format_citation(contrib, numentries):
 class Dataset(Base):
     dir = pathlib.Path(__file__).parent
     id = "wold"
+    writer_options = dict(keep_languages=False, keep_parameters=False)
+
     lexeme_class = WoldLexeme
     language_class = WoldLanguage
     concept_class = WoldConcept
@@ -483,12 +485,16 @@ class Dataset(Base):
                     dict(
                         ID=str(count),
                         Target_Form_ID=fid,
-                        Comment="Source word unidentifiable"
-                        if source_word["name"].lower() == "unidentifiable"
-                        else None,
-                        Source_word=None
-                        if source_word["name"].lower() == "unidentifiable"
-                        else source_word["name"],
+                        Comment=(
+                            "Source word unidentifiable"
+                            if source_word["name"].lower() == "unidentifiable"
+                            else None
+                        ),
+                        Source_word=(
+                            None
+                            if source_word["name"].lower() == "unidentifiable"
+                            else source_word["name"]
+                        ),
                         Source_meaning=source_word["description"] or None,
                         Source_languoid=languages[source_word["language_pk"]],
                         Source_languoid_glottocode=glottocodes.get(source_word["language_pk"]),

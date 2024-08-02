@@ -8,19 +8,15 @@
         },
         {
             "name": "Robert Forkel",
-            "type": "Other"
+            "type": "Editor"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Editor"
         },
         {
             "name": "Natalia Morozova",
             "type": "Other"
-        },
-        {
-            "name": "Martin Haspelmath",
-            "type": "Editor"
-        },
-        {
-            "name": "Uri Tadmor",
-            "type": "Editor"
         }
     ],
     "communities": [
