@@ -1,6 +1,6 @@
 # CLDF dataset derived from Haspelmath and Tadmor's "World Loanword Database" from 2009
 
-[![CLDF validation](https://github.com/lexibank/wold/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/wold/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/lexibank/wold//workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/wold//actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -48,7 +48,7 @@ and it is in turn based on
 ## Statistics
 
 
-[![CLDF validation](https://github.com/lexibank/wold/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/wold/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/lexibank/wold//workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/wold//actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-brightgreen.svg "Concepticon: 99%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -61,7 +61,7 @@ and it is in turn based on
 - **Sources:** 41
 - **Synonymy:** 1.20
 - **Invalid lexemes:** 0
-- **Tokens:** 365,556
+- **Tokens:** 365,462
 - **Segments:** 631 (0 BIPA errors, 0 CLTS sound class errors, 626 CLTS modified)
 - **Inventory size (avg):** 54.68
 

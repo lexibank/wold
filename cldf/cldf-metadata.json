@@ -12,12 +12,12 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Haspelmath and Tadmor's \"World Loanword Database\" from 2009",
-    "dcat:accessURL": "https://github.com/lexibank/wold",
+    "dcat:accessURL": "https://github.com/lexibank/wold/",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/lexibank/wold",
+            "rdf:about": "https://github.com/lexibank/wold/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.0-3-gfe81aac",
+            "dc:created": "v4.0-5-gc3c5638",
             "dc:title": "Repository"
         },
         {
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.12.4"
+            "dc:description": "3.12.6"
         },
         {
             "dc:title": "python-packages",
