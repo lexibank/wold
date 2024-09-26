@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 import json
 
 
@@ -12,9 +12,10 @@ setup(
     license=metadata.get("license", ""),
     url=metadata.get("url", ""),
     py_modules=["lexibank_wold"],
+    packages=find_packages(where="."),
     include_package_data=True,
     zip_safe=False,
     entry_points={"lexibank.dataset": ["wold=lexibank_wold:Dataset"]},
-    install_requires=["csvw>=1.10.2", "pycldf>=1.20", "pylexibank>=3.1.0"],
+    install_requires=["pylexibank>=3.1.0"],
     extras_require={"test": ["pytest-cldf"]},
 )
