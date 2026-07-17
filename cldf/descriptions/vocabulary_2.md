@@ -42,11 +42,10 @@ The major donor languages are Swahili and Datooga. Datooga is in fact a collecti
 
 ## Abbreviations
 
-COLL = collective
-INDEF = indefinite
-N.AG. = Nomen agentis
-SGLTV = singulative
-VBLZ = verbalizer
-
-The following glosses are used in the Morpheme By Morpheme Gloss: ADJective, APPLicative, CAUSative, COLLective, DEMonstrative, INDEFinite, NMLZ nominalizer, N.AG. Nomen agentis, POSSessive, SGLTV singulative, Q question word marker, VBLZ verbalizer.
+- COLL = collective
+- INDEF = indefinite
+- N.AG. = Nomen agentis
+- SGLTV = singulative
+- VBLZ = verbalizer
+- The following glosses are used in the Morpheme By Morpheme Gloss: ADJective, APPLicative, CAUSative, COLLective, DEMonstrative, INDEFinite, NMLZ nominalizer, N.AG. Nomen agentis, POSSessive, SGLTV singulative, Q question word marker, VBLZ verbalizer.
 

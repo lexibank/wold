@@ -40,33 +40,33 @@ In the database we tag borrowings identified by phonological criteria as ‘clea
 
 ## Abbreviations
 
-ABS	absolutive
-ABSTR	abstractive
-ADJ	adjectival affix
-ANTIPASS	antipassive
-AGEN	agentive
-APPL	applicative
-CAUS	causative
-DEM	demonstrative
-DER	derivational affix
-ERG	ergative
-FEM	feminine
-INSTR	instrumental
-INTR	suffix on intransitive verbs
-ITER	iterative
-MASC	masculine
-NEG	negation
-NMLZR	nominalizer
-NOM	nominal suffix
-NONFUT	nonfuture
-PERF	perfect
-PL	plural
-PREP	preposition
-PRON	pronoun
-PRTCPL	participial
-RED	reduplication
-REFL	reflexive
-SG	singular
-TR	suffix on transitive verbs
-VRBLZR	verbalizing affix
+- ABS	absolutive
+- ABSTR	abstractive
+- ADJ	adjectival affix
+- ANTIPASS	antipassive
+- AGEN	agentive
+- APPL	applicative
+- CAUS	causative
+- DEM	demonstrative
+- DER	derivational affix
+- ERG	ergative
+- FEM	feminine
+- INSTR	instrumental
+- INTR	suffix on intransitive verbs
+- ITER	iterative
+- MASC	masculine
+- NEG	negation
+- NMLZR	nominalizer
+- NOM	nominal suffix
+- NONFUT	nonfuture
+- PERF	perfect
+- PL	plural
+- PREP	preposition
+- PRON	pronoun
+- PRTCPL	participial
+- RED	reduplication
+- REFL	reflexive
+- SG	singular
+- TR	suffix on transitive verbs
+- VRBLZR	verbalizing affix
 

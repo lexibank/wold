@@ -51,35 +51,34 @@ B. Sequences of nouns in which the first is followed by the Linker clitic (LINK)
 
 ## Abbreviations
 
-The following abbreviations are used in the morpheme-by-morpheme gloss:
-
-CAUS       Causative	
-CONN      Connector	
-DEF          Definite	
-DENOM   Denominal	
-DIR           Directional	
-F	      Feminine	
-IMPF	      Imperfective	
-IMPV	      Imperative	
-INCH	      Inchoative	
-INSTR      Instrumental	
-LINK	      Linker	
-LOC	      Locative	
-M	      Masculine	
-MID	      Middle		        
-NEG	      Negative
-P	      Plural
-PART	      Partitive
-PASS	      Passive
-PFV	      Perfective
-RED	      Reduplicated
-S	      Singular
-SEM	      Semelfactive
-SG	      Singulative
-SIT     	      Situative
-SPEC	      Specific
-VN	      Verbal Noun
-1	      First person; First person Subject Clitic
-2         	      Second person; Second person        Subject Clitic
-3                Third person; Third person Subject Clitic
+- The following abbreviations are used in the morpheme-by-morpheme gloss:
+- CAUS       Causative	
+- CONN      Connector	
+- DEF          Definite	
+- DENOM   Denominal	
+- DIR           Directional	
+- F	      Feminine	
+- IMPF	      Imperfective	
+- IMPV	      Imperative	
+- INCH	      Inchoative	
+- INSTR      Instrumental	
+- LINK	      Linker	
+- LOC	      Locative	
+- M	      Masculine	
+- MID	      Middle		        
+- NEG	      Negative
+- P	      Plural
+- PART	      Partitive
+- PASS	      Passive
+- PFV	      Perfective
+- RED	      Reduplicated
+- S	      Singular
+- SEM	      Semelfactive
+- SG	      Singulative
+- SIT     	      Situative
+- SPEC	      Specific
+- VN	      Verbal Noun
+- 1	      First person; First person Subject Clitic
+- 2         	      Second person; Second person        Subject Clitic
+- 3                Third person; Third person Subject Clitic
 

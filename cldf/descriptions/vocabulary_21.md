@@ -356,8 +356,8 @@ Exotic animals and objects that might now be present in zoos or museums have bee
 
 ## Abbreviations
 
-AR: adjectivizer
-NR: nominalizer
-SUFF: suffix
-VR: verbalizer
+- AR: adjectivizer
+- NR: nominalizer
+- SUFF: suffix
+- VR: verbalizer
 

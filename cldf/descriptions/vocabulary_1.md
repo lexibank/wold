@@ -88,26 +88,24 @@ I could have boosted the number of category 2 and 3 items by applying a strict �
 
 ## Abbreviations
 
-The vocabulary provides information about the grammatical status of each Swahili item (field "Grammatical information"). Numbers refer to the Swahili (Bantu) noun classes, a slash separates singular/plural classes. “Gen” refers to the nominal possessive (also known as “associative”) construction.
-
-The following non-standard abbreviations are used:
-
-a	adjective
-AdvP	adverbial phrase
-conj	conjunction
-GenP	genitival phrase
-interrog	interrogative
-inv	invariable (a subcategory of adjectives)
-n	noun
-NP	noun phrase
-NPx	nominal prefix
-num	numeral (a subcategory of adjectives and nouns)
-NumP	numeral phrase
-PPx	pronominal prefix
-prep	preposition
-pro	personal pronoun
-S	sentence
-TAM	time-aspect-mood
-v	verb
-VP	verb phrase
+- The vocabulary provides information about the grammatical status of each Swahili item (field "Grammatical information"). Numbers refer to the Swahili (Bantu) noun classes, a slash separates singular/plural classes. “Gen” refers to the nominal possessive (also known as “associative”) construction.
+- The following non-standard abbreviations are used:
+- a	adjective
+- AdvP	adverbial phrase
+- conj	conjunction
+- GenP	genitival phrase
+- interrog	interrogative
+- inv	invariable (a subcategory of adjectives)
+- n	noun
+- NP	noun phrase
+- NPx	nominal prefix
+- num	numeral (a subcategory of adjectives and nouns)
+- NumP	numeral phrase
+- PPx	pronominal prefix
+- prep	preposition
+- pro	personal pronoun
+- S	sentence
+- TAM	time-aspect-mood
+- v	verb
+- VP	verb phrase
 

@@ -10,12 +10,12 @@ property | value
  --- | ---
 [dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Haspelmath, Martin & Tadmor, Uri (eds.) 2009. World Loanword Database. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at http://wold.clld.org)
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
-[dc:format](http://purl.org/dc/terms/format) | <ol><li>http://concepticon.clld.org/contributions/Haspelmath-2009-1460</li></ol>
+[dc:format](http://purl.org/dc/terms/format) | <ol><li>https://concepticon.clld.org/contributions/Haspelmath-2009-1460</li></ol>
 [dc:identifier](http://purl.org/dc/terms/identifier) | http://wold.clld.org
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
-[dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/lexibank/wold/
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/wold//tree/42ee8ec">lexibank/wold/ v4.0-6-g42ee8ec</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.0">Glottolog v5.0</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.2.0">Concepticon v3.2.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li></ol>
-[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.12.6</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
+[dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/lexibank/wold
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/wold/tree/v4.1">lexibank/wold  v4.1</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.3">Glottolog  v5.3</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.4.0">Concepticon  v3.4.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS  v2.3.0</a></li></ol>
+[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.12.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | wold
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 
@@ -54,11 +54,11 @@ Name/Property | Datatype | Description
 `comment_on_borrowed` | `string` | 
 `borrowed_base` | `string` | Indicates whether an analyzable word was derived from a loanword.
 `loan_history` | `string` | 
-`Analyzability` | `string`<br>Regex: `analyzable compound|analyzable derived|analyzable phrasal|semi-analyzable|unanalyzable` | analyzable (compound or derived or phrasal), semi-analyzable or unanalyzable
+`Analyzability` | `string`<br>Regex: `analyzable compound\|analyzable derived\|analyzable phrasal\|semi-analyzable\|unanalyzable` | analyzable (compound or derived or phrasal), semi-analyzable or unanalyzable
 `gloss` | `string` | Morpheme-by-morpheme gloss for analyzable words.
 `Simplicity_score` | `decimal`<br>&ge; 0.5<br>&le; 1.0 | The following simplicity scores are assigned to words depending on their analyzability:  1. unanalyzable:    1.00 2. semi-analyzable: 0.75 3. analyzable:  0.50 
 `reference` | `string` | Bibliographic references. For details refer to the vocabulary descriptions.
-`relative_frequency` | `string`<br>Regex: `1. Very common|2. Fairly common|3. Not common` | Frequency information according to the contributor's intuition - in the absence of representative corpora.
+`relative_frequency` | `string`<br>Regex: `1. Very common\|2. Fairly common\|3. Not common` | Frequency information according to the contributor's intuition - in the absence of representative corpora.
 `numeric_frequency` | `float` | Occurrences per million words - if significant representative corpora exist.
 `Age` | `string` | Short description of the age of the word. For details refer to the vocabulary descriptions.
 `Age_score` | `decimal`<br>&ge; 0.5<br>&le; 1.0 | The following age scores are assigned to words depending on the estimated age of their age class:  1. first attested or reconstructed earlier than 1000:   1.00 2. earlier than 1500:   0.90 3. earlier than 1800:   0.80 4. earlier than 1900:   0.70 5. earlier than 1950:   0.60 6. earlier than 2007:   0.50 
@@ -75,6 +75,8 @@ Name/Property | Datatype | Description
 `word_source` | `string` | Only given for words in the Q'eqchi' vocabulary.
 
 ## <a name="table-languagescsv"></a>Table [languages.csv](./languages.csv)
+
+WoldLanguage(ID: str = '', Name: Optional[str] = None, ISO639P3code: Optional[str] = None, Glottocode: Optional[str] = None, Macroarea: Optional[str] = None, Latitude: Optional[float] = None, Longitude: Optional[float] = None, Glottolog_Name: Optional[str] = None, Family: Optional[str] = None, WOLD_ID: Optional[str] = None)
 
 property | value
  --- | ---
@@ -99,6 +101,8 @@ Name/Property | Datatype | Description
 
 ## <a name="table-parameterscsv"></a>Table [parameters.csv](./parameters.csv)
 
+WoldConcept(ID: Optional[str] = '', Name: Optional[str] = '', Concepticon_ID: Optional[str] = None, Concepticon_Gloss: Optional[str] = None, Core_list: Optional[str] = None, Semantic_category: Optional[str] = None, Semantic_field: Optional[str] = None, Borrowed_score: Optional[str] = None, Age_score: Optional[float] = None, Simplicity_score: Optional[float] = None)
+
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ParameterTable](http://cldf.clld.org/v1.0/terms.rdf#ParameterTable)
@@ -120,6 +124,21 @@ Name/Property | Datatype | Description
 `Age_score` | `float` | The average age score of all words corresponding to this meaning.
 `Simplicity_score` | `float` | The average simplicity score of all words corresponding to this meaning.
 
+## <a name="table-contributorscsv"></a>Table [contributors.csv](./contributors.csv)
+
+property | value
+ --- | ---
+[dc:extent](http://purl.org/dc/terms/extent) | 54
+
+
+### Columns
+
+Name/Property | Datatype | Description
+ --- | --- | --- 
+[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
+[Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | 
+`address` | `string` | 
+
 ## <a name="table-contributionscsv"></a>Table [contributions.csv](./contributions.csv)
 
 WOLD contributions are vocabularies (mini-dictionaries of about 1000-2000 entries) with comprehensive information about the loanword status of each word. Descriptions of how these vocabularies coded the data can be found in the [descriptions](descriptions/) directory.
@@ -136,11 +155,32 @@ Name/Property | Datatype | Description
  --- | --- | --- 
 [ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string`<br>Regex: `[a-zA-Z0-9_\-]+` | The vocabulary ID number corresponds to the ordering to the chapters on the book Loanwords in the World's Languages. Languages are listed in rough geographical order from west to east, from Africa via Europe to Asia and the Americas, so that geographically adjacent languages are next to each other.<br>Primary key
 [Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | 
-[Description](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
+[Description](http://cldf.clld.org/v1.0/terms.rdf#mediaReference) | `string` | References [media.csv::ID](#table-mediacsv)
 [Contributor](http://cldf.clld.org/v1.0/terms.rdf#contributor) | `string` | The authors are experts of the language and its history. They also contributed a prose chapter on the borrowing situation in their language that was published in the book Loanwords in the World's Languages.
 [Citation](http://cldf.clld.org/v1.0/terms.rdf#citation) | `string` | Each vocabulary of WOLD is a separate electronic publication with a separate author or team of authors and should be cited as specified here.
 `Number_of_words` | `integer` | There would be 1814 words in each vocabulary, corresponding to the 1814 Loanword Typology meanings, if each meaning had exactly one counterpart, and if all the counterparts were different words. But many ("polysomous") words are counterparts of several meanings, many meanings have several word counterparts ("synonyms", or "subcounterparts"), and many meanings have no counterparts at all, so the number of words in each database varies considerably.
 [Language_ID](http://cldf.clld.org/v1.0/terms.rdf#languageReference) | `string` | References the language for which this contribution provides a vocabulary.<br>References [languages.csv::ID](#table-languagescsv)
+`primary_contributors` | list of `string` (separated by ` `) | 
+`secondary_contributors` | list of `string` (separated by ` `) | 
+
+## <a name="table-mediacsv"></a>Table [media.csv](./media.csv)
+
+property | value
+ --- | ---
+[dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF MediaTable](http://cldf.clld.org/v1.0/terms.rdf#MediaTable)
+[dc:extent](http://purl.org/dc/terms/extent) | 41
+
+
+### Columns
+
+Name/Property | Datatype | Description
+ --- | --- | --- 
+[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string`<br>Regex: `[a-zA-Z0-9_\-]+` | Primary key
+[Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | 
+[Description](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
+[Media_Type](http://cldf.clld.org/v1.0/terms.rdf#mediaType) | `string`<br>Regex: `[^/]+/.+` | 
+[Download_URL](http://cldf.clld.org/v1.0/terms.rdf#downloadUrl) | `anyURI` | 
+[Path_In_Zip](http://cldf.clld.org/v1.0/terms.rdf#pathInZip) | `string` | 
 
 ## <a name="table-borrowingscsv"></a>Table [borrowings.csv](./borrowings.csv)
 
@@ -167,4 +207,3 @@ Name/Property | Datatype | Description
 `Source_certain` | `boolean`<br>Valid choices:<br> `yes` `no` | Certainty of the source identification
 `Source_languoid` | `string` | Donor languoid, specified as name of a language or language subgroup or family
 [Source_languoid_glottocode](http://cldf.clld.org/v1.0/terms.rdf#glottocode) | `string` | Glottocode of the source languid
-

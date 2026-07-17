@@ -115,17 +115,11 @@ If this ﬁeld is ﬁlled, it generally contains either the comment ‘No eviden
 
 ## Abbreviations
 
-POc	Proto Oceanic 
-
-	PWOc	Proto Western Oceanic 
-
-	PNGOc	Proto New Guinea Oceanic 
-
-	PNNG	Proto North New Guinea
-
-	PNgVz	Proto Ngero-Vitiaz 
-
-	PBel	Proto Bel 
-
-	PWBel	Proto Western Bel
+- POc	Proto Oceanic 
+- 	PWOc	Proto Western Oceanic 
+- 	PNGOc	Proto New Guinea Oceanic 
+- 	PNNG	Proto North New Guinea
+- 	PNgVz	Proto Ngero-Vitiaz 
+- 	PBel	Proto Bel 
+- 	PWBel	Proto Western Bel
 

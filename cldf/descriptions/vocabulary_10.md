@@ -44,14 +44,13 @@ Words generally considered to have been borrowed and where there is no doubt abo
 
 ## Abbreviations
 
-Special category abbreviations used in the vocabulary:
-
-DIM		diminutive
-N		noun
-Nom.Ag.	Nomen agentis
-PREF		Prefix
-PREP		Preposition
-SUF		suffix
-V		verb
-VBLZ		verbalizer
+- Special category abbreviations used in the vocabulary:
+- DIM		diminutive
+- N		noun
+- Nom.Ag.	Nomen agentis
+- PREF		Prefix
+- PREP		Preposition
+- SUF		suffix
+- V		verb
+- VBLZ		verbalizer
 

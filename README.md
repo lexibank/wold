@@ -1,6 +1,6 @@
 # CLDF dataset derived from Haspelmath and Tadmor's "World Loanword Database" from 2009
 
-[![CLDF validation](https://github.com/lexibank/wold//workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/wold//actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/lexibank/wold/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/wold/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -18,7 +18,7 @@ Available online at http://wold.clld.org
 
 
 Conceptlists in Concepticon:
-- [Haspelmath-2009-1460](https://concepticon.clld.org/contributions/Haspelmath-2009-1460)
+- [Haspelmath-2009-1460](https://concepticon.clld.org/contributions/0)
 ## Notes
 
 The World Loanword Database, edited by Martin Haspelmath and Uri Tadmor, is a scientific publication by 
@@ -28,6 +28,8 @@ It provides vocabularies (mini-dictionaries of about 1000-2000 entries) of 41 la
 world, with comprehensive information about the loanword status of each word. It allows users to find 
 loanwords, source words and donor languages in each of the 41 languages, but also makes it easy to compare 
 loanwords across languages.
+
+![map](map.svg)
 
 Each vocabulary was contributed by an expert on the language and its history. An accompanying book has been 
 published by De Gruyter Mouton (Loanwords in the World's Languages: A Comparative Handbook, edited by Martin Haspelmath & Uri Tadmor).
@@ -48,12 +50,12 @@ and it is in turn based on
 ## Statistics
 
 
-[![CLDF validation](https://github.com/lexibank/wold//workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/wold//actions?query=workflow%3ACLDF-validation)
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 99%](https://img.shields.io/badge/Concepticon-99%25-brightgreen.svg "Concepticon: 99%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+[![CLDF validation](https://github.com/lexibank/wold/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/wold/actions?query=workflow%3ACLDF-validation)
+![Glottolog: 100%](etc/badge_languages.svg)
+![Concepticon: 99%](etc/badge_concepts.svg)
+![Source: 100%](etc/badge_sources.svg)
+![BIPA: 100%](etc/badge_bipa.svg)
+![CLTS SoundClass: 100%](etc/badge_sc.svg)
 
 - **Varieties:** 41 (linked to 41 different Glottocodes)
 - **Concepts:** 1,814 (linked to 1,458 different Concepticon concept sets)
@@ -69,9 +71,9 @@ and it is in turn based on
 
 Name | GitHub user | Description | Role |
 --- | --- | --- | --- |
-Tiago Tresoldi | @tresoldi | patron, maintainer, orthographic profiles | Other
 Robert Forkel | @xrotwang | code | Editor
 Johann-Mattis List | @LinguList | code, profile | Editor
+Tiago Tresoldi | @tresoldi | maintainer, orthographic profiles | Other
 Natalia Morozova | @natalia-morozova | orthographic profiles | Other
 Martin Haspelmath | | publication editor | Author
 Uri Tadmor | | publication editor | Author

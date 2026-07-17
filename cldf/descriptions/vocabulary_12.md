@@ -45,5 +45,5 @@ The effect indicated (Replacement, Insertion, Coexistence) cannot in all cases b
 
 ## Abbreviations
 
-No special abbreviations.
+- No special abbreviations.
 

@@ -6,6 +6,8 @@ world, with comprehensive information about the loanword status of each word. It
 loanwords, source words and donor languages in each of the 41 languages, but also makes it easy to compare 
 loanwords across languages.
 
+![map](map.svg)
+
 Each vocabulary was contributed by an expert on the language and its history. An accompanying book has been 
 published by De Gruyter Mouton (Loanwords in the World's Languages: A Comparative Handbook, edited by Martin Haspelmath & Uri Tadmor).
 

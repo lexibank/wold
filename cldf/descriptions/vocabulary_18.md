@@ -75,5 +75,5 @@ In a number of cases, I put 'no information', since it seems to me that the Ket 
 
 ## Abbreviations
 
-I have avoided using abbreviations in the database, since there was always enough room simply to write out the full gloss.  Perhaps now that I have completed the full first draft of the database, I can later go back and put these glosses exactly as the masterminds of the database would prefer.
+- I have avoided using abbreviations in the database, since there was always enough room simply to write out the full gloss.  Perhaps now that I have completed the full first draft of the database, I can later go back and put these glosses exactly as the masterminds of the database would prefer.
 

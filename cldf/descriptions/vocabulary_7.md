@@ -120,8 +120,8 @@ Michaelis, Susanne (2008), "Valency patterns in Seychelles Creole: Where do they
 
 ## Abbreviations
 
-AGT= agentive 
-ABSTR= abstract 
-SUFF= suffix
-? = referring to linking elements which are difficult to classify (etymological French à and de)
+- AGT= agentive 
+- ABSTR= abstract 
+- SUFF= suffix
+- ? = referring to linking elements which are difficult to classify (etymological French à and de)
 

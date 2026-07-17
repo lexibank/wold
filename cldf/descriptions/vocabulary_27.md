@@ -205,17 +205,16 @@ Very little information is available regarding the presence or absence of certai
 
 ## Abbreviations
 
-The following abbreviations which are not listed in the Leipzig Glossing Rules are used in the morpheme-by-morpheme gloss. 
-
-ABST – abstract noun
-ACT – active 
-AGT – agent, agentive 
-CIRC – circumfix (second part of a circumfix; see Leipzig Glossing Rules, Rule 7) 
-INVOL – involitive
-NOUN – noun-forming affix (can derive nouns from other nouns)
-ORD – ordinal
-PART.RED – partial reduplication
-RED – reduplication
-STAT – stative 
-SUPERL – superlative
+- The following abbreviations which are not listed in the Leipzig Glossing Rules are used in the morpheme-by-morpheme gloss. 
+- ABST – abstract noun
+- ACT – active 
+- AGT – agent, agentive 
+- CIRC – circumfix (second part of a circumfix; see Leipzig Glossing Rules, Rule 7) 
+- INVOL – involitive
+- NOUN – noun-forming affix (can derive nouns from other nouns)
+- ORD – ordinal
+- PART.RED – partial reduplication
+- RED – reduplication
+- STAT – stative 
+- SUPERL – superlative
 

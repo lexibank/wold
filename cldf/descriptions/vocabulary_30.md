@@ -19,20 +19,18 @@ by ʻŌiwi Parker Jones
 
 ## Abbreviations
 
-STAT      stative
-
-All other abbreviations in the Hawaiian database have their usual meanings:
-
-Abbreviation	Gloss
-3	‘third person’
-CAUS	‘causative’
-LOC	‘locative’
-M	‘masculine’
-NEG	‘negation, negative’
-NMLZ	‘nominalizer/nominalization’
-NOM	‘nominative’
-PASS	‘passive’
-PL	‘plural’
-PROG	‘progressive’
-TR	‘transitive’
+- STAT      stative
+- All other abbreviations in the Hawaiian database have their usual meanings:
+- Abbreviation	Gloss
+- 3	‘third person’
+- CAUS	‘causative’
+- LOC	‘locative’
+- M	‘masculine’
+- NEG	‘negation, negative’
+- NMLZ	‘nominalizer/nominalization’
+- NOM	‘nominative’
+- PASS	‘passive’
+- PL	‘plural’
+- PROG	‘progressive’
+- TR	‘transitive’
 

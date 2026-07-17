@@ -11,5 +11,5 @@ def test_parameters(cldf_dataset):
     assert len(list(cldf_dataset["ParameterTable"])) == 1814
 
 
-def test_languages(cldf_dataset):
-    assert len(list(cldf_dataset["LanguageTable"])) == 41
+def test_languages(cldf_sqlite_database):
+    assert cldf_sqlite_database.query('select count(*) from languagetable')[0][0] == 41

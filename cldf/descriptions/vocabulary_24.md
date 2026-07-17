@@ -128,9 +128,8 @@ Present only since contact: Decisions for this entry are based on the likelihood
 
 ## Abbreviations
 
-Abbreviations were used little in the vocabulary. The use of “UNIT” in the morpheme-by-morpheme gloss refers to morphs that effectively nominalize the following verbal forms. ORDINAL is the morph that combines with numbers to indicate ordinals.
-
-Parentheses mean common but not absolutely necessary.
+- Abbreviations were used little in the vocabulary. The use of “UNIT” in the morpheme-by-morpheme gloss refers to morphs that effectively nominalize the following verbal forms. ORDINAL is the morph that combines with numbers to indicate ordinals.
+- Parentheses mean common but not absolutely necessary.
 
 ## Other information
 

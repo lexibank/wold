@@ -49,58 +49,58 @@ The status of the Spanish and Quechua loanwords that show similarity in form and
 
 ## Abbreviations
 
-1 ‘first person’
-3 ‘third person’
-[3] ‘third person unmarked’
-ADJV ‘adjectivizer’
-ADVZ ‘adverbializer’
-APPL1/AFCT ‘applicative 1/affected, for verbs’(-(ñ)ma)
-APPL2 ‘applicative 2’ (-l)
-CAUS1 ‘causative 1’ (-(ü)m)
-CAUS2 ‘causative 2’ (-(e)l)
-CAUS3 ‘causative 3’(-fal)
-CERT ‘evidential (certainty marker)’ (-pe)
-CONT ‘continuative’
-DET1 ‘determiner 1’ (-ta)
-DET2 ‘determiner 2’ (-ti)
-DIR1 ‘directional 1’ (-pu)
-DIR2 ‘directional 2’ (-pa)
-DIR3 ‘directional 3’ (-rpu)
-DIST ‘distributive’
-DU ‘dual’
-DYAD ‘dyad’
-ESS ‘essive’
-FAC ‘factitive’
-FUT ‘future’
-IND ‘indicative’
-INS1 ‘instrumental 1’ (-we)
-INS2 ‘instrumental 2’ (-peye)
-INV.3 ‘inverse marker for third person’
-ITSF ‘intensifier, for adjectives and adverbs’ (–(ñ)ma) 
-LOC ‘locative’ 
-NEG ‘negation’
-NMLZ1 ‘nominalizer 1’ (-fe)
-NMLZ2 ‘nominalizer 2’ (-ka)
-NMLZ3 ‘nominalizer 3’ (-n)
-NMLZ4 ‘nominalizer 4’ (-tu)
-NON.F1 ‘nonfinite verb form 1’ (-lu)
-NON.F2 ‘nonfinite verb form 2’ (-el)
-NON.F3 ‘nonfinite verb form 3’ (-n)
-NON.F4 ‘nonfinite verb form 4’ (-am)
-PASS ‘passive’
-POSS ‘possessive’
-PPOS ‘postposition’
-PL ‘plural’
-RE ‘iterative/restoring’
-REL ‘marker of inverse relationship’ (-e)
-RES1 ‘resultative 1’ (-we)
-RES2 ‘resultative 2’ (-nie)
-RI ‘ruptured implicature’ (-fü)
-R/R ‘reflexive/reciprocal’
-SG ‘singular’
-STAT ‘stative’
-TR ‘transitivizer’ (-tu)
-VBLZ1 ‘verbalizer 1’ (-tu)
-VBLZ2 ‘verbalizer 2’ (-ye)
-VBLZ3 ‘verbalizer 3’ (-l)
+- 1 ‘first person’
+- 3 ‘third person’
+- [3] ‘third person unmarked’
+- ADJV ‘adjectivizer’
+- ADVZ ‘adverbializer’
+- APPL1/AFCT ‘applicative 1/affected, for verbs’(-(ñ)ma)
+- APPL2 ‘applicative 2’ (-l)
+- CAUS1 ‘causative 1’ (-(ü)m)
+- CAUS2 ‘causative 2’ (-(e)l)
+- CAUS3 ‘causative 3’(-fal)
+- CERT ‘evidential (certainty marker)’ (-pe)
+- CONT ‘continuative’
+- DET1 ‘determiner 1’ (-ta)
+- DET2 ‘determiner 2’ (-ti)
+- DIR1 ‘directional 1’ (-pu)
+- DIR2 ‘directional 2’ (-pa)
+- DIR3 ‘directional 3’ (-rpu)
+- DIST ‘distributive’
+- DU ‘dual’
+- DYAD ‘dyad’
+- ESS ‘essive’
+- FAC ‘factitive’
+- FUT ‘future’
+- IND ‘indicative’
+- INS1 ‘instrumental 1’ (-we)
+- INS2 ‘instrumental 2’ (-peye)
+- INV.3 ‘inverse marker for third person’
+- ITSF ‘intensifier, for adjectives and adverbs’ (–(ñ)ma) 
+- LOC ‘locative’ 
+- NEG ‘negation’
+- NMLZ1 ‘nominalizer 1’ (-fe)
+- NMLZ2 ‘nominalizer 2’ (-ka)
+- NMLZ3 ‘nominalizer 3’ (-n)
+- NMLZ4 ‘nominalizer 4’ (-tu)
+- NON.F1 ‘nonfinite verb form 1’ (-lu)
+- NON.F2 ‘nonfinite verb form 2’ (-el)
+- NON.F3 ‘nonfinite verb form 3’ (-n)
+- NON.F4 ‘nonfinite verb form 4’ (-am)
+- PASS ‘passive’
+- POSS ‘possessive’
+- PPOS ‘postposition’
+- PL ‘plural’
+- RE ‘iterative/restoring’
+- REL ‘marker of inverse relationship’ (-e)
+- RES1 ‘resultative 1’ (-we)
+- RES2 ‘resultative 2’ (-nie)
+- RI ‘ruptured implicature’ (-fü)
+- R/R ‘reflexive/reciprocal’
+- SG ‘singular’
+- STAT ‘stative’
+- TR ‘transitivizer’ (-tu)
+- VBLZ1 ‘verbalizer 1’ (-tu)
+- VBLZ2 ‘verbalizer 2’ (-ye)
+- VBLZ3 ‘verbalizer 3’ (-l)
 

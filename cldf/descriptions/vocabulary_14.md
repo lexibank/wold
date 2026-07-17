@@ -106,19 +106,18 @@ Reconstructed source forms are provided according to the reference(s) mentioned 
 
 ## Abbreviations
 
-Glosses are given according to the Leipzig Glossing Rules; category abbreviations missing there are as follows: 
-
-ABESS	abessive case 
-ATTR	attributive 
-DIM 	diminutive 
-COLL	collective (numerals and quantiɹers) 
-COMPA	comparative
-MED	medium
-GERUND	gerund
-NUM	numeral (11–19)
-MOM	momentary
-ORD	ordinal numeral
-SUB	Subitive
-SUP	Superlative
-	iterative
+- Glosses are given according to the Leipzig Glossing Rules; category abbreviations missing there are as follows: 
+- ABESS	abessive case 
+- ATTR	attributive 
+- DIM 	diminutive 
+- COLL	collective (numerals and quantiɹers) 
+- COMPA	comparative
+- MED	medium
+- GERUND	gerund
+- NUM	numeral (11–19)
+- MOM	momentary
+- ORD	ordinal numeral
+- SUB	Subitive
+- SUP	Superlative
+- 	iterative
 

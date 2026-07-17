@@ -99,15 +99,15 @@ Note: When the only ‘derivation’ that had taken place on copied verbs was th
 
 ## Abbreviations
 
-AGNR		agent nominalizer
-DIM		diminutive
-E		epenthetic vowel
-EMPH		emphatic
-HAB		habitual
-MULT		multiplicative
-ORD		ordinal
-PART		partitive
-PROP		proprietive
-PTL		particle
-VR		verbalizer
+- AGNR		agent nominalizer
+- DIM		diminutive
+- E		epenthetic vowel
+- EMPH		emphatic
+- HAB		habitual
+- MULT		multiplicative
+- ORD		ordinal
+- PART		partitive
+- PROP		proprietive
+- PTL		particle
+- VR		verbalizer
 

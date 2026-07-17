@@ -111,9 +111,9 @@ Very little information is available regarding the presence or absence of certai
 
 ## Abbreviations
 
-Sometimes we use abbreviations in the database:
-PAA		 Proto- Afroasiatic
-WC		 West Chadic
-C		Chadic
-PNS 		Proto-Nilosaharan
+- Sometimes we use abbreviations in the database:
+- PAA		 Proto- Afroasiatic
+- WC		 West Chadic
+- C		Chadic
+- PNS 		Proto-Nilosaharan
 

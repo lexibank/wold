@@ -2,25 +2,24 @@ import re
 import json
 import decimal
 import pathlib
+import itertools
 import collections
+import dataclasses
+from typing import Optional
 
 from csvw.metadata import URITemplate
-import attr
 from pylexibank import Lexeme, Language, Concept, Dataset as Base
 from pylexibank.util import progressbar
 from pylexibank import FormSpec
 
-from util import vocabulary_description
+from util import vocabulary_description, CONVERTER
 
 
 def valid_gloss(inst, attr, value):
     if value:
         if not (("analyzable " in inst.Analyzability) or ("semi-analyzable" in inst.Analyzability)):
             raise ValueError(
-                "gloss for unanalyzable word! {}: {}: {}".format(
-                    inst.Analyzability, inst.Form, value
-                )
-            )
+                f"gloss for unanalyzable word! {inst.Analyzability}: {inst.Form}: {value}")
         if "[" not in value:
             print(value)
             return
@@ -40,22 +39,23 @@ def valid_gloss(inst, attr, value):
                 return
 
 
-@attr.s
+@dataclasses.dataclass
 class WoldLexeme(Lexeme):
-    Word_ID = attr.ib(
+    Word_ID: Optional[str] = dataclasses.field(
         default=None,
         metadata={"dc:description": "ID of the corresponding word in the WOLD database."},
     )
-    original_script = attr.ib(
+    original_script: Optional[str] = dataclasses.field(
         default=None,
         metadata={
-            "dc:description": "If the language has no conventional orthography, the contributor's own "
-            "transcription is given as Value. In such cases, the word in the language's usual "
-            "writing system is provided in this field."
+            "dc:description":
+                "If the language has no conventional orthography, the contributor's own "
+                "transcription is given as Value. In such cases, the word in the language's usual "
+                "writing system is provided in this field."
         },
     )
-    comment_on_word_form = attr.ib(default=None)
-    Borrowed = attr.ib(
+    comment_on_word_form: Optional[str] = dataclasses.field(default=None)
+    Borrowed: Optional[str] = dataclasses.field(
         default=None,
         metadata={
             "dc:description": """\
@@ -69,13 +69,11 @@ The likelihood of borrowing of a word was categorized as follows:
 """
         },
     )
-    Borrowed_score = attr.ib(
+    Borrowed_score: Optional[str] = dataclasses.field(
         default=None,
         metadata={
             "datatype": {
-                "base": "decimal",
-                "minimum": decimal.Decimal("0.0"),
-                "maximum": decimal.Decimal("1.0"),
+                "base": "decimal", "minimum": decimal.Decimal("0.0"), "maximum": decimal.Decimal("1.0"),
             },
             "dc:description": """\
 The following borrowed scores are assigned to words depending on the degree of likelihood of borrowing:
@@ -88,17 +86,16 @@ The following borrowed scores are assigned to words depending on the degree of l
 """,
         },
     )
-    comment_on_borrowed = attr.ib(default=None)
-    borrowed_base = attr.ib(
+    comment_on_borrowed: Optional[str] = dataclasses.field(default=None)
+    borrowed_base: Optional[str] = dataclasses.field(
         default=None,
         metadata={
             "dc:description": "Indicates whether an analyzable word was derived from a loanword."
         },
     )
-    loan_history = attr.ib(default=None)
-    Analyzability = attr.ib(
+    loan_history: Optional[str] = dataclasses.field(default=None)
+    Analyzability: Optional[str] = dataclasses.field(
         default=None,
-        converter=lambda s: s or None,
         metadata={
             "datatype": {
                 "base": "string",
@@ -107,11 +104,11 @@ The following borrowed scores are assigned to words depending on the degree of l
             "dc:description": "analyzable (compound or derived or phrasal), semi-analyzable or unanalyzable",
         },
     )
-    gloss = attr.ib(
+    gloss: Optional[str] = dataclasses.field(
         default=None,
         metadata={"dc:description": "Morpheme-by-morpheme gloss for analyzable words."},
     )
-    Simplicity_score = attr.ib(
+    Simplicity_score: Optional[str] = dataclasses.field(
         default=None,
         metadata={
             "datatype": {
@@ -128,15 +125,14 @@ The following simplicity scores are assigned to words depending on their analyza
 """,
         },
     )
-    reference = attr.ib(
+    reference: Optional[str] = dataclasses.field(
         default=None,
         metadata={
             "dc:description": "Bibliographic references. For details refer to the vocabulary descriptions."
         },
     )
-    relative_frequency = attr.ib(
+    relative_frequency: Optional[str] = dataclasses.field(
         default=None,
-        converter=lambda s: s or None,
         metadata={
             "datatype": {
                 "base": "string",
@@ -145,22 +141,20 @@ The following simplicity scores are assigned to words depending on their analyza
             "dc:description": "Frequency information according to the contributor's intuition - in the absence of representative corpora.",
         },
     )
-    numeric_frequency = attr.ib(
+    numeric_frequency: Optional[str] = dataclasses.field(
         default=None,
-        converter=lambda s: float(s.replace(",", ".")) if s else None,
         metadata={
             "datatype": "float",
             "dc:description": "Occurrences per million words - if significant representative corpora exist.",
         },
     )
-    Age = attr.ib(
+    Age: Optional[str] = dataclasses.field(
         default=None,
-        converter=lambda s: None if s.lower() == "no information" or not s else s,
         metadata={
             "dc:description": "Short description of the age of the word. For details refer to the vocabulary descriptions."
         },
     )
-    Age_score = attr.ib(
+    Age_score: Optional[str] = dataclasses.field(
         default=None,
         metadata={
             "datatype": {
@@ -179,7 +173,7 @@ The following simplicity scores are assigned to words depending on their analyza
 """,
         },
     )
-    integration = attr.ib(
+    integration: Optional[str] = dataclasses.field(
         default=None,
         metadata={
             "dc:description": """\
@@ -189,9 +183,8 @@ The following simplicity scores are assigned to words depending on their analyza
 """
         },
     )
-    salience = attr.ib(
+    salience: Optional[str] = dataclasses.field(
         default=None,
-        converter=lambda s: (s.lower() if s != '""' else None) if s else None,
         metadata={
             "dc:description": """\
 Environmental salience of borrowed meanings
@@ -204,9 +197,8 @@ present only since contact: Many South American languages borrowed the word for 
 """
         },
     )
-    effect = attr.ib(
+    effect: Optional[str] = dataclasses.field(
         default=None,
-        converter=lambda s: None if s.lower() == "no information" or not s else s,
         metadata={
             "dc:description": """\
 Effect of a loanword on the lexical stock of a recipient language.
@@ -217,18 +209,18 @@ Replacement: the word may replace an earlier word with the same meaning that fal
 """
         },
     )
-    register = attr.ib(
+    register: Optional[str] = dataclasses.field(
         default=None,
         metadata={"dc:description": "Textual description of the register a word is used in."},
     )
-    contact_situation = attr.ib(
+    contact_situation: Optional[str] = dataclasses.field(
         default=None,
         metadata={
             "dc:description": "Short description of the contact situation that resulted in the loan. "
             "Detailed descriptions are given in the vocabulary description."
         },
     )
-    calqued = attr.ib(
+    calqued: Optional[str] = dataclasses.field(
         default=None,
         metadata={
             "dc:description": """\
@@ -241,40 +233,40 @@ Replacement: the word may replace an earlier word with the same meaning that fal
         },
     )
     # Vocabulary-specific fields:
-    grammatical_info = attr.ib(default=None)
-    colonial_word = attr.ib(
+    grammatical_info: Optional[str] = dataclasses.field(default=None)
+    colonial_word: Optional[str] = dataclasses.field(
         default=None,
         metadata={"dc:description": "Only given for words in the Zinacantán Tzotzil vocabulary."},
     )
-    etymological_note = attr.ib(
+    etymological_note: Optional[str] = dataclasses.field(
         default=None,
         metadata={"dc:description": "Only given for words in the Selice Romani vocabulary."},
     )
-    lexical_stratum = attr.ib(
+    lexical_stratum: Optional[str] = dataclasses.field(
         default=None,
         metadata={"dc:description": "Only given for words in the Japanese vocabulary."},
     )
-    word_source = attr.ib(
+    word_source: Optional[str] = dataclasses.field(
         default=None,
         metadata={"dc:description": "Only given for words in the Q'eqchi' vocabulary."},
     )
 
 
-@attr.s
+@dataclasses.dataclass
 class WoldLanguage(Language):
-    WOLD_ID = attr.ib(default=None)
+    WOLD_ID: Optional[str] = dataclasses.field(default=None)
 
 
-@attr.s
+@dataclasses.dataclass
 class WoldConcept(Concept):
-    Core_list = attr.ib(
+    Core_list: Optional[str] = dataclasses.field(
         default=None,
         metadata={
             "datatype": {"base": "boolean", "format": "yes|no"},
             "dc:description": "Indicates whether the concept is one of the 1460 core LWT meanings",
         },
     )
-    Semantic_category = attr.ib(
+    Semantic_category: Optional[str] = dataclasses.field(
         default=None,
         metadata={
             "dc:description": "Meanings were assigned to semantic categories with "
@@ -284,7 +276,7 @@ class WoldConcept(Concept):
             "purely semantic."
         },
     )
-    Semantic_field = attr.ib(
+    Semantic_field: Optional[str] = dataclasses.field(
         default=None,
         metadata={
             "dc:description": "The first 22 fields are the fields of the Intercontinental "
@@ -294,21 +286,21 @@ class WoldConcept(Concept):
             "fields were added for the Loanword Typology project."
         },
     )
-    Borrowed_score = attr.ib(
+    Borrowed_score: Optional[str] = dataclasses.field(
         default=None,
         metadata={
             "datatype": "float",
             "dc:description": "The average borrowed score of all words corresponding to this meaning.",
         },
     )
-    Age_score = attr.ib(
+    Age_score: Optional[float] = dataclasses.field(
         default=None,
         metadata={
             "datatype": "float",
             "dc:description": "The average age score of all words corresponding to this meaning.",
         },
     )
-    Simplicity_score = attr.ib(
+    Simplicity_score: Optional[float] = dataclasses.field(
         default=None,
         metadata={
             "datatype": "float",
@@ -339,7 +331,6 @@ class Dataset(Base):
     dir = pathlib.Path(__file__).parent
     id = "wold"
     writer_options = dict(keep_languages=False, keep_parameters=False)
-
     lexeme_class = WoldLexeme
     language_class = WoldLanguage
     concept_class = WoldConcept
@@ -382,8 +373,25 @@ class Dataset(Base):
             r["pk"]: int(r["count_words"])
             for r in self.raw_dir.joinpath("db").read_csv("vocabulary.csv", dicts=True)
         }
+        contrib_pk2id = {}
+        for r in self.raw_dir.joinpath('db').read_csv('contributor.csv', dicts=True):
+            args.writer.objects['contributors.csv'].append(dict(
+                ID=r['id'],
+                Name=r['name'],
+                address=r['address'],
+            ))
+            contrib_pk2id[r['pk']] = r['id']
         db_contribs = {
             r["id"]: r for r in self.raw_dir.joinpath("db").read_csv("contribution.csv", dicts=True)
+        }
+        cc = {
+            cpk: list(rows)
+            for cpk, rows in itertools.groupby(
+                sorted(
+                    self.raw_dir.joinpath('db').read_csv('contributioncontributor.csv', dicts=True),
+                    key=lambda r: (r['contribution_pk'], int(r['ord']))),
+                lambda r: r['contribution_pk']
+            )
         }
         for contrib in self.raw_dir.read_csv("contributions.csv", dicts=True):
             db_contrib = db_contribs[contrib["ID"]]
@@ -395,6 +403,11 @@ class Dataset(Base):
                     Contributor=contrib["Contributors"],
                     Number_of_words=numentries[contrib["ID"]],
                     Language_ID=language_lookup[contrib["ID"]],
+                    primary_contributors=[contrib_pk2id[r['contributor_pk']] for r in cc[db_contrib['pk']] if
+                                          r['primary'] == 't'],
+                    secondary_contributors=[contrib_pk2id[r['contributor_pk']] for r in cc[db_contrib['pk']] if
+                                            r['primary'] == 'f'],
+                    Description=contrib["ID"],
                 )
             )
             desc = vocabulary_description(
@@ -402,6 +415,12 @@ class Dataset(Base):
             )
             p = desc_dir.joinpath("vocabulary_{}.md".format(contrib["ID"]))
             p.write_text(desc, encoding="utf8")
+            args.writer.objects["MediaTable"].append(dict(
+                ID=contrib["ID"],
+                Name=f'Description of vocabulary {contrib["Name"]}',
+                Download_URL=str(p.relative_to(self.cldf_dir)),
+                Media_Type='text/plain',
+            ))
 
         concepticon = {
             concept.attributes["wold_id"]: concept
@@ -442,6 +461,7 @@ class Dataset(Base):
             row["Local_ID"] = row["ID"]
             row["contact_situation"] = row["ContactSituation"]
             row["Comment"] = row.pop("other_comments")
+            row = {k: CONVERTER.get(k, lambda s: s)(v) for k, v in row.items()}
 
             lexemes = args.writer.add_forms_from_value(
                 **{k: v for k, v in row.items() if k in self.lexeme_class.fieldnames()}
@@ -465,6 +485,9 @@ class Dataset(Base):
             for r in self.raw_dir.joinpath("db").read_csv("languageidentifier.csv", dicts=True)
             if r["identifier_pk"] in codes
         }
+        for row in self.languages:
+            if row['Glottocode']:
+                glottocodes[row['Name']] = row['Glottocode']
 
         wids = [w["id"] for w in words.values()]
         for wid in wid2fid:
@@ -481,6 +504,8 @@ class Dataset(Base):
             for fid in wid2fid[twid]:
                 # The meaning-differentiated borrowing events.
                 count += 1
+                sourcel = languages[source_word["language_pk"]]
+                sourcegc = glottocodes.get(source_word["language_pk"]) or glottocodes.get(sourcel)
                 args.writer.objects["BorrowingTable"].append(
                     dict(
                         ID=str(count),
@@ -496,8 +521,8 @@ class Dataset(Base):
                             else source_word["name"]
                         ),
                         Source_meaning=source_word["description"] or None,
-                        Source_languoid=languages[source_word["language_pk"]],
-                        Source_languoid_glottocode=glottocodes.get(source_word["language_pk"]),
+                        Source_languoid=sourcel,
+                        Source_languoid_glottocode=sourcegc,
                         Source_relation=row["relation"],
                         Source_certain=row["certain"] == "t",
                     )
@@ -515,6 +540,19 @@ class Dataset(Base):
             "https://wold.clld.org/word/{Word_ID}"
         )
         args.writer.cldf.remove_columns("FormTable", "Cognacy")
+
+        t = args.writer.cldf.add_table(
+            'contributors.csv',
+            {
+                'name': 'ID',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
+            },
+            {
+                'name': 'Name',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
+            },
+            "address",
+        )
 
         t = args.writer.cldf.add_component(
             "ContributionTable",
@@ -536,6 +574,14 @@ class Dataset(Base):
                 "dc:description": "References the language for which this contribution provides "
                 "a vocabulary.",
             },
+            {
+                "name": "primary_contributors",
+                "separator": " ",
+            },
+            {
+                "name": "secondary_contributors",
+                "separator": " ",
+            },
         )
         t.common_props["dc:description"] = (
             "WOLD contributions are vocabularies (mini-dictionaries of about 1000-2000 entries) "
@@ -543,12 +589,11 @@ class Dataset(Base):
             "Descriptions of how these vocabularies coded the data can be found in the "
             "[descriptions](descriptions/) directory."
         )
-        args.writer.cldf["ContributionTable", "description"].valueUrl = URITemplate(
-            "./descriptions/vocabulary_{ID}.md"
-        )
-        args.writer.cldf["ContributionTable", "description"].common_props[
-            "dc:format"
-        ] = "text/markdown"
+        args.writer.cldf["ContributionTable", "description"].propertyUrl = URITemplate(
+            "http://cldf.clld.org/v1.0/terms.rdf#mediaReference")
+        #args.writer.cldf["ContributionTable", "description"].common_props[
+        #    "dc:format"
+        #] = "text/markdown"
         args.writer.cldf["ContributionTable", "id"].common_props["dc:description"] = (
             "The vocabulary ID number corresponds to the ordering to the chapters on the book "
             "Loanwords in the World's Languages. Languages are listed in rough geographical order "
@@ -565,6 +610,8 @@ class Dataset(Base):
             "book Loanwords in the World's Languages."
         )
         t.add_foreign_key("Language_ID", "languages.csv", "ID")
+        t.add_foreign_key("Description", "media.csv", "ID")
+        args.writer.cldf.add_component('MediaTable')
 
         t = args.writer.cldf.add_component(
             "BorrowingTable",

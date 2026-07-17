@@ -127,19 +127,19 @@ Word with a clear equivalent or counterpart in Spanish or which have been recogn
 
 ## Abbreviations
 
-ADJVZ    adjectivizer
-AGVZ      agentivizer
-COL       collective
-DIM        diminutive
-DIR        directional
-IMPRS   impersonal
-INT         intensifier
-IT            iterative
-LIG         ligature (sound or syllable which is added to connect morphemes)
-MOD       modal
-POT       potential
-PRIV      privative
-RDP      reduplication
-SUB      subordinator
-VBLZ     verbalizer
+- ADJVZ    adjectivizer
+- AGVZ      agentivizer
+- COL       collective
+- DIM        diminutive
+- DIR        directional
+- IMPRS   impersonal
+- INT         intensifier
+- IT            iterative
+- LIG         ligature (sound or syllable which is added to connect morphemes)
+- MOD       modal
+- POT       potential
+- PRIV      privative
+- RDP      reduplication
+- SUB      subordinator
+- VBLZ     verbalizer
 

@@ -137,46 +137,42 @@ insertion	present only since contact
 
 ## Abbreviations
 
-ABL2	Old Ablative (synchronically, an adverbial marker)
-DIM	diminutive
-FACT	factitive
-FREQ	frequentative
-INFL	inflection
-LOC2	Old Locative (synchronically, an adverbial marker)
-MULTIPL	multiplicative
-SOC	sociative (instrumental/comitative)
-
-Further category labels used in morpheme-by-morpheme glosses:
-
-ABSTRACT	abstract or collective de-adjectival or de-nominal nominalization
-ACTION	action or product de-verbal nominalization
-ADDITIVE	additive numeral connector
-ATTENUATIVE	attenuative
-COMPARATIVE	comparative
-DIRECTIVE	directive orientation, movement towards a localization
-DISTAL	distal deictic root
-EXTRAESSIVE	extraessive localization (‘outside’)
-INESSIVE	inessive localization (‘in’)
-INFERIOR	inferior localization (‘under’)
-INTERROGATIVE	interrogative root
-LOAN	loanword adaptation marker
-MIDDLE	middle, “mediopassive”
-NOUN	noun
-ORDINAL	ordinal
-PLAIN_DEICTIC	plain (non-specific) deictic root
-POSTERIOR	posterior localization (‘behind’)
-PREFIX	prefix with a hard-to-describe function
-PROXIMAL	proximal deictic root
-REDUPLICATION	reduplicating morpheme
-ROOT	semi-analyzable root
-SPECIFIC_DEICTIC	specific deictic root
-STATIVE	stative orientation
-SUFFIX	suffix with a hard-to-describe function
-SUPERIOR	superior localization (‘above’)
-VERB	verb; verb-deriving marker
-
-Further abbreviations:
-
-SR	Selice Romani
-ER	Early Romani
+- ABL2	Old Ablative (synchronically, an adverbial marker)
+- DIM	diminutive
+- FACT	factitive
+- FREQ	frequentative
+- INFL	inflection
+- LOC2	Old Locative (synchronically, an adverbial marker)
+- MULTIPL	multiplicative
+- SOC	sociative (instrumental/comitative)
+- Further category labels used in morpheme-by-morpheme glosses:
+- ABSTRACT	abstract or collective de-adjectival or de-nominal nominalization
+- ACTION	action or product de-verbal nominalization
+- ADDITIVE	additive numeral connector
+- ATTENUATIVE	attenuative
+- COMPARATIVE	comparative
+- DIRECTIVE	directive orientation, movement towards a localization
+- DISTAL	distal deictic root
+- EXTRAESSIVE	extraessive localization (‘outside’)
+- INESSIVE	inessive localization (‘in’)
+- INFERIOR	inferior localization (‘under’)
+- INTERROGATIVE	interrogative root
+- LOAN	loanword adaptation marker
+- MIDDLE	middle, “mediopassive”
+- NOUN	noun
+- ORDINAL	ordinal
+- PLAIN_DEICTIC	plain (non-specific) deictic root
+- POSTERIOR	posterior localization (‘behind’)
+- PREFIX	prefix with a hard-to-describe function
+- PROXIMAL	proximal deictic root
+- REDUPLICATION	reduplicating morpheme
+- ROOT	semi-analyzable root
+- SPECIFIC_DEICTIC	specific deictic root
+- STATIVE	stative orientation
+- SUFFIX	suffix with a hard-to-describe function
+- SUPERIOR	superior localization (‘above’)
+- VERB	verb; verb-deriving marker
+- Further abbreviations:
+- SR	Selice Romani
+- ER	Early Romani
 

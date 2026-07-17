@@ -88,5 +88,5 @@ In my Hmongic reconstructions, tone categories are indicated by the letters “A
 
 ## Abbreviations
 
-INTSFR Intensifier
+- INTSFR Intensifier
 

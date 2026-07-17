@@ -3,16 +3,16 @@
     "access_right": "open",
     "contributors": [
         {
-            "name": "Tiago Tresoldi",
-            "type": "Other"
-        },
-        {
             "name": "Robert Forkel",
             "type": "Editor"
         },
         {
             "name": "Johann-Mattis List",
             "type": "Editor"
+        },
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
         },
         {
             "name": "Natalia Morozova",
